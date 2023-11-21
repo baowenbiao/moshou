@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# moshou
-魔兽攻略
-=======
 # 魔兽
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -42,4 +38,3 @@ npm run dev
 ```sh
 npm run build
 ```
->>>>>>> 4bd47e0 (update)
