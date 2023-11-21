@@ -1,0 +1,341 @@
+[
+    {
+        "id": 8613,
+        "name": "@剥皮",
+        "name_en": "Skinning",
+        "icon": "inv_misc_pelt_wolf_01",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 10,
+        "skill": [
+            393
+        ],
+        "reagents": [],
+        "source": [
+            6
+        ],
+        "colors": null,
+        "rank": "初级",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_pelt_wolf_01.jpg",
+        "tip": {
+            "name_zhcn": "奥奇",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">奥奇</b></td></tr><tr><td>等级 26 人型生物 (普通)</td></tr></table>",
+            "map": {}
+        }
+    },
+    {
+        "id": 8617,
+        "name": "@剥皮",
+        "name_en": "Skinning",
+        "icon": "inv_misc_pelt_wolf_01",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 500,
+        "skill": [
+            393
+        ],
+        "reagents": [],
+        "source": [
+            6
+        ],
+        "learnedat": 50,
+        "colors": null,
+        "rank": "中级",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_pelt_wolf_01.jpg",
+        "tip": {
+            "name_zhcn": "萨拉辛",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">萨拉辛</b></td></tr><tr><td>等级 45 人型生物 (普通)</td></tr></table>",
+            "map": {
+                "zone": 440,
+                "coords": {
+                    "0": [
+                        [
+                            67.7,
+                            32.2
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 8618,
+        "name": "@剥皮",
+        "name_en": "Skinning",
+        "icon": "inv_misc_pelt_wolf_01",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 5000,
+        "skill": [
+            393
+        ],
+        "reagents": [],
+        "source": [
+            6
+        ],
+        "learnedat": 125,
+        "colors": null,
+        "rank": "高级",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_pelt_wolf_01.jpg",
+        "tip": {
+            "name_zhcn": "部落需要更多熔火之石！",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b class=\"q\">部落需要更多熔火之石！</b></td><th><b class=\"q0\">等级60</b></th></tr></table></td></tr></table><table><tr><td><br /><br /><br /><span class=\"q\">要求：</span><br /> -  x 50</td></tr></table>"
+        }
+    },
+    {
+        "id": 10768,
+        "name": "@剥皮",
+        "name_en": "Skinning",
+        "icon": "inv_misc_pelt_wolf_01",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 50000,
+        "skill": [
+            393
+        ],
+        "reagents": [],
+        "source": [
+            6
+        ],
+        "learnedat": 200,
+        "colors": null,
+        "rank": "专家级",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_pelt_wolf_01.jpg",
+        "tip": {
+            "name_zhcn": "野猪人勇士腰带",
+            "quality": 3,
+            "icon": "inv_belt_11",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">野猪人勇士腰带</b><span class='cus-id-2-right'>ID: 10768</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>腰部</td><th><!--asc3-->锁甲</th></tr></table><span><!--amr-->147点护甲</span><br /><span><!--stat4-->+15 力量</span><br /><span><!--stat7-->+6 耐力</span><br /><!--e--><!--ps-->耐久度 40 / 40<br />需要等级 37<br />物品等级42<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">45</span> <span class=\"moneycopper\">41</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?10768:1:1:37-->"
+        }
+    },
+    {
+        "id": 32678,
+        "name": "@剥皮",
+        "name_en": "Skinning",
+        "icon": "inv_misc_pelt_wolf_01",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 100000,
+        "skill": [
+            393
+        ],
+        "reagents": [],
+        "source": [
+            6
+        ],
+        "learnedat": 275,
+        "colors": null,
+        "rank": "大师级",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_pelt_wolf_01.jpg",
+        "tip": {
+            "name_zhcn": "能量枯竭的戒指",
+            "quality": 3,
+            "icon": "inv_jewelry_ring_08",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">能量枯竭的戒指</b><span class='cus-id-2-right'>ID: 32678</span><br /><span><!--stat5-->+10 智力</span><br /><!--e--><!--ps-->需要等级 70<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 爆击等级提高<!--rtg32-->15&nbsp;<small>(<!--rtg%32-->0.68%&nbsp;@&nbsp;L<!--lvl-->70)</small>。</span><br /><span class=\"q2\">装备： 法术强度提高31点。</span><br /><span class=\"q2\">使用： 在这件物品中注入50块埃匹希斯碎片的能量，以激活它真正的力量。</span><br /><span class=\"q1\">1次</span></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?32678:1:80:70-->"
+        }
+    },
+    {
+        "id": 50305,
+        "name": "@剥皮",
+        "name_en": "Skinning",
+        "icon": "inv_misc_pelt_wolf_01",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 350000,
+        "skill": [
+            393
+        ],
+        "reagents": [],
+        "source": [
+            6
+        ],
+        "learnedat": 350,
+        "colors": null,
+        "rank": "宗师级",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_pelt_wolf_01.jpg",
+        "tip": {
+            "name_zhcn": "狞笑之颅长靴",
+            "quality": 4,
+            "icon": "inv_boots_plate_11",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">狞笑之颅长靴</b><span class='cus-id-2-right'>ID: 50305</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>脚</td><th><!--asc4-->板甲</th></tr></table><span><!--amr-->1629点护甲</span><br /><span><!--stat4-->+102 力量</span><br /><span><!--stat7-->+102 耐力</span><br /><!--e--><!--ps-->耐久度 75 / 75<br />需要等级 80<br />物品等级232<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 爆击等级提高<!--rtg32-->64&nbsp;<small>(<!--rtg%32-->1.39%&nbsp;@&nbsp;L<!--lvl-->80)</small>。</span><br /><span class=\"q2\">装备： 使你的护甲穿透等级提高<!--rtg44-->52&nbsp;<small>(<!--rtg%44-->3.72%&nbsp;@&nbsp;L<!--lvl-->80)</small>。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">11</span> <span class=\"moneysilver\">79</span> <span class=\"moneycopper\">84</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?50305:1:80:80-->"
+        }
+    },
+    {
+        "id": 53125,
+        "name": "@解剖大师",
+        "name_en": "Master of Anatomy",
+        "icon": "inv_misc_organ_01",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 0,
+        "skill": [
+            393
+        ],
+        "reagents": [],
+        "source": [],
+        "learnedat": 75,
+        "colors": null,
+        "rank": "等级 1",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_organ_01.jpg",
+        "tip": {
+            "name_zhcn": "天启降临之靴",
+            "quality": 4,
+            "icon": "inv_boots_plate_12",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">天启降临之靴</b><span class='cus-id-2-right'>ID: 53125</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>脚</td><th><!--asc4-->板甲</th></tr></table><span><!--amr-->1858点护甲</span><br /><span><!--stat4-->+146 力量</span><br /><span><!--stat7-->+146 耐力</span><br /><!--e--><span class=\"socket-red q0\" >红色插槽</span><br /><span class=\"socket-red q0\" >红色插槽</span><br /><!--ps--><span class=\"q0\">镶孔奖励：<a href=\"?enchantment=3357\">+6 力量</a></span><br />耐久度 75 / 75<br />需要等级 80<br />物品等级271<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 爆击等级提高<!--rtg32-->86&nbsp;<small>(<!--rtg%32-->1.87%&nbsp;@&nbsp;L<!--lvl-->80)</small>。</span><br /><span class=\"q2\">装备： 命中等级提高<!--rtg31-->70&nbsp;<small>(<!--rtg%31-->2.13%&nbsp;@&nbsp;L<!--lvl-->80)</small>。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">13</span> <span class=\"moneysilver\">79</span> <span class=\"moneycopper\">88</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?53125:1:80:80-->"
+        }
+    },
+    {
+        "id": 53662,
+        "name": "@解剖大师",
+        "name_en": "Master of Anatomy",
+        "icon": "inv_misc_organ_01",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 0,
+        "skill": [
+            393
+        ],
+        "reagents": [],
+        "source": [],
+        "learnedat": 150,
+        "colors": null,
+        "rank": "等级 2",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_organ_01.jpg",
+        "tip": {
+            "name_zhcn": "解剖大师",
+            "icon": "inv_misc_organ_01",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>解剖大师</b></td><th><b class=\"q0\">等级 2</b></th></tr></table>瞬发</td></tr></table><table><tr><td><span class=\"q\">由于长年从死去的动物身上剥皮，你积累了非常丰富的解剖学知识，爆击等级提高<!--rtg32-->6&nbsp;<small>(<!--rtg%32-->0.13%&nbsp;@&nbsp;L<!--lvl-->80)</small>。</span></td></tr></table><!--?53662:1:80:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 53663,
+        "name": "@解剖大师",
+        "name_en": "Master of Anatomy",
+        "icon": "inv_misc_organ_01",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 0,
+        "skill": [
+            393
+        ],
+        "reagents": [],
+        "source": [],
+        "learnedat": 225,
+        "colors": null,
+        "rank": "等级 3",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_organ_01.jpg",
+        "tip": {
+            "name_zhcn": "解剖大师",
+            "icon": "inv_misc_organ_01",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>解剖大师</b></td><th><b class=\"q0\">等级 3</b></th></tr></table>瞬发</td></tr></table><table><tr><td><span class=\"q\">由于长年从死去的动物身上剥皮，你积累了非常丰富的解剖学知识，爆击等级提高<!--rtg32-->9&nbsp;<small>(<!--rtg%32-->0.20%&nbsp;@&nbsp;L<!--lvl-->80)</small>。</span></td></tr></table><!--?53663:1:80:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 53664,
+        "name": "@解剖大师",
+        "name_en": "Master of Anatomy",
+        "icon": "inv_misc_organ_01",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 0,
+        "skill": [
+            393
+        ],
+        "reagents": [],
+        "source": [],
+        "learnedat": 300,
+        "colors": null,
+        "rank": "等级 4",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_organ_01.jpg",
+        "tip": {
+            "name_zhcn": "解剖大师",
+            "icon": "inv_misc_organ_01",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>解剖大师</b></td><th><b class=\"q0\">等级 4</b></th></tr></table>瞬发</td></tr></table><table><tr><td><span class=\"q\">由于长年从死去的动物身上剥皮，你积累了非常丰富的解剖学知识，爆击等级提高<!--rtg32-->12&nbsp;<small>(<!--rtg%32-->0.26%&nbsp;@&nbsp;L<!--lvl-->80)</small>。</span></td></tr></table><!--?53664:1:80:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 53665,
+        "name": "@解剖大师",
+        "name_en": "Master of Anatomy",
+        "icon": "inv_misc_organ_01",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 0,
+        "skill": [
+            393
+        ],
+        "reagents": [],
+        "source": [],
+        "learnedat": 375,
+        "colors": null,
+        "rank": "等级 5",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_organ_01.jpg",
+        "tip": {
+            "name_zhcn": "解剖大师",
+            "icon": "inv_misc_organ_01",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>解剖大师</b></td><th><b class=\"q0\">等级 5</b></th></tr></table>瞬发</td></tr></table><table><tr><td><span class=\"q\">由于长年从死去的动物身上剥皮，你积累了非常丰富的解剖学知识，爆击等级提高<!--rtg32-->20&nbsp;<small>(<!--rtg%32-->0.44%&nbsp;@&nbsp;L<!--lvl-->80)</small>。</span></td></tr></table><!--?53665:1:80:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 53666,
+        "name": "@解剖大师",
+        "name_en": "Master of Anatomy",
+        "icon": "inv_misc_organ_01",
+        "level": 55,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 0,
+        "skill": [
+            393
+        ],
+        "reagents": [],
+        "source": [],
+        "learnedat": 450,
+        "colors": null,
+        "rank": "等级 6",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_organ_01.jpg",
+        "tip": {
+            "name_zhcn": "解剖大师",
+            "icon": "inv_misc_organ_01",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>解剖大师</b></td><th><b class=\"q0\">等级 6</b></th></tr></table>瞬发</td></tr></table><table><tr><td><span class=\"q\">由于长年从死去的动物身上剥皮，你积累了非常丰富的解剖学知识，爆击等级提高<!--rtg32-->40&nbsp;<small>(<!--rtg%32-->0.87%&nbsp;@&nbsp;L<!--lvl-->80)</small>。</span></td></tr></table><!--?53666:1:80:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "",
+            "buffspells_zhcn": []
+        }
+    }
+]

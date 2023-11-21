@@ -1,0 +1,1159 @@
+[
+    {
+        "id": -264,
+        "idbak": 891,
+        "name": "3安卡哈猎血战甲",
+        "name_en": "Ahn'Kahar Blood Hunter's Battlegear",
+        "minlevel": 277,
+        "maxlevel": 277,
+        "note": 29,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            51286,
+            51288,
+            51287,
+            51285,
+            51289
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "安卡哈猎血战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">安卡哈猎血战甲</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />T10副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>你的自动射击有5%的几率使你和你的宠物造成15%的额外伤害，持续10 秒。<br /><span class=\"q13\">4 件：</span>当你的毒蛇钉刺和翼龙钉刺造成伤害时，你有5%的几率获得20%的攻击强度加成，持续10 秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -91,
+        "idbak": 772,
+        "name": "3角斗士的猎装",
+        "name_en": "Gladiator's Pursuit",
+        "minlevel": 270,
+        "maxlevel": 270,
+        "note": 30,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            51460,
+            51462,
+            51461,
+            51459,
+            51458
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的猎装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的猎装</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />竞技场第8季套装<br /><span><br /><span class=\"q13\">2 件：</span>攻击强度提高50点。<br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>陷阱的冷却时间缩短2秒。<br /><span class=\"q13\">4 件：</span>攻击强度提高150点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -263,
+        "idbak": 891,
+        "name": "3安卡哈猎血战甲",
+        "name_en": "Ahn'Kahar Blood Hunter's Battlegear",
+        "minlevel": 264,
+        "maxlevel": 264,
+        "note": 29,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            51153,
+            51151,
+            51152,
+            51154,
+            51150
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "安卡哈猎血战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">安卡哈猎血战甲</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />T10副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的自动射击有5%的几率使你和你的宠物造成15%的额外伤害，持续10 秒。<br /><span class=\"q13\">4 件：</span>当你的毒蛇钉刺和翼龙钉刺造成伤害时，你有5%的几率获得20%的攻击强度加成，持续10 秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -204,
+        "idbak": 859,
+        "name": "3风行者的战甲",
+        "name_en": "Windrunner's Battlegear",
+        "minlevel": 258,
+        "maxlevel": 258,
+        "note": 27,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            48262,
+            48260,
+            48261,
+            48263,
+            48264
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "风行者的战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">风行者的战甲</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />T9副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>你的毒蛇钉刺技能现在可以爆击了。<br /><span class=\"q13\">4 件：</span>每当你的远程攻击击中目标，就有一定几率使你的宠物获得600点攻击强度，持续15 秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -206,
+        "idbak": 860,
+        "name": "3风行者的猎装",
+        "name_en": "Windrunner's Pursuit",
+        "minlevel": 258,
+        "maxlevel": 258,
+        "note": 27,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            48267,
+            48269,
+            48268,
+            48266,
+            48265
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "风行者的猎装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">风行者的猎装</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />T9副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>你的毒蛇钉刺技能现在可以爆击了。<br /><span class=\"q13\">4 件：</span>每当你的远程攻击击中目标，就有一定几率使你的宠物获得600点攻击强度，持续15 秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -90,
+        "idbak": 772,
+        "name": "3角斗士的猎装",
+        "name_en": "Gladiator's Pursuit",
+        "minlevel": 251,
+        "maxlevel": 251,
+        "note": 28,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            41158,
+            41218,
+            41206,
+            41144,
+            41088
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的猎装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的猎装</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />竞技场第7季套装<br /><span><br /><span class=\"q13\">2 件：</span>攻击强度提高50点。<br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>陷阱的冷却时间缩短2秒。<br /><span class=\"q13\">4 件：</span>攻击强度提高150点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 891,
+        "idbak": 891,
+        "name": "3安卡哈猎血战甲",
+        "name_en": "Ahn'Kahar Blood Hunter's Battlegear",
+        "minlevel": 251,
+        "maxlevel": 251,
+        "note": 29,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            50115,
+            50117,
+            50116,
+            50114,
+            50118
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "安卡哈猎血战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">安卡哈猎血战甲</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />T10副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的自动射击有5%的几率使你和你的宠物造成15%的额外伤害，持续10 秒。<br /><span class=\"q13\">4 件：</span>当你的毒蛇钉刺和翼龙钉刺造成伤害时，你有5%的几率获得20%的攻击强度加成，持续10 秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -203,
+        "idbak": 859,
+        "name": "3风行者的战甲",
+        "name_en": "Windrunner's Battlegear",
+        "minlevel": 245,
+        "maxlevel": 245,
+        "note": 27,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            48257,
+            48259,
+            48258,
+            48256,
+            48255
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "风行者的战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">风行者的战甲</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />T9副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的毒蛇钉刺技能现在可以爆击了。<br /><span class=\"q13\">4 件：</span>每当你的远程攻击击中目标，就有一定几率使你的宠物获得600点攻击强度，持续15 秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -205,
+        "idbak": 860,
+        "name": "3风行者的猎装",
+        "name_en": "Windrunner's Pursuit",
+        "minlevel": 245,
+        "maxlevel": 245,
+        "note": 27,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            48272,
+            48270,
+            48271,
+            48273,
+            48274
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "风行者的猎装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">风行者的猎装</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />T9副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的毒蛇钉刺技能现在可以爆击了。<br /><span class=\"q13\">4 件：</span>每当你的远程攻击击中目标，就有一定几率使你的宠物获得600点攻击强度，持续15 秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -89,
+        "idbak": 772,
+        "name": "3角斗士的猎装",
+        "name_en": "Gladiator's Pursuit",
+        "minlevel": 232,
+        "maxlevel": 232,
+        "note": 26,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            41157,
+            41217,
+            41205,
+            41143,
+            41087
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的猎装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的猎装</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />竞技场第6季套装<br /><span><br /><span class=\"q13\">2 件：</span>攻击强度提高50点。<br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>陷阱的冷却时间缩短2秒。<br /><span class=\"q13\">4 件：</span>攻击强度提高150点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 859,
+        "idbak": 859,
+        "name": "3风行者的战甲",
+        "name_en": "Windrunner's Battlegear",
+        "minlevel": 232,
+        "maxlevel": 232,
+        "note": 27,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            48250,
+            48253,
+            48252,
+            48254,
+            48251
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "优质布衬衣",
+            "quality": 1,
+            "icon": "inv_shirt_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">优质布衬衣</b><span class='cus-id-2-right'>ID: 859</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>衬衣</td></tr></table><!--e--><!--ps-->物品等级17<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">87</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?859:1:1:80-->"
+        }
+    },
+    {
+        "id": 860,
+        "idbak": 860,
+        "name": "3风行者的猎装",
+        "name_en": "Windrunner's Pursuit",
+        "minlevel": 232,
+        "maxlevel": 232,
+        "note": 27,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            48277,
+            48279,
+            48278,
+            48276,
+            48275
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "骑兵战靴",
+            "quality": 1,
+            "icon": "inv_boots_05",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">骑兵战靴</b><span class='cus-id-2-right'>ID: 860</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>脚</td><th><!--asc1-->布甲</th></tr></table><span><!--amr-->16点护甲</span><br /><!--e--><!--ps-->耐久度 25 / 25<br />物品等级13<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">89</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?860:1:1:80-->"
+        }
+    },
+    {
+        "id": -170,
+        "idbak": 838,
+        "name": "3天灾追猎者",
+        "name_en": "Scourgestalker Battlegear",
+        "minlevel": 226,
+        "maxlevel": 226,
+        "note": 25,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            46143,
+            46145,
+            46144,
+            46142,
+            46141
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "天灾追猎者",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">天灾追猎者</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />T8副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你的毒蛇钉刺造成的伤害提高10%。<br /><span class=\"q13\">4 件：</span>你的稳固射击有一定几率使你获得600点攻击强度加成，持续15 秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 838,
+        "idbak": 838,
+        "name": "3天灾追猎者",
+        "name_en": "Scourgestalker Battlegear",
+        "minlevel": 219,
+        "maxlevel": 219,
+        "note": 25,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            45361,
+            45363,
+            45362,
+            45360,
+            45364
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "重纹短裤",
+            "quality": 1,
+            "icon": "inv_pants_14",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">重纹短裤</b><span class='cus-id-2-right'>ID: 838</span><table width=\"100%\"><tr><td>腿部</td><th><!--asc1-->布甲</th></tr></table><span><!--amr-->25点护甲</span><br /><!--e--><!--ps-->耐久度 40 / 40<br />需要等级 12<br />物品等级17<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">2</span> <span class=\"moneycopper\">25</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?838:1:1:12-->"
+        }
+    },
+    {
+        "id": -88,
+        "idbak": 772,
+        "name": "3角斗士的猎装",
+        "name_en": "Gladiator's Pursuit",
+        "minlevel": 213,
+        "maxlevel": 213,
+        "note": 24,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            41156,
+            41216,
+            41204,
+            41142,
+            41086
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的猎装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的猎装</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />竞技场第5季套装<br /><span><br /><span class=\"q13\">2 件：</span>攻击强度提高50点。<br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>陷阱的冷却时间缩短2秒。<br /><span class=\"q13\">4 件：</span>攻击强度提高150点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -140,
+        "idbak": 794,
+        "name": "3地穴追猎者战甲",
+        "name_en": "Cryptstalker Battlegear",
+        "minlevel": 213,
+        "maxlevel": 213,
+        "note": 23,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            40505,
+            40507,
+            40506,
+            40504,
+            40503
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "地穴追猎者战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">地穴追猎者战甲</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />T7副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的宠物造成的伤害提高5%。<br /><span class=\"q13\">4 件：</span>当蝰蛇守护处于激活状态下时，你的远程攻击速度提高20%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 772,
+        "idbak": 772,
+        "name": "4角斗士的猎装",
+        "name_en": "Gladiator's Pursuit",
+        "minlevel": 200,
+        "maxlevel": 200,
+        "note": 24,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            41154,
+            41214,
+            41202,
+            41140,
+            41084
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "大蜡烛",
+            "quality": 1,
+            "icon": "inv_misc_candle_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">大蜡烛</b><span class='cus-id-2-right'>ID: 772</span><br /><!--bo-->任务物品<br /><!--e--><!--ps--></td></tr></table><table><tr><td></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?772:1:1:80-->"
+        }
+    },
+    {
+        "id": -87,
+        "idbak": 772,
+        "name": "3角斗士的猎装",
+        "name_en": "Gladiator's Pursuit",
+        "minlevel": 200,
+        "maxlevel": 200,
+        "note": 24,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            41155,
+            41215,
+            41203,
+            41141,
+            41085
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的猎装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的猎装</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />竞技场第5季套装<br /><span><br /><span class=\"q13\">2 件：</span>攻击强度提高50点。<br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>陷阱的冷却时间缩短2秒。<br /><span class=\"q13\">4 件：</span>攻击强度提高150点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 794,
+        "idbak": 794,
+        "name": "3地穴追猎者战甲",
+        "name_en": "Cryptstalker Battlegear",
+        "minlevel": 200,
+        "maxlevel": 200,
+        "note": 23,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            39578,
+            39581,
+            39580,
+            39582,
+            39579
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "针织短裤",
+            "quality": 1,
+            "icon": "inv_pants_11",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">针织短裤</b><span class='cus-id-2-right'>ID: 794</span><table width=\"100%\"><tr><td>腿部</td><th><!--asc1-->布甲</th></tr></table><span><!--amr-->16点护甲</span><br /><!--e--><!--ps-->耐久度 35 / 35<br />需要等级 5<br />物品等级10<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">56</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?794:1:1:5-->"
+        }
+    },
+    {
+        "id": -36,
+        "idbak": 586,
+        "name": "3角斗士的猎装",
+        "name_en": "Gladiator's Pursuit",
+        "minlevel": 159,
+        "maxlevel": 159,
+        "note": 22,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            34992,
+            34994,
+            34993,
+            34991,
+            34990
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的猎装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的猎装</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />竞技场第4季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的多重射击技能的冷却时间缩短1秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 669,
+        "idbak": 669,
+        "name": "3戈隆追猎者",
+        "name_en": "Gronnstalker's Armor",
+        "minlevel": 146,
+        "maxlevel": 154,
+        "note": 18,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            31003,
+            31006,
+            31005,
+            31001,
+            31004,
+            34549,
+            34570,
+            34443
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "戈隆追猎者",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">戈隆追猎者</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />T6副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你的蝰蛇守护所提供的法力值加成提高25%。<br /><span class=\"q13\">4 件：</span>使你的稳固射击所造成的伤害提高10%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -35,
+        "idbak": 586,
+        "name": "3角斗士的猎装",
+        "name_en": "Gladiator's Pursuit",
+        "minlevel": 146,
+        "maxlevel": 146,
+        "note": 20,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            33666,
+            33668,
+            33667,
+            33665,
+            33664
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的猎装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的猎装</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />竞技场第3季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的多重射击技能的冷却时间缩短1秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -34,
+        "idbak": 586,
+        "name": "3角斗士的猎装",
+        "name_en": "Gladiator's Pursuit",
+        "minlevel": 136,
+        "maxlevel": 136,
+        "note": 19,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            31962,
+            31964,
+            31963,
+            31961,
+            31960
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的猎装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的猎装</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />竞技场第2季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的多重射击技能的冷却时间缩短1秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 652,
+        "idbak": 652,
+        "name": "3裂隙追猎者",
+        "name_en": "Rift Stalker Armor",
+        "minlevel": 133,
+        "maxlevel": 133,
+        "note": 13,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            30141,
+            30143,
+            30142,
+            30140,
+            30139
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "裂隙追猎者",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">裂隙追猎者</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />T5副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的伤害法术会为你的宠物恢复生命值，数值相当于你所造成的伤害值的15%。<br /><span class=\"q13\">4 件：</span>你的稳固射击的爆击几率提高5%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 586,
+        "idbak": 586,
+        "name": "3角斗士的猎装",
+        "name_en": "Gladiator's Pursuit",
+        "minlevel": 123,
+        "maxlevel": 123,
+        "note": 17,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            28331,
+            28333,
+            28332,
+            28335,
+            28334
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的猎装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的猎装</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />竞技场第1季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的多重射击技能的冷却时间缩短1秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 651,
+        "idbak": 651,
+        "name": "3恶魔追猎者",
+        "name_en": "Demon Stalker Armor",
+        "minlevel": 120,
+        "maxlevel": 120,
+        "note": 12,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            29081,
+            29084,
+            29083,
+            29085,
+            29082
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "恶魔追猎者",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">恶魔追猎者</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />T4副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你的假死技能被抵抗的几率降低5%。<br /><span class=\"q13\">4 件：</span>使你的多重射击技能所消耗的法力值减少10点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 595,
+        "idbak": 595,
+        "name": "4大元帅的猎装",
+        "name_en": "Grand Marshal's Pursuit",
+        "minlevel": 115,
+        "maxlevel": 115,
+        "note": 16,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            28615,
+            28617,
+            28616,
+            28614,
+            28613
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "大元帅的猎装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">大元帅的猎装</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />70级PVP稀有套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的震荡射击的冷却时间缩短1秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 596,
+        "idbak": 596,
+        "name": "4高阶督军的猎装",
+        "name_en": "High Warlord's Pursuit",
+        "minlevel": 115,
+        "maxlevel": 115,
+        "note": 16,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            28807,
+            28809,
+            28808,
+            28806,
+            28805
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "高阶督军的猎装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">高阶督军的猎装</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />70级PVP稀有套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的震荡射击的冷却时间缩短1秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 749,
+        "idbak": 749,
+        "name": "4追猎者的锁甲",
+        "name_en": "Stalker's Chain Battlegear",
+        "minlevel": 115,
+        "maxlevel": 115,
+        "note": 21,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            35378,
+            35380,
+            35379,
+            35377,
+            35376
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "追猎者的锁甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">追猎者的锁甲</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />70级PVP稀有套装 2<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的震荡射击的冷却时间缩短1秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 509,
+        "idbak": 509,
+        "name": "3攻击者",
+        "name_en": "Striker's Garb",
+        "minlevel": 78,
+        "maxlevel": 88,
+        "note": 10,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            21365,
+            21366,
+            21367,
+            21368,
+            21370
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "攻击者",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">攻击者</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />安其拉神庙团本套装<br /><span><br /><span class=\"q13\">3 件：</span>使你的奥术射击的法力消耗降低10%。<br /><span class=\"q13\">5 件：</span>使你的急速射击技能的冷却时间缩短2分钟。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 215,
+        "idbak": 215,
+        "name": "3巨龙追猎者",
+        "name_en": "Dragonstalker Armor",
+        "minlevel": 76,
+        "maxlevel": 76,
+        "note": 4,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            16939,
+            16937,
+            16936,
+            16938,
+            16941,
+            16935,
+            16940,
+            16942
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "巨龙追猎者",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">巨龙追猎者</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />T2副本套装<br /><span><br /><span class=\"q13\">3 件：</span>使你的雄鹰守护所提供的远程攻击强度加成提高20%。<br /><span class=\"q13\">5 件：</span>使你的宠物的耐力提高40点，所有法术抗性提高60点。<br /><span class=\"q13\">8 件：</span>在你对目标造成远程攻击伤害时，有一定几率使其获得破甲虚弱效果。这个效果可以令所有远程攻击对该目标的攻击强度提高450点，持续7 秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 395,
+        "idbak": 395,
+        "name": "3元帅的猎装",
+        "name_en": "Field Marshal's Pursuit",
+        "minlevel": 71,
+        "maxlevel": 74,
+        "note": 8,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            16467,
+            16462,
+            16463,
+            16468,
+            16466
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "元帅的猎装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">元帅的猎装</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />60级PVP史诗套装<br /><span><br /><span class=\"q13\">2 件：</span>+20 耐力。<br /><span class=\"q13\">3 件：</span>使你的震荡射击的冷却时间缩短1秒。<br /><span class=\"q13\">6 件：</span>+20 敏捷。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 396,
+        "idbak": 396,
+        "name": "3督军的猎装",
+        "name_en": "Warlord's Pursuit",
+        "minlevel": 71,
+        "maxlevel": 74,
+        "note": 8,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            16567,
+            16569,
+            16571,
+            16566,
+            16565
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "督军的猎装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">督军的猎装</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />60级PVP史诗套装<br /><span><br /><span class=\"q13\">2 件：</span>+20 耐力。<br /><span class=\"q13\">3 件：</span>使你的震荡射击的冷却时间缩短1秒。<br /><span class=\"q13\">6 件：</span>+20 敏捷。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 543,
+        "idbak": 543,
+        "name": "4勇士的职责",
+        "name_en": "Champion's Pursuance",
+        "minlevel": 66,
+        "maxlevel": 71,
+        "note": 6,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            22843,
+            22862,
+            22875,
+            22874
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "勇士的职责",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">勇士的职责</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />60级PVP稀有套装<br /><span><br /><span class=\"q13\">2 件：</span>+20 敏捷。<br /><span class=\"q13\">4 件：</span>使你的震荡射击的冷却时间缩短1秒。<br /><span class=\"q13\">6 件：</span>+20 耐力。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 550,
+        "idbak": 550,
+        "name": "4少校的职责",
+        "name_en": "Lieutenant Commander's Pursuance",
+        "minlevel": 66,
+        "maxlevel": 71,
+        "note": 6,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            23278,
+            23279,
+            23293,
+            23292
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "少校的职责",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">少校的职责</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />60级PVP稀有套装<br /><span><br /><span class=\"q13\">2 件：</span>+20 敏捷。<br /><span class=\"q13\">4 件：</span>使你的震荡射击的冷却时间缩短1秒。<br /><span class=\"q13\">6 件：</span>+20 耐力。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 510,
+        "idbak": 510,
+        "name": "3隐秘的通途",
+        "name_en": "Trappings of the Unseen Path",
+        "minlevel": 65,
+        "maxlevel": 70,
+        "note": 9,
+        "type": 8,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            21402,
+            21403,
+            21401
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "隐秘的通途",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">隐秘的通途</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />安其拉废墟套装<br /><span><br /><span class=\"q13\">3 件：</span>使你的宠物的伤害提高3%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 477,
+        "idbak": 477,
+        "name": "3捕猎者套装",
+        "name_en": "Predator's Armor",
+        "minlevel": 61,
+        "maxlevel": 68,
+        "note": 11,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            19832,
+            19833,
+            19621,
+            19953,
+            19831
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "捕猎者套装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">捕猎者套装</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />祖尔格拉布套装<br /><span><br /><span class=\"q13\">2 件：</span>攻击强度提高20点。<br /><span class=\"q13\">3 件：</span>使你的震荡射击的冷却时间减少1秒。<br /><span class=\"q13\">5 件：</span>使毒蛇钉刺的效果持续时间提高3秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 206,
+        "idbak": 206,
+        "name": "3巨人追猎者",
+        "name_en": "Giantstalker Armor",
+        "minlevel": 66,
+        "maxlevel": 66,
+        "note": 3,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            16846,
+            16848,
+            16851,
+            16847,
+            16849,
+            16850,
+            16852,
+            16845
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "巨人追猎者",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">巨人追猎者</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />T1副本套装<br /><span><br /><span class=\"q13\">3 件：</span>使你的治疗宠物技能的施放距离增长50%，效果提高10%，法力值消耗降低30%。<br /><span class=\"q13\">5 件：</span>使你的宠物的耐力提高30点，所有法术抗性提高40点。<br /><span class=\"q13\">8 件：</span>多重射击和乱射所造成的伤害提高15%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 469,
+        "idbak": 469,
+        "name": "4高地人的果断",
+        "name_en": "The Highlander's Determination",
+        "minlevel": 63,
+        "maxlevel": 65,
+        "note": 15,
+        "type": 3,
+        "reqclass": 68,
+        "classes": [
+            3,
+            7
+        ],
+        "pieces": [
+            20043,
+            20050,
+            20055
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "高地人的果断",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">高地人的果断</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a>, <a href=\"?class=7\" class=\"c7\">萨满祭司</a><br />阿拉希盆地套装<br /><span><br /><span class=\"q13\">2 件：</span>+5 耐力。<br /><span class=\"q13\">3 件：</span>使你的爆击等级提高<!--rtg19-->14&nbsp;<small>(<!--rtg%19-->1.04%&nbsp;@&nbsp;L<!--lvl-->58)</small>。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 470,
+        "idbak": 470,
+        "name": "4高地人的坚韧",
+        "name_en": "The Highlander's Fortitude",
+        "minlevel": 63,
+        "maxlevel": 65,
+        "note": 15,
+        "type": 3,
+        "reqclass": 68,
+        "classes": [
+            3,
+            7
+        ],
+        "pieces": [
+            20044,
+            20051,
+            20056
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "高地人的坚韧",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">高地人的坚韧</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a>, <a href=\"?class=7\" class=\"c7\">萨满祭司</a><br />阿拉希盆地套装<br /><span><br /><span class=\"q13\">2 件：</span>+5 耐力。<br /><span class=\"q13\">3 件：</span>使你的爆击等级提高<!--rtg32-->14&nbsp;<small>(<!--rtg%32-->1.04%&nbsp;@&nbsp;L<!--lvl-->58)</small>。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 483,
+        "idbak": 483,
+        "name": "4污染者的果断",
+        "name_en": "The Defiler's Determination",
+        "minlevel": 63,
+        "maxlevel": 65,
+        "note": 15,
+        "type": 3,
+        "reqclass": 68,
+        "classes": [
+            3,
+            7
+        ],
+        "pieces": [
+            20150,
+            20154,
+            20158
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "污染者的果断",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">污染者的果断</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a>, <a href=\"?class=7\" class=\"c7\">萨满祭司</a><br />阿拉希盆地套装<br /><span><br /><span class=\"q13\">2 件：</span>+5 耐力。<br /><span class=\"q13\">3 件：</span>使你的爆击等级提高<!--rtg19-->14&nbsp;<small>(<!--rtg%19-->1.04%&nbsp;@&nbsp;L<!--lvl-->58)</small>。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 484,
+        "idbak": 484,
+        "name": "4污染者的坚韧",
+        "name_en": "The Defiler's Fortitude",
+        "minlevel": 63,
+        "maxlevel": 65,
+        "note": 15,
+        "type": 3,
+        "reqclass": 68,
+        "classes": [
+            3,
+            7
+        ],
+        "pieces": [
+            20195,
+            20199,
+            20203
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "污染者的坚韧",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">污染者的坚韧</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a>, <a href=\"?class=7\" class=\"c7\">萨满祭司</a><br />阿拉希盆地套装<br /><span><br /><span class=\"q13\">2 件：</span>+5 耐力。<br /><span class=\"q13\">3 件：</span>使你的爆击等级提高<!--rtg19-->14&nbsp;<small>(<!--rtg%19-->1.04%&nbsp;@&nbsp;L<!--lvl-->58)</small>。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 361,
+        "idbak": 361,
+        "name": "4勇士的猎装",
+        "name_en": "Champion's Pursuit",
+        "minlevel": 63,
+        "maxlevel": 63,
+        "note": 7,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            16526,
+            16528,
+            16527,
+            16531,
+            16530,
+            16525
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "勇士的猎装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">勇士的猎装</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />60级PVP稀有套装（旧）<br /><span><br /><span class=\"q13\">2 件：</span>招架等级提高<!--rtg14-->20&nbsp;<small>(<!--rtg%14-->1.51%&nbsp;@&nbsp;L<!--lvl-->58)</small>。<br /><span class=\"q13\">4 件：</span>使你的震荡射击的冷却时间缩短1秒。<br /><span class=\"q13\">6 件：</span>+15 耐力。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 362,
+        "idbak": 362,
+        "name": "4少校的猎装",
+        "name_en": "Lieutenant Commander's Pursuit",
+        "minlevel": 63,
+        "maxlevel": 63,
+        "note": 7,
+        "type": 3,
+        "reqclass": 4,
+        "classes": [
+            3
+        ],
+        "pieces": [
+            16428,
+            16427,
+            16426,
+            16401,
+            16403,
+            16425
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "少校的猎装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">少校的猎装</span><br />职业：<a href=\"?class=3\" class=\"c3\">猎人</a><br />60级PVP稀有套装（旧）<br /><span><br /><span class=\"q13\">2 件：</span>招架等级提高<!--rtg14-->20&nbsp;<small>(<!--rtg%14-->1.51%&nbsp;@&nbsp;L<!--lvl-->58)</small>。<br /><span class=\"q13\">4 件：</span>使你的震荡射击的冷却时间缩短1秒。<br /><span class=\"q13\">6 件：</span>+15 耐力。</span></td></tr></table>"
+        }
+    }
+]

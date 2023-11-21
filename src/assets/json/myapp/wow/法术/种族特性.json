@@ -1,0 +1,1808 @@
+[
+    {
+        "id": 822,
+        "name": "@魔法抗性",
+        "name_en": "Magic Resistance",
+        "icon": "spell_shadow_antimagicshell",
+        "level": 1,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            756
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqrace": 512,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_shadow_antimagicshell.jpg",
+        "tip": {
+            "name_zhcn": "庇护魔装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">庇护魔装</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T8副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的神圣震击的治疗爆击可以使目标获得一个持续性的治疗效果，在9 秒内恢复相当于该次神圣震击治疗量15%的生命值。<br /><span class=\"q13\">4 件：</span>你的圣洁护盾每4秒触发一次效果，而非6。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 2481,
+        "name": "@寻找财宝",
+        "name_en": "Find Treasure",
+        "icon": "racial_dwarf_findtreasure",
+        "level": 1,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            101
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "种族特长",
+        "reqrace": 4,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/racial_dwarf_findtreasure.jpg",
+        "tip": {
+            "name_zhcn": "苦工之剑",
+            "quality": 1,
+            "icon": "inv_sword_04",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">苦工之剑</b><span class='cus-id-2-right'>ID: 2481</span><table width=\"100%\"><tr><td>主手</td><th>剑</th></tr></table><!--e--><!--ps-->物品等级4<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">17</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?2481:1:1:80-->"
+        }
+    },
+    {
+        "id": 5227,
+        "name": "@水下呼吸",
+        "name_en": "Underwater Breathing",
+        "icon": "spell_shadow_demonbreath",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            220
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqrace": 16,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_shadow_demonbreath.jpg",
+        "tip": {
+            "name_zhcn": "盖罗恩农场的瘟疫之锅",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b class=\"q\">盖罗恩农场的瘟疫之锅</b></td><th><b class=\"q0\">等级58</b></th></tr></table></td></tr></table><table><tr><td><br /><br /><br /><span class=\"q\">要求：</span><br /> - 奥术催化剂<br /> - 外膜震荡体 x 4<br /> - 符文布 x 4</td></tr></table>"
+        }
+    },
+    {
+        "id": 6562,
+        "name": "@英雄灵气",
+        "name_en": "Heroic Presence",
+        "icon": "inv_helmet_21",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            760
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqclass": 39,
+        "reqrace": 1024,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_helmet_21.jpg",
+        "tip": {
+            "name_zhcn": "幻光战靴",
+            "quality": 2,
+            "icon": "inv_boots_05",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">幻光战靴</b><span class='cus-id-2-right'>ID: 6562</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>脚</td><th><!--asc1-->布甲</th></tr></table><span><!--amr-->24点护甲</span><br /><span class=\"q2\">&lt;随机附魔&gt</span><br /><!--e--><!--ps-->耐久度 30 / 30<br />需要等级 16<br />物品等级21<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">5</span> <span class=\"moneycopper\">8</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?6562:1:1:16-->"
+        }
+    },
+    {
+        "id": 7744,
+        "name": "@被遗忘者的意志",
+        "name_en": "Will of the Forsaken",
+        "icon": "spell_shadow_raisedead",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            220
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "种族特长",
+        "reqrace": 16,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_shadow_raisedead.jpg",
+        "tip": {
+            "name_zhcn": "旅店老板苏弗拉姆",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">旅店老板苏弗拉姆</b></td></tr><tr><td>旅店老板</td></tr><tr><td>等级 30 人型生物 (普通)</td></tr></table>",
+            "map": {
+                "zone": 47,
+                "coords": {
+                    "0": [
+                        [
+                            14.1,
+                            41.6
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 20549,
+        "name": "@战争践踏",
+        "name_en": "War Stomp",
+        "icon": "ability_warstomp",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            124
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "种族特长",
+        "reqrace": 32,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/ability_warstomp.jpg",
+        "tip": {
+            "name_zhcn": "黑暗符文护手",
+            "quality": 3,
+            "icon": "inv_gauntlets_27",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">黑暗符文护手</b><span class='cus-id-2-right'>ID: 20549</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>手</td><th><!--asc4-->板甲</th></tr></table><span><!--amr-->410点护甲</span><br /><span><!--stat7-->+8 耐力</span><br />+20 暗影抗性<br /><!--e--><!--ps-->耐久度 45 / 45<br />需要等级 58<br />物品等级63<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 使你的格挡等级提高<!--rtg15-->10&nbsp;<small>(<!--rtg%15-->2.08%&nbsp;@&nbsp;L<!--lvl-->58)</small>。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">1</span> <span class=\"moneysilver\">81</span> <span class=\"moneycopper\">92</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?20549:1:80:58-->"
+        }
+    },
+    {
+        "id": 20550,
+        "name": "@耐久",
+        "name_en": "Endurance",
+        "icon": "spell_nature_unyeildingstamina",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            124
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqrace": 32,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_nature_unyeildingstamina.jpg",
+        "tip": {
+            "name_zhcn": "黑暗符文胸甲",
+            "quality": 3,
+            "icon": "inv_chest_plate06",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">黑暗符文胸甲</b><span class='cus-id-2-right'>ID: 20550</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>胸部</td><th><!--asc4-->板甲</th></tr></table><span><!--amr-->657点护甲</span><br /><span><!--stat7-->+14 耐力</span><br />+25 暗影抗性<br /><!--e--><!--ps-->耐久度 135 / 135<br />需要等级 58<br />物品等级63<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 使你的躲闪等级提高<!--rtg13-->12&nbsp;<small>(<!--rtg%13-->0.90%&nbsp;@&nbsp;L<!--lvl-->58)</small>。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">3</span> <span class=\"moneysilver\">63</span> <span class=\"moneycopper\">8</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?20550:1:80:58-->"
+        }
+    },
+    {
+        "id": 20551,
+        "name": "@自然抗性",
+        "name_en": "Nature Resistance",
+        "icon": "spell_nature_spiritarmor",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            124
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqrace": 32,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_nature_spiritarmor.jpg",
+        "tip": {
+            "name_zhcn": "黑暗符文头盔",
+            "quality": 3,
+            "icon": "inv_helmet_10",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">黑暗符文头盔</b><span class='cus-id-2-right'>ID: 20551</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>头部</td><th><!--asc4-->板甲</th></tr></table><span><!--amr-->534点护甲</span><br /><span><!--stat7-->+13 耐力</span><br />+25 暗影抗性<br /><!--e--><!--ps-->耐久度 80 / 80<br />需要等级 58<br />物品等级63<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 使你的爆击等级提高<!--rtg32-->14&nbsp;<small>(<!--rtg%32-->1.04%&nbsp;@&nbsp;L<!--lvl-->58)</small>。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">2</span> <span class=\"moneysilver\">72</span> <span class=\"moneycopper\">79</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?20551:1:80:58-->"
+        }
+    },
+    {
+        "id": 20552,
+        "name": "@栽培",
+        "name_en": "Cultivation",
+        "icon": "inv_misc_flower_01",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            124
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqrace": 32,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_flower_01.jpg",
+        "tip": {
+            "name_zhcn": "破译的暮光文件",
+            "quality": 1,
+            "icon": "inv_misc_note_05",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">破译的暮光文件</b><span class='cus-id-2-right'>ID: 20552</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q\">\"一篇被破译的《真正的信徒》上的文章。\"</span><br /><span class=\"q2\">&lt;右键点击阅读&gt</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">5</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?20552:1:1:80-->"
+        }
+    },
+    {
+        "id": 20555,
+        "name": "@再生",
+        "name_en": "Regeneration",
+        "icon": "spell_nature_regenerate",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            733
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqrace": 128,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_nature_regenerate.jpg",
+        "tip": {
+            "name_zhcn": "设计图：黑暗符文头盔",
+            "quality": 3,
+            "icon": "inv_scroll_05",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">设计图：黑暗符文头盔</b><span class='cus-id-2-right'>ID: 20555</span><br /><!--e--><!--ps-->需要<a class=\"q1\" href=\"?skill=164\">锻造</a> (300)<br /></td></tr></table><table><tr><td><span class=\"q2\">使用：  <a href=\"?spell=24913\">教你学会制作黑暗符文头盔。</a></span><br /><span class=\"q1\">1次</span><br /><div><br /><span class=\"q3\"><a href=\"?item=20551\">黑暗符文头盔</a></span><span class='cus-id-2-right'>ID: 20551</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>头部</td><th><!--asc4-->板甲</th></tr></table><span><!--amr-->534点护甲</span><br /><span><!--stat7-->+13 耐力</span><br />+25 暗影抗性<br /><!--e--><!--ps-->耐久度 80 / 80<br />需要等级 58<br />物品等级63<br /><span class=\"q2\">装备： 使你的爆击等级提高<!--rtg32-->14&nbsp;<small>(<!--rtg%32-->1.04%&nbsp;@&nbsp;L<!--lvl-->58)</small>。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">2</span> <span class=\"moneysilver\">72</span> <span class=\"moneycopper\">79</span></div><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?20555:1:80:58--></div><div class=\"q1 whtt-reagents\"><br />需要 <a href=\"?item=20520\">黑暗符文</a> (8), <a href=\"?item=6037\">真银锭</a> (8), <a href=\"?item=11754\">黑钻石</a> (1), <a href=\"?item=12359\">瑟银锭</a> (16)</div><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">1</span> <span class=\"moneysilver\">50</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table>"
+        }
+    },
+    {
+        "id": 20557,
+        "name": "@野兽杀手",
+        "name_en": "Beast Slaying",
+        "icon": "inv_misc_pelt_bear_ruin_02",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            733
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqrace": 128,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_pelt_bear_ruin_02.jpg",
+        "tip": {
+            "name_zhcn": "万圣节南瓜糖",
+            "quality": 1,
+            "icon": "inv_misc_food_59",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">万圣节南瓜糖</b><span class='cus-id-2-right'>ID: 20557</span><br /><!--bo-->拾取后绑定<br />持续时间：2 周 (real time)<br /><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">使用： 享受美味的糖果吧！最好在它们变质之前吃掉…… (1 分钟冷却时间)</span><br /><span class=\"q1\">1次</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">1</span> <span class=\"moneycopper\">75</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?20557:1:1:80-->"
+        }
+    },
+    {
+        "id": 20558,
+        "name": "@投掷专精",
+        "name_en": "Throwing Specialization",
+        "icon": "inv_throwingaxe_03",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            733
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqrace": 128,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_throwingaxe_03.jpg",
+        "tip": {
+            "name_zhcn": "战歌峡谷荣誉奖章",
+            "quality": 2,
+            "icon": "inv_misc_rune_07",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">战歌峡谷荣誉奖章</b><span class='cus-id-2-right'>ID: 20558</span><br /><!--bo-->拾取后绑定<br /><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q\">\"为表彰在战歌峡谷中作战而颁发的奖章\"</span></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?20558:1:1:80-->"
+        }
+    },
+    {
+        "id": 20572,
+        "name": "@血性狂怒",
+        "name_en": "Blood Fury",
+        "icon": "racial_orc_berserkerstrength",
+        "level": 1,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            125
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "种族特长",
+        "reqclass": 45,
+        "reqrace": 2,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/racial_orc_berserkerstrength.jpg",
+        "tip": {
+            "name_zhcn": "男性牛头人面具",
+            "quality": 1,
+            "icon": "inv_misc_head_tauren_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">男性牛头人面具</b><span class='cus-id-2-right'>ID: 20572</span><br /><!--bo-->拾取后绑定<br />持续时间：1 周 (real time)<table width=\"100%\"><tr><td>头部</td></tr></table><!--e--><!--ps-->物品等级1<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">1</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?20572:1:1:80-->"
+        }
+    },
+    {
+        "id": 20573,
+        "name": "@坚韧",
+        "name_en": "Hardiness",
+        "icon": "inv_helmet_23",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            125
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqrace": 2,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_helmet_23.jpg",
+        "tip": {
+            "name_zhcn": "男性亡灵面具",
+            "quality": 1,
+            "icon": "inv_misc_head_undead_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">男性亡灵面具</b><span class='cus-id-2-right'>ID: 20573</span><br /><!--bo-->拾取后绑定<br />持续时间：1 周 (real time)<table width=\"100%\"><tr><td>头部</td></tr></table><!--e--><!--ps-->物品等级1<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">1</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?20573:1:1:80-->"
+        }
+    },
+    {
+        "id": 20574,
+        "name": "@斧专精",
+        "name_en": "Axe Specialization",
+        "icon": "inv_axe_02",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            125
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqrace": 2,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_axe_02.jpg",
+        "tip": {
+            "name_zhcn": "女性亡灵面具",
+            "quality": 1,
+            "icon": "inv_misc_head_undead_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">女性亡灵面具</b><span class='cus-id-2-right'>ID: 20574</span><br /><!--bo-->拾取后绑定<br />持续时间：1 周 (real time)<table width=\"100%\"><tr><td>头部</td></tr></table><!--e--><!--ps-->物品等级1<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">1</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?20574:1:1:80-->"
+        }
+    },
+    {
+        "id": 20575,
+        "name": "@命令",
+        "name_en": "Command",
+        "icon": "ability_warrior_warcry",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            125
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqclass": 256,
+        "reqrace": 2,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/ability_warrior_warcry.jpg",
+        "tip": {
+            "name_zhcn": "黑色雏龙外衣",
+            "quality": 2,
+            "icon": "inv_chest_cloth_45",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">黑色雏龙外衣</b><span class='cus-id-2-right'>ID: 20575</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>胸部</td><th><!--asc2-->皮甲</th></tr></table><span><!--amr-->78点护甲</span><br /><span><!--stat3-->+3 敏捷</span><br /><!--e--><!--ps-->耐久度 70 / 70<br />需要等级 15<br />物品等级20<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 命中等级提高<!--rtg31-->5&nbsp;<small>(<!--rtg%31-->3.71%&nbsp;@&nbsp;L<!--lvl-->15)</small>。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">7</span> <span class=\"moneycopper\">43</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?20575:1:80:15-->"
+        }
+    },
+    {
+        "id": 20576,
+        "name": "@命令",
+        "name_en": "Command",
+        "icon": "ability_warrior_warcry",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            125
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqclass": 4,
+        "reqrace": 2,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/ability_warrior_warcry.jpg",
+        "tip": {
+            "name_zhcn": "图样：黑色雏龙外衣",
+            "quality": 1,
+            "icon": "inv_scroll_03",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">图样：黑色雏龙外衣</b><span class='cus-id-2-right'>ID: 20576</span><br /><!--e--><!--ps-->需要<a class=\"q1\" href=\"?skill=165\">制皮</a> (100)<br /></td></tr></table><table><tr><td><span class=\"q2\">使用：  <a href=\"?spell=24940\">教你学会制作黑色雏龙外衣。</a></span><br /><span class=\"q1\">1次</span><br /><div><br /><span class=\"q2\"><a href=\"?item=20575\">黑色雏龙外衣</a></span><span class='cus-id-2-right'>ID: 20575</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>胸部</td><th><!--asc2-->皮甲</th></tr></table><span><!--amr-->78点护甲</span><br /><span><!--stat3-->+3 敏捷</span><br /><!--e--><!--ps-->耐久度 70 / 70<br />需要等级 15<br />物品等级20<br /><span class=\"q2\">装备： 命中等级提高<!--rtg31-->5&nbsp;<small>(<!--rtg%31-->3.71%&nbsp;@&nbsp;L<!--lvl-->15)</small>。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">7</span> <span class=\"moneycopper\">43</span></div><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?20576:1:80:15--></div><div class=\"q1 whtt-reagents\"><br />需要 <a href=\"?item=2319\">中皮</a> (8), <a href=\"?item=2321\">细线</a> (2), <a href=\"?item=4231\">熟化轻毛皮</a> (1), <a href=\"?item=7286\">黑色雏龙鳞片</a> (8)</div><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">3</span> <span class=\"moneycopper\">50</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table>"
+        }
+    },
+    {
+        "id": 20577,
+        "name": "@食尸",
+        "name_en": "Cannibalize",
+        "icon": "ability_racial_cannibalize",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            220
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "种族特长",
+        "reqrace": 16,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/ability_racial_cannibalize.jpg",
+        "tip": {
+            "name_zhcn": "噩梦之刃",
+            "quality": 4,
+            "icon": "inv_sword_44",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">噩梦之刃</b><span class='cus-id-2-right'>ID: 20577</span><br /><!--bo-->拾取后绑定<br />装备唯一<table width=\"100%\"><tr><td>单手</td><th>剑</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->99 - 185伤害</td><th>速度 <!--spd-->2.70</th></tr></table><!--dps-->（每秒伤害52.6）<br /><span><!--amr-->70点护甲</span><br /><span><!--stat7-->+9 耐力</span><br /><!--e--><!--ps-->耐久度 105 / 105<br />需要等级 60<br />物品等级71<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 攻击强度提高32点。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">7</span> <span class=\"moneysilver\">29</span> <span class=\"moneycopper\">6</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?20577:1:1:60-->"
+        }
+    },
+    {
+        "id": 20579,
+        "name": "@暗影抗性",
+        "name_en": "Shadow Resistance",
+        "icon": "spell_shadow_detectinvisibility",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            220
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqrace": 16,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_shadow_detectinvisibility.jpg",
+        "tip": {
+            "name_zhcn": "绿色龙皮披风",
+            "quality": 4,
+            "icon": "inv_misc_cape_17",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">绿色龙皮披风</b><span class='cus-id-2-right'>ID: 20579</span><br /><!--bo-->拾取后绑定<br />唯一<table width=\"100%\"><tr><td>背部</td></tr></table><span><!--amr-->62点护甲</span><br /><span><!--stat7-->+12 耐力</span><br />+20 自然抗性<br /><!--e--><!--ps-->需要等级 60<br />物品等级71<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 每5秒恢复4点生命值。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">2</span> <span class=\"moneysilver\">20</span> <span class=\"moneycopper\">41</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?20579:1:1:60-->"
+        }
+    },
+    {
+        "id": 20582,
+        "name": "@迅捷",
+        "name_en": "Quickness",
+        "icon": "ability_racial_shadowmeld",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            126
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqrace": 8,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/ability_racial_shadowmeld.jpg",
+        "tip": {
+            "name_zhcn": "沉睡之石",
+            "quality": 4,
+            "icon": "inv_misc_orb_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">沉睡之石</b><span class='cus-id-2-right'>ID: 20582</span><br /><!--bo-->拾取后绑定<br />唯一<table width=\"100%\"><tr><td>副手物品</td></tr></table><span><!--stat7-->+9 耐力</span><br /><span><!--stat5-->+8 智力</span><br /><span><!--stat6-->+8 精神</span><br /><!--e--><!--ps-->需要等级 60<br />物品等级71<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 法术强度提高25点。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">6</span> <span class=\"moneysilver\">28</span> <span class=\"moneycopper\">2</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?20582:1:1:60-->"
+        }
+    },
+    {
+        "id": 20583,
+        "name": "@自然抗性",
+        "name_en": "Nature Resistance",
+        "icon": "spell_nature_spiritarmor",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            126
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqrace": 8,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_nature_spiritarmor.jpg",
+        "tip": {
+            "name_zhcn": "Shattered Hand Centurion (1)",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">Shattered Hand Centurion (1)</b></td></tr><tr><td>等级 71 人型生物 (稀有)</td></tr></table>",
+            "map": {}
+        }
+    },
+    {
+        "id": 20585,
+        "name": "@精灵之魂",
+        "name_en": "Wisp Spirit",
+        "icon": "spell_nature_wispsplode",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            126
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqrace": 8,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_nature_wispsplode.jpg",
+        "tip": {
+            "name_zhcn": "Shattered Hand Executioner (1)",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">Shattered Hand Executioner (1)</b></td></tr><tr><td>等级 70 人型生物 (稀有)</td></tr></table>",
+            "map": {}
+        }
+    },
+    {
+        "id": 20589,
+        "name": "@逃命专家",
+        "name_en": "Escape Artist",
+        "icon": "ability_rogue_trip",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            753
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "种族特长",
+        "reqrace": 64,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/ability_rogue_trip.jpg",
+        "tip": {
+            "name_zhcn": "Shattered Hand Legionnaire (1)",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">Shattered Hand Legionnaire (1)</b></td></tr><tr><td>等级 70 人型生物 (稀有)</td></tr></table>",
+            "map": {}
+        }
+    },
+    {
+        "id": 20591,
+        "name": "@开阔思维",
+        "name_en": "Expansive Mind",
+        "icon": "inv_enchant_essenceeternallarge",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            753
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqrace": 64,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_enchant_essenceeternallarge.jpg",
+        "tip": {
+            "name_zhcn": "结实的男性矮人面具",
+            "quality": 2,
+            "icon": "inv_misc_head_dwarf_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">结实的男性矮人面具</b><span class='cus-id-2-right'>ID: 20591</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>头部</td></tr></table><!--e--><!--ps-->物品等级45<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">2</span> <span class=\"moneysilver\">50</span> <span class=\"moneycopper\">53</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?20591:1:1:80-->"
+        }
+    },
+    {
+        "id": 20592,
+        "name": "@奥术抗性",
+        "name_en": "Arcane Resistance",
+        "icon": "spell_nature_wispsplode",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            753
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqrace": 64,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_nature_wispsplode.jpg",
+        "tip": {
+            "name_zhcn": "Shattered Hand Scout (1)",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">Shattered Hand Scout (1)</b></td></tr><tr><td>等级 70 人型生物 (普通)</td></tr></table>",
+            "map": {}
+        }
+    },
+    {
+        "id": 20593,
+        "name": "@工程学专精",
+        "name_en": "Engineering Specialization",
+        "icon": "inv_misc_gear_01",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            753
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqrace": 64,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_gear_01.jpg",
+        "tip": {
+            "name_zhcn": "Shattered Hand Sentry (1)",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">Shattered Hand Sentry (1)</b></td></tr><tr><td>等级 70 人型生物 (稀有)</td></tr></table>",
+            "map": {}
+        }
+    },
+    {
+        "id": 20594,
+        "name": "@石像形态",
+        "name_en": "Stoneform",
+        "icon": "spell_shadow_unholystrength",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            101
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "种族特长",
+        "reqrace": 4,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_shadow_unholystrength.jpg",
+        "tip": {
+            "name_zhcn": "Shattered Hand Sharpshooter (1)",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">Shattered Hand Sharpshooter (1)</b></td></tr><tr><td>等级 70 人型生物 (稀有)</td></tr></table>",
+            "map": {}
+        }
+    },
+    {
+        "id": 20595,
+        "name": "@枪械专精",
+        "name_en": "Gun Specialization",
+        "icon": "inv_musket_03",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            101
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqrace": 4,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_musket_03.jpg",
+        "tip": {
+            "name_zhcn": "Shattered Hand Zealot (1)",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">Shattered Hand Zealot (1)</b></td></tr><tr><td>等级 70 人型生物 (普通)</td></tr></table>",
+            "map": {}
+        }
+    },
+    {
+        "id": 20596,
+        "name": "@冰霜抗性",
+        "name_en": "Frost Resistance",
+        "icon": "spell_frost_wizardmark",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            101
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqrace": 4,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_frost_wizardmark.jpg",
+        "tip": {
+            "name_zhcn": "结实的男性牛头人面具",
+            "quality": 2,
+            "icon": "inv_misc_head_tauren_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">结实的男性牛头人面具</b><span class='cus-id-2-right'>ID: 20596</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>头部</td></tr></table><!--e--><!--ps-->物品等级45<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">2</span> <span class=\"moneysilver\">54</span> <span class=\"moneycopper\">98</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?20596:1:1:80-->"
+        }
+    },
+    {
+        "id": 20597,
+        "name": "@剑专精",
+        "name_en": "Sword Specialization",
+        "icon": "ability_meleedamage",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            754
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqrace": 1,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/ability_meleedamage.jpg",
+        "tip": {
+            "name_zhcn": "Warchief Kargath Bladefist (1)",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">Warchief Kargath Bladefist (1)</b></td></tr><tr><td>等级 72 人型生物 (稀有)</td></tr></table>",
+            "map": {}
+        }
+    },
+    {
+        "id": 20598,
+        "name": "@人类精魂",
+        "name_en": "The Human Spirit",
+        "icon": "inv_enchant_shardbrilliantsmall",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            754
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqrace": 1,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_enchant_shardbrilliantsmall.jpg",
+        "tip": {
+            "name_zhcn": "Wild Shadow Fissure (1)",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">Wild Shadow Fissure (1)</b></td></tr><tr><td>等级 1 未指定 (普通)</td></tr></table>",
+            "map": {}
+        }
+    },
+    {
+        "id": 20599,
+        "name": "@外交",
+        "name_en": "Diplomacy",
+        "icon": "inv_misc_note_02",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            754
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqrace": 1,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_note_02.jpg",
+        "tip": {
+            "name_zhcn": "抛光铁木强弩",
+            "quality": 4,
+            "icon": "inv_weapon_crossbow_11",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">抛光铁木强弩</b><span class='cus-id-2-right'>ID: 20599</span><br /><!--bo-->拾取后绑定<br />唯一<table width=\"100%\"><tr><td>远程</td><th>弩</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->124 - 186伤害</td><th>速度 <!--spd-->3.10</th></tr></table><!--dps-->（每秒伤害50.0）<br /><span><!--stat7-->+5 耐力</span><br />+7 自然抗性<br /><!--e--><!--ps-->耐久度 90 / 90<br />需要等级 60<br />物品等级71<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 攻击强度提高24点。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">5</span> <span class=\"moneysilver\">50</span> <span class=\"moneycopper\">93</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?20599:1:1:60-->"
+        }
+    },
+    {
+        "id": 20864,
+        "name": "@锤类武器专精",
+        "name_en": "Mace Specialization",
+        "icon": "inv_hammer_05",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            754
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqrace": 1,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_hammer_05.jpg",
+        "tip": {
+            "name_zhcn": "白骨甲虫",
+            "quality": 2,
+            "icon": "inv_scarab_bone",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">白骨甲虫</b><span class='cus-id-2-right'>ID: 20864</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?20864:1:1:80-->"
+        }
+    },
+    {
+        "id": 21009,
+        "name": "@难觅行踪",
+        "name_en": "Elusiveness",
+        "icon": "ability_racial_ultravision",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            126
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqclass": 1085,
+        "reqrace": 8,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/ability_racial_ultravision.jpg",
+        "tip": {
+            "name_zhcn": "粗糙的皮甲腰带",
+            "quality": 0,
+            "icon": "inv_belt_24",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q0\">粗糙的皮甲腰带</b><span class='cus-id-2-right'>ID: 21009</span><table width=\"100%\"><tr><td>腰部</td><th><!--asc2-->皮甲</th></tr></table><span><!--amr-->18点护甲</span><br /><!--e--><!--ps-->耐久度 16 / 16<br />物品等级5<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">4</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?21009:1:1:80-->"
+        }
+    },
+    {
+        "id": 21563,
+        "name": "@命令",
+        "name_en": "Command",
+        "icon": "ability_warrior_warcry",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            125
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqclass": 1179,
+        "reqrace": 2,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/ability_warrior_warcry.jpg",
+        "tip": {
+            "name_zhcn": "罗德里格的指环",
+            "quality": 4,
+            "icon": "inv_jewelry_ring_34",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">罗德里格的指环</b><span class='cus-id-2-right'>ID: 21563</span><br /><!--bo-->拾取后绑定<br />唯一<table width=\"100%\"><tr><td>手指</td></tr></table><span><!--stat7-->+7 耐力</span><br /><!--e--><!--ps-->需要等级 60<br />物品等级65<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 爆击等级提高<!--rtg32-->14&nbsp;<small>(<!--rtg%32-->1.00%&nbsp;@&nbsp;L<!--lvl-->60)</small>。</span><br /><span class=\"q2\">装备： 使你的法术穿透提高20。</span><br /></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?21563:1:80:60-->"
+        }
+    },
+    {
+        "id": 25046,
+        "name": "@奥术洪流",
+        "name_en": "Arcane Torrent",
+        "icon": "spell_shadow_teleport",
+        "level": 0,
+        "school": 64,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            756
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "种族特长",
+        "reqclass": 8,
+        "reqrace": 512,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_shadow_teleport.jpg",
+        "tip": {
+            "name_zhcn": "脊刺指环",
+            "quality": 2,
+            "icon": "inv_jewelry_ring_35",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">脊刺指环</b><span class='cus-id-2-right'>ID: 25046</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>手指</td></tr></table><span class=\"q2\">&lt;随机附魔&gt</span><br /><!--e--><!--ps-->需要等级 59<br />物品等级87<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">2</span> <span class=\"moneysilver\">85</span> <span class=\"moneycopper\">46</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?25046:1:1:59-->"
+        }
+    },
+    {
+        "id": 26290,
+        "name": "@弓专精",
+        "name_en": "Bow Specialization",
+        "icon": "inv_weapon_bow_12",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            733
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqrace": 128,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_weapon_bow_12.jpg",
+        "tip": {
+            "name_zhcn": "尤顿",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">尤顿</b></td></tr><tr><td>诅咒的背负者</td></tr><tr><td>等级 80 巨人 (稀有)</td></tr></table>",
+            "map": {
+                "zone": 65,
+                "coords": {
+                    "0": [
+                        [
+                            59.8,
+                            43
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 26297,
+        "name": "@狂暴",
+        "name_en": "Berserking",
+        "icon": "racial_troll_berserk",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            733
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "种族特长",
+        "reqrace": 128,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/racial_troll_berserk.jpg",
+        "tip": {
+            "name_zhcn": "克莉斯塔萨的声音",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">克莉斯塔萨的声音</b></td></tr><tr><td>等级 60 未指定 (普通)</td></tr></table>",
+            "map": {}
+        }
+    },
+    {
+        "id": 28730,
+        "name": "@奥术洪流",
+        "name_en": "Arcane Torrent",
+        "icon": "spell_shadow_teleport",
+        "level": 0,
+        "school": 64,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            756
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "种族特长",
+        "reqclass": 406,
+        "reqrace": 512,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_shadow_teleport.jpg",
+        "tip": {
+            "name_zhcn": "无疤者的秘银指环",
+            "quality": 4,
+            "icon": "inv_jewelry_ring_24",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">无疤者的秘银指环</b><span class='cus-id-2-right'>ID: 28730</span><br /><!--bo-->拾取后绑定<br />唯一<table width=\"100%\"><tr><td>手指</td></tr></table><span><!--stat4-->+26 力量</span><br /><span><!--stat7-->+24 耐力</span><br /><!--e--><!--ps-->需要等级 70<br />物品等级115<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 爆击等级提高<!--rtg32-->22&nbsp;<small>(<!--rtg%32-->1.00%&nbsp;@&nbsp;L<!--lvl-->70)</small>。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">6</span> <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">56</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?28730:1:80:70-->"
+        }
+    },
+    {
+        "id": 28875,
+        "name": "@宝石切割",
+        "name_en": "Gemcutting",
+        "icon": "spell_misc_conjuremanajewel",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            760
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqrace": 1024,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_misc_conjuremanajewel.jpg",
+        "tip": {
+            "name_zhcn": "高阶督军的蟒皮外套",
+            "quality": 3,
+            "icon": "inv_chest_leather_03",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">高阶督军的蟒皮外套</b><span class='cus-id-2-right'>ID: 28875</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>胸部</td><th><!--asc2-->皮甲</th></tr></table><span class=\"q2\"><!--addamr30--><span>322点护甲</span></span><br /><span><!--stat7-->+33 耐力</span><br /><span><!--stat5-->+17 智力</span><br /><!--e--><span class=\"socket-red q0\" >红色插槽</span><br /><span class=\"socket-red q0\" >红色插槽</span><br /><span class=\"socket-yellow q0\" >黄色插槽</span><br /><!--ps--><span class=\"q0\">镶孔奖励：<a href=\"?enchantment=2856\">+4 韧性等级</a></span><br />耐久度 100 / 100<br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />需要等级 70<br />物品等级115<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 韧性等级提高<!--rtg35-->18&nbsp;<small>(<!--rtg%35-->0.40%&nbsp;@&nbsp;L<!--lvl-->70)</small>。</span><br /><span class=\"q2\">装备： 法术强度提高22点。</span><br /><span class=\"q2\">装备： 每5秒恢复6点法力值。</span><br /><br /><span class=\"q\"><a href=\"?itemset=610\" class=\"q\">高阶督军的野性之皮</a>（0/5）</span><div class=\"q0 indent\"><span><!--si28871--><a href=\"?item=28871\">高阶督军的蟒皮手套</a></span><br /><span><!--si28872--><a href=\"?item=28872\">高阶督军的蟒皮头盔</a></span><br /><span><!--si28873--><a href=\"?item=28873\">高阶督军的蟒皮护腿</a></span><br /><span><!--si28874--><a href=\"?item=28874\">高阶督军的蟒皮护肩</a></span><br /><span><!--si28875--><a href=\"?item=28875\">高阶督军的蟒皮外套</a></span></div><br /><span class=\"q0\"><span>(2) 套装：<a href=\"?spell=40051\">+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。</a></span><br /><span>(4) 套装：<a href=\"?spell=33877\">使你的月火术所消耗的基础法力值减少10%。</a></span></span></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?28875:1:80:70-->"
+        }
+    },
+    {
+        "id": 28877,
+        "name": "@奥术亲和",
+        "name_en": "Arcane Affinity",
+        "icon": "inv_enchant_shardglimmeringlarge",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            756
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqrace": 512,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_enchant_shardglimmeringlarge.jpg",
+        "tip": {
+            "name_zhcn": "风暴看守",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">风暴看守</b></td></tr><tr><td>等级 80 元素生物 (普通)</td></tr></table>",
+            "map": {
+                "zone": 3711,
+                "coords": {
+                    "0": [
+                        [
+                            17.6,
+                            51.2
+                        ],
+                        [
+                            23.3,
+                            37.2
+                        ],
+                        [
+                            26.7,
+                            33.5
+                        ],
+                        [
+                            26.2,
+                            35.7
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 28878,
+        "name": "@英雄灵气",
+        "name_en": "Heroic Presence",
+        "icon": "inv_helmet_21",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            760
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqclass": 208,
+        "reqrace": 1024,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_helmet_21.jpg",
+        "tip": {
+            "name_zhcn": "信仰铭文",
+            "quality": 2,
+            "icon": "spell_holy_sealofsalvation",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">信仰铭文</b><span class='cus-id-2-right'>ID: 28878</span><br /><!--bo-->拾取后绑定<br /><!--e--><!--ps-->需要等级 64<br />需要<a class=\"q1\" href=\"?faction=932\">奥尔多</a> - 尊敬<br /></td></tr></table><table><tr><td><span class=\"q2\">使用： 永久性地为一件肩部装备附加法术强度提高15点的效果。<br /><br />附魔之后，该装备会与你绑定。</span><br /><span class=\"q1\">1次</span></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?28878:1:1:64-->"
+        }
+    },
+    {
+        "id": 28880,
+        "name": "@纳鲁的赐福",
+        "name_en": "Gift of the Naaru",
+        "icon": "spell_holy_holyprotection",
+        "level": 1,
+        "school": 2,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            760
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "种族特长",
+        "reqclass": 1,
+        "reqrace": 1024,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_holy_holyprotection.jpg",
+        "tip": {
+            "name_zhcn": "测验铁矮人",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">测验铁矮人</b></td></tr><tr><td>等级 77 人型生物 (普通)</td></tr></table>",
+            "map": {}
+        }
+    },
+    {
+        "id": 33697,
+        "name": "@血性狂怒",
+        "name_en": "Blood Fury",
+        "icon": "racial_orc_berserkerstrength",
+        "level": 1,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            125
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "种族特长",
+        "reqclass": 64,
+        "reqrace": 2,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/racial_orc_berserkerstrength.jpg",
+        "tip": {
+            "name_zhcn": "复仇角斗士的板层甲头盔",
+            "quality": 4,
+            "icon": "inv_helmet_96",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">复仇角斗士的板层甲头盔</b><span class='cus-id-2-right'>ID: 33697</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>头部</td><th><!--asc4-->板甲</th></tr></table><span><!--amr-->1483点护甲</span><br /><span><!--stat7-->+70 耐力</span><br /><span><!--stat5-->+28 智力</span><br /><!--e--><span class=\"socket-meta q0\" >多彩插槽</span><br /><span class=\"socket-red q0\" >红色插槽</span><br /><!--ps--><span class=\"q0\">镶孔奖励：<a href=\"?enchantment=2878\">+4 韧性等级</a></span><br />耐久度 100 / 100<br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />需要等级 70<br />物品等级146<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 爆击等级提高<!--rtg32-->28&nbsp;<small>(<!--rtg%32-->1.27%&nbsp;@&nbsp;L<!--lvl-->70)</small>。</span><br /><span class=\"q2\">装备： 韧性等级提高<!--rtg35-->33&nbsp;<small>(<!--rtg%35-->0.73%&nbsp;@&nbsp;L<!--lvl-->70)</small>。</span><br /><span class=\"q2\">装备： 法术强度提高43点。</span><br /><br /><span class=\"q\"><a href=\"?itemset=-23\" class=\"q\">角斗士的保护</a>（0/5）</span><div class=\"q0 indent\"><span><!--si27702:31992:33695:35027--><a href=\"?item=33695\">复仇角斗士的板层甲护胸</a></span><br /><span><!--si27703:31993:33696:35028--><a href=\"?item=33696\">复仇角斗士的板层甲护手</a></span><br /><span><!--si35029:27704:31997:33697--><a href=\"?item=33697\">复仇角斗士的板层甲头盔</a></span><br /><span><!--si35030:27705:31995:33698--><a href=\"?item=33698\">复仇角斗士的板层甲护腿</a></span><br /><span><!--si35031:27706:31996:33699--><a href=\"?item=33699\">复仇角斗士的板层甲护肩</a></span></div><br /><span class=\"q0\"><span>(2) 套装：<a href=\"?spell=40044\">+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。</a></span><br /><span>(4) 套装：<a href=\"?spell=61776\">你的审判的冷却时间缩短1秒。</a></span></span></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?33697:1:80:70-->"
+        }
+    },
+    {
+        "id": 33702,
+        "name": "@血性狂怒",
+        "name_en": "Blood Fury",
+        "icon": "racial_orc_berserkerstrength",
+        "level": 1,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            125
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "种族特长",
+        "reqclass": 256,
+        "reqrace": 2,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/racial_orc_berserkerstrength.jpg",
+        "tip": {
+            "name_zhcn": "复仇角斗士的皮甲护腿",
+            "quality": 4,
+            "icon": "inv_pants_leather_27",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">复仇角斗士的皮甲护腿</b><span class='cus-id-2-right'>ID: 33702</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>腿部</td><th><!--asc2-->皮甲</th></tr></table><span class=\"q2\"><!--addamr70--><span>471点护甲</span></span><br /><span><!--stat7-->+67 耐力</span><br /><span><!--stat3-->+35 敏捷</span><br /><!--e--><!--ps-->耐久度 90 / 90<br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />需要等级 70<br />物品等级146<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 爆击等级提高<!--rtg32-->25&nbsp;<small>(<!--rtg%32-->1.13%&nbsp;@&nbsp;L<!--lvl-->70)</small>。</span><br /><span class=\"q2\">装备： 韧性等级提高<!--rtg35-->40&nbsp;<small>(<!--rtg%35-->0.88%&nbsp;@&nbsp;L<!--lvl-->70)</small>。</span><br /><span class=\"q2\">装备： 命中等级提高<!--rtg31-->12&nbsp;<small>(<!--rtg%31-->0.76%&nbsp;@&nbsp;L<!--lvl-->70)</small>。</span><br /><span class=\"q2\">装备： 攻击强度提高50点。</span><br /><span class=\"q2\">装备： 护甲穿透等级提高<!--rtg44-->12&nbsp;<small>(<!--rtg%44-->1.78%&nbsp;@&nbsp;L<!--lvl-->70)</small>。</span><br /><br /><span class=\"q\"><a href=\"?itemset=-8\" class=\"q\">角斗士的套装</a>（0/5）</span><div class=\"q0 indent\"><span><!--si42690:42695:25834:31998:33700:35032--><a href=\"?item=33700\">复仇角斗士的皮甲手套</a></span><br /><span><!--si42691:25830:42696:31999:33701:35033--><a href=\"?item=33701\">复仇角斗士的皮甲头盔</a></span><br /><span><!--si42692:25833:42697:32000:33702:35034--><a href=\"?item=33702\">复仇角斗士的皮甲护腿</a></span><br /><span><!--si42693:25832:42698:32001:33703:35035--><a href=\"?item=33703\">复仇角斗士的皮甲护肩</a></span><br /><span><!--si35036:25831:42694:42699:32002:33704--><a href=\"?item=33704\">复仇角斗士的皮甲外套</a></span></div><br /><span class=\"q0\"><span>(2) 套装：<a href=\"?spell=32145\">+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。</a></span><br /><span>(4) 套装：<a href=\"?spell=21975\">使你的能量值上限提高10点。</a></span></span></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?33702:1:80:70-->"
+        }
+    },
+    {
+        "id": 50613,
+        "name": "@奥术洪流",
+        "name_en": "Arcane Torrent",
+        "icon": "spell_shadow_teleport",
+        "level": 0,
+        "school": 64,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            756
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "种族特长",
+        "reqclass": 32,
+        "reqrace": 512,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_shadow_teleport.jpg",
+        "tip": {
+            "name_zhcn": "破碎冷魂腰带",
+            "quality": 4,
+            "icon": "inv_belt_64",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">破碎冷魂腰带</b><span class='cus-id-2-right'>ID: 50613</span><br /><span class=\"q2\">英雄级别</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>腰部</td><th><!--asc1-->布甲</th></tr></table><span><!--amr-->208点护甲</span><br /><span><!--stat7-->+103 耐力</span><br /><span><!--stat5-->+103 智力</span><br /><!--e--><span class=\"socket-blue q0\" >蓝色插槽</span><br /><span class=\"socket-red q0\" >红色插槽</span><br /><!--ps--><span class=\"q0\">镶孔奖励：<a href=\"?enchantment=3602\">+7 法术强度</a></span><br />耐久度 35 / 35<br />需要等级 80<br />物品等级277<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 法术强度提高<!--rtg45-->140点。</span><br /><span class=\"q2\">装备： 爆击等级提高<!--rtg32-->74&nbsp;<small>(<!--rtg%32-->1.61%&nbsp;@&nbsp;L<!--lvl-->80)</small>。</span><br /><span class=\"q2\">装备： 急速等级提高<!--rtg36-->90&nbsp;<small>(<!--rtg%36-->2.74%&nbsp;@&nbsp;L<!--lvl-->80)</small>。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">5</span> <span class=\"moneysilver\">11</span> <span class=\"moneycopper\">96</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?50613:1:80:80-->"
+        }
+    },
+    {
+        "id": 54562,
+        "name": "@命令",
+        "name_en": "Command",
+        "icon": "ability_warrior_warcry",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            125
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqclass": 32,
+        "reqrace": 2,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/ability_warrior_warcry.jpg",
+        "tip": {
+            "name_zhcn": "孽障腰带",
+            "quality": 4,
+            "icon": "inv_belt_66green",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">孽障腰带</b><span class='cus-id-2-right'>ID: 54562</span><br /><span class=\"q2\">英雄级别</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>腰部</td><th><!--asc1-->布甲</th></tr></table><span><!--amr-->204点护甲</span><br /><span><!--stat7-->+98 耐力</span><br /><span><!--stat5-->+98 智力</span><br /><!--e--><span class=\"socket-red q0\" >红色插槽</span><br /><span class=\"socket-red q0\" >红色插槽</span><br /><!--ps--><span class=\"q0\">镶孔奖励：<a href=\"?enchantment=3602\">+7 法术强度</a></span><br />耐久度 35 / 35<br />需要等级 80<br />物品等级271<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 法术强度提高<!--rtg45-->131点。</span><br /><span class=\"q2\">装备： 爆击等级提高<!--rtg32-->92&nbsp;<small>(<!--rtg%32-->2.00%&nbsp;@&nbsp;L<!--lvl-->80)</small>。</span><br /><span class=\"q2\">装备： 命中等级提高<!--rtg31-->59&nbsp;<small>(<!--rtg%31-->1.80%&nbsp;@&nbsp;L<!--lvl-->80)</small>。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">5</span> <span class=\"moneysilver\">42</span> <span class=\"moneycopper\">22</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?54562:1:80:80-->"
+        }
+    },
+    {
+        "id": 58943,
+        "name": "@巫毒步",
+        "name_en": "Da Voodoo Shuffle",
+        "icon": "inv_misc_idol_02",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            733
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqrace": 128,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_idol_02.jpg",
+        "tip": {
+            "name_zhcn": "巫毒步",
+            "icon": "inv_misc_idol_02",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>巫毒步</b></td><th><b class=\"q0\">被动种族特长</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">使你受到的所有移动限制效果的持续时间缩短15%。巨魔的腿脚是非常灵便的，朋友！</span></td></tr></table><!--?58943:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 58984,
+        "name": "@影遁",
+        "name_en": "Shadowmeld",
+        "icon": "ability_ambush",
+        "level": 1,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            126
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "种族特长",
+        "reqrace": 8,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/ability_ambush.jpg",
+        "tip": {
+            "name_zhcn": "影遁",
+            "icon": "ability_ambush",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>影遁</b></td><th><b class=\"q0\">种族特长</b></th></tr></table>2 分钟冷却时间</td></tr></table><table><tr><td><span class=\"q\">激活之后遁入阴影，降低敌人侦测到你的几率。持续直到取消或进行移动。取消这个效果之后，你对任何仍在战斗中的敌人造成的威胁值将恢复。</span></td></tr></table><!--?58984:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "<table><tr><td><b class=\"q\">影遁</b></td><th><b class=\"q\">潜行</b></th></tr></table><table><tr><td>影遁。<br></td></tr></table><!--?58984:1:1:80-->",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 58985,
+        "name": "@感知",
+        "name_en": "Perception",
+        "icon": "spell_nature_sleep",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            754
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqrace": 1,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_nature_sleep.jpg",
+        "tip": {
+            "name_zhcn": "感知",
+            "icon": "spell_nature_sleep",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>感知</b></td><th><b class=\"q0\">被动种族特长</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">提高你的潜行侦测能力。</span></td></tr></table><!--?58985:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 59221,
+        "name": "@暗影抗性",
+        "name_en": "Shadow Resistance",
+        "icon": "spell_shadow_detectinvisibility",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            760
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqclass": 1,
+        "reqrace": 1024,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_shadow_detectinvisibility.jpg",
+        "tip": {
+            "name_zhcn": "暗影抗性",
+            "icon": "spell_shadow_detectinvisibility",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>暗影抗性</b></td><th><b class=\"q0\">被动种族特长</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">使你被暗影法术命中的几率降低2%。</span></td></tr></table><!--?59221:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 59224,
+        "name": "@锤类武器专精",
+        "name_en": "Mace Specialization",
+        "icon": "inv_hammer_05",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            101
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqrace": 4,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_hammer_05.jpg",
+        "tip": {
+            "name_zhcn": "锤类武器专精",
+            "icon": "inv_hammer_05",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>锤类武器专精</b></td><th><b class=\"q0\">被动种族特长</b></th></tr></table></td></tr></table><table><tr><td>需要 单手杖, 双手锤<br /><span class=\"q\">锤与双手锤的精准提高5。</span></td></tr></table><!--?59224:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 59535,
+        "name": "@暗影抗性",
+        "name_en": "Shadow Resistance",
+        "icon": "spell_shadow_detectinvisibility",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            760
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqclass": 2,
+        "reqrace": 1024,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_shadow_detectinvisibility.jpg",
+        "tip": {
+            "name_zhcn": "暗影抗性",
+            "icon": "spell_shadow_detectinvisibility",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>暗影抗性</b></td><th><b class=\"q0\">被动种族特长</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">使你被暗影法术命中的几率降低2%。</span></td></tr></table><!--?59535:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 59536,
+        "name": "@暗影抗性",
+        "name_en": "Shadow Resistance",
+        "icon": "spell_shadow_detectinvisibility",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            760
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqclass": 4,
+        "reqrace": 1024,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_shadow_detectinvisibility.jpg",
+        "tip": {
+            "name_zhcn": "暗影抗性",
+            "icon": "spell_shadow_detectinvisibility",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>暗影抗性</b></td><th><b class=\"q0\">被动种族特长</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">使你被暗影法术命中的几率降低2%。</span></td></tr></table><!--?59536:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 59538,
+        "name": "@暗影抗性",
+        "name_en": "Shadow Resistance",
+        "icon": "spell_shadow_detectinvisibility",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            760
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqclass": 16,
+        "reqrace": 1024,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_shadow_detectinvisibility.jpg",
+        "tip": {
+            "name_zhcn": "暗影抗性",
+            "icon": "spell_shadow_detectinvisibility",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>暗影抗性</b></td><th><b class=\"q0\">被动种族特长</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">使你被暗影法术命中的几率降低2%。</span></td></tr></table><!--?59538:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 59539,
+        "name": "@暗影抗性",
+        "name_en": "Shadow Resistance",
+        "icon": "spell_shadow_detectinvisibility",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            760
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqclass": 32,
+        "reqrace": 1024,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_shadow_detectinvisibility.jpg",
+        "tip": {
+            "name_zhcn": "暗影抗性",
+            "icon": "spell_shadow_detectinvisibility",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>暗影抗性</b></td><th><b class=\"q0\">被动种族特长</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">使你被暗影法术命中的几率降低2%。</span></td></tr></table><!--?59539:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 59540,
+        "name": "@暗影抗性",
+        "name_en": "Shadow Resistance",
+        "icon": "spell_shadow_detectinvisibility",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            760
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqclass": 64,
+        "reqrace": 1024,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_shadow_detectinvisibility.jpg",
+        "tip": {
+            "name_zhcn": "暗影抗性",
+            "icon": "spell_shadow_detectinvisibility",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>暗影抗性</b></td><th><b class=\"q0\">被动种族特长</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">使你被暗影法术命中的几率降低2%。</span></td></tr></table><!--?59540:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 59541,
+        "name": "@暗影抗性",
+        "name_en": "Shadow Resistance",
+        "icon": "spell_shadow_detectinvisibility",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            760
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqclass": 128,
+        "reqrace": 1024,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_shadow_detectinvisibility.jpg",
+        "tip": {
+            "name_zhcn": "暗影抗性",
+            "icon": "spell_shadow_detectinvisibility",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>暗影抗性</b></td><th><b class=\"q0\">被动种族特长</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">使你被暗影法术命中的几率降低2%。</span></td></tr></table><!--?59541:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 59542,
+        "name": "@纳鲁的赐福",
+        "name_en": "Gift of the Naaru",
+        "icon": "spell_holy_holyprotection",
+        "level": 1,
+        "school": 2,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            760
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "种族特长",
+        "reqclass": 2,
+        "reqrace": 1024,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_holy_holyprotection.jpg",
+        "tip": {
+            "name_zhcn": "纳鲁的赐福",
+            "icon": "spell_holy_holyprotection",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>纳鲁的赐福</b></td><th><b class=\"q0\">种族特长</b></th></tr></table>40码范围<br />3 分钟冷却时间</td></tr></table><table><tr><td><span class=\"q\">治疗目标，在15 秒内恢复总计50点生命值。治疗量随着你的法术强度或攻击强度（取其高者）而提高。</span></td></tr></table><!--?59542:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "<table><tr><td><b class=\"q\">纳鲁的赐福</b></td></tr></table><table><tr><td>每3秒恢复10点生命值。<br><span class=\"q\">持续15 秒<span></td></tr></table><!--?59542:1:1:80-->",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 59543,
+        "name": "@纳鲁的赐福",
+        "name_en": "Gift of the Naaru",
+        "icon": "spell_holy_holyprotection",
+        "level": 1,
+        "school": 2,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            760
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "种族特长",
+        "reqclass": 4,
+        "reqrace": 1024,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_holy_holyprotection.jpg",
+        "tip": {
+            "name_zhcn": "纳鲁的赐福",
+            "icon": "spell_holy_holyprotection",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>纳鲁的赐福</b></td><th><b class=\"q0\">种族特长</b></th></tr></table>40码范围<br />3 分钟冷却时间</td></tr></table><table><tr><td><span class=\"q\">治疗目标，在15 秒内恢复总计50点生命值。治疗量随着你的攻击强度而提高。</span></td></tr></table><!--?59543:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "<table><tr><td><b class=\"q\">纳鲁的赐福</b></td></tr></table><table><tr><td>每3秒恢复10点生命值。<br><span class=\"q\">持续15 秒<span></td></tr></table><!--?59543:1:1:80-->",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 59544,
+        "name": "@纳鲁的赐福",
+        "name_en": "Gift of the Naaru",
+        "icon": "spell_holy_holyprotection",
+        "level": 1,
+        "school": 2,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            760
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "种族特长",
+        "reqclass": 16,
+        "reqrace": 1024,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_holy_holyprotection.jpg",
+        "tip": {
+            "name_zhcn": "纳鲁的赐福",
+            "icon": "spell_holy_holyprotection",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>纳鲁的赐福</b></td><th><b class=\"q0\">种族特长</b></th></tr></table>40码范围<br />3 分钟冷却时间</td></tr></table><table><tr><td><span class=\"q\">治疗目标，在15 秒内恢复总计50点生命值。治疗量随着你的法术强度而提高。</span></td></tr></table><!--?59544:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "<table><tr><td><b class=\"q\">纳鲁的赐福</b></td></tr></table><table><tr><td>每3秒恢复10点生命值。<br><span class=\"q\">持续15 秒<span></td></tr></table><!--?59544:1:1:80-->",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 59545,
+        "name": "@纳鲁的赐福",
+        "name_en": "Gift of the Naaru",
+        "icon": "spell_holy_holyprotection",
+        "level": 1,
+        "school": 2,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            760
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "种族特长",
+        "reqclass": 32,
+        "reqrace": 1024,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_holy_holyprotection.jpg",
+        "tip": {
+            "name_zhcn": "纳鲁的赐福",
+            "icon": "spell_holy_holyprotection",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>纳鲁的赐福</b></td><th><b class=\"q0\">种族特长</b></th></tr></table>40码范围<br />3 分钟冷却时间</td></tr></table><table><tr><td><span class=\"q\">治疗目标，在15 秒内恢复总计50点生命值。治疗量随着你的攻击强度而提高。</span></td></tr></table><!--?59545:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "<table><tr><td><b class=\"q\">纳鲁的赐福</b></td></tr></table><table><tr><td>每3秒恢复10点生命值。<br><span class=\"q\">持续15 秒<span></td></tr></table><!--?59545:1:1:80-->",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 59547,
+        "name": "@纳鲁的赐福",
+        "name_en": "Gift of the Naaru",
+        "icon": "spell_holy_holyprotection",
+        "level": 1,
+        "school": 2,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            760
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "种族特长",
+        "reqclass": 64,
+        "reqrace": 1024,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_holy_holyprotection.jpg",
+        "tip": {
+            "name_zhcn": "纳鲁的赐福",
+            "icon": "spell_holy_holyprotection",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>纳鲁的赐福</b></td><th><b class=\"q0\">种族特长</b></th></tr></table>40码范围<br />3 分钟冷却时间</td></tr></table><table><tr><td><span class=\"q\">治疗目标，在15 秒内恢复总计50点生命值。治疗量随着你的法术强度或攻击强度（取其高者）而提高。</span></td></tr></table><!--?59547:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "<table><tr><td><b class=\"q\">纳鲁的赐福</b></td></tr></table><table><tr><td>每3秒恢复10点生命值。<br><span class=\"q\">持续15 秒<span></td></tr></table><!--?59547:1:1:80-->",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 59548,
+        "name": "@纳鲁的赐福",
+        "name_en": "Gift of the Naaru",
+        "icon": "spell_holy_holyprotection",
+        "level": 1,
+        "school": 2,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            760
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "种族特长",
+        "reqclass": 128,
+        "reqrace": 1024,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_holy_holyprotection.jpg",
+        "tip": {
+            "name_zhcn": "纳鲁的赐福",
+            "icon": "spell_holy_holyprotection",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>纳鲁的赐福</b></td><th><b class=\"q0\">种族特长</b></th></tr></table>40码范围<br />3 分钟冷却时间</td></tr></table><table><tr><td><span class=\"q\">治疗目标，在15 秒内恢复总计50点生命值。治疗量随着你的法术强度而提高。</span></td></tr></table><!--?59548:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "<table><tr><td><b class=\"q\">纳鲁的赐福</b></td></tr></table><table><tr><td>每3秒恢复10点生命值。<br><span class=\"q\">持续15 秒<span></td></tr></table><!--?59548:1:1:80-->",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 59752,
+        "name": "@自利",
+        "name_en": "Every Man for Himself",
+        "icon": "spell_shadow_charm",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            754
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "种族特长",
+        "reqrace": 1,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_shadow_charm.jpg",
+        "tip": {
+            "name_zhcn": "自利",
+            "icon": "spell_shadow_charm",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>自利</b></td><th><b class=\"q0\">种族特长</b></th></tr></table>2 分钟冷却时间</td></tr></table><table><tr><td><span class=\"q\">移除所有移动限制效果以及导致你无法控制角色的效果。这个效果与其它同类效果共享冷却时间。</span></td></tr></table><!--?59752:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 65222,
+        "name": "@命令",
+        "name_en": "Command",
+        "icon": "ability_warrior_warcry",
+        "level": 0,
+        "school": 1,
+        "cat": -4,
+        "trainingcost": 0,
+        "skill": [
+            125
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "rank": "被动种族特长",
+        "reqclass": 64,
+        "reqrace": 2,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/ability_warrior_warcry.jpg",
+        "tip": {
+            "name_zhcn": "命令",
+            "icon": "ability_warrior_warcry",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>命令</b></td><th><b class=\"q0\">被动种族特长</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">宠物造成的伤害提高5%。</span></td></tr></table><!--?65222:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "",
+            "buffspells_zhcn": []
+        }
+    }
+]

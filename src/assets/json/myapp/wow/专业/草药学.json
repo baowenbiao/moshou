@@ -1,0 +1,652 @@
+[
+    {
+        "id": 2263,
+        "name": "5林木之刃",
+        "icon": "inv_sword_20",
+        "classs": 2,
+        "subclass": 7,
+        "side": 3,
+        "slot": 13,
+        "slotbak": 13,
+        "level": 25,
+        "displayid": 5170,
+        "dura": 65,
+        "dmgmin1": 25,
+        "dmgmax1": 47,
+        "speed": 2.8,
+        "dps": 12.9,
+        "mledmgmin": 25,
+        "mledmgmax": 47,
+        "mlespeed": 2.8,
+        "mledps": 12.9,
+        "gearscore": 5.2734,
+        "name_en": "Phytoblade",
+        "reqskill": 182,
+        "reqskillrank": 100,
+        "source": [
+            4
+        ],
+        "sourcemore": [
+            {
+                "n": "大地上的脓疱",
+                "t": 5,
+                "ti": 275,
+                "c": 11,
+                "c2": 0
+            }
+        ],
+        "tab_name": "需求者",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_sword_20.jpg",
+        "tip": {
+            "name_zhcn": "林木之刃",
+            "quality": 2,
+            "icon": "inv_sword_20",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">林木之刃</b><span class='cus-id-2-right'>ID: 2263</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>单手</td><th>剑</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->25 - 47伤害</td><th>速度 <!--spd-->2.80</th></tr></table><!--dps-->（每秒伤害12.9）<br /><!--e--><!--ps-->耐久度 65 / 65<br />物品等级25<br />需要<a class=\"q1\" href=\"?skill=182\">草药学</a> (100)<br /></td></tr></table><table><tr><td><span class=\"q2\">击中时可能： 冲击目标，对其造成35点自然伤害。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">26</span> <span class=\"moneycopper\">19</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?2263:1:1:80-->"
+        }
+    },
+    {
+        "id": 22795,
+        "name": "6野魔花",
+        "icon": "inv_misc_herb_felblossom",
+        "classs": 0,
+        "subclass": 0,
+        "side": 3,
+        "level": 65,
+        "reqlevel": 60,
+        "displayid": 37665,
+        "name_en": "Fel Blossom",
+        "reqskill": 182,
+        "reqskillrank": 275,
+        "source": [
+            17
+        ],
+        "sourcemore": [
+            {
+                "n": "魔草",
+                "t": 2,
+                "ti": 181270
+            }
+        ],
+        "tab_name": "需求者",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_herb_felblossom.jpg",
+        "tip": {
+            "name_zhcn": "野魔花",
+            "quality": 1,
+            "icon": "inv_misc_herb_felblossom",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">野魔花</b><span class='cus-id-2-right'>ID: 22795</span><br /><!--e--><!--ps-->需要等级 60<br />需要<a class=\"q1\" href=\"?skill=182\">草药学</a> (275)<br /></td></tr></table><table><tr><td><span class=\"q2\">使用： 吸收750到1250点伤害，持续15 秒。 (2 分钟冷却时间)</span><br /><span class=\"q1\">1次</span></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?22795:1:1:60-->"
+        }
+    },
+    {
+        "id": 2366,
+        "name": "@采集草药",
+        "name_en": "Herb Gathering",
+        "icon": "spell_nature_naturetouchgrow",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 10,
+        "skill": [
+            182
+        ],
+        "reagents": [],
+        "source": [
+            6
+        ],
+        "colors": null,
+        "rank": "初级",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_nature_naturetouchgrow.jpg",
+        "tip": {
+            "name_zhcn": "机织布短裤",
+            "quality": 1,
+            "icon": "inv_pants_06",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">机织布短裤</b><span class='cus-id-2-right'>ID: 2366</span><table width=\"100%\"><tr><td>腿部</td><th><!--asc1-->布甲</th></tr></table><span><!--amr-->16点护甲</span><br /><!--e--><!--ps-->耐久度 35 / 35<br />需要等级 5<br />物品等级10<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">59</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?2366:1:1:5-->"
+        }
+    },
+    {
+        "id": 2368,
+        "name": "@采集草药",
+        "name_en": "Herb Gathering",
+        "icon": "spell_nature_naturetouchgrow",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 500,
+        "skill": [
+            182
+        ],
+        "reagents": [],
+        "source": [
+            6
+        ],
+        "learnedat": 50,
+        "colors": null,
+        "rank": "中级",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_nature_naturetouchgrow.jpg",
+        "tip": {
+            "name_zhcn": "刺脊捕猎者",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">刺脊捕猎者</b></td></tr><tr><td>等级 28 - 29 人型生物 (普通)</td></tr></table>",
+            "map": {
+                "zone": 267,
+                "coords": {
+                    "0": [
+                        [
+                            64,
+                            82.1
+                        ],
+                        [
+                            64.4,
+                            77.5
+                        ],
+                        [
+                            61.9,
+                            76.2
+                        ],
+                        [
+                            60.1,
+                            75.7
+                        ],
+                        [
+                            65.9,
+                            83.6
+                        ],
+                        [
+                            61.5,
+                            76.4
+                        ],
+                        [
+                            64,
+                            78.5
+                        ],
+                        [
+                            66.4,
+                            83.3
+                        ],
+                        [
+                            66.3,
+                            79.6
+                        ],
+                        [
+                            66,
+                            82.2
+                        ],
+                        [
+                            66.9,
+                            80.1
+                        ],
+                        [
+                            65,
+                            80.3
+                        ],
+                        [
+                            66.5,
+                            86.4
+                        ],
+                        [
+                            66.1,
+                            85.3
+                        ],
+                        [
+                            67.2,
+                            87.1
+                        ],
+                        [
+                            61.7,
+                            78.6
+                        ],
+                        [
+                            61,
+                            77.5
+                        ],
+                        [
+                            67,
+                            86.6
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 2369,
+        "name": "@采集草药",
+        "name_en": "Herb Gathering",
+        "icon": "spell_nature_naturetouchgrow",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 0,
+        "skill": [
+            182
+        ],
+        "reagents": [],
+        "source": [],
+        "colors": null,
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_nature_naturetouchgrow.jpg",
+        "tip": {
+            "name_zhcn": "机织布手套",
+            "quality": 1,
+            "icon": "inv_gauntlets_23",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">机织布手套</b><span class='cus-id-2-right'>ID: 2369</span><table width=\"100%\"><tr><td>手</td><th><!--asc1-->布甲</th></tr></table><span><!--amr-->11点护甲</span><br /><!--e--><!--ps-->耐久度 16 / 16<br />需要等级 5<br />物品等级10<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">30</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?2369:1:1:5-->"
+        }
+    },
+    {
+        "id": 2371,
+        "name": "@采集草药",
+        "name_en": "Herb Gathering",
+        "icon": "spell_nature_naturetouchgrow",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 0,
+        "skill": [
+            182
+        ],
+        "reagents": [],
+        "source": [],
+        "colors": null,
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_nature_naturetouchgrow.jpg",
+        "tip": {
+            "name_zhcn": "破碎的皮腰带",
+            "quality": 1,
+            "icon": "inv_belt_03",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">破碎的皮腰带</b><span class='cus-id-2-right'>ID: 2371</span><table width=\"100%\"><tr><td>腰部</td><th><!--asc2-->皮甲</th></tr></table><span><!--amr-->29点护甲</span><br /><!--e--><!--ps-->耐久度 20 / 20<br />需要等级 5<br />物品等级10<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">37</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?2371:1:1:5-->"
+        }
+    },
+    {
+        "id": 2383,
+        "name": "@寻找草药",
+        "name_en": "Find Herbs",
+        "icon": "inv_misc_flower_02",
+        "level": 3,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 0,
+        "skill": [
+            182
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "learnedat": 1,
+        "colors": null,
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_flower_02.jpg",
+        "tip": {
+            "name_zhcn": "无光泽的链甲靴",
+            "quality": 1,
+            "icon": "inv_boots_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">无光泽的链甲靴</b><span class='cus-id-2-right'>ID: 2383</span><table width=\"100%\"><tr><td>脚</td><th><!--asc3-->锁甲</th></tr></table><span><!--amr-->46点护甲</span><br /><!--e--><!--ps-->耐久度 25 / 25<br />物品等级5<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">11</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?2383:1:1:80-->"
+        }
+    },
+    {
+        "id": 3570,
+        "name": "@采集草药",
+        "name_en": "Herb Gathering",
+        "icon": "spell_nature_naturetouchgrow",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 5000,
+        "skill": [
+            182
+        ],
+        "reagents": [],
+        "source": [
+            6
+        ],
+        "learnedat": 125,
+        "colors": null,
+        "rank": "高级",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_nature_naturetouchgrow.jpg",
+        "tip": {
+            "name_zhcn": "碾骨槌",
+            "quality": 2,
+            "icon": "inv_mace_06",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">碾骨槌</b><span class='cus-id-2-right'>ID: 3570</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>单手</td><th>锤</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->13 - 26伤害</td><th>速度 <!--spd-->2.40</th></tr></table><!--dps-->（每秒伤害8.1）<br /><span><!--stat4-->+2 力量</span><br /><!--e--><!--ps-->耐久度 50 / 50<br />物品等级16<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">8</span> <span class=\"moneycopper\">39</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?3570:1:1:80-->"
+        }
+    },
+    {
+        "id": 8387,
+        "name": "@寻找草药",
+        "name_en": "Find Herbs",
+        "icon": "inv_misc_herb_03",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 0,
+        "skill": [
+            182
+        ],
+        "reagents": [],
+        "source": [],
+        "colors": null,
+        "rank": "等级 2",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_herb_03.jpg",
+        "tip": {
+            "name_zhcn": "图样：巫毒面具",
+            "quality": 2,
+            "icon": "inv_scroll_06",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">图样：巫毒面具</b><span class='cus-id-2-right'>ID: 8387</span><br /><!--e--><!--ps-->需要<a class=\"q1\" href=\"?skill=165\">制皮</a> (220)<br /></td></tr></table><table><tr><td><span class=\"q2\">使用：  <a href=\"?spell=10531\">教你学会制作巫毒面具。</a></span><br /><span class=\"q1\">1次</span><br /><div><br /><span class=\"q2\"><a href=\"?item=8201\">巫毒面具</a></span><span class='cus-id-2-right'>ID: 8201</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>头部</td><th><!--asc2-->皮甲</th></tr></table><span><!--amr-->97点护甲</span><br /><span><!--stat5-->+14 智力</span><br /><!--e--><!--ps-->耐久度 50 / 50<br />需要等级 39<br />物品等级44<br /><span class=\"q2\">装备： 法术强度提高<!--rtg45-->10点。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">53</span> <span class=\"moneycopper\">50</span></div><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?8387:1:1:39--></div><div class=\"q1 whtt-reagents\"><br />需要 <a href=\"?item=4304\">厚皮</a> (8), <a href=\"?item=8151\">魔精</a> (6), <a href=\"?item=8343\">粗丝线</a> (1)</div><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">10</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table>"
+        }
+    },
+    {
+        "id": 11993,
+        "name": "@采集草药",
+        "name_en": "Herb Gathering",
+        "icon": "spell_nature_naturetouchgrow",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 50000,
+        "skill": [
+            182
+        ],
+        "reagents": [],
+        "source": [
+            6
+        ],
+        "learnedat": 200,
+        "colors": null,
+        "rank": "专家级",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_nature_naturetouchgrow.jpg",
+        "tip": {
+            "name_zhcn": "陶土戒指",
+            "quality": 2,
+            "icon": "inv_jewelry_ring_14",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">陶土戒指</b><span class='cus-id-2-right'>ID: 11993</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>手指</td></tr></table><span class=\"q2\">&lt;随机附魔&gt</span><br /><!--e--><!--ps-->需要等级 17<br />物品等级22<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">8</span> <span class=\"moneycopper\">74</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?11993:1:1:17-->"
+        }
+    },
+    {
+        "id": 28695,
+        "name": "@采集草药",
+        "name_en": "Herb Gathering",
+        "icon": "spell_nature_naturetouchgrow",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 100000,
+        "skill": [
+            182
+        ],
+        "reagents": [],
+        "source": [
+            6
+        ],
+        "learnedat": 275,
+        "colors": null,
+        "rank": "大师级",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_nature_naturetouchgrow.jpg",
+        "tip": {
+            "name_zhcn": "大元帅的锁甲手套",
+            "quality": 3,
+            "icon": "inv_gauntlets_11",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">大元帅的锁甲手套</b><span class='cus-id-2-right'>ID: 28695</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>手</td><th><!--asc3-->锁甲</th></tr></table><span><!--amr-->407点护甲</span><br /><span><!--stat7-->+33 耐力</span><br /><span><!--stat5-->+13 智力</span><br /><!--e--><!--ps-->耐久度 40 / 40<br />职业：<a href=\"?class=7\" class=\"c7\">萨满祭司</a><br />需要等级 70<br />物品等级115<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 爆击等级提高<!--rtg32-->14&nbsp;<small>(<!--rtg%32-->0.63%&nbsp;@&nbsp;L<!--lvl-->70)</small>。</span><br /><span class=\"q2\">装备： 韧性等级提高<!--rtg35-->13&nbsp;<small>(<!--rtg%35-->0.29%&nbsp;@&nbsp;L<!--lvl-->70)</small>。</span><br /><span class=\"q2\">装备： 法术强度提高25点。</span><br /><span class=\"q2\">装备： 使你的所有震击和风剪法术的射程延长5码。</span><br /><br /><span class=\"q\"><a href=\"?itemset=603\" class=\"q\">大元帅的雷霆之拳</a>（0/5）</span><div class=\"q0 indent\"><span><!--si28694--><a href=\"?item=28694\">大元帅的锁甲护胸</a></span><br /><span><!--si28695--><a href=\"?item=28695\">大元帅的锁甲手套</a></span><br /><span><!--si28696--><a href=\"?item=28696\">大元帅的锁甲头盔</a></span><br /><span><!--si28697--><a href=\"?item=28697\">大元帅的锁甲护腿</a></span><br /><span><!--si28698--><a href=\"?item=28698\">大元帅的锁甲护肩</a></span></div><br /><span class=\"q0\"><span>(2) 套装：<a href=\"?spell=40047\">+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。</a></span><br /><span>(4) 套装：<a href=\"?spell=22804\">震击法术的爆击几率提高2%。</a></span></span></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?28695:1:80:70-->"
+        }
+    },
+    {
+        "id": 32605,
+        "name": "@采集草药",
+        "name_en": "Herb Gathering",
+        "icon": "trade_herbalism",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 0,
+        "skill": [
+            182
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "learnedat": 1,
+        "colors": null,
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_herbalism.jpg",
+        "tip": {
+            "name_zhcn": "采集草药",
+            "icon": "trade_herbalism",
+            "tooltip_zhcn": "<table><tr><td><b>采集草药</b><br />近战范围<br />1.5秒施法时间</td></tr></table><!--?32605:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 50300,
+        "name": "@采集草药",
+        "name_en": "Herb Gathering",
+        "icon": "spell_nature_naturetouchgrow",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 350000,
+        "skill": [
+            182
+        ],
+        "reagents": [],
+        "source": [
+            6
+        ],
+        "learnedat": 350,
+        "colors": null,
+        "rank": "宗师级",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_nature_naturetouchgrow.jpg",
+        "tip": {
+            "name_zhcn": "窒息鳞甲",
+            "quality": 4,
+            "icon": "inv_chest_leather_23",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">窒息鳞甲</b><span class='cus-id-2-right'>ID: 50300</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>胸部</td><th><!--asc2-->皮甲</th></tr></table><span><!--amr-->596点护甲</span><br /><span><!--stat3-->+112 敏捷</span><br /><span><!--stat7-->+106 耐力</span><br /><!--e--><span class=\"socket-red q0\" >红色插槽</span><br /><!--ps--><span class=\"q0\">镶孔奖励：<a href=\"?enchantment=2908\">+4 命中等级</a></span><br />耐久度 120 / 120<br />需要等级 80<br />物品等级232<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 攻击强度提高<!--rtg38-->172点。</span><br /><span class=\"q2\">装备： 命中等级提高<!--rtg31-->59&nbsp;<small>(<!--rtg%31-->1.80%&nbsp;@&nbsp;L<!--lvl-->80)</small>。</span><br /><span class=\"q2\">装备： 使你的护甲穿透等级提高<!--rtg44-->89&nbsp;<small>(<!--rtg%44-->6.36%&nbsp;@&nbsp;L<!--lvl-->80)</small>。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">11</span> <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">3</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?50300:1:80:80-->"
+        }
+    },
+    {
+        "id": 55428,
+        "name": "@生命之血",
+        "name_en": "Lifeblood",
+        "icon": "spell_nature_wispsplodegreen",
+        "level": 0,
+        "school": 8,
+        "cat": 11,
+        "trainingcost": 0,
+        "skill": [
+            182
+        ],
+        "reagents": [],
+        "source": [],
+        "learnedat": 75,
+        "colors": null,
+        "rank": "等级 1",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_nature_wispsplodegreen.jpg",
+        "tip": {
+            "name_zhcn": "生命之血",
+            "icon": "spell_nature_wispsplodegreen",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>生命之血</b></td><th><b class=\"q0\">等级 1</b></th></tr></table><table width=\"100%\"><tr><td>瞬发</td><th>3 分钟冷却时间</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">使用你的草药学知识，吸收大地中的自然能量，在5 秒内恢复300点生命值。可以在潜行或隐形状态下使用。</span></td></tr></table><!--?55428:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "<table><tr><td><b class=\"q\">生命之血</b></td></tr></table><table><tr><td>每1秒恢复60点生命值。<br><span class=\"q\">持续5 秒<span></td></tr></table><!--?55428:1:1:80-->",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 55480,
+        "name": "@生命之血",
+        "name_en": "Lifeblood",
+        "icon": "spell_nature_wispsplodegreen",
+        "level": 0,
+        "school": 8,
+        "cat": 11,
+        "trainingcost": 0,
+        "skill": [
+            182
+        ],
+        "reagents": [],
+        "source": [],
+        "learnedat": 150,
+        "colors": null,
+        "rank": "等级 2",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_nature_wispsplodegreen.jpg",
+        "tip": {
+            "name_zhcn": "生命之血",
+            "icon": "spell_nature_wispsplodegreen",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>生命之血</b></td><th><b class=\"q0\">等级 2</b></th></tr></table><table width=\"100%\"><tr><td>瞬发</td><th>3 分钟冷却时间</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">使用你的草药学知识，吸收大地中的自然能量，在5 秒内恢复480点生命值。可以在潜行或隐形状态下使用。</span></td></tr></table><!--?55480:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "<table><tr><td><b class=\"q\">生命之血</b></td></tr></table><table><tr><td>每1秒恢复96点生命值。<br><span class=\"q\">持续5 秒<span></td></tr></table><!--?55480:1:1:80-->",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 55500,
+        "name": "@生命之血",
+        "name_en": "Lifeblood",
+        "icon": "spell_nature_wispsplodegreen",
+        "level": 10,
+        "school": 8,
+        "cat": 11,
+        "trainingcost": 0,
+        "skill": [
+            182
+        ],
+        "reagents": [],
+        "source": [],
+        "learnedat": 225,
+        "colors": null,
+        "rank": "等级 3",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_nature_wispsplodegreen.jpg",
+        "tip": {
+            "name_zhcn": "生命之血",
+            "icon": "spell_nature_wispsplodegreen",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>生命之血</b></td><th><b class=\"q0\">等级 3</b></th></tr></table><table width=\"100%\"><tr><td>瞬发</td><th>3 分钟冷却时间</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">使用你的草药学知识，吸收大地中的自然能量，在5 秒内恢复720点生命值。可以在潜行或隐形状态下使用。<br /><br />角色等级必须不低于10级。</span></td></tr></table><!--?55500:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "<table><tr><td><b class=\"q\">生命之血</b></td></tr></table><table><tr><td>每1秒恢复144点生命值。<br><span class=\"q\">持续5 秒<span></td></tr></table><!--?55500:1:1:80-->",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 55501,
+        "name": "@生命之血",
+        "name_en": "Lifeblood",
+        "icon": "spell_nature_wispsplodegreen",
+        "level": 25,
+        "school": 8,
+        "cat": 11,
+        "trainingcost": 0,
+        "skill": [
+            182
+        ],
+        "reagents": [],
+        "source": [],
+        "learnedat": 300,
+        "colors": null,
+        "rank": "等级 4",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_nature_wispsplodegreen.jpg",
+        "tip": {
+            "name_zhcn": "生命之血",
+            "icon": "spell_nature_wispsplodegreen",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>生命之血</b></td><th><b class=\"q0\">等级 4</b></th></tr></table><table width=\"100%\"><tr><td>瞬发</td><th>3 分钟冷却时间</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">使用你的草药学知识，吸收大地中的自然能量，在5 秒内恢复900点生命值。可以在潜行或隐形状态下使用。<br /><br />角色等级必须不低于25级。</span></td></tr></table><!--?55501:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "<table><tr><td><b class=\"q\">生命之血</b></td></tr></table><table><tr><td>每1秒恢复180点生命值。<br><span class=\"q\">持续5 秒<span></td></tr></table><!--?55501:1:1:80-->",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 55502,
+        "name": "@生命之血",
+        "name_en": "Lifeblood",
+        "icon": "spell_nature_wispsplodegreen",
+        "level": 40,
+        "school": 8,
+        "cat": 11,
+        "trainingcost": 0,
+        "skill": [
+            182
+        ],
+        "reagents": [],
+        "source": [],
+        "learnedat": 375,
+        "colors": null,
+        "rank": "等级 5",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_nature_wispsplodegreen.jpg",
+        "tip": {
+            "name_zhcn": "生命之血",
+            "icon": "spell_nature_wispsplodegreen",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>生命之血</b></td><th><b class=\"q0\">等级 5</b></th></tr></table><table width=\"100%\"><tr><td>瞬发</td><th>3 分钟冷却时间</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">使用你的草药学知识，吸收大地中的自然能量，在5 秒内恢复1200点生命值。可以在潜行或隐形状态下使用。<br /><br />角色等级必须不低于40级。</span></td></tr></table><!--?55502:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "<table><tr><td><b class=\"q\">生命之血</b></td></tr></table><table><tr><td>每1秒恢复240点生命值。<br><span class=\"q\">持续5 秒<span></td></tr></table><!--?55502:1:1:80-->",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 55503,
+        "name": "@生命之血",
+        "name_en": "Lifeblood",
+        "icon": "spell_nature_wispsplodegreen",
+        "level": 55,
+        "school": 8,
+        "cat": 11,
+        "trainingcost": 0,
+        "skill": [
+            182
+        ],
+        "reagents": [],
+        "source": [],
+        "learnedat": 450,
+        "colors": null,
+        "rank": "等级 6",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_nature_wispsplodegreen.jpg",
+        "tip": {
+            "name_zhcn": "生命之血",
+            "icon": "spell_nature_wispsplodegreen",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>生命之血</b></td><th><b class=\"q0\">等级 6</b></th></tr></table><table width=\"100%\"><tr><td>瞬发</td><th>3 分钟冷却时间</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">使用你的草药学知识，吸收大地中的自然能量，在5 秒内恢复3600点生命值。可以在潜行或隐形状态下使用。<br /><br />角色等级必须不低于55级。</span></td></tr></table><!--?55503:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "<table><tr><td><b class=\"q\">生命之血</b></td></tr></table><table><tr><td>每1秒恢复720点生命值。<br><span class=\"q\">持续5 秒<span></td></tr></table><!--?55503:1:1:80-->",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "category": -24,
+        "category2": 5,
+        "id": 866,
+        "level": 16,
+        "reqlevel": 9,
+        "name": "根须样本",
+        "name_en": "Root Samples",
+        "side": 3,
+        "wflags": 0,
+        "xp": 1150,
+        "itemrewards": [
+            [
+                5341,
+                1
+            ]
+        ],
+        "money": 800,
+        "reprewards": [
+            [
+                470,
+                250
+            ]
+        ],
+        "tab_name": "任务",
+        "tip": {
+            "name_zhcn": "僧侣法杖",
+            "quality": 2,
+            "icon": "inv_staff_08",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">僧侣法杖</b><span class='cus-id-2-right'>ID: 866</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>双手</td><th>法杖</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->60 - 90伤害</td><th>速度 <!--spd-->2.40</th></tr></table><!--dps-->（每秒伤害31.2）<br /><span class=\"q2\">&lt;随机附魔&gt</span><br /><!--e--><!--ps-->耐久度 85 / 85<br />需要等级 37<br />物品等级42<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">1</span> <span class=\"moneysilver\">66</span> <span class=\"moneycopper\">40</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?866:1:1:37-->"
+        }
+    }
+]

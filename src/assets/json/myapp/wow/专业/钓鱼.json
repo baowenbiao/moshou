@@ -1,0 +1,2251 @@
+[
+    {
+        "id": 46055,
+        "name": "6宗师级钓鱼教程 - 深海冒险",
+        "icon": "inv_misc_book_06",
+        "classs": 9,
+        "subclass": 9,
+        "side": 3,
+        "level": 70,
+        "displayid": 1246,
+        "name_en": "Grand Master Fishing - Deep Sea Adventures",
+        "reqskill": 356,
+        "reqskillrank": 275,
+        "tab_name": "配方物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_book_06.jpg",
+        "tip": {
+            "name_zhcn": "宗师级钓鱼教程 - 深海冒险",
+            "quality": 1,
+            "icon": "inv_misc_book_06",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">宗师级钓鱼教程 - 深海冒险</b><span class='cus-id-2-right'>ID: 46055</span><br /><!--e--><!--ps-->需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (275)<br /></td></tr></table><table><tr><td><span class=\"q2\">使用： 教你学会大师级的钓鱼知识，使钓鱼技能等级上限提高到375点。</span><br /><span class=\"q1\">1次</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">1</span> <span class=\"moneysilver\">25</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?46055:1:1:80-->"
+        }
+    },
+    {
+        "id": 27532,
+        "name": "6顶级钓鱼教材 - 下钩的艺术",
+        "icon": "inv_misc_book_06",
+        "classs": 9,
+        "subclass": 9,
+        "side": 3,
+        "level": 55,
+        "reqlevel": 45,
+        "displayid": 1246,
+        "name_en": "Master Fishing - The Art of Angling",
+        "reqskill": 356,
+        "reqskillrank": 275,
+        "source": [
+            5
+        ],
+        "tab_name": "配方物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_book_06.jpg",
+        "tip": {
+            "name_zhcn": "顶级钓鱼教材 - 下钩的艺术",
+            "quality": 1,
+            "icon": "inv_misc_book_06",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">顶级钓鱼教材 - 下钩的艺术</b><span class='cus-id-2-right'>ID: 27532</span><br /><!--e--><!--ps-->需要等级 45<br />需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (275)<br /></td></tr></table><table><tr><td><span class=\"q2\">使用： 教你学会大师级的钓鱼知识，使钓鱼技能等级上限提高到375点。</span><br /><span class=\"q1\">1次</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">1</span> <span class=\"moneysilver\">25</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?27532:1:1:45-->"
+        }
+    },
+    {
+        "id": 16082,
+        "name": "6高级钓鱼教材 - 鱼饵之道",
+        "icon": "inv_misc_book_10",
+        "classs": 9,
+        "subclass": 9,
+        "side": 3,
+        "level": 45,
+        "reqlevel": 35,
+        "displayid": 1134,
+        "name_en": "Artisan Fishing - The Way of the Lure",
+        "reqskill": 356,
+        "reqskillrank": 200,
+        "tab_name": "配方物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_book_10.jpg",
+        "tip": {
+            "name_zhcn": "高级钓鱼教材 - 鱼饵之道",
+            "quality": 1,
+            "icon": "inv_misc_book_10",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">高级钓鱼教材 - 鱼饵之道</b><span class='cus-id-2-right'>ID: 16082</span><br /><!--e--><!--ps-->需要等级 35<br />需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (200)<br /></td></tr></table><table><tr><td><span class=\"q2\">使用： 教你成为一名专家级渔夫，并使钓鱼技能上限提高到300点。</span><br /><span class=\"q1\">1次</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">50</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?16082:1:1:35-->"
+        }
+    },
+    {
+        "id": 34109,
+        "name": "6饱经风霜的日记",
+        "icon": "inv_misc_book_09",
+        "classs": 9,
+        "subclass": 9,
+        "side": 3,
+        "level": 40,
+        "displayid": 1588,
+        "name_en": "Weather-Beaten Journal",
+        "reqskill": 356,
+        "reqskillrank": 100,
+        "source": [
+            2
+        ],
+        "tab_name": "配方物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_book_09.jpg",
+        "tip": {
+            "name_zhcn": "饱经风霜的日记",
+            "quality": 1,
+            "icon": "inv_misc_book_09",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">饱经风霜的日记</b><span class='cus-id-2-right'>ID: 34109</span><br /><!--bo-->拾取后绑定<br /><!--e--><!--ps-->需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (100)<br /></td></tr></table><table><tr><td><span class=\"q2\">使用：  <a href=\"?spell=43308\">教你学会寻找鱼群。</a></span><br /><span class=\"q1\">1次</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">6</span> <span class=\"moneycopper\">25</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table>"
+        }
+    },
+    {
+        "id": 16083,
+        "name": "6中级钓鱼教材 - 鲈鱼与你",
+        "icon": "inv_misc_book_08",
+        "classs": 9,
+        "subclass": 9,
+        "side": 3,
+        "level": 30,
+        "displayid": 1155,
+        "name_en": "Expert Fishing - The Bass and You",
+        "reqskill": 356,
+        "reqskillrank": 125,
+        "source": [
+            5
+        ],
+        "sourcemore": [
+            {
+                "n": "老人海明威",
+                "t": 1,
+                "ti": 2626
+            }
+        ],
+        "tab_name": "配方物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_book_08.jpg",
+        "tip": {
+            "name_zhcn": "中级钓鱼教材 - 鲈鱼与你",
+            "quality": 1,
+            "icon": "inv_misc_book_08",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">中级钓鱼教材 - 鲈鱼与你</b><span class='cus-id-2-right'>ID: 16083</span><br /><!--e--><!--ps-->需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (125)<br /></td></tr></table><table><tr><td><span class=\"q2\">使用： 教你成为一名高级渔夫，并使钓鱼技能上限提高到225点。</span><br /><span class=\"q1\">1次</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">25</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?16083:1:1:80-->"
+        }
+    },
+    {
+        "id": 46054,
+        "name": "6中级钓鱼教材 - 新手钓鱼指南",
+        "icon": "inv_misc_book_10",
+        "classs": 9,
+        "subclass": 9,
+        "side": 3,
+        "level": 15,
+        "displayid": 1134,
+        "name_en": "Journeyman Fishing - Fishing for Dummies",
+        "reqskill": 356,
+        "reqskillrank": 200,
+        "tab_name": "配方物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_book_10.jpg",
+        "tip": {
+            "name_zhcn": "中级钓鱼教材 - 新手钓鱼指南",
+            "quality": 1,
+            "icon": "inv_misc_book_10",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">中级钓鱼教材 - 新手钓鱼指南</b><span class='cus-id-2-right'>ID: 46054</span><br /><!--e--><!--ps-->需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (200)<br /></td></tr></table><table><tr><td><span class=\"q2\">使用： 教你学会中级的钓鱼知识，使钓鱼技能等级上限提高到150点。</span><br /><span class=\"q1\">1次</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">50</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?46054:1:1:80-->"
+        }
+    },
+    {
+        "id": 43651,
+        "name": "2Crafty's Pole",
+        "icon": "inv_fishingpole_01",
+        "classs": 2,
+        "subclass": 20,
+        "side": 3,
+        "slot": 17,
+        "slotbak": 17,
+        "level": 200,
+        "displayid": 20619,
+        "speed": 3,
+        "dps": 0,
+        "mlespeed": 3,
+        "mledps": 0,
+        "gearscore": 200,
+        "name_en": "Crafty's Pole",
+        "reqskill": 356,
+        "reqskillrank": 1,
+        "tab_name": "需求者",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_fishingpole_01.jpg",
+        "tip": {
+            "name_zhcn": "Crafty's Pole",
+            "quality": 5,
+            "icon": "inv_fishingpole_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q5\">Crafty's Pole</b><span class='cus-id-2-right'>ID: 43651</span><br /><!--bo-->拾取后绑定<br />唯一<table width=\"100%\"><tr><td>双手</td><th>鱼竿</th></tr></table><!--e--><!--ps-->物品等级200<br />需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (1)<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 钓鱼技能提高1000点。</span><br /><span class=\"q\">\"Just holding this fishing pole makes you shiver with excitement.  This is possibly the most amazing thing you've ever seen.\"</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">37</span> <span class=\"moneysilver\">45</span> <span class=\"moneycopper\">38</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?43651:1:1:80-->"
+        }
+    },
+    {
+        "id": 44050,
+        "name": "3精致的卡鲁亚克鱼竿",
+        "icon": "inv_fishingpole_03",
+        "classs": 2,
+        "subclass": 20,
+        "side": 3,
+        "slot": 17,
+        "slotbak": 17,
+        "level": 200,
+        "displayid": 55572,
+        "dura": 75,
+        "dmgmin1": 447,
+        "dmgmax1": 672,
+        "speed": 3,
+        "dps": 186.5,
+        "mledmgmin": 447,
+        "mledmgmax": 672,
+        "mlespeed": 3,
+        "mledps": 186.5,
+        "feratkpwr": 1844,
+        "gearscore": 166.67,
+        "name_en": "Mastercraft Kalu'ak Fishing Pole",
+        "reqskill": 356,
+        "reqskillrank": 300,
+        "reqfaction": 1073,
+        "reqrep": 7,
+        "standing": 7,
+        "source": [
+            5
+        ],
+        "tab_name": "需求者",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_fishingpole_03.jpg",
+        "tip": {
+            "name_zhcn": "精致的卡鲁亚克鱼竿",
+            "quality": 4,
+            "icon": "inv_fishingpole_03",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">精致的卡鲁亚克鱼竿</b><span class='cus-id-2-right'>ID: 44050</span><br /><!--bo-->拾取后绑定<br />唯一<table width=\"100%\"><tr><td>双手</td><th>鱼竿</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->447 - 672伤害</td><th>速度 <!--spd-->3.00</th></tr></table><!--dps-->（每秒伤害186.5）<br /><span class=\"c11\"><!--fap-->(1844 在猎豹、熊、巨熊和枭兽形态下的攻击强度)</span><br /><!--e--><!--ps-->耐久度 75 / 75<br />物品等级200<br />需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (300)<br />需要<a class=\"q1\" href=\"?faction=1073\">卡鲁亚克</a> - 崇拜<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 使你可以在水下呼吸。</span><br /><span class=\"q2\">装备： 钓鱼技能提高30点。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">25</span> <span class=\"moneysilver\">60</span> <span class=\"moneycopper\">89</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?44050:1:1:80-->"
+        }
+    },
+    {
+        "id": 45991,
+        "name": "4骨质鱼竿",
+        "icon": "achievement_profession_fishing_journeymanfisher",
+        "classs": 2,
+        "subclass": 20,
+        "side": 3,
+        "slot": 17,
+        "slotbak": 17,
+        "level": 200,
+        "reqlevel": 70,
+        "displayid": 58715,
+        "shares": 40,
+        "dura": 65,
+        "dmgmin1": 406,
+        "dmgmax1": 610,
+        "speed": 3,
+        "dps": 169.3,
+        "mledmgmin": 406,
+        "mledmgmax": 610,
+        "mlespeed": 3,
+        "mledps": 169.3,
+        "feratkpwr": 1603,
+        "gearscore": 111.11,
+        "name_en": "Bone Fishing Pole",
+        "reqskill": 356,
+        "reqskillrank": 300,
+        "source": [
+            2
+        ],
+        "sourcemore": [
+            {
+                "n": "钓鱼宝藏",
+                "t": 3,
+                "ti": 46007,
+                "q": 1,
+                "icon": "inv_misc_bag_07_blue"
+            }
+        ],
+        "tab_name": "需求者",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/achievement_profession_fishing_journeymanfisher.jpg",
+        "tip": {
+            "name_zhcn": "骨质鱼竿",
+            "quality": 3,
+            "icon": "achievement_profession_fishing_journeymanfisher",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">骨质鱼竿</b><span class='cus-id-2-right'>ID: 45991</span><br /><!--bo-->拾取后绑定<br />唯一<table width=\"100%\"><tr><td>双手</td><th>鱼竿</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->406 - 610伤害</td><th>速度 <!--spd-->3.00</th></tr></table><!--dps-->（每秒伤害169.3）<br /><span class=\"c11\"><!--fap-->(1603 在猎豹、熊、巨熊和枭兽形态下的攻击强度)</span><br />+40 暗影抗性<br /><!--e--><!--ps-->耐久度 65 / 65<br />需要等级 70<br />物品等级200<br />需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (300)<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 钓鱼技能提高30点。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">17</span> <span class=\"moneysilver\">85</span> <span class=\"moneycopper\">18</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?45991:1:1:70-->"
+        }
+    },
+    {
+        "id": 45992,
+        "name": "4珠宝鱼竿",
+        "icon": "inv_fishingpole_05",
+        "classs": 2,
+        "subclass": 20,
+        "side": 3,
+        "slot": 17,
+        "slotbak": 17,
+        "level": 200,
+        "reqlevel": 70,
+        "displayid": 58716,
+        "dura": 65,
+        "dmgmin1": 406,
+        "dmgmax1": 610,
+        "speed": 3,
+        "dps": 169.3,
+        "mledmgmin": 406,
+        "mledmgmax": 610,
+        "mlespeed": 3,
+        "mledps": 169.3,
+        "feratkpwr": 1603,
+        "gearscore": 111.11,
+        "name_en": "Jeweled Fishing Pole",
+        "reqskill": 356,
+        "reqskillrank": 300,
+        "source": [
+            2
+        ],
+        "sourcemore": [
+            {
+                "n": "钓鱼宝藏",
+                "t": 3,
+                "ti": 46007,
+                "q": 1,
+                "icon": "inv_misc_bag_07_blue"
+            }
+        ],
+        "tab_name": "需求者",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_fishingpole_05.jpg",
+        "tip": {
+            "name_zhcn": "珠宝鱼竿",
+            "quality": 3,
+            "icon": "inv_fishingpole_05",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">珠宝鱼竿</b><span class='cus-id-2-right'>ID: 45992</span><br /><!--bo-->拾取后绑定<br />唯一<table width=\"100%\"><tr><td>双手</td><th>鱼竿</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->406 - 610伤害</td><th>速度 <!--spd-->3.00</th></tr></table><!--dps-->（每秒伤害169.3）<br /><span class=\"c11\"><!--fap-->(1603 在猎豹、熊、巨熊和枭兽形态下的攻击强度)</span><br /><!--e--><!--ps-->耐久度 65 / 65<br />需要等级 70<br />物品等级200<br />需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (300)<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 钓鱼技能提高30点。</span><br /><span class=\"q\">\"蒂凡妮·卡蒂亚荣誉出品。\"</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">17</span> <span class=\"moneysilver\">91</span> <span class=\"moneycopper\">99</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?45992:1:1:70-->"
+        }
+    },
+    {
+        "id": 19970,
+        "name": "4奥金钓鱼竿",
+        "icon": "inv_fishingpole_01",
+        "classs": 2,
+        "subclass": 20,
+        "side": 3,
+        "slot": 17,
+        "slotbak": 17,
+        "level": 20,
+        "displayid": 20619,
+        "dura": 45,
+        "dmgmin1": 42,
+        "dmgmax1": 63,
+        "speed": 3,
+        "dps": 17.5,
+        "mledmgmin": 42,
+        "mledmgmax": 63,
+        "mlespeed": 3,
+        "mledps": 17.5,
+        "gearscore": 11.111,
+        "name_en": "Arcanite Fishing Pole",
+        "reqskill": 356,
+        "reqskillrank": 300,
+        "source": [
+            4
+        ],
+        "sourcemore": [
+            {
+                "n": "钓鱼大师",
+                "t": 5,
+                "ti": 8193,
+                "c": -101,
+                "c2": 5
+            }
+        ],
+        "tab_name": "需求者",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_fishingpole_01.jpg",
+        "tip": {
+            "name_zhcn": "奥金钓鱼竿",
+            "quality": 3,
+            "icon": "inv_fishingpole_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">奥金钓鱼竿</b><span class='cus-id-2-right'>ID: 19970</span><br /><!--bo-->拾取后绑定<br />唯一<table width=\"100%\"><tr><td>双手</td><th>鱼竿</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->42 - 63伤害</td><th>速度 <!--spd-->3.00</th></tr></table><!--dps-->（每秒伤害17.5）<br /><!--e--><!--ps-->耐久度 45 / 45<br />物品等级20<br />需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (300)<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 钓鱼技能提高40点。</span><br /><span class=\"q\">\"看起来纳特·帕格本人曾经使用过它。\"</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">21</span> <span class=\"moneycopper\">75</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?19970:1:1:80-->"
+        }
+    },
+    {
+        "id": 45858,
+        "name": "4纳特的好运鱼竿",
+        "icon": "inv_fishingpole_01",
+        "classs": 2,
+        "subclass": 20,
+        "side": 3,
+        "slot": 17,
+        "slotbak": 17,
+        "level": 20,
+        "displayid": 20619,
+        "dura": 45,
+        "dmgmin1": 42,
+        "dmgmax1": 63,
+        "speed": 3,
+        "dps": 17.5,
+        "mledmgmin": 42,
+        "mledmgmax": 63,
+        "mlespeed": 3,
+        "mledps": 17.5,
+        "gearscore": 11.111,
+        "name_en": "Nat's Lucky Fishing Pole",
+        "reqskill": 356,
+        "reqskillrank": 225,
+        "source": [
+            4
+        ],
+        "tab_name": "需求者",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_fishingpole_01.jpg",
+        "tip": {
+            "name_zhcn": "纳特的好运鱼竿",
+            "quality": 3,
+            "icon": "inv_fishingpole_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">纳特的好运鱼竿</b><span class='cus-id-2-right'>ID: 45858</span><br /><!--bo-->拾取后绑定<br />唯一<table width=\"100%\"><tr><td>双手</td><th>鱼竿</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->42 - 63伤害</td><th>速度 <!--spd-->3.00</th></tr></table><!--dps-->（每秒伤害17.5）<br /><!--e--><!--ps-->耐久度 45 / 45<br />物品等级20<br />需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (225)<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 钓鱼技能提高25点。</span><br /></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?45858:1:1:80-->"
+        }
+    },
+    {
+        "id": 50287,
+        "name": "4海湾渔靴",
+        "icon": "inv_boots_cloth_21",
+        "classs": 4,
+        "subclass": 0,
+        "side": 3,
+        "slot": 8,
+        "slotbak": 8,
+        "level": 1,
+        "displayid": 63888,
+        "gearscore": 0.4167,
+        "name_en": "Boots of the Bay",
+        "reqskill": 356,
+        "reqskillrank": 200,
+        "source": [
+            4
+        ],
+        "sourcemore": [
+            {
+                "n": "卡鲁亚克钓鱼大赛",
+                "t": 5,
+                "ti": 24803,
+                "c": -101,
+                "c2": 5
+            }
+        ],
+        "tab_name": "需求者",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_boots_cloth_21.jpg",
+        "tip": {
+            "name_zhcn": "海湾渔靴",
+            "quality": 3,
+            "icon": "inv_boots_cloth_21",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">海湾渔靴</b><span class='cus-id-2-right'>ID: 50287</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>脚</td></tr></table><!--e--><!--ps-->物品等级1<br />需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (200)<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 钓鱼技能提高15点。</span><br /><span class=\"q2\">使用： 将你传送到藏宝海湾最高档的酒肆。 (1 天冷却时间)</span><br /></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?50287:1:1:80-->"
+        }
+    },
+    {
+        "id": 34836,
+        "name": "5真银渔线",
+        "icon": "inv_misc_thread_01",
+        "classs": 0,
+        "subclass": 6,
+        "side": 3,
+        "level": 70,
+        "displayid": 48720,
+        "name_en": "Spun Truesilver Fishing Line",
+        "reqskill": 356,
+        "reqskillrank": 300,
+        "source": [
+            2
+        ],
+        "sourcemore": [
+            {
+                "n": "钓鱼宝藏",
+                "t": 3,
+                "ti": 34863,
+                "q": 1,
+                "icon": "inv_misc_bag_10_green"
+            }
+        ],
+        "tab_name": "需求者",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_thread_01.jpg",
+        "tip": {
+            "name_zhcn": "真银渔线",
+            "quality": 2,
+            "icon": "inv_misc_thread_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">真银渔线</b><span class='cus-id-2-right'>ID: 34836</span><br /><!--bo-->拾取后绑定<br /><!--e--><!--ps-->需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (300)<br /></td></tr></table><table><tr><td><span class=\"q2\">使用： 将你的鱼竿上的渔线更换为精巧的真银渔线，使钓鱼技能提高3点。</span><br /><span class=\"q1\">1次</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">20</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?34836:1:1:80-->"
+        }
+    },
+    {
+        "id": 25978,
+        "name": "5塞瑟的石墨鱼竿",
+        "icon": "inv_fishingpole_01",
+        "classs": 2,
+        "subclass": 20,
+        "side": 3,
+        "slot": 17,
+        "slotbak": 17,
+        "level": 60,
+        "displayid": 20619,
+        "dura": 55,
+        "dmgmin1": 111,
+        "dmgmax1": 168,
+        "speed": 3,
+        "dps": 46.5,
+        "mledmgmin": 111,
+        "mledmgmax": 168,
+        "mlespeed": 3,
+        "mledps": 46.5,
+        "gearscore": 30,
+        "name_en": "Seth's Graphite Fishing Pole",
+        "reqskill": 356,
+        "reqskillrank": 200,
+        "source": [
+            4
+        ],
+        "sourcemore": [
+            {
+                "n": "宁可去钓鱼",
+                "t": 5,
+                "ti": 10037,
+                "c": 3519,
+                "c2": 8
+            }
+        ],
+        "tab_name": "需求者",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_fishingpole_01.jpg",
+        "tip": {
+            "name_zhcn": "塞瑟的石墨鱼竿",
+            "quality": 2,
+            "icon": "inv_fishingpole_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">塞瑟的石墨鱼竿</b><span class='cus-id-2-right'>ID: 25978</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>双手</td><th>鱼竿</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->111 - 168伤害</td><th>速度 <!--spd-->3.00</th></tr></table><!--dps-->（每秒伤害46.5）<br /><span><!--stat7-->+52 耐力</span><br /><!--e--><!--ps-->耐久度 55 / 55<br />物品等级60<br />需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (200)<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 钓鱼技能提高20点。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">5</span> <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">77</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?25978:1:1:80-->"
+        }
+    },
+    {
+        "id": 19022,
+        "name": "5纳特·帕格的超级钓鱼竿FC-5000型",
+        "icon": "inv_fishingpole_01",
+        "classs": 2,
+        "subclass": 20,
+        "side": 3,
+        "slot": 17,
+        "slotbak": 17,
+        "level": 50,
+        "displayid": 20619,
+        "dura": 55,
+        "dmgmin1": 93,
+        "dmgmax1": 140,
+        "speed": 3,
+        "dps": 38.8,
+        "mledmgmin": 93,
+        "mledmgmax": 140,
+        "mlespeed": 3,
+        "mledps": 38.8,
+        "gearscore": 25,
+        "name_en": "Nat Pagle's Extreme Angler FC-5000",
+        "reqskill": 356,
+        "reqskillrank": 100,
+        "source": [
+            4
+        ],
+        "sourcemore": [
+            {
+                "n": "钳嘴龟！",
+                "t": 5,
+                "ti": 7815,
+                "c": 47,
+                "c2": 0
+            }
+        ],
+        "tab_name": "需求者",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_fishingpole_01.jpg",
+        "tip": {
+            "name_zhcn": "纳特·帕格的超级钓鱼竿FC-5000型",
+            "quality": 2,
+            "icon": "inv_fishingpole_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">纳特·帕格的超级钓鱼竿FC-5000型</b><span class='cus-id-2-right'>ID: 19022</span><br /><!--bo-->拾取后绑定<br />唯一<table width=\"100%\"><tr><td>双手</td><th>鱼竿</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->93 - 140伤害</td><th>速度 <!--spd-->3.00</th></tr></table><!--dps-->（每秒伤害38.8）<br /><!--e--><!--ps-->耐久度 55 / 55<br />物品等级50<br />需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (100)<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 钓鱼技能提高20点。</span><br /><span class=\"q\">\"限量版\"</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">2</span> <span class=\"moneysilver\">85</span> <span class=\"moneycopper\">80</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?19022:1:1:80-->"
+        }
+    },
+    {
+        "id": 19971,
+        "name": "5高强度恒金渔线",
+        "icon": "inv_fabric_mageweave_02",
+        "classs": 0,
+        "subclass": 6,
+        "side": 3,
+        "level": 45,
+        "displayid": 32452,
+        "name_en": "High Test Eternium Fishing Line",
+        "reqskill": 356,
+        "reqskillrank": 150,
+        "source": [
+            2,
+            4
+        ],
+        "tab_name": "需求者",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_fabric_mageweave_02.jpg",
+        "tip": {
+            "name_zhcn": "高强度恒金渔线",
+            "quality": 2,
+            "icon": "inv_fabric_mageweave_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">高强度恒金渔线</b><span class='cus-id-2-right'>ID: 19971</span><br /><!--bo-->拾取后绑定<br /><!--e--><!--ps-->需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (150)<br /></td></tr></table><table><tr><td><span class=\"q2\">使用： 将你的钓鱼杆上的渔线换成一根高强度恒金渔线，使钓鱼技能提高5点。</span><br /><span class=\"q1\">1次</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">20</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?19971:1:1:80-->"
+        }
+    },
+    {
+        "id": 19969,
+        "name": "5纳特·帕格的超级钓鱼靴",
+        "icon": "inv_boots_09",
+        "classs": 4,
+        "subclass": 1,
+        "side": 3,
+        "slot": 8,
+        "slotbak": 8,
+        "level": 40,
+        "reqlevel": 35,
+        "displayid": 32449,
+        "armor": 36,
+        "dura": 35,
+        "gearscore": 15,
+        "name_en": "Nat Pagle's Extreme Anglin' Boots",
+        "reqskill": 356,
+        "reqskillrank": 1,
+        "source": [
+            4
+        ],
+        "sourcemore": [
+            {
+                "n": "稀有鱼类 - 布隆奈尔蓝斑鱼",
+                "t": 5,
+                "ti": 8225,
+                "c": -101,
+                "c2": 5
+            }
+        ],
+        "tab_name": "需求者",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_boots_09.jpg",
+        "tip": {
+            "name_zhcn": "纳特·帕格的超级钓鱼靴",
+            "quality": 2,
+            "icon": "inv_boots_09",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">纳特·帕格的超级钓鱼靴</b><span class='cus-id-2-right'>ID: 19969</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>脚</td><th><!--asc1-->布甲</th></tr></table><span><!--amr-->36点护甲</span><br /><span><!--stat7-->+12 耐力</span><br /><!--e--><!--ps-->耐久度 35 / 35<br />需要等级 35<br />物品等级40<br />需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (1)<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 钓鱼技能提高5点。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">33</span> <span class=\"moneycopper\">60</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?19969:1:1:35-->"
+        }
+    },
+    {
+        "id": 19972,
+        "name": "5幸运渔帽",
+        "icon": "inv_helmet_31",
+        "classs": 4,
+        "subclass": 1,
+        "side": 3,
+        "slot": 1,
+        "slotbak": 1,
+        "level": 40,
+        "displayid": 16548,
+        "armor": 43,
+        "dura": 45,
+        "gearscore": 20,
+        "name_en": "Lucky Fishing Hat",
+        "reqskill": 356,
+        "reqskillrank": 1,
+        "source": [
+            4
+        ],
+        "sourcemore": [
+            {
+                "n": "稀有鱼类 - 基佛天使鱼",
+                "t": 5,
+                "ti": 8221,
+                "c": -101,
+                "c2": 5
+            }
+        ],
+        "tab_name": "需求者",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_helmet_31.jpg",
+        "tip": {
+            "name_zhcn": "幸运渔帽",
+            "quality": 2,
+            "icon": "inv_helmet_31",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">幸运渔帽</b><span class='cus-id-2-right'>ID: 19972</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>头部</td><th><!--asc1-->布甲</th></tr></table><span><!--amr-->43点护甲</span><br /><span><!--stat7-->+15 耐力</span><br /><!--e--><!--ps-->耐久度 45 / 45<br />物品等级40<br />需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (1)<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 钓鱼技能提高5点。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">33</span> <span class=\"moneycopper\">96</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?19972:1:1:80-->"
+        }
+    },
+    {
+        "id": 39148,
+        "name": "6珊瑚龟宝宝",
+        "icon": "inv_misc_fish_turtle_03",
+        "classs": 15,
+        "subclass": 2,
+        "side": 3,
+        "level": 70,
+        "displayid": 51538,
+        "name_en": "Baby Coralshell Turtle",
+        "reqskill": 356,
+        "reqskillrank": 450,
+        "tab_name": "需求者",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_fish_turtle_03.jpg",
+        "tip": {
+            "name_zhcn": "珊瑚龟宝宝",
+            "quality": 1,
+            "icon": "inv_misc_fish_turtle_03",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">珊瑚龟宝宝</b><span class='cus-id-2-right'>ID: 39148</span><br /><!--e--><!--ps-->需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (450)<br /></td></tr></table><table><tr><td></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?39148:1:1:80-->"
+        }
+    },
+    {
+        "id": 6367,
+        "name": "6粗铁鱼竿",
+        "icon": "inv_fishingpole_01",
+        "classs": 2,
+        "subclass": 20,
+        "side": 3,
+        "slot": 17,
+        "slotbak": 17,
+        "level": 30,
+        "reqlevel": 25,
+        "displayid": 20619,
+        "dura": 55,
+        "dmgmin1": 45,
+        "dmgmax1": 69,
+        "speed": 3,
+        "dps": 19,
+        "mledmgmin": 45,
+        "mledmgmax": 69,
+        "mlespeed": 3,
+        "mledps": 19,
+        "gearscore": 0,
+        "name_en": "Big Iron Fishing Pole",
+        "reqskill": 356,
+        "reqskillrank": 100,
+        "source": [
+            2
+        ],
+        "sourcemore": [
+            {
+                "n": "贝壳陷阱",
+                "t": 2,
+                "ti": 176582
+            }
+        ],
+        "tab_name": "需求者",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_fishingpole_01.jpg",
+        "tip": {
+            "name_zhcn": "粗铁鱼竿",
+            "quality": 1,
+            "icon": "inv_fishingpole_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">粗铁鱼竿</b><span class='cus-id-2-right'>ID: 6367</span><table width=\"100%\"><tr><td>双手</td><th>鱼竿</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->45 - 69伤害</td><th>速度 <!--spd-->3.00</th></tr></table><!--dps-->（每秒伤害19.0）<br /><!--e--><!--ps-->耐久度 55 / 55<br />需要等级 25<br />物品等级30<br />需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (100)<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 钓鱼技能提高20点。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">33</span> <span class=\"moneycopper\">78</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?6367:1:1:25-->"
+        }
+    },
+    {
+        "id": 6532,
+        "name": "6明亮的小珠",
+        "icon": "inv_misc_gem_variety_02",
+        "classs": 0,
+        "subclass": -3,
+        "side": 3,
+        "level": 30,
+        "displayid": 12423,
+        "name_en": "Bright Baubles",
+        "reqskill": 356,
+        "reqskillrank": 100,
+        "source": [
+            2,
+            5
+        ],
+        "tab_name": "需求者",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_gem_variety_02.jpg",
+        "tip": {
+            "name_zhcn": "明亮的小珠",
+            "quality": 1,
+            "icon": "inv_misc_gem_variety_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">明亮的小珠</b><span class='cus-id-2-right'>ID: 6532</span><br /><!--e--><!--ps-->需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (100)<br /></td></tr></table><table><tr><td><span class=\"q2\">使用： 装备在鱼竿上之后，可以使你的钓鱼技能提高75点，持续10分钟。</span><br /><span class=\"q1\">1次</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">62</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?6532:1:1:80-->"
+        }
+    },
+    {
+        "id": 6533,
+        "name": "6水下诱鱼器",
+        "icon": "inv_misc_food_26",
+        "classs": 7,
+        "subclass": 3,
+        "side": 3,
+        "level": 30,
+        "displayid": 12425,
+        "name_en": "Aquadynamic Fish Attractor",
+        "reqskill": 356,
+        "reqskillrank": 100,
+        "source": [
+            1,
+            5
+        ],
+        "tab_name": "需求者",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_food_26.jpg",
+        "tip": {
+            "name_zhcn": "水下诱鱼器",
+            "quality": 1,
+            "icon": "inv_misc_food_26",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">水下诱鱼器</b><span class='cus-id-2-right'>ID: 6533</span><br /><!--e--><!--ps-->需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (100)<br /></td></tr></table><table><tr><td><span class=\"q2\">使用： 装备在鱼竿上之后，可以使你的钓鱼技能提高100点，持续10分钟。</span><br /><span class=\"q1\">1次</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">62</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?6533:1:1:80-->"
+        }
+    },
+    {
+        "id": 7307,
+        "name": "6食腐虫",
+        "icon": "inv_misc_monstertail_03",
+        "classs": 0,
+        "subclass": -3,
+        "side": 3,
+        "level": 30,
+        "displayid": 18098,
+        "name_en": "Flesh Eating Worm",
+        "reqskill": 356,
+        "reqskillrank": 100,
+        "source": [
+            2
+        ],
+        "sourcemore": [
+            {
+                "n": "腐烂者",
+                "t": 1,
+                "ti": 948
+            }
+        ],
+        "tab_name": "需求者",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_monstertail_03.jpg",
+        "tip": {
+            "name_zhcn": "食腐虫",
+            "quality": 1,
+            "icon": "inv_misc_monstertail_03",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">食腐虫</b><span class='cus-id-2-right'>ID: 7307</span><br /><!--e--><!--ps-->需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (100)<br /></td></tr></table><table><tr><td><span class=\"q2\">使用： 装备在鱼竿上之后，可以使你的钓鱼技能提高75点，持续10分钟。</span><br /><span class=\"q1\">1次</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">62</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?7307:1:1:80-->"
+        }
+    },
+    {
+        "id": 34861,
+        "name": "6锐利的鱼钩",
+        "icon": "inv_misc_hook_01",
+        "classs": 0,
+        "subclass": -3,
+        "side": 3,
+        "level": 30,
+        "displayid": 48725,
+        "name_en": "Sharpened Fish Hook",
+        "reqskill": 356,
+        "reqskillrank": 100,
+        "source": [
+            2
+        ],
+        "sourcemore": [
+            {
+                "n": "钓鱼宝藏",
+                "t": 3,
+                "ti": 35348,
+                "q": 1,
+                "icon": "inv_misc_bag_10_green"
+            }
+        ],
+        "tab_name": "需求者",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_hook_01.jpg",
+        "tip": {
+            "name_zhcn": "锐利的鱼钩",
+            "quality": 1,
+            "icon": "inv_misc_hook_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">锐利的鱼钩</b><span class='cus-id-2-right'>ID: 34861</span><br /><!--e--><!--ps-->需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (100)<br /></td></tr></table><table><tr><td><span class=\"q2\">使用： 附在鱼竿上，可以使钓鱼技能提高100点，持续10分钟。</span><br /><span class=\"q1\">1次</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">1</span> <span class=\"moneycopper\">37</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?34861:1:1:80-->"
+        }
+    },
+    {
+        "id": 46006,
+        "name": "6发光的虫子",
+        "icon": "inv_inscription_pigment_bug07",
+        "classs": 0,
+        "subclass": -3,
+        "side": 3,
+        "level": 30,
+        "displayid": 58725,
+        "name_en": "Glow Worm",
+        "reqskill": 356,
+        "reqskillrank": 100,
+        "source": [
+            2
+        ],
+        "sourcemore": [
+            {
+                "n": "钓鱼宝藏",
+                "t": 3,
+                "ti": 46007,
+                "q": 1,
+                "icon": "inv_misc_bag_07_blue"
+            }
+        ],
+        "tab_name": "需求者",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_inscription_pigment_bug07.jpg",
+        "tip": {
+            "name_zhcn": "发光的虫子",
+            "quality": 1,
+            "icon": "inv_inscription_pigment_bug07",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">发光的虫子</b><span class='cus-id-2-right'>ID: 46006</span><br /><!--bo-->拾取后绑定<br /><!--e--><!--ps-->需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (100)<br /></td></tr></table><table><tr><td><span class=\"q2\">使用： 装备在鱼竿上之后，可以使你的钓鱼技能提高100点，持续1小时。</span><br /><span class=\"q1\">1次</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">1</span> <span class=\"moneycopper\">88</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?46006:1:1:80-->"
+        }
+    },
+    {
+        "id": 6366,
+        "name": "6暗木鱼竿",
+        "icon": "inv_fishingpole_02",
+        "classs": 2,
+        "subclass": 20,
+        "side": 3,
+        "slot": 17,
+        "slotbak": 17,
+        "level": 20,
+        "reqlevel": 15,
+        "displayid": 20731,
+        "dura": 40,
+        "dmgmin1": 28,
+        "dmgmax1": 43,
+        "speed": 3,
+        "dps": 11.8,
+        "mledmgmin": 28,
+        "mledmgmax": 43,
+        "mlespeed": 3,
+        "mledps": 11.8,
+        "gearscore": 0,
+        "name_en": "Darkwood Fishing Pole",
+        "reqskill": 356,
+        "reqskillrank": 50,
+        "source": [
+            16
+        ],
+        "tab_name": "需求者",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_fishingpole_02.jpg",
+        "tip": {
+            "name_zhcn": "暗木鱼竿",
+            "quality": 1,
+            "icon": "inv_fishingpole_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">暗木鱼竿</b><span class='cus-id-2-right'>ID: 6366</span><table width=\"100%\"><tr><td>双手</td><th>鱼竿</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->28 - 43伤害</td><th>速度 <!--spd-->3.00</th></tr></table><!--dps-->（每秒伤害11.8）<br /><!--e--><!--ps-->耐久度 40 / 40<br />需要等级 15<br />物品等级20<br />需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (50)<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 钓鱼技能提高15点。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">10</span> <span class=\"moneycopper\">66</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?6366:1:1:15-->"
+        }
+    },
+    {
+        "id": 6530,
+        "name": "6夜色虫",
+        "icon": "inv_misc_monstertail_03",
+        "classs": 0,
+        "subclass": -3,
+        "side": 3,
+        "level": 20,
+        "displayid": 18098,
+        "name_en": "Nightcrawlers",
+        "reqskill": 356,
+        "reqskillrank": 50,
+        "source": [
+            2,
+            5
+        ],
+        "tab_name": "需求者",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_monstertail_03.jpg",
+        "tip": {
+            "name_zhcn": "夜色虫",
+            "quality": 1,
+            "icon": "inv_misc_monstertail_03",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">夜色虫</b><span class='cus-id-2-right'>ID: 6530</span><br /><!--e--><!--ps-->需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (50)<br /></td></tr></table><table><tr><td><span class=\"q2\">使用： 装备在鱼竿上之后，可以使你的钓鱼技能提高50点，持续10分钟。</span><br /><span class=\"q1\">1次</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">25</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?6530:1:1:80-->"
+        }
+    },
+    {
+        "id": 6811,
+        "name": "6水下鱼珠",
+        "icon": "inv_misc_spyglass_01",
+        "classs": 0,
+        "subclass": -3,
+        "side": 3,
+        "level": 20,
+        "displayid": 13086,
+        "name_en": "Aquadynamic Fish Lens",
+        "reqskill": 356,
+        "reqskillrank": 50,
+        "source": [
+            4
+        ],
+        "sourcemore": [
+            {
+                "n": "导电器",
+                "t": 5,
+                "ti": 1580,
+                "c": -101,
+                "c2": 5
+            }
+        ],
+        "tab_name": "需求者",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_spyglass_01.jpg",
+        "tip": {
+            "name_zhcn": "水下鱼珠",
+            "quality": 1,
+            "icon": "inv_misc_spyglass_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">水下鱼珠</b><span class='cus-id-2-right'>ID: 6811</span><br /><!--e--><!--ps-->需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (50)<br /></td></tr></table><table><tr><td><span class=\"q2\">使用： 装备在鱼竿上之后，可以使你的钓鱼技能提高50点，持续10分钟。</span><br /><span class=\"q1\">1次</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">25</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?6811:1:1:80-->"
+        }
+    },
+    {
+        "id": 7996,
+        "name": "6破旧的渔帽",
+        "icon": "inv_helmet_31",
+        "classs": 4,
+        "subclass": 1,
+        "side": 3,
+        "slot": 1,
+        "slotbak": 1,
+        "level": 20,
+        "reqlevel": 15,
+        "displayid": 16548,
+        "armor": 26,
+        "dura": 35,
+        "gearscore": 0,
+        "name_en": "Worn Fishing Hat",
+        "reqskill": 356,
+        "reqskillrank": 1,
+        "source": [
+            4
+        ],
+        "sourcemore": [
+            {
+                "n": "稀有鱼类 - 灰白食尸鱼",
+                "t": 5,
+                "ti": 8226,
+                "c": -101,
+                "c2": 5
+            }
+        ],
+        "tab_name": "需求者",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_helmet_31.jpg",
+        "tip": {
+            "name_zhcn": "破旧的渔帽",
+            "quality": 1,
+            "icon": "inv_helmet_31",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">破旧的渔帽</b><span class='cus-id-2-right'>ID: 7996</span><table width=\"100%\"><tr><td>头部</td><th><!--asc1-->布甲</th></tr></table><span><!--amr-->26点护甲</span><br /><!--e--><!--ps-->耐久度 35 / 35<br />需要等级 15<br />物品等级20<br />需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (1)<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 钓鱼技能提高5点。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">2</span> <span class=\"moneycopper\">44</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?7996:1:1:15-->"
+        }
+    },
+    {
+        "id": 6365,
+        "name": "6强化钓鱼竿",
+        "icon": "inv_fishingpole_02",
+        "classs": 2,
+        "subclass": 20,
+        "side": 3,
+        "slot": 17,
+        "slotbak": 17,
+        "level": 10,
+        "reqlevel": 5,
+        "displayid": 20618,
+        "dura": 25,
+        "dmgmin1": 13,
+        "dmgmax1": 21,
+        "speed": 3,
+        "dps": 5.7,
+        "mledmgmin": 13,
+        "mledmgmax": 21,
+        "mlespeed": 3,
+        "mledps": 5.7,
+        "gearscore": 0,
+        "name_en": "Strong Fishing Pole",
+        "reqskill": 356,
+        "reqskillrank": 10,
+        "source": [
+            5
+        ],
+        "tab_name": "需求者",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_fishingpole_02.jpg",
+        "tip": {
+            "name_zhcn": "强化钓鱼竿",
+            "quality": 1,
+            "icon": "inv_fishingpole_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">强化钓鱼竿</b><span class='cus-id-2-right'>ID: 6365</span><table width=\"100%\"><tr><td>双手</td><th>鱼竿</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->13 - 21伤害</td><th>速度 <!--spd-->3.00</th></tr></table><!--dps-->（每秒伤害5.7）<br /><!--e--><!--ps-->耐久度 25 / 25<br />需要等级 5<br />物品等级10<br />需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (10)<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 钓鱼技能提高5点。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">1</span> <span class=\"moneycopper\">80</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?6365:1:1:5-->"
+        }
+    },
+    {
+        "id": 12225,
+        "name": "6布拉普家族鱼竿",
+        "icon": "inv_fishingpole_02",
+        "classs": 2,
+        "subclass": 20,
+        "side": 3,
+        "slot": 17,
+        "slotbak": 17,
+        "level": 10,
+        "displayid": 20618,
+        "dura": 25,
+        "dmgmin1": 13,
+        "dmgmax1": 21,
+        "speed": 3,
+        "dps": 5.7,
+        "mledmgmin": 13,
+        "mledmgmax": 21,
+        "mlespeed": 3,
+        "mledps": 5.7,
+        "gearscore": 0,
+        "name_en": "Blump Family Fishing Pole",
+        "reqskill": 356,
+        "reqskillrank": 1,
+        "source": [
+            4
+        ],
+        "sourcemore": [
+            {
+                "n": "钓鱼世家",
+                "t": 5,
+                "ti": 1141,
+                "c": 148,
+                "c2": 1
+            }
+        ],
+        "tab_name": "需求者",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_fishingpole_02.jpg",
+        "tip": {
+            "name_zhcn": "布拉普家族鱼竿",
+            "quality": 1,
+            "icon": "inv_fishingpole_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">布拉普家族鱼竿</b><span class='cus-id-2-right'>ID: 12225</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>双手</td><th>鱼竿</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->13 - 21伤害</td><th>速度 <!--spd-->3.00</th></tr></table><!--dps-->（每秒伤害5.7）<br /><!--e--><!--ps-->耐久度 25 / 25<br />物品等级10<br />需要<a class=\"q1\" href=\"?skill=356\">钓鱼</a> (1)<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 钓鱼技能提高3点。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">1</span> <span class=\"moneycopper\">88</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?12225:1:1:80-->"
+        }
+    },
+    {
+        "id": 7620,
+        "name": "@钓鱼",
+        "name_en": "Fishing",
+        "icon": "trade_fishing",
+        "level": 1,
+        "school": 1,
+        "cat": 9,
+        "trainingcost": 100,
+        "skill": [
+            356
+        ],
+        "reagents": [],
+        "source": [
+            6
+        ],
+        "colors": null,
+        "rank": "初级",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_fishing.jpg",
+        "tip": {
+            "name_zhcn": "钓鱼",
+            "icon": "trade_fishing",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>钓鱼</b></td><th><b class=\"q0\">初级</b></th></tr></table>10 - 20码范围<br /><table width=\"100%\"><tr><td>需引导</td><th>0 秒冷却时间</th></tr></table></td></tr></table><table><tr><td>需要 鱼竿<br /><span class=\"q\">装备鱼竿之后可以寻找一片水域钓鱼。当水中的鱼漂溅起水花的时候，立刻右键点击鱼漂以捕捉上钩的鱼。钓鱼技能的等级越高，你越有可能在高等级的水域中钓到鱼。</span></td></tr></table><!--?7620:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 7731,
+        "name": "@钓鱼",
+        "name_en": "Fishing",
+        "icon": "trade_fishing",
+        "level": 1,
+        "school": 1,
+        "cat": 9,
+        "trainingcost": 500,
+        "skill": [
+            356
+        ],
+        "reagents": [],
+        "source": [
+            6
+        ],
+        "learnedat": 50,
+        "colors": null,
+        "rank": "中级",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_fishing.jpg",
+        "tip": {
+            "name_zhcn": "鬼魅碎片护符",
+            "quality": 3,
+            "icon": "inv_jewelry_necklace_06",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">鬼魅碎片护符</b><span class='cus-id-2-right'>ID: 7731</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>颈部</td></tr></table><span><!--stat7-->+9 耐力</span><br /><!--e--><!--ps-->需要等级 30<br />物品等级35<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 法术强度提高5点。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">34</span> <span class=\"moneycopper\">82</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?7731:1:1:30-->"
+        }
+    },
+    {
+        "id": 7732,
+        "name": "@钓鱼",
+        "name_en": "Fishing",
+        "icon": "trade_fishing",
+        "level": 1,
+        "school": 1,
+        "cat": 9,
+        "trainingcost": 10000,
+        "skill": [
+            356
+        ],
+        "reagents": [],
+        "source": [
+            6
+        ],
+        "learnedat": 125,
+        "colors": null,
+        "rank": "高级",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_fishing.jpg",
+        "tip": {
+            "name_zhcn": "复制虫",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">复制虫</b></td></tr><tr><td>等级 1 未指定 (普通)</td></tr></table>",
+            "map": {
+                "zone": 1,
+                "coords": {
+                    "0": [
+                        [
+                            19.7,
+                            32
+                        ],
+                        [
+                            19.9,
+                            32.2
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 7738,
+        "name": "@鱼竿",
+        "name_en": "Fishing Poles",
+        "icon": "trade_fishing",
+        "level": 0,
+        "school": 1,
+        "cat": 9,
+        "trainingcost": 0,
+        "skill": [
+            356
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "learnedat": 1,
+        "colors": null,
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_fishing.jpg",
+        "tip": {
+            "name_zhcn": "常青手套",
+            "quality": 2,
+            "icon": "inv_gauntlets_18",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">常青手套</b><span class='cus-id-2-right'>ID: 7738</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>手</td><th><!--asc1-->布甲</th></tr></table><span><!--amr-->20点护甲</span><br /><span><!--stat5-->+3 智力</span><br /><span><!--stat6-->+2 精神</span><br /><!--e--><!--ps-->耐久度 20 / 20<br />物品等级18<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">2</span> <span class=\"moneycopper\">11</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?7738:1:1:80-->"
+        }
+    },
+    {
+        "id": 18248,
+        "name": "@钓鱼",
+        "name_en": "Fishing",
+        "icon": "trade_fishing",
+        "level": 1,
+        "school": 1,
+        "cat": 9,
+        "trainingcost": 25000,
+        "skill": [
+            356
+        ],
+        "reagents": [],
+        "source": [
+            6
+        ],
+        "learnedat": 200,
+        "colors": null,
+        "rank": "专家级",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_fishing.jpg",
+        "tip": {
+            "name_zhcn": "红色骷髅战马",
+            "quality": 4,
+            "icon": "ability_mount_undeadhorse",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">红色骷髅战马</b><span class='cus-id-2-right'>ID: 18248</span><br /><!--bo-->拾取后绑定<br /><!--e--><!--ps-->种族：部落<br />需要等级 40<br />需要<a class=\"q1\" href=\"?skill=762\">骑术</a> (75)<br /></td></tr></table><table><tr><td><span class=\"q2\">使用：  <a href=\"?spell=22722\">教你学会召唤这种坐骑。</a></span><br /><span class=\"q1\">1次</span><br /></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table>"
+        }
+    },
+    {
+        "id": 33095,
+        "name": "@钓鱼",
+        "name_en": "Fishing",
+        "icon": "trade_fishing",
+        "level": 1,
+        "school": 1,
+        "cat": 9,
+        "trainingcost": 100000,
+        "skill": [
+            356
+        ],
+        "reagents": [],
+        "source": [
+            6
+        ],
+        "learnedat": 275,
+        "colors": null,
+        "rank": "大师级",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_fishing.jpg",
+        "tip": {
+            "name_zhcn": "石槌战旗",
+            "quality": 1,
+            "icon": "inv_banner_03",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">石槌战旗</b><span class='cus-id-2-right'>ID: 33095</span><br /><!--bo-->任务物品<br /><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">使用： 将战旗插在奥妮克希亚巢穴的入口。 (1 分钟冷却时间)</span><br /><span class=\"q\">\"这面旗帜已经相当破旧了，还散发着恶臭，但它仍然代表着石槌氏族的荣耀。\"</span></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?33095:1:1:80-->"
+        }
+    },
+    {
+        "id": 43308,
+        "name": "@寻找渔点",
+        "name_en": "Find Fish",
+        "icon": "inv_misc_fish_02",
+        "level": 0,
+        "school": 1,
+        "cat": 9,
+        "trainingcost": 0,
+        "skill": [
+            356
+        ],
+        "reagents": [],
+        "source": [
+            2
+        ],
+        "learnedat": 100,
+        "colors": null,
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_fish_02.jpg",
+        "tip": {
+            "name_zhcn": "荣誉点数",
+            "quality": 1,
+            "icon": "spell_holy_championsbond",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">荣誉点数</b><span class='cus-id-2-right'>ID: 43308</span><br /><!--bo-->拾取后绑定<br /><!--e--><!--ps-->需要等级 60<br /></td></tr></table><table><tr><td><span class=\"q\">\"荣誉是通过在PvP战斗中杀死敌对阵营的成员获得的。你可以使用荣誉点数购买特殊的物品。\"</span></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?43308:1:1:60-->"
+        }
+    },
+    {
+        "id": 51294,
+        "name": "@钓鱼",
+        "name_en": "Fishing",
+        "icon": "trade_fishing",
+        "level": 1,
+        "school": 1,
+        "cat": 9,
+        "trainingcost": 350000,
+        "skill": [
+            356
+        ],
+        "reagents": [],
+        "source": [
+            6
+        ],
+        "learnedat": 350,
+        "colors": null,
+        "rank": "宗师级",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_fishing.jpg",
+        "tip": {
+            "name_zhcn": "神圣树纹法衣",
+            "quality": 4,
+            "icon": "inv_chest_leather_21",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">神圣树纹法衣</b><span class='cus-id-2-right'>ID: 51294</span><br /><span class=\"q2\">英雄级别</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>胸部</td><th><!--asc2-->皮甲</th></tr></table><span><!--amr-->694点护甲</span><br /><span><!--stat7-->+139 耐力</span><br /><span><!--stat5-->+139 智力</span><br /><!--e--><span class=\"socket-red q0\" >红色插槽</span><br /><span class=\"socket-yellow q0\" >黄色插槽</span><br /><!--ps--><span class=\"q0\">镶孔奖励：<a href=\"?enchantment=3602\">+7 法术强度</a></span><br />耐久度 120 / 120<br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />需要等级 80<br />物品等级277<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 法术强度提高<!--rtg45-->195点。</span><br /><span class=\"q2\">装备： 爆击等级提高<!--rtg32-->122&nbsp;<small>(<!--rtg%32-->2.66%&nbsp;@&nbsp;L<!--lvl-->80)</small>。</span><br /><span class=\"q2\">装备： 急速等级提高<!--rtg36-->106&nbsp;<small>(<!--rtg%36-->3.23%&nbsp;@&nbsp;L<!--lvl-->80)</small>。</span><br /><br /><span class=\"q\"><a href=\"?itemset=-258\" class=\"q\">树纹法衣</a>（0/5）</span><div class=\"q0 indent\"><span><!--si50821:51149:51290:51704--><a href=\"?item=51290\">神圣树纹头巾</a></span><br /><span><!--si50822:51148:51291:51703--><a href=\"?item=51291\">神圣树纹手套</a></span><br /><span><!--si51706:50819:51147:51292--><a href=\"?item=51292\">神圣树纹衬肩</a></span><br /><span><!--si50820:51146:51293:51705--><a href=\"?item=51293\">神圣树纹长裤</a></span><br /><span><!--si50823:51145:51294:51702--><a href=\"?item=51294\">神圣树纹法衣</a></span></div><br /><span class=\"q0\"><span>(2) 套装：<a href=\"?spell=70718\">当你的清晰预兆天赋使你获得节能施法效果时，你可造成额外15%的自然和奥术伤害，持续6 秒。</a></span><br /><span>(4) 套装：<a href=\"?spell=70723\">你的星火术和愤怒法术所造成的爆击使你法术对目标所造成的伤害提高额外的7%，持续4 秒。</a></span></span></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?51294:1:80:80-->"
+        }
+    },
+    {
+        "id": 62734,
+        "name": "@钓鱼",
+        "name_en": "Fishing",
+        "icon": "trade_fishing",
+        "level": 1,
+        "school": 1,
+        "cat": 9,
+        "trainingcost": 0,
+        "skill": [
+            356
+        ],
+        "reagents": [],
+        "source": [],
+        "colors": null,
+        "rank": "初级",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_fishing.jpg",
+        "tip": {
+            "name_zhcn": "钓鱼",
+            "icon": "trade_fishing",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>钓鱼</b></td><th><b class=\"q0\">初级</b></th></tr></table>10 - 20码范围<br />需引导</td></tr></table><table><tr><td><span class=\"q\">装备鱼竿之后可以寻找一片水域钓鱼。当水中的鱼漂溅起水花的时候，立刻右键点击鱼漂以捕捉上钩的鱼。钓鱼技能的等级越高，你越有可能在高等级的水域中钓到鱼。</span></td></tr></table><!--?62734:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "category": -101,
+        "category2": 5,
+        "id": 1579,
+        "level": 12,
+        "reqlevel": 10,
+        "name": "小齿轮",
+        "name_en": "Gaffer Jacks",
+        "side": 1,
+        "wflags": 0,
+        "xp": 455,
+        "money": 250,
+        "reprewards": [
+            [
+                54,
+                75
+            ]
+        ],
+        "tab_name": "任务",
+        "tip": {
+            "name_zhcn": "Mage 30",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">Mage 30</b></td></tr><tr><td>等级 30 人型生物 (普通)</td></tr></table>",
+            "map": {}
+        }
+    },
+    {
+        "category": -101,
+        "category2": 5,
+        "id": 1580,
+        "level": 12,
+        "reqlevel": 10,
+        "name": "导电器",
+        "name_en": "Electropellers",
+        "side": 1,
+        "wflags": 0,
+        "xp": 910,
+        "itemrewards": [
+            [
+                6811,
+                20
+            ]
+        ],
+        "money": 500,
+        "reprewards": [
+            [
+                54,
+                250
+            ]
+        ],
+        "tab_name": "任务",
+        "tip": {
+            "name_zhcn": "Mage 40",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">Mage 40</b></td></tr><tr><td>等级 40 人型生物 (普通)</td></tr></table>",
+            "map": {}
+        }
+    },
+    {
+        "category": -101,
+        "category2": 5,
+        "id": 6607,
+        "level": 45,
+        "reqlevel": 35,
+        "name": "钓鱼专家纳特·帕格",
+        "name_en": "Nat Pagle, Angler Extreme",
+        "side": 3,
+        "wflags": 0,
+        "xp": 5540,
+        "itemrewards": [
+            [
+                45858,
+                1
+            ]
+        ],
+        "reprewards": [],
+        "tab_name": "任务",
+        "tip": {
+            "name_zhcn": "僧侣护腿",
+            "quality": 2,
+            "icon": "inv_pants_07",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">僧侣护腿</b><span class='cus-id-2-right'>ID: 6607</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>腿部</td><th><!--asc2-->皮甲</th></tr></table><span><!--amr-->82点护甲</span><br /><span class=\"q2\">&lt;随机附魔&gt</span><br /><!--e--><!--ps-->耐久度 65 / 65<br />需要等级 25<br />物品等级30<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">22</span> <span class=\"moneycopper\">2</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?6607:1:1:25-->"
+        }
+    },
+    {
+        "category": -101,
+        "category2": 5,
+        "id": 6608,
+        "level": 45,
+        "reqlevel": 35,
+        "name": "你真棒！",
+        "name_en": "You Too Good.",
+        "side": 2,
+        "wflags": 0,
+        "xp": 1380,
+        "reprewards": [],
+        "tab_name": "任务",
+        "tip": {
+            "name_zhcn": "明亮护甲",
+            "quality": 2,
+            "icon": "inv_chest_leather_07",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">明亮护甲</b><span class='cus-id-2-right'>ID: 6608</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>胸部</td><th><!--asc1-->布甲</th></tr></table><span><!--amr-->41点护甲</span><br /><span><!--stat5-->+8 智力</span><br /><span><!--stat6-->+4 精神</span><br /><!--e--><!--ps-->耐久度 70 / 70<br />需要等级 22<br />物品等级27<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">13</span> <span class=\"moneycopper\">28</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?6608:1:1:22-->"
+        }
+    },
+    {
+        "category": -101,
+        "category2": 5,
+        "id": 6609,
+        "level": 45,
+        "reqlevel": 35,
+        "name": "青出于蓝！",
+        "name_en": "I Got Nothin' Left!",
+        "side": 1,
+        "wflags": 0,
+        "xp": 1380,
+        "reprewards": [],
+        "tab_name": "任务",
+        "tip": {
+            "name_zhcn": "贤者护甲",
+            "quality": 2,
+            "icon": "inv_shirt_08",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">贤者护甲</b><span class='cus-id-2-right'>ID: 6609</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>胸部</td><th><!--asc1-->布甲</th></tr></table><span><!--amr-->44点护甲</span><br /><span class=\"q2\">&lt;随机附魔&gt</span><br /><!--e--><!--ps-->耐久度 70 / 70<br />需要等级 27<br />物品等级32<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">21</span> <span class=\"moneycopper\">48</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?6609:1:1:27-->"
+        }
+    },
+    {
+        "category": -101,
+        "category2": 5,
+        "id": 8193,
+        "level": -1,
+        "reqlevel": 1,
+        "name": "钓鱼大师",
+        "name_en": "Master Angler",
+        "side": 3,
+        "wflags": 0,
+        "xp": 0,
+        "itemchoices": [
+            [
+                19970,
+                1
+            ],
+            [
+                19979,
+                1
+            ]
+        ],
+        "money": 148000,
+        "reprewards": [],
+        "tab_name": "任务",
+        "tip": {
+            "name_zhcn": "夜色短裤",
+            "quality": 2,
+            "icon": "inv_pants_11",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">夜色短裤</b><span class='cus-id-2-right'>ID: 8193</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>腿部</td><th><!--asc2-->皮甲</th></tr></table><span><!--amr-->108点护甲</span><br /><span><!--stat3-->+16 敏捷</span><br /><span><!--stat7-->+7 耐力</span><br /><!--e--><!--ps-->耐久度 65 / 65<br />需要等级 41<br />物品等级46<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">87</span> <span class=\"moneycopper\">8</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?8193:1:1:41-->"
+        }
+    },
+    {
+        "category": -101,
+        "category2": 5,
+        "id": 8194,
+        "level": -1,
+        "reqlevel": 1,
+        "name": "钓鱼学徒",
+        "name_en": "Apprentice Angler",
+        "side": 3,
+        "wflags": 0,
+        "xp": 0,
+        "money": 19000,
+        "reprewards": [],
+        "tab_name": "任务",
+        "tip": {
+            "name_zhcn": "地精碎果器",
+            "quality": 2,
+            "icon": "inv_hammer_06",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">地精碎果器</b><span class='cus-id-2-right'>ID: 8194</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>单手</td><th>锤</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->38 - 72伤害</td><th>速度 <!--spd-->2.20</th></tr></table><!--dps-->（每秒伤害25.0）<br /><span class=\"q2\">&lt;随机附魔&gt</span><br /><!--e--><!--ps-->耐久度 75 / 75<br />需要等级 38<br />物品等级43<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">1</span> <span class=\"moneysilver\">38</span> <span class=\"moneycopper\">77</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?8194:1:1:38-->"
+        }
+    },
+    {
+        "category": -101,
+        "category2": 5,
+        "id": 8221,
+        "level": -1,
+        "reqlevel": 1,
+        "name": "稀有鱼类 - 基佛天使鱼",
+        "name_en": "Rare Fish - Keefer's Angelfish",
+        "side": 3,
+        "wflags": 0,
+        "xp": 0,
+        "itemrewards": [
+            [
+                19972,
+                1
+            ]
+        ],
+        "money": 19000,
+        "reprewards": [],
+        "tab_name": "任务",
+        "tip": {
+            "name_zhcn": "稀有鱼类 - 基佛天使鱼",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">稀有鱼类 - 基佛天使鱼</b></td></tr></table><table><tr><td><br /><br /><br /><span class=\"q\">要求：</span><br /> - 基佛天使鱼</td></tr></table>"
+        }
+    },
+    {
+        "category": -101,
+        "category2": 5,
+        "id": 8224,
+        "level": -1,
+        "reqlevel": 1,
+        "name": "稀有鱼类 - 迪森皇后鱼",
+        "name_en": "Rare Fish - Dezian Queenfish",
+        "side": 3,
+        "wflags": 0,
+        "xp": 0,
+        "itemrewards": [
+            [
+                19971,
+                1
+            ]
+        ],
+        "money": 19000,
+        "reprewards": [],
+        "tab_name": "任务",
+        "tip": {
+            "name_zhcn": "异种蝎切割者",
+            "quality": 2,
+            "icon": "inv_weapon_shortblade_26",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">异种蝎切割者</b><span class='cus-id-2-right'>ID: 8224</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>单手</td><th>剑</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->30 - 57伤害</td><th>速度 <!--spd-->2.30</th></tr></table><!--dps-->（每秒伤害18.9）<br /><!--e--><!--ps-->耐久度 75 / 75<br />需要等级 31<br />物品等级36<br /></td></tr></table><table><tr><td><span class=\"q2\">击中时可能： 使目标的伤口不断流血，在30 秒内造成累计45点伤害。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">76</span> <span class=\"moneycopper\">55</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?8224:1:1:31-->"
+        }
+    },
+    {
+        "category": -101,
+        "category2": 5,
+        "id": 8225,
+        "level": -1,
+        "reqlevel": 1,
+        "name": "稀有鱼类 - 布隆奈尔蓝斑鱼",
+        "name_en": "Rare Fish - Brownell's Blue Striped Racer",
+        "side": 3,
+        "wflags": 0,
+        "xp": 0,
+        "itemrewards": [
+            [
+                19969,
+                1
+            ]
+        ],
+        "money": 19000,
+        "reprewards": [],
+        "tab_name": "任务",
+        "tip": {
+            "name_zhcn": "污秽穿刺者",
+            "quality": 3,
+            "icon": "inv_sword_30",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">污秽穿刺者</b><span class='cus-id-2-right'>ID: 8225</span><br /><!--bo-->装备后绑定<br />装备唯一<table width=\"100%\"><tr><td>单手</td><th>剑</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->32 - 60伤害</td><th>速度 <!--spd-->1.90</th></tr></table><!--dps-->（每秒伤害24.2）<br /><!--e--><!--ps-->耐久度 90 / 90<br />需要等级 31<br />物品等级36<br /></td></tr></table><table><tr><td><span class=\"q2\">击中时可能： 腐蚀目标，在3 秒内造成累计45点伤害。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">92</span> <span class=\"moneycopper\">22</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?8225:1:1:31-->"
+        }
+    },
+    {
+        "category": -101,
+        "category2": 5,
+        "id": 8226,
+        "level": -1,
+        "reqlevel": 1,
+        "name": "稀有鱼类 - 灰白食尸鱼",
+        "name_en": "Rare Fish - Pale Ghoulfish",
+        "side": 3,
+        "wflags": 1,
+        "xp": 0,
+        "itemchoices": [
+            [
+                7996,
+                1
+            ]
+        ],
+        "money": 8,
+        "reprewards": [],
+        "tab_name": "任务",
+        "tip": {
+            "name_zhcn": "屠夫",
+            "quality": 3,
+            "icon": "inv_sword_18",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">屠夫</b><span class='cus-id-2-right'>ID: 8226</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>单手</td><th>剑</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->38 - 72伤害</td><th>速度 <!--spd-->2.80</th></tr></table><!--dps-->（每秒伤害19.6）<br /><span><!--stat3-->+5 敏捷</span><br /><span><!--stat7-->+4 耐力</span><br /><!--e--><!--ps-->耐久度 90 / 90<br />需要等级 26<br />物品等级31<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">57</span> <span class=\"moneycopper\">47</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?8226:1:1:26-->"
+        }
+    },
+    {
+        "category": -101,
+        "category2": 5,
+        "id": 8228,
+        "level": -1,
+        "reqlevel": 35,
+        "name": "能给我一张宣传单吗？",
+        "name_en": "Could I get a Fishing Flier?",
+        "side": 3,
+        "wflags": 0,
+        "xp": 0,
+        "itemrewards": [
+            [
+                19978,
+                1
+            ]
+        ],
+        "reprewards": [],
+        "tab_name": "任务",
+        "tip": {
+            "name_zhcn": "能给我一张宣传单吗？",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">能给我一张宣传单吗？</b></td></tr></table><table><tr><td><br /></td></tr></table>"
+        }
+    },
+    {
+        "category": -101,
+        "category2": 5,
+        "id": 8229,
+        "level": -1,
+        "reqlevel": 35,
+        "name": "能给我一张宣传单吗？",
+        "name_en": "Could I get a Fishing Flier?",
+        "side": 3,
+        "wflags": 0,
+        "xp": 0,
+        "itemrewards": [
+            [
+                19978,
+                1
+            ]
+        ],
+        "reprewards": [],
+        "tab_name": "任务",
+        "tip": {
+            "name_zhcn": "能给我一张宣传单吗？",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">能给我一张宣传单吗？</b></td></tr></table><table><tr><td><br /></td></tr></table>"
+        }
+    },
+    {
+        "category": -101,
+        "category2": 5,
+        "id": 11531,
+        "level": 70,
+        "reqlevel": 55,
+        "name": "奇怪的发动机零件",
+        "name_en": "Strange Engine Part",
+        "side": 3,
+        "wflags": 0,
+        "xp": 12650,
+        "money": 22000,
+        "reprewards": [],
+        "tab_name": "任务",
+        "tip": {
+            "name_zhcn": "奇怪的发动机零件",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b class=\"q\">奇怪的发动机零件</b></td><th><b class=\"q0\">等级70</b></th></tr></table></td></tr></table><table><tr><td><br />将奇怪的发动机零件交给泰雷多尔的凯莉·弗莱。<br /><br /><span class=\"q\">要求：</span><br /> - 奇怪的发动机零件</td></tr></table>"
+        }
+    },
+    {
+        "category": -101,
+        "category2": 5,
+        "id": 11665,
+        "level": 70,
+        "reqlevel": 70,
+        "name": "城中的鳄鱼",
+        "name_en": "Crocolisks in the City",
+        "side": 3,
+        "wflags": 2,
+        "xp": 0,
+        "itemrewards": [
+            [
+                35348,
+                1
+            ]
+        ],
+        "daily": true,
+        "reprewards": [],
+        "tab_name": "任务",
+        "tip": {
+            "name_zhcn": "食人魔先知之拳",
+            "quality": 3,
+            "icon": "inv_gauntlets_15",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">食人魔先知之拳</b><span class='cus-id-2-right'>ID: 11665</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>手</td><th><!--asc2-->皮甲</th></tr></table><span><!--amr-->97点护甲</span><br /><span><!--stat7-->+10 耐力</span><br /><span><!--stat5-->+10 智力</span><br /><span><!--stat6-->+8 精神</span><br /><!--e--><!--ps-->耐久度 35 / 35<br />需要等级 49<br />物品等级54<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 法术强度提高13点。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">85</span> <span class=\"moneycopper\">32</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?11665:1:1:49-->"
+        }
+    },
+    {
+        "category": -101,
+        "category2": 5,
+        "id": 11666,
+        "level": 70,
+        "reqlevel": 70,
+        "name": "黑鳞镖鲈",
+        "name_en": "Bait Bandits",
+        "side": 3,
+        "wflags": 2,
+        "xp": 0,
+        "itemrewards": [
+            [
+                34863,
+                1
+            ]
+        ],
+        "daily": true,
+        "reprewards": [],
+        "tab_name": "任务",
+        "tip": {
+            "name_zhcn": "火焰行者",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">火焰行者</b></td></tr><tr><td>等级 61 - 62 元素生物 (稀有)</td></tr></table>",
+            "map": {
+                "zone": 2717,
+                "coords": {
+                    "0": [
+                        [
+                            0,
+                            661.08
+                        ],
+                        [
+                            0,
+                            679.92
+                        ],
+                        [
+                            0,
+                            886.04
+                        ],
+                        [
+                            0,
+                            705.1
+                        ],
+                        [
+                            0,
+                            734.62
+                        ],
+                        [
+                            0,
+                            846.86
+                        ],
+                        [
+                            0,
+                            591.33
+                        ],
+                        [
+                            0,
+                            642
+                        ],
+                        [
+                            0,
+                            729.19
+                        ],
+                        [
+                            0,
+                            590.42
+                        ],
+                        [
+                            0,
+                            679.89
+                        ],
+                        [
+                            0,
+                            646.24
+                        ],
+                        [
+                            0,
+                            607.94
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "category": -101,
+        "category2": 5,
+        "id": 11667,
+        "level": 70,
+        "reqlevel": 70,
+        "name": "世界上最大的泥鱼",
+        "name_en": "The One That Got Away",
+        "side": 3,
+        "wflags": 2,
+        "xp": 0,
+        "itemrewards": [
+            [
+                34863,
+                1
+            ]
+        ],
+        "daily": true,
+        "reprewards": [],
+        "tab_name": "任务",
+        "tip": {
+            "name_zhcn": "烈焰守卫",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">烈焰守卫</b></td></tr><tr><td>等级 61 - 62 元素生物 (稀有)</td></tr></table>",
+            "map": {
+                "zone": 2717,
+                "coords": {
+                    "0": [
+                        [
+                            0,
+                            644.14
+                        ],
+                        [
+                            0,
+                            663.24
+                        ],
+                        [
+                            0,
+                            881.33
+                        ],
+                        [
+                            0,
+                            711.68
+                        ],
+                        [
+                            0,
+                            738.52
+                        ],
+                        [
+                            0,
+                            841.22
+                        ],
+                        [
+                            0,
+                            602.16
+                        ],
+                        [
+                            0,
+                            637.1
+                        ],
+                        [
+                            0,
+                            733.84
+                        ],
+                        [
+                            0,
+                            602.4
+                        ],
+                        [
+                            0,
+                            678.91
+                        ],
+                        [
+                            0,
+                            656.03
+                        ],
+                        [
+                            0,
+                            598.65
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "category": -101,
+        "category2": 5,
+        "id": 11668,
+        "level": 70,
+        "reqlevel": 70,
+        "name": "巨型淡水虾",
+        "name_en": "Shrimpin' Ain't Easy",
+        "side": 3,
+        "wflags": 2,
+        "xp": 0,
+        "itemrewards": [
+            [
+                34863,
+                1
+            ]
+        ],
+        "daily": true,
+        "reprewards": [],
+        "tab_name": "任务",
+        "tip": {
+            "name_zhcn": "萨瓦里克长笛",
+            "quality": 1,
+            "icon": "inv_misc_flute_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">萨瓦里克长笛</b><span class='cus-id-2-right'>ID: 11668</span><br /><!--bo-->拾取后绑定<br />唯一<br /><a class=\"q1\" href=\"?quest=939\">该物品将触发一个任务</a><br /><!--e--><!--ps-->需要等级 49<br /></td></tr></table><table><tr><td></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?11668:1:1:49-->"
+        }
+    },
+    {
+        "category": -101,
+        "category2": 5,
+        "id": 11669,
+        "level": 70,
+        "reqlevel": 70,
+        "name": "魔血鲷鱼",
+        "name_en": "Felblood Fillet",
+        "side": 3,
+        "wflags": 2,
+        "xp": 0,
+        "itemrewards": [
+            [
+                34863,
+                1
+            ]
+        ],
+        "daily": true,
+        "reprewards": [],
+        "tab_name": "任务",
+        "tip": {
+            "name_zhcn": "阿格曼奇之戒",
+            "quality": 3,
+            "icon": "inv_jewelry_ring_05",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">阿格曼奇之戒</b><span class='cus-id-2-right'>ID: 11669</span><br /><!--bo-->拾取后绑定<br />装备唯一<table width=\"100%\"><tr><td>手指</td></tr></table><span class=\"q2\"><!--addamr50--><span>50点护甲</span></span><br /><span><!--stat7-->+10 耐力</span><br /><!--e--><!--ps-->需要等级 54<br />物品等级59<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 防御等级提高<!--rtg12-->8&nbsp;<small>(<!--rtg%12-->6.03&nbsp;@&nbsp;L<!--lvl-->54)</small>。</span><br /><span class=\"q2\">装备： 在被击中之后对攻击者造成3点奥术伤害。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">1</span> <span class=\"moneysilver\">71</span> <span class=\"moneycopper\">57</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?11669:1:80:54-->"
+        }
+    },
+    {
+        "category": -101,
+        "category2": 5,
+        "id": 13692,
+        "level": 80,
+        "reqlevel": 77,
+        "name": "剑与海",
+        "name_en": "The Sword and the Sea",
+        "side": 3,
+        "wflags": 2,
+        "xp": 22050,
+        "itemrewards": [
+            [
+                34863,
+                1
+            ]
+        ],
+        "daily": true,
+        "reprewards": [],
+        "tab_name": "任务",
+        "tip": {
+            "name_zhcn": "剑与海",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b class=\"q\">剑与海</b></td><th><b class=\"q0\">等级80 每日</b></th></tr></table></td></tr></table><table><tr><td><br />晶歌森林的老渔夫巴尔洛要你把骑士之剑交给他。<br /><br /><span class=\"q\">要求：</span><br /> - 断臂</td></tr></table>",
+            "daily": 1
+        }
+    },
+    {
+        "category": -101,
+        "category2": 5,
+        "id": 13826,
+        "level": -1,
+        "reqlevel": 0,
+        "name": "钓鱼专家纳特·帕格",
+        "name_en": "Nat Pagle, Angler Extreme",
+        "side": 3,
+        "wflags": 0,
+        "xp": 0,
+        "itemrewards": [
+            [
+                45858,
+                1
+            ]
+        ],
+        "reprewards": [],
+        "tab_name": "任务",
+        "tip": {
+            "name_zhcn": "钓鱼专家纳特·帕格",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">钓鱼专家纳特&middot;帕格</b></td></tr></table><table><tr><td><br /></td></tr></table>"
+        }
+    },
+    {
+        "category": -101,
+        "category2": 5,
+        "id": 13827,
+        "level": 77,
+        "reqlevel": 70,
+        "name": "宝藏！",
+        "name_en": "Treasure!",
+        "side": 3,
+        "wflags": 1,
+        "xp": 0,
+        "itemrewards": [
+            [
+                21041,
+                1
+            ]
+        ],
+        "reprewards": [],
+        "tab_name": "任务",
+        "tip": {
+            "name_zhcn": "宝藏！",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b class=\"q\">宝藏！</b></td><th><b class=\"q0\">等级77</b></th></tr></table></td></tr></table><table><tr><td><br /><br /><br /><span class=\"q\">要求：</span><br /> - 腐烂的藏宝图</td></tr></table>"
+        }
+    },
+    {
+        "category": -101,
+        "category2": 5,
+        "id": 13830,
+        "level": -1,
+        "reqlevel": 70,
+        "name": "幽灵鱼",
+        "name_en": "The Ghostfish",
+        "side": 3,
+        "wflags": 2,
+        "xp": 5,
+        "itemrewards": [
+            [
+                46007,
+                1
+            ]
+        ],
+        "daily": true,
+        "reprewards": [
+            [
+                1090,
+                250
+            ]
+        ],
+        "tab_name": "任务",
+        "tip": {
+            "name_zhcn": "幽灵鱼",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">幽灵鱼</b></td></tr></table><table><tr><td><br />达拉然城中的玛西娅·切斯希望你去揭开幽灵鱼的秘密。<br /><br /><span class=\"q\">要求：</span><br /> - 揭开幽灵鱼的秘密</td></tr></table>",
+            "daily": 1
+        }
+    },
+    {
+        "category": -101,
+        "category2": 5,
+        "id": 13832,
+        "level": -1,
+        "reqlevel": 70,
+        "name": "下水道中的珍宝",
+        "name_en": "Jewel Of The Sewers",
+        "side": 3,
+        "wflags": 2,
+        "xp": 5,
+        "itemrewards": [
+            [
+                46007,
+                1
+            ]
+        ],
+        "daily": true,
+        "reprewards": [
+            [
+                1090,
+                250
+            ]
+        ],
+        "tab_name": "任务",
+        "tip": {
+            "name_zhcn": "下水道中的珍宝",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">下水道中的珍宝</b></td></tr></table><table><tr><td><br />将一块被腐蚀的珠宝交给达拉然城中的玛西娅·切斯。<br /><br /><span class=\"q\">要求：</span><br /> - 被腐蚀的珠宝</td></tr></table>",
+            "daily": 1
+        }
+    },
+    {
+        "category": -101,
+        "category2": 5,
+        "id": 13833,
+        "level": -1,
+        "reqlevel": 70,
+        "name": "危险的美食",
+        "name_en": "Blood Is Thicker",
+        "side": 3,
+        "wflags": 2,
+        "xp": 5,
+        "itemrewards": [
+            [
+                46007,
+                1
+            ]
+        ],
+        "daily": true,
+        "reprewards": [
+            [
+                1090,
+                250
+            ]
+        ],
+        "tab_name": "任务",
+        "tip": {
+            "name_zhcn": "危险的美食",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">危险的美食</b></td></tr></table><table><tr><td><br />将10条恐怖鱼交给达拉然城中的玛西娅·切斯。<br /><br /><span class=\"q\">要求：</span><br /> - 血齿狂鱼 x 5</td></tr></table>",
+            "daily": 1
+        }
+    },
+    {
+        "category": -101,
+        "category2": 5,
+        "id": 13834,
+        "level": -1,
+        "reqlevel": 70,
+        "name": "危险的美食",
+        "name_en": "Dangerously Delicious",
+        "side": 3,
+        "wflags": 2,
+        "xp": 5,
+        "itemrewards": [
+            [
+                46007,
+                1
+            ]
+        ],
+        "daily": true,
+        "reprewards": [
+            [
+                1090,
+                250
+            ]
+        ],
+        "tab_name": "任务",
+        "tip": {
+            "name_zhcn": "危险的美食",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">危险的美食</b></td></tr></table><table><tr><td><br />将10条恐怖鱼交给达拉然城中的玛西娅·切斯。<br /><br /><span class=\"q\">要求：</span><br /> - 恐怖鱼 x 10</td></tr></table>",
+            "daily": 1
+        }
+    },
+    {
+        "category": -101,
+        "category2": 5,
+        "id": 13836,
+        "level": -1,
+        "reqlevel": 70,
+        "name": "胳膊丢了！",
+        "name_en": "Disarmed!",
+        "side": 3,
+        "wflags": 2,
+        "xp": 5,
+        "itemrewards": [
+            [
+                46007,
+                1
+            ]
+        ],
+        "daily": true,
+        "reprewards": [
+            [
+                1090,
+                250
+            ]
+        ],
+        "tab_name": "任务",
+        "tip": {
+            "name_zhcn": "火刃梦魇",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">火刃梦魇</b></td></tr><tr><td>等级 40 恶魔 (普通)</td></tr></table>",
+            "map": {
+                "zone": 405,
+                "coords": {
+                    "0": [
+                        [
+                            79.6,
+                            79.4
+                        ],
+                        [
+                            79.8,
+                            80
+                        ],
+                        [
+                            79.8,
+                            79.8
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "category": -101,
+        "category2": 5,
+        "id": 24803,
+        "level": -1,
+        "reqlevel": 1,
+        "name": "卡鲁亚克钓鱼大赛",
+        "name_en": "Kalu'ak Fishing Derby",
+        "side": 3,
+        "wflags": 0,
+        "xp": 8,
+        "itemchoices": [
+            [
+                50255,
+                1
+            ],
+            [
+                50287,
+                1
+            ]
+        ],
+        "reprewards": [
+            [
+                1073,
+                2500
+            ]
+        ],
+        "tab_name": "任务",
+        "tip": {
+            "name_zhcn": "龙鹰短裤",
+            "quality": 2,
+            "icon": "inv_pants_06",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">龙鹰短裤</b><span class='cus-id-2-right'>ID: 24803</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>腿部</td><th><!--asc2-->皮甲</th></tr></table><span><!--amr-->242点护甲</span><br /><span class=\"q2\">&lt;随机附魔&gt</span><br /><!--e--><!--ps-->耐久度 65 / 65<br />需要等级 70<br />物品等级120<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">3</span> <span class=\"moneysilver\">90</span> <span class=\"moneycopper\">15</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?24803:1:1:70-->"
+        }
+    },
+    {
+        "category": -101,
+        "category2": 5,
+        "id": 24806,
+        "level": -1,
+        "reqlevel": 1,
+        "name": "祝下次好运",
+        "name_en": "Better Luck Next Time",
+        "side": 3,
+        "wflags": 0,
+        "xp": 5,
+        "itemrewards": [
+            [
+                46007,
+                1
+            ]
+        ],
+        "reprewards": [
+            [
+                1073,
+                75
+            ]
+        ],
+        "tab_name": "任务",
+        "tip": {
+            "name_zhcn": "固执腰带",
+            "quality": 2,
+            "icon": "inv_belt_17",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">固执腰带</b><span class='cus-id-2-right'>ID: 24806</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>腰部</td><th><!--asc3-->锁甲</th></tr></table><span><!--amr-->240点护甲</span><br /><span class=\"q2\">&lt;随机附魔&gt</span><br /><!--e--><!--ps-->耐久度 35 / 35<br />需要等级 57<br />物品等级81<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">1</span> <span class=\"moneysilver\">66</span> <span class=\"moneycopper\">46</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?24806:1:1:57-->"
+        }
+    }
+]

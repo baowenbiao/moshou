@@ -1,0 +1,1141 @@
+[
+    {
+        "id": -248,
+        "idbak": 883,
+        "name": "3血法战衣",
+        "name_en": "Bloodmage's Regalia",
+        "minlevel": 277,
+        "maxlevel": 277,
+        "note": 29,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            51281,
+            51284,
+            51282,
+            51280,
+            51283
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "血法战衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">血法战衣</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />T10副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>当你的法术连击、飞弹速射和思维冷却天赋的效果被消耗后，你的急速将提高12%，持续5 秒。<br /><span class=\"q13\">4 件：</span>你的镜像技能同时使你造成18%的额外伤害，持续30 秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -126,
+        "idbak": 779,
+        "name": "3角斗士的法衣",
+        "name_en": "Gladiator's Regalia",
+        "minlevel": 270,
+        "maxlevel": 270,
+        "note": 30,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            51465,
+            51467,
+            51466,
+            51464,
+            51463
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的法衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的法衣</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />竞技场第8季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">2 件：</span>法术强度提高29点。<br /><span class=\"q13\">4 件：</span>使你的变形术的施法时间缩短0.15秒。<br /><span class=\"q13\">4 件：</span>法术强度提高88点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -247,
+        "idbak": 883,
+        "name": "3血法战衣",
+        "name_en": "Bloodmage's Regalia",
+        "minlevel": 264,
+        "maxlevel": 264,
+        "note": 29,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            51158,
+            51155,
+            51157,
+            51159,
+            51156
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "血法战衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">血法战衣</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />T10副本套装<br /><span><br /><span class=\"q13\">2 件：</span>当你的法术连击、飞弹速射和思维冷却天赋的效果被消耗后，你的急速将提高12%，持续5 秒。<br /><span class=\"q13\">4 件：</span>你的镜像技能同时使你造成18%的额外伤害，持续30 秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -172,
+        "idbak": 843,
+        "name": "3卡德加的法衣",
+        "name_en": "Khadgar's Regalia",
+        "minlevel": 258,
+        "maxlevel": 258,
+        "note": 27,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            47761,
+            47758,
+            47760,
+            47762,
+            47759
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "卡德加的法衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">卡德加的法衣</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />T9副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>使你从冰甲术中获得的护甲加成提高20%，从法师护甲中获得的法力回复提高10%，当熔岩护甲处于激活状态时，你精神值的15%转化为爆击等级。<br /><span class=\"q13\">4 件：</span>使你的火球术、寒冰箭、霜火之箭、奥术飞弹和奥术冲击法术的爆击几率提高5%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -174,
+        "idbak": 844,
+        "name": "3逐日者的法衣",
+        "name_en": "Sunstrider's Regalia",
+        "minlevel": 258,
+        "maxlevel": 258,
+        "note": 27,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            47764,
+            47767,
+            47765,
+            47763,
+            47766
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "逐日者的法衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">逐日者的法衣</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />T9副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>使你从冰甲术中获得的护甲加成提高20%，从法师护甲中获得的法力回复提高10%，当熔岩护甲处于激活状态时，你精神值的15%转化为爆击等级。<br /><span class=\"q13\">4 件：</span>使你的火球术、寒冰箭、霜火之箭、奥术飞弹和奥术冲击法术的爆击几率提高5%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -125,
+        "idbak": 779,
+        "name": "3角斗士的法衣",
+        "name_en": "Gladiator's Regalia",
+        "minlevel": 251,
+        "maxlevel": 251,
+        "note": 28,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            41947,
+            41966,
+            41960,
+            41972,
+            41954
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的法衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的法衣</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />竞技场第7季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">2 件：</span>法术强度提高29点。<br /><span class=\"q13\">4 件：</span>使你的变形术的施法时间缩短0.15秒。<br /><span class=\"q13\">4 件：</span>法术强度提高88点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 883,
+        "idbak": 883,
+        "name": "3血法战衣",
+        "name_en": "Bloodmage's Regalia",
+        "minlevel": 251,
+        "maxlevel": 251,
+        "note": 29,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            50276,
+            50279,
+            50277,
+            50275,
+            50278
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "血法战衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">血法战衣</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />T10副本套装<br /><span><br /><span class=\"q13\">2 件：</span>当你的法术连击、飞弹速射和思维冷却天赋的效果被消耗后，你的急速将提高12%，持续5 秒。<br /><span class=\"q13\">4 件：</span>你的镜像技能同时使你造成18%的额外伤害，持续30 秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -171,
+        "idbak": 843,
+        "name": "3卡德加的法衣",
+        "name_en": "Khadgar's Regalia",
+        "minlevel": 245,
+        "maxlevel": 245,
+        "note": 27,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            47754,
+            47757,
+            47755,
+            47753,
+            47756
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "卡德加的法衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">卡德加的法衣</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />T9副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你从冰甲术中获得的护甲加成提高20%，从法师护甲中获得的法力回复提高10%，当熔岩护甲处于激活状态时，你精神值的15%转化为爆击等级。<br /><span class=\"q13\">4 件：</span>使你的火球术、寒冰箭、霜火之箭、奥术飞弹和奥术冲击法术的爆击几率提高5%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -173,
+        "idbak": 844,
+        "name": "3逐日者的法衣",
+        "name_en": "Sunstrider's Regalia",
+        "minlevel": 245,
+        "maxlevel": 245,
+        "note": 27,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            47771,
+            47768,
+            47770,
+            47772,
+            47769
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "逐日者的法衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">逐日者的法衣</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />T9副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你从冰甲术中获得的护甲加成提高20%，从法师护甲中获得的法力回复提高10%，当熔岩护甲处于激活状态时，你精神值的15%转化为爆击等级。<br /><span class=\"q13\">4 件：</span>使你的火球术、寒冰箭、霜火之箭、奥术飞弹和奥术冲击法术的爆击几率提高5%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -124,
+        "idbak": 779,
+        "name": "3角斗士的法衣",
+        "name_en": "Gladiator's Regalia",
+        "minlevel": 232,
+        "maxlevel": 232,
+        "note": 26,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            41946,
+            41965,
+            41959,
+            41971,
+            41953
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的法衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的法衣</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />竞技场第6季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">2 件：</span>法术强度提高29点。<br /><span class=\"q13\">4 件：</span>使你的变形术的施法时间缩短0.15秒。<br /><span class=\"q13\">4 件：</span>法术强度提高88点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 843,
+        "idbak": 843,
+        "name": "3卡德加的法衣",
+        "name_en": "Khadgar's Regalia",
+        "minlevel": 232,
+        "maxlevel": 232,
+        "note": 27,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            47748,
+            47751,
+            47750,
+            47752,
+            47749
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "棕色皮靴",
+            "quality": 1,
+            "icon": "inv_boots_wolf",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">棕色皮靴</b><span class='cus-id-2-right'>ID: 843</span><table width=\"100%\"><tr><td>脚</td><th><!--asc2-->皮甲</th></tr></table><span><!--amr-->48点护甲</span><br /><!--e--><!--ps-->耐久度 35 / 35<br />需要等级 12<br />物品等级17<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">2</span> <span class=\"moneycopper\">15</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?843:1:1:12-->"
+        }
+    },
+    {
+        "id": 844,
+        "idbak": 844,
+        "name": "3逐日者的法衣",
+        "name_en": "Sunstrider's Regalia",
+        "minlevel": 232,
+        "maxlevel": 232,
+        "note": 27,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            47774,
+            47777,
+            47775,
+            47773,
+            47776
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "棕色皮手套",
+            "quality": 1,
+            "icon": "inv_gauntlets_05",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">棕色皮手套</b><span class='cus-id-2-right'>ID: 844</span><table width=\"100%\"><tr><td>手</td><th><!--asc2-->皮甲</th></tr></table><span><!--amr-->43点护甲</span><br /><!--e--><!--ps-->耐久度 20 / 20<br />需要等级 12<br />物品等级17<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">1</span> <span class=\"moneycopper\">44</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?844:1:1:12-->"
+        }
+    },
+    {
+        "id": -168,
+        "idbak": 836,
+        "name": "3肯瑞托",
+        "name_en": "Kirin Tor Garb",
+        "minlevel": 226,
+        "maxlevel": 226,
+        "note": 25,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            46129,
+            46134,
+            46133,
+            46132,
+            46130
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "肯瑞托",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">肯瑞托</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />T8副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的奥术冲击、寒冰箭、霜火之箭和火球术有一定几率使你的法术强度提高350点，持续15 秒。<br /><span class=\"q13\">4 件：</span>当你施放一个受到飞弹速射、法术连击或思维冷却天赋影响的法术时，有一定几率不消耗这些效果。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 836,
+        "idbak": 836,
+        "name": "3肯瑞托",
+        "name_en": "Kirin Tor Garb",
+        "minlevel": 219,
+        "maxlevel": 219,
+        "note": 25,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            45365,
+            45369,
+            45367,
+            46131,
+            45368
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "肯瑞托",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">肯瑞托</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />T8副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的奥术冲击、寒冰箭、霜火之箭和火球术有一定几率使你的法术强度提高350点，持续15 秒。<br /><span class=\"q13\">4 件：</span>当你施放一个受到飞弹速射、法术连击或思维冷却天赋影响的法术时，有一定几率不消耗这些效果。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -123,
+        "idbak": 779,
+        "name": "3角斗士的法衣",
+        "name_en": "Gladiator's Regalia",
+        "minlevel": 213,
+        "maxlevel": 213,
+        "note": 24,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            41945,
+            41964,
+            41958,
+            41970,
+            41951
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的法衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的法衣</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />竞技场第5季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">2 件：</span>法术强度提高29点。<br /><span class=\"q13\">4 件：</span>使你的变形术的施法时间缩短0.15秒。<br /><span class=\"q13\">4 件：</span>法术强度提高88点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -149,
+        "idbak": 803,
+        "name": "3霜火套装",
+        "name_en": "Frostfire Garb",
+        "minlevel": 213,
+        "maxlevel": 213,
+        "note": 23,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            40416,
+            40419,
+            40417,
+            40415,
+            40418
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "霜火套装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">霜火套装</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />T7副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使用法力宝石所获得的法力值提高25%，另外你还可以获得225点法术强度的加成，持续15 秒。<br /><span class=\"q13\">4 件：</span>你的攻击性法术获得5%的爆击伤害加成。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 779,
+        "idbak": 779,
+        "name": "4角斗士的法衣",
+        "name_en": "Gladiator's Regalia",
+        "minlevel": 200,
+        "maxlevel": 200,
+        "note": 24,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            41943,
+            41962,
+            41956,
+            41968,
+            41949
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "闪亮的贝壳",
+            "quality": 0,
+            "icon": "inv_misc_shell_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q0\">闪亮的贝壳</b><span class='cus-id-2-right'>ID: 779</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">18</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?779:1:1:80-->"
+        }
+    },
+    {
+        "id": -122,
+        "idbak": 779,
+        "name": "3角斗士的法衣",
+        "name_en": "Gladiator's Regalia",
+        "minlevel": 200,
+        "maxlevel": 200,
+        "note": 24,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            41944,
+            41963,
+            41957,
+            41969,
+            41950
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的法衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的法衣</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />竞技场第5季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">2 件：</span>法术强度提高29点。<br /><span class=\"q13\">4 件：</span>使你的变形术的施法时间缩短0.15秒。<br /><span class=\"q13\">4 件：</span>法术强度提高88点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 803,
+        "idbak": 803,
+        "name": "3霜火套装",
+        "name_en": "Frostfire Garb",
+        "minlevel": 200,
+        "maxlevel": 200,
+        "note": 23,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            39491,
+            39494,
+            39493,
+            39495,
+            39492
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "霜火套装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">霜火套装</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />T7副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使用法力宝石所获得的法力值提高25%，另外你还可以获得225点法术强度的加成，持续15 秒。<br /><span class=\"q13\">4 件：</span>你的攻击性法术获得5%的爆击伤害加成。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -15,
+        "idbak": 579,
+        "name": "3角斗士的法衣",
+        "name_en": "Gladiator's Regalia",
+        "minlevel": 159,
+        "maxlevel": 159,
+        "note": 22,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            35097,
+            35096,
+            35100,
+            35098,
+            35099
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的法衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的法衣</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />竞技场第4季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的变形术的施法时间缩短0.15秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 671,
+        "idbak": 671,
+        "name": "3风暴",
+        "name_en": "Tempest Regalia",
+        "minlevel": 146,
+        "maxlevel": 154,
+        "note": 18,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            31056,
+            31059,
+            31058,
+            31055,
+            31057,
+            34557,
+            34574,
+            34447
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "风暴",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">风暴</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />T6副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你的唤醒技能的持续时间延长2秒。<br /><span class=\"q13\">4 件：</span>使你的火球术、寒冰箭和奥术飞弹所造成的伤害提高5%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -14,
+        "idbak": 579,
+        "name": "3角斗士的法衣",
+        "name_en": "Gladiator's Regalia",
+        "minlevel": 146,
+        "maxlevel": 146,
+        "note": 20,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            33758,
+            33757,
+            33761,
+            33759,
+            33760
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的法衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的法衣</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />竞技场第3季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的变形术的施法时间缩短0.15秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -13,
+        "idbak": 579,
+        "name": "3角斗士的法衣",
+        "name_en": "Gladiator's Regalia",
+        "minlevel": 136,
+        "maxlevel": 136,
+        "note": 19,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            32048,
+            32047,
+            32051,
+            32049,
+            32050
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的法衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的法衣</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />竞技场第2季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的变形术的施法时间缩短0.15秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 649,
+        "idbak": 649,
+        "name": "3提瑞斯法",
+        "name_en": "Tirisfal Regalia",
+        "minlevel": 133,
+        "maxlevel": 133,
+        "note": 13,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            30206,
+            30210,
+            30207,
+            30205,
+            30196
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "提瑞斯法",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">提瑞斯法</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />T5副本套装<br /><span><br /><span class=\"q13\">2 件：</span>奥术冲击的伤害和法力值消耗提高5%。<br /><span class=\"q13\">4 件：</span>你的法术爆击可以使你的法术强度提高70点，持续6 秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 579,
+        "idbak": 579,
+        "name": "3角斗士的法衣",
+        "name_en": "Gladiator's Regalia",
+        "minlevel": 123,
+        "maxlevel": 123,
+        "note": 17,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            25855,
+            25854,
+            25858,
+            25857,
+            25856
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的法衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的法衣</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />竞技场第1季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的变形术的施法时间缩短0.15秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 648,
+        "idbak": 648,
+        "name": "3奥尔多魔装",
+        "name_en": "Aldor Regalia",
+        "minlevel": 120,
+        "maxlevel": 120,
+        "note": 12,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            29076,
+            29079,
+            29078,
+            29080,
+            29077
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "奥尔多魔装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">奥尔多魔装</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />T4副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你有100%的几率在施放火球术或寒冰箭时不会因为受到伤害而被打断。<br /><span class=\"q13\">4 件：</span>使你的气定神闲的冷却时间缩短24秒，冲击波的冷却时间缩短4秒，寒冰屏障的冷却时间缩短40秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 599,
+        "idbak": 599,
+        "name": "4大元帅的法衣",
+        "name_en": "Grand Marshal's Regalia",
+        "minlevel": 115,
+        "maxlevel": 115,
+        "note": 16,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            28715,
+            28714,
+            28718,
+            28716,
+            28717
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "大元帅的法衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">大元帅的法衣</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />70级PVP稀有套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的闪现术的冷却时间缩短2秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 600,
+        "idbak": 600,
+        "name": "4高阶督军的法衣",
+        "name_en": "High Warlord's Regalia",
+        "minlevel": 115,
+        "maxlevel": 115,
+        "note": 16,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            28867,
+            28866,
+            28870,
+            28868,
+            28869
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "高阶督军的法衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">高阶督军的法衣</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />70级PVP稀有套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的闪现术的冷却时间缩短2秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 741,
+        "idbak": 741,
+        "name": "4唤魔者的丝质战衣",
+        "name_en": "Evoker's Silk Battlegear",
+        "minlevel": 115,
+        "maxlevel": 115,
+        "note": 21,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            35344,
+            35343,
+            35347,
+            35345,
+            35346
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "唤魔者的丝质战衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">唤魔者的丝质战衣</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />70级PVP稀有套装 2<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的闪现术的冷却时间缩短2秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 503,
+        "idbak": 503,
+        "name": "3神秘套装",
+        "name_en": "Enigma Vestments",
+        "minlevel": 78,
+        "maxlevel": 88,
+        "note": 10,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            21345,
+            21344,
+            21346,
+            21343
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "神秘套装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">神秘套装</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />安其拉神庙团本套装<br /><span><br /><span class=\"q13\">3 件：</span>你的暴风雪法术有30%的几率完全不被打断。<br /><span class=\"q13\">5 件：</span>当你的法术被抵抗后，法术命中率提高<!--rtg18-->40&nbsp;<small>(<!--rtg%18-->5.00%&nbsp;@&nbsp;L<!--lvl-->60)</small>%，持续20 秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 210,
+        "idbak": 210,
+        "name": "3灵风",
+        "name_en": "Netherwind Regalia",
+        "minlevel": 76,
+        "maxlevel": 76,
+        "note": 4,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            16914,
+            16917,
+            16818,
+            16915,
+            16912,
+            16918,
+            16913,
+            16916
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "肮脏的皮靴",
+            "quality": 1,
+            "icon": "inv_boots_06",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">肮脏的皮靴</b><span class='cus-id-2-right'>ID: 210</span><table width=\"100%\"><tr><td>脚</td><th><!--asc2-->皮甲</th></tr></table><span><!--amr-->23点护甲</span><br /><!--e--><!--ps-->耐久度 20 / 20<br />物品等级5<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">9</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?210:1:1:80-->"
+        }
+    },
+    {
+        "id": 387,
+        "idbak": 387,
+        "name": "3督军的法衣",
+        "name_en": "Warlord's Regalia",
+        "minlevel": 71,
+        "maxlevel": 74,
+        "note": 8,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            16534,
+            16539,
+            16540,
+            16533,
+            16535
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "督军的法衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">督军的法衣</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />60级PVP史诗套装<br /><span><br /><span class=\"q13\">2 件：</span>+20 耐力。<br /><span class=\"q13\">3 件：</span>使你的闪现术的冷却时间缩短2秒。<br /><span class=\"q13\">6 件：</span>法术强度提高23点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 388,
+        "idbak": 388,
+        "name": "3元帅的法衣",
+        "name_en": "Field Marshal's Regalia",
+        "minlevel": 71,
+        "maxlevel": 74,
+        "note": 8,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            16442,
+            16437,
+            16440,
+            16444,
+            16443
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "元帅的法衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">元帅的法衣</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />60级PVP史诗套装<br /><span><br /><span class=\"q13\">2 件：</span>+20 耐力。<br /><span class=\"q13\">3 件：</span>使你的闪现术的冷却时间缩短2秒。<br /><span class=\"q13\">6 件：</span>法术强度提高23点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 542,
+        "idbak": 542,
+        "name": "4勇士的秘密",
+        "name_en": "Champion's Arcanum",
+        "minlevel": 66,
+        "maxlevel": 71,
+        "note": 6,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            22860,
+            22870,
+            22883,
+            22886
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "勇士的秘密",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">勇士的秘密</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />60级PVP稀有套装<br /><span><br /><span class=\"q13\">2 件：</span>法术强度提高23点。<br /><span class=\"q13\">4 件：</span>使你的闪现术的冷却时间缩短2秒。<br /><span class=\"q13\">6 件：</span>+20 耐力。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 546,
+        "idbak": 546,
+        "name": "4少校的秘密",
+        "name_en": "Lieutenant Commander's Arcanum",
+        "minlevel": 66,
+        "maxlevel": 71,
+        "note": 6,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            23291,
+            23290,
+            23304,
+            23305
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "少校的秘密",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">少校的秘密</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />60级PVP稀有套装<br /><span><br /><span class=\"q13\">2 件：</span>法术强度提高23点。<br /><span class=\"q13\">4 件：</span>使你的闪现术的冷却时间缩短2秒。<br /><span class=\"q13\">6 件：</span>+20 耐力。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 504,
+        "idbak": 504,
+        "name": "3魔法的秘密",
+        "name_en": "Trappings of Vaulted Secrets",
+        "minlevel": 65,
+        "maxlevel": 70,
+        "note": 9,
+        "type": 10,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            21414,
+            21415,
+            21413
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "魔法的秘密",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">魔法的秘密</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />安其拉废墟套装<br /><span><br /><span class=\"q13\">3 件：</span>法力护盾所能吸收的伤害总量提高15%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 201,
+        "idbak": 201,
+        "name": "3奥术师",
+        "name_en": "Arcanist Regalia",
+        "minlevel": 66,
+        "maxlevel": 66,
+        "note": 3,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            16795,
+            16797,
+            16802,
+            16796,
+            16800,
+            16799,
+            16801,
+            16798
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "厚布短裤",
+            "quality": 1,
+            "icon": "inv_pants_12",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">厚布短裤</b><span class='cus-id-2-right'>ID: 201</span><table width=\"100%\"><tr><td>腿部</td><th><!--asc1-->布甲</th></tr></table><span><!--amr-->30点护甲</span><br /><!--e--><!--ps-->耐久度 45 / 45<br />需要等级 17<br />物品等级22<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">4</span> <span class=\"moneycopper\">55</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?201:1:1:17-->"
+        }
+    },
+    {
+        "id": 473,
+        "idbak": 473,
+        "name": "4高地人的专注",
+        "name_en": "The Highlander's Intent",
+        "minlevel": 63,
+        "maxlevel": 65,
+        "note": 15,
+        "type": 1,
+        "reqclass": 400,
+        "classes": [
+            5,
+            8,
+            9
+        ],
+        "pieces": [
+            20047,
+            20054,
+            20061
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "高地人的专注",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">高地人的专注</span><br />职业：<a href=\"?class=5\" class=\"c5\">牧师</a>, <a href=\"?class=8\" class=\"c8\">法师</a>, <a href=\"?class=9\" class=\"c9\">术士</a><br />阿拉希盆地套装<br /><span><br /><span class=\"q13\">2 件：</span>+5 耐力。<br /><span class=\"q13\">3 件：</span>爆击等级提高<!--rtg32-->14&nbsp;<small>(<!--rtg%32-->1.04%&nbsp;@&nbsp;L<!--lvl-->58)</small>。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 482,
+        "idbak": 482,
+        "name": "3幻术师套装",
+        "name_en": "Illusionist's Attire",
+        "minlevel": 61,
+        "maxlevel": 65,
+        "note": 11,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            19845,
+            19846,
+            19601,
+            19959,
+            20034
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "幻术师套装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">幻术师套装</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />祖尔格拉布套装<br /><span><br /><span class=\"q13\">2 件：</span>法术强度提高12点。<br /><span class=\"q13\">3 件：</span>使你的奥术智慧和奥术光辉的法力值消耗减少5%。<br /><span class=\"q13\">5 件：</span>使你的烈焰风暴的施法时间缩短0.5秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 485,
+        "idbak": 485,
+        "name": "4污染者的专注",
+        "name_en": "The Defiler's Intent",
+        "minlevel": 63,
+        "maxlevel": 65,
+        "note": 15,
+        "type": 1,
+        "reqclass": 400,
+        "classes": [
+            5,
+            8,
+            9
+        ],
+        "pieces": [
+            20163,
+            20159,
+            20176
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "污染者的专注",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">污染者的专注</span><br />职业：<a href=\"?class=5\" class=\"c5\">牧师</a>, <a href=\"?class=8\" class=\"c8\">法师</a>, <a href=\"?class=9\" class=\"c9\">术士</a><br />阿拉希盆地套装<br /><span><br /><span class=\"q13\">2 件：</span>+5 耐力。<br /><span class=\"q13\">3 件：</span>爆击等级提高<!--rtg32-->14&nbsp;<small>(<!--rtg%32-->1.04%&nbsp;@&nbsp;L<!--lvl-->58)</small>。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 341,
+        "idbak": 341,
+        "name": "4勇士的法衣",
+        "name_en": "Champion's Regalia",
+        "minlevel": 63,
+        "maxlevel": 63,
+        "note": 7,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            16489,
+            16492,
+            16490,
+            16485,
+            16487,
+            16491
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "勇士的法衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">勇士的法衣</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />60级PVP稀有套装（旧）<br /><span><br /><span class=\"q13\">2 件：</span>法术强度提高23点。<br /><span class=\"q13\">4 件：</span>使你的闪现术的冷却时间缩短2秒。<br /><span class=\"q13\">6 件：</span>+15 耐力。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 343,
+        "idbak": 343,
+        "name": "4少校的法衣",
+        "name_en": "Lieutenant Commander's Regalia",
+        "minlevel": 63,
+        "maxlevel": 63,
+        "note": 7,
+        "type": 1,
+        "reqclass": 128,
+        "classes": [
+            8
+        ],
+        "pieces": [
+            16416,
+            16415,
+            16414,
+            16369,
+            16391,
+            16413
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "少校的法衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">少校的法衣</span><br />职业：<a href=\"?class=8\" class=\"c8\">法师</a><br />60级PVP稀有套装（旧）<br /><span><br /><span class=\"q13\">2 件：</span>法术强度提高23点。<br /><span class=\"q13\">4 件：</span>使你的闪现术的冷却时间缩短2秒。<br /><span class=\"q13\">6 件：</span>+15 耐力。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 520,
+        "idbak": 520,
+        "name": "4铁纹作战套装",
+        "name_en": "Ironweave Battlesuit",
+        "minlevel": 61,
+        "maxlevel": 63,
+        "note": 0,
+        "type": 1,
+        "reqclass": 400,
+        "classes": [
+            5,
+            8,
+            9
+        ],
+        "pieces": [
+            22305,
+            22306,
+            22311,
+            22313,
+            22304,
+            22303,
+            22302,
+            22301
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "铁纹作战套装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">铁纹作战套装</span><br />职业：<a href=\"?class=5\" class=\"c5\">牧师</a>, <a href=\"?class=8\" class=\"c8\">法师</a>, <a href=\"?class=9\" class=\"c9\">术士</a><br />布甲<br /><span><br /><span class=\"q13\">4 件：</span>使你抵抗沉默和打断效果的几率提高10%。<br /><span class=\"q13\">8 件：</span>+200 护甲值。</span></td></tr></table>"
+        }
+    }
+]

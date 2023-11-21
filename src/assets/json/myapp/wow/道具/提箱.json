@@ -1,0 +1,2017 @@
+[
+    {
+        "id": 3239,
+        "name": "Benedict's Chest",
+        "name_en": "Benedict's Chest",
+        "type": -5,
+        "location": [
+            14
+        ],
+        "skill": 100,
+        "tip": {
+            "name_zhcn": "劣质平衡石",
+            "quality": 1,
+            "icon": "inv_stone_weightstone_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">劣质平衡石</b><span class='cus-id-2-right'>ID: 3239</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">使用： 使钝器的武器伤害提高2点，持续1小时。不能对等级高于165的物品使用。</span><br /><span class=\"q1\">1次</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">3</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?3239:1:1:80-->"
+        }
+    },
+    {
+        "id": 3714,
+        "name": "联盟保险箱",
+        "name_en": "Alliance Strongbox",
+        "type": -5,
+        "location": [],
+        "skill": 1,
+        "tip": {
+            "name_zhcn": "用旧的石雕",
+            "quality": 1,
+            "icon": "inv_misc_rune_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">用旧的石雕</b><span class='cus-id-2-right'>ID: 3714</span><br /><!--bo-->任务物品<br /><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q\">\"这件物品上的魔法已经消退了。\"</span></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?3714:1:1:80-->"
+        }
+    },
+    {
+        "id": 4095,
+        "name": "联盟保险箱",
+        "name_en": "Alliance Strongbox",
+        "type": -5,
+        "location": [],
+        "skill": 25,
+        "tip": {
+            "name_zhcn": "加拉克虐待者",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">加拉克虐待者</b></td></tr><tr><td>等级 27 - 28 人型生物 (普通)</td></tr></table>",
+            "map": {
+                "zone": 17,
+                "coords": {
+                    "0": [
+                        [
+                            48.8,
+                            97.6
+                        ],
+                        [
+                            48.7,
+                            97
+                        ],
+                        [
+                            48.9,
+                            96
+                        ],
+                        [
+                            48.9,
+                            97.2
+                        ],
+                        [
+                            48.4,
+                            97.5
+                        ],
+                        [
+                            48.8,
+                            96
+                        ],
+                        [
+                            48.6,
+                            96.7
+                        ],
+                        [
+                            49.7,
+                            96.8
+                        ],
+                        [
+                            49.4,
+                            97.5
+                        ],
+                        [
+                            49.5,
+                            97.3
+                        ],
+                        [
+                            48.9,
+                            97
+                        ],
+                        [
+                            49.2,
+                            96.8
+                        ],
+                        [
+                            49.1,
+                            96.1
+                        ],
+                        [
+                            38.3,
+                            92.2
+                        ],
+                        [
+                            39.2,
+                            92.1
+                        ],
+                        [
+                            37.9,
+                            92
+                        ],
+                        [
+                            48.2,
+                            96.7
+                        ],
+                        [
+                            48.6,
+                            96.7
+                        ],
+                        [
+                            49.4,
+                            96.7
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 20691,
+        "name": "考兹尔的箱子",
+        "name_en": "Cozzle's Footlocker",
+        "type": -5,
+        "location": [
+            33
+        ],
+        "skill": 160,
+        "tip": {
+            "name_zhcn": "风剪斗篷",
+            "quality": 4,
+            "icon": "inv_misc_cape_20",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">风剪斗篷</b><span class='cus-id-2-right'>ID: 20691</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>背部</td></tr></table><span><!--amr-->57点护甲</span><br /><span><!--stat3-->+15 敏捷</span><br /><span><!--stat7-->+14 耐力</span><br /><span><!--stat4-->+8 力量</span><br /><span><!--stat5-->+7 智力</span><br /><!--e--><!--ps-->需要等级 60<br />物品等级65<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">2</span> <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">61</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?20691:1:1:60-->"
+        }
+    },
+    {
+        "id": 74447,
+        "name": "大型铁箍储物箱",
+        "name_en": "Large Iron Bound Chest",
+        "type": -5,
+        "location": [
+            491
+        ],
+        "skill": 25,
+        "tip": {
+            "name_zhcn": "大型铁箍储物箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">大型铁箍储物箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (25)</td></tr></table>",
+            "map": {
+                "zone": 491,
+                "coords": {
+                    "0": [
+                        [
+                            1613.8,
+                            2111.4
+                        ],
+                        [
+                            1654.7,
+                            2199.2
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 75295,
+        "name": "大型铁箍储物箱",
+        "name_en": "Large Iron Bound Chest",
+        "type": -5,
+        "location": [
+            209,
+            717,
+            719
+        ],
+        "skill": 1,
+        "tip": {
+            "name_zhcn": "大型铁箍储物箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">大型铁箍储物箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (1)</td></tr></table>",
+            "map": {
+                "zone": 717,
+                "coords": {
+                    "0": [
+                        [
+                            77.255,
+                            104.45
+                        ],
+                        [
+                            57.666,
+                            165.32
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 75296,
+        "name": "大型铁箍储物箱",
+        "name_en": "Large Iron Bound Chest",
+        "type": -5,
+        "location": [
+            796
+        ],
+        "skill": 70,
+        "tip": {
+            "name_zhcn": "大型铁箍储物箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">大型铁箍储物箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (70)</td></tr></table>",
+            "map": {
+                "zone": 796,
+                "coords": {
+                    "0": [
+                        [
+                            0,
+                            277.4
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 75297,
+        "name": "大型铁箍储物箱",
+        "name_en": "Large Iron Bound Chest",
+        "type": -5,
+        "location": [],
+        "skill": 125,
+        "tip": {
+            "name_zhcn": "大型铁箍储物箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">大型铁箍储物箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (125)</td></tr></table>",
+            "map": {}
+        }
+    },
+    {
+        "id": 103815,
+        "name": "安伯米尔保险箱",
+        "name_en": "Ambermill Strongbox",
+        "type": -5,
+        "location": [
+            130
+        ],
+        "skill": 1,
+        "tip": {
+            "name_zhcn": "安伯米尔保险箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">安伯米尔保险箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (1)</td></tr></table>",
+            "map": {
+                "zone": 130,
+                "coords": {
+                    "0": [
+                        [
+                            63.7,
+                            65.2
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 105176,
+        "name": "风险投资公司保险箱",
+        "name_en": "Venture Co. Strongbox",
+        "type": -5,
+        "location": [
+            17
+        ],
+        "skill": 1,
+        "tip": {
+            "name_zhcn": "风险投资公司保险箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">风险投资公司保险箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (1)</td></tr></table>",
+            "map": {
+                "zone": 17,
+                "coords": {
+                    "0": [
+                        [
+                            61.8,
+                            3.9
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 105570,
+        "name": "联盟保险箱",
+        "name_en": "Alliance Strongbox",
+        "type": -5,
+        "location": [],
+        "skill": 70,
+        "tip": {
+            "name_zhcn": "联盟保险箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">联盟保险箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (70)</td></tr></table>",
+            "map": {}
+        }
+    },
+    {
+        "id": 121264,
+        "name": "卢修斯的箱子",
+        "name_en": "Lucius's Lockbox",
+        "type": -5,
+        "location": [
+            44
+        ],
+        "skill": 25,
+        "tip": {
+            "name_zhcn": "卢修斯的箱子",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">卢修斯的箱子</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (25)</td></tr></table>",
+            "map": {
+                "zone": 44,
+                "coords": {
+                    "0": [
+                        [
+                            52,
+                            44.7
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 123214,
+        "name": "暮色森林的箱子",
+        "name_en": "Duskwood Chest",
+        "type": -5,
+        "location": [
+            40
+        ],
+        "skill": 70,
+        "tip": {
+            "name_zhcn": "暮色森林的箱子",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">暮色森林的箱子</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (70)</td></tr></table>",
+            "map": {
+                "zone": 40,
+                "coords": {
+                    "0": [
+                        [
+                            70.4,
+                            73.9
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 123330,
+        "name": "海盗的保险箱",
+        "name_en": "Buccaneer's Strongbox",
+        "type": -5,
+        "location": [
+            17
+        ],
+        "skill": 1,
+        "tip": {
+            "name_zhcn": "海盗的保险箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">海盗的保险箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (1)</td></tr></table>",
+            "map": {
+                "zone": 17,
+                "coords": {
+                    "0": [
+                        [
+                            65.1,
+                            45.4
+                        ],
+                        [
+                            65,
+                            45.5
+                        ],
+                        [
+                            65.1,
+                            45.4
+                        ],
+                        [
+                            65,
+                            45.4
+                        ],
+                        [
+                            65.1,
+                            45.5
+                        ],
+                        [
+                            65.1,
+                            45.4
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 123331,
+        "name": "海盗的保险箱",
+        "name_en": "Buccaneer's Strongbox",
+        "type": -5,
+        "location": [
+            17
+        ],
+        "skill": 1,
+        "tip": {
+            "name_zhcn": "海盗的保险箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">海盗的保险箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (1)</td></tr></table>",
+            "map": {
+                "zone": 17,
+                "coords": {
+                    "0": [
+                        [
+                            65.1,
+                            45.4
+                        ],
+                        [
+                            65,
+                            45.5
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 123332,
+        "name": "海盗的保险箱",
+        "name_en": "Buccaneer's Strongbox",
+        "type": -5,
+        "location": [
+            17
+        ],
+        "skill": 1,
+        "tip": {
+            "name_zhcn": "海盗的保险箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">海盗的保险箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (1)</td></tr></table>",
+            "map": {
+                "zone": 17,
+                "coords": {
+                    "0": [
+                        [
+                            65.1,
+                            45.4
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 123333,
+        "name": "海盗的保险箱",
+        "name_en": "Buccaneer's Strongbox",
+        "type": -5,
+        "location": [
+            17
+        ],
+        "skill": 1,
+        "tip": {
+            "name_zhcn": "海盗的保险箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">海盗的保险箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (1)</td></tr></table>",
+            "map": {
+                "zone": 17,
+                "coords": {
+                    "0": [
+                        [
+                            65.1,
+                            45.4
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 129127,
+        "name": "加里维克斯的保险箱",
+        "name_en": "Gallywix's Lockbox",
+        "type": -5,
+        "location": [
+            17
+        ],
+        "skill": 70,
+        "tip": {
+            "name_zhcn": "加里维克斯的保险箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">加里维克斯的保险箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (70)</td></tr></table>",
+            "map": {
+                "zone": 17,
+                "coords": {
+                    "0": [
+                        [
+                            54.8,
+                            5.6
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 131978,
+        "name": "大型秘银储物箱",
+        "name_en": "Large Mithril Bound Chest",
+        "type": -5,
+        "location": [
+            1337
+        ],
+        "skill": 175,
+        "tip": {
+            "name_zhcn": "大型秘银储物箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">大型秘银储物箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (175)</td></tr></table>",
+            "map": {
+                "zone": 1337,
+                "coords": {
+                    "0": [
+                        [
+                            201.76,
+                            0
+                        ],
+                        [
+                            265.31,
+                            0
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 153468,
+        "name": "大型秘银储物箱",
+        "name_en": "Large Mithril Bound Chest",
+        "type": -5,
+        "location": [
+            28
+        ],
+        "skill": 250,
+        "tip": {
+            "name_zhcn": "大型秘银储物箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">大型秘银储物箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (250)</td></tr></table>",
+            "map": {
+                "zone": 28,
+                "coords": {
+                    "0": [
+                        [
+                            46.9,
+                            13.2
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 153469,
+        "name": "大型秘银储物箱",
+        "name_en": "Large Mithril Bound Chest",
+        "type": -5,
+        "location": [
+            1583,
+            2017
+        ],
+        "skill": 275,
+        "tip": {
+            "name_zhcn": "大型秘银储物箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">大型秘银储物箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (275)</td></tr></table>",
+            "map": {
+                "zone": 1583,
+                "coords": {
+                    "0": [
+                        [
+                            0,
+                            0
+                        ],
+                        [
+                            0,
+                            0
+                        ],
+                        [
+                            0,
+                            86.855
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 178244,
+        "name": "练习用保险箱",
+        "name_en": "Practice Lockbox",
+        "type": -5,
+        "location": [
+            44
+        ],
+        "skill": 1,
+        "tip": {
+            "name_zhcn": "练习用保险箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">练习用保险箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (1)</td></tr></table>",
+            "map": {
+                "zone": 44,
+                "coords": {
+                    "0": [
+                        [
+                            51.7,
+                            44.9
+                        ],
+                        [
+                            51.9,
+                            45.1
+                        ],
+                        [
+                            52,
+                            45.3
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 178245,
+        "name": "练习用保险箱",
+        "name_en": "Practice Lockbox",
+        "type": -5,
+        "location": [],
+        "skill": 1,
+        "tip": {
+            "name_zhcn": "练习用保险箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">练习用保险箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (1)</td></tr></table>",
+            "map": {}
+        }
+    },
+    {
+        "id": 178246,
+        "name": "练习用保险箱",
+        "name_en": "Practice Lockbox",
+        "type": -5,
+        "location": [
+            44
+        ],
+        "skill": 1,
+        "tip": {
+            "name_zhcn": "练习用保险箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">练习用保险箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (1)</td></tr></table>",
+            "map": {
+                "zone": 44,
+                "coords": {
+                    "0": [
+                        [
+                            52.3,
+                            45.4
+                        ],
+                        [
+                            52.1,
+                            45.5
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 179486,
+        "name": "破碎的提箱",
+        "name_en": "Battered Footlocker",
+        "type": -5,
+        "location": [
+            11,
+            267,
+            406
+        ],
+        "skill": 70,
+        "tip": {
+            "name_zhcn": "破碎的提箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">破碎的提箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (70)</td></tr></table>",
+            "map": {
+                "zone": 406,
+                "coords": {
+                    "0": [
+                        [
+                            66.1,
+                            50.9
+                        ],
+                        [
+                            59.7,
+                            53.5
+                        ],
+                        [
+                            67.8,
+                            56.6
+                        ],
+                        [
+                            71.9,
+                            49.5
+                        ],
+                        [
+                            61.4,
+                            55.6
+                        ],
+                        [
+                            61.9,
+                            51.5
+                        ],
+                        [
+                            71.5,
+                            56.8
+                        ],
+                        [
+                            70.2,
+                            48.7
+                        ],
+                        [
+                            62.9,
+                            53.2
+                        ],
+                        [
+                            71.4,
+                            52.6
+                        ],
+                        [
+                            63.3,
+                            51.2
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 179487,
+        "name": "浸水的提箱",
+        "name_en": "Waterlogged Footlocker",
+        "type": -5,
+        "location": [
+            44,
+            148,
+            331
+        ],
+        "skill": 70,
+        "tip": {
+            "name_zhcn": "浸水的提箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">浸水的提箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (70)</td></tr></table>",
+            "map": {
+                "zone": 44,
+                "coords": {
+                    "0": [
+                        [
+                            43.4,
+                            64.5
+                        ],
+                        [
+                            47.9,
+                            54.3
+                        ],
+                        [
+                            52.2,
+                            61.3
+                        ],
+                        [
+                            44.7,
+                            56
+                        ],
+                        [
+                            44.9,
+                            59
+                        ],
+                        [
+                            50.2,
+                            55.1
+                        ],
+                        [
+                            37.8,
+                            58.8
+                        ],
+                        [
+                            39.4,
+                            61.9
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 179488,
+        "name": "破碎的提箱",
+        "name_en": "Battered Footlocker",
+        "type": -5,
+        "location": [
+            11,
+            267,
+            406
+        ],
+        "skill": 110,
+        "tip": {
+            "name_zhcn": "破碎的提箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">破碎的提箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (110)</td></tr></table>",
+            "map": {
+                "zone": 267,
+                "coords": {
+                    "0": [
+                        [
+                            80.5,
+                            40.5
+                        ],
+                        [
+                            83.1,
+                            40
+                        ],
+                        [
+                            77.5,
+                            39
+                        ],
+                        [
+                            78.3,
+                            43.5
+                        ],
+                        [
+                            77.9,
+                            39.1
+                        ],
+                        [
+                            75.2,
+                            43.8
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 179489,
+        "name": "浸水的提箱",
+        "name_en": "Waterlogged Footlocker",
+        "type": -5,
+        "location": [
+            331
+        ],
+        "skill": 110,
+        "tip": {
+            "name_zhcn": "浸水的提箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">浸水的提箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (110)</td></tr></table>",
+            "map": {
+                "zone": 331,
+                "coords": {
+                    "0": [
+                        [
+                            10.7,
+                            17.3
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 179490,
+        "name": "破碎的提箱",
+        "name_en": "Battered Footlocker",
+        "type": -5,
+        "location": [
+            3
+        ],
+        "skill": 150,
+        "tip": {
+            "name_zhcn": "破碎的提箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">破碎的提箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (150)</td></tr></table>",
+            "map": {
+                "zone": 3,
+                "coords": {
+                    "0": [
+                        [
+                            42.1,
+                            31
+                        ],
+                        [
+                            41.4,
+                            26.2
+                        ],
+                        [
+                            41.3,
+                            29.3
+                        ],
+                        [
+                            41.4,
+                            30
+                        ],
+                        [
+                            40.5,
+                            28
+                        ],
+                        [
+                            43.8,
+                            29.7
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 179491,
+        "name": "浸水的提箱",
+        "name_en": "Waterlogged Footlocker",
+        "type": -5,
+        "location": [
+            405
+        ],
+        "skill": 150,
+        "tip": {
+            "name_zhcn": "浸水的提箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">浸水的提箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (150)</td></tr></table>",
+            "map": {
+                "zone": 405,
+                "coords": {
+                    "0": [
+                        [
+                            35.4,
+                            20.8
+                        ],
+                        [
+                            37.6,
+                            22.9
+                        ],
+                        [
+                            34,
+                            20.7
+                        ],
+                        [
+                            37.5,
+                            21.3
+                        ],
+                        [
+                            36.6,
+                            22.1
+                        ],
+                        [
+                            31.6,
+                            22.5
+                        ],
+                        [
+                            37.2,
+                            22
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 179492,
+        "name": "被砸过的箱子",
+        "name_en": "Dented Footlocker",
+        "type": -5,
+        "location": [
+            3
+        ],
+        "skill": 175,
+        "tip": {
+            "name_zhcn": "被砸过的箱子",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">被砸过的箱子</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (175)</td></tr></table>",
+            "map": {
+                "zone": 3,
+                "coords": {
+                    "0": [
+                        [
+                            42.3,
+                            28.4
+                        ],
+                        [
+                            40.8,
+                            28.7
+                        ],
+                        [
+                            41.1,
+                            27.4
+                        ],
+                        [
+                            40.7,
+                            28.1
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 179493,
+        "name": "生苔的提箱",
+        "name_en": "Mossy Footlocker",
+        "type": -5,
+        "location": [
+            8,
+            405
+        ],
+        "skill": 175,
+        "tip": {
+            "name_zhcn": "生苔的提箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">生苔的提箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (175)</td></tr></table>",
+            "map": {
+                "zone": 8,
+                "coords": {
+                    "0": [
+                        [
+                            68.9,
+                            48
+                        ],
+                        [
+                            73.4,
+                            51.1
+                        ],
+                        [
+                            74.2,
+                            58.5
+                        ],
+                        [
+                            71.8,
+                            61.6
+                        ],
+                        [
+                            65.4,
+                            51.7
+                        ],
+                        [
+                            71.7,
+                            48.2
+                        ],
+                        [
+                            69.7,
+                            61.2
+                        ],
+                        [
+                            66.3,
+                            58.4
+                        ],
+                        [
+                            67.7,
+                            48.9
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 179494,
+        "name": "被砸过的箱子",
+        "name_en": "Dented Footlocker",
+        "type": -5,
+        "location": [
+            51
+        ],
+        "skill": 200,
+        "tip": {
+            "name_zhcn": "被砸过的箱子",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">被砸过的箱子</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (200)</td></tr></table>",
+            "map": {
+                "zone": 51,
+                "coords": {
+                    "0": [
+                        [
+                            40.7,
+                            31.2
+                        ],
+                        [
+                            38,
+                            45.9
+                        ],
+                        [
+                            40.6,
+                            52.8
+                        ],
+                        [
+                            40.4,
+                            38.2
+                        ],
+                        [
+                            38.4,
+                            50.8
+                        ],
+                        [
+                            39.1,
+                            24.4
+                        ],
+                        [
+                            42.3,
+                            29.5
+                        ],
+                        [
+                            35.9,
+                            45.2
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 179496,
+        "name": "被砸过的箱子",
+        "name_en": "Dented Footlocker",
+        "type": -5,
+        "location": [
+            51,
+            440
+        ],
+        "skill": 225,
+        "tip": {
+            "name_zhcn": "被砸过的箱子",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">被砸过的箱子</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (225)</td></tr></table>",
+            "map": {
+                "zone": 440,
+                "coords": {
+                    "0": [
+                        [
+                            74.8,
+                            47.1
+                        ],
+                        [
+                            72.9,
+                            45.9
+                        ],
+                        [
+                            75.6,
+                            45.1
+                        ],
+                        [
+                            74.2,
+                            47
+                        ],
+                        [
+                            74.6,
+                            47.3
+                        ],
+                        [
+                            74.8,
+                            45.5
+                        ],
+                        [
+                            70.9,
+                            47.4
+                        ],
+                        [
+                            71.3,
+                            48.4
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 179497,
+        "name": "生苔的提箱",
+        "name_en": "Mossy Footlocker",
+        "type": -5,
+        "location": [
+            16
+        ],
+        "skill": 225,
+        "tip": {
+            "name_zhcn": "生苔的提箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">生苔的提箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (225)</td></tr></table>",
+            "map": {
+                "zone": 16,
+                "coords": {
+                    "0": [
+                        [
+                            57.9,
+                            56.7
+                        ],
+                        [
+                            71.3,
+                            74.4
+                        ],
+                        [
+                            78,
+                            44.9
+                        ],
+                        [
+                            61.2,
+                            71.1
+                        ],
+                        [
+                            59.2,
+                            43.1
+                        ],
+                        [
+                            60.6,
+                            50.8
+                        ],
+                        [
+                            49.9,
+                            63.5
+                        ],
+                        [
+                            58.2,
+                            42.9
+                        ],
+                        [
+                            55.1,
+                            48.3
+                        ],
+                        [
+                            73.1,
+                            40.9
+                        ],
+                        [
+                            56.4,
+                            58.2
+                        ],
+                        [
+                            49.6,
+                            41.7
+                        ],
+                        [
+                            78.5,
+                            85.7
+                        ],
+                        [
+                            46.4,
+                            42.4
+                        ],
+                        [
+                            78.6,
+                            39.1
+                        ],
+                        [
+                            82.5,
+                            30.7
+                        ],
+                        [
+                            52.6,
+                            59.5
+                        ],
+                        [
+                            50.5,
+                            64.8
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 179498,
+        "name": "血色十字军提箱",
+        "name_en": "Scarlet Footlocker",
+        "type": -5,
+        "location": [
+            139
+        ],
+        "skill": 250,
+        "tip": {
+            "name_zhcn": "血色十字军提箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">血色十字军提箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (250)</td></tr></table>",
+            "map": {
+                "zone": 139,
+                "coords": {
+                    "0": [
+                        [
+                            72.3,
+                            69.7
+                        ],
+                        [
+                            73.3,
+                            74.2
+                        ],
+                        [
+                            77.1,
+                            76.7
+                        ],
+                        [
+                            71.9,
+                            73.4
+                        ],
+                        [
+                            81.8,
+                            79.8
+                        ],
+                        [
+                            81.1,
+                            74.5
+                        ],
+                        [
+                            78.3,
+                            74.3
+                        ],
+                        [
+                            76.2,
+                            73.2
+                        ],
+                        [
+                            74.8,
+                            77.5
+                        ],
+                        [
+                            78.8,
+                            73
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 181665,
+        "name": "埋起来的箱子",
+        "name_en": "Burial Chest",
+        "type": -5,
+        "location": [
+            3433
+        ],
+        "skill": 1,
+        "tip": {
+            "name_zhcn": "埋起来的箱子",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">埋起来的箱子</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (1)</td></tr></table>",
+            "map": {
+                "zone": 3433,
+                "coords": {
+                    "0": [
+                        [
+                            65.1,
+                            28.3
+                        ],
+                        [
+                            64.8,
+                            28.9
+                        ],
+                        [
+                            64.6,
+                            30.4
+                        ],
+                        [
+                            64.1,
+                            28.3
+                        ],
+                        [
+                            63.8,
+                            28.9
+                        ],
+                        [
+                            63.4,
+                            29.6
+                        ],
+                        [
+                            63.1,
+                            27.8
+                        ],
+                        [
+                            63.5,
+                            32
+                        ],
+                        [
+                            63.5,
+                            31.5
+                        ],
+                        [
+                            62.7,
+                            27.8
+                        ],
+                        [
+                            61.7,
+                            27.5
+                        ],
+                        [
+                            61.8,
+                            29.4
+                        ],
+                        [
+                            61.8,
+                            27.6
+                        ],
+                        [
+                            59.2,
+                            27.7
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 184304,
+        "name": "锁住的箱子",
+        "name_en": "Locked Chest",
+        "type": -5,
+        "location": [],
+        "skill": 5000,
+        "tip": {
+            "name_zhcn": "锁住的箱子",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">锁住的箱子</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (5000)</td></tr></table>",
+            "map": {}
+        }
+    },
+    {
+        "id": 184740,
+        "name": "柳条箱",
+        "name_en": "Wicker Chest",
+        "type": -5,
+        "location": [
+            3521
+        ],
+        "skill": 300,
+        "tip": {
+            "name_zhcn": "柳条箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">柳条箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (300)</td></tr></table>",
+            "map": {
+                "zone": 3521,
+                "coords": {
+                    "0": [
+                        [
+                            48.7,
+                            64.2
+                        ],
+                        [
+                            48.9,
+                            61.7
+                        ],
+                        [
+                            49.9,
+                            61.6
+                        ],
+                        [
+                            48.9,
+                            60.8
+                        ],
+                        [
+                            49.8,
+                            60.9
+                        ],
+                        [
+                            45.9,
+                            60.7
+                        ],
+                        [
+                            45.9,
+                            61.2
+                        ],
+                        [
+                            43.9,
+                            61.3
+                        ],
+                        [
+                            43.2,
+                            63.7
+                        ],
+                        [
+                            42.9,
+                            64
+                        ],
+                        [
+                            46.5,
+                            60.3
+                        ],
+                        [
+                            42.9,
+                            63.5
+                        ],
+                        [
+                            44.4,
+                            63.2
+                        ],
+                        [
+                            43.6,
+                            62.9
+                        ],
+                        [
+                            44.2,
+                            62.8
+                        ],
+                        [
+                            44,
+                            62.2
+                        ],
+                        [
+                            49.8,
+                            61.2
+                        ],
+                        [
+                            42.8,
+                            64.2
+                        ],
+                        [
+                            43.5,
+                            61.9
+                        ],
+                        [
+                            43.6,
+                            61.5
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 184741,
+        "name": "凹陷的提箱",
+        "name_en": "Dented Footlocker",
+        "type": -5,
+        "location": [
+            3518,
+            3519
+        ],
+        "skill": 325,
+        "tip": {
+            "name_zhcn": "凹陷的提箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">凹陷的提箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (325)</td></tr></table>",
+            "map": {
+                "zone": 3518,
+                "coords": {
+                    "0": [
+                        [
+                            70.6,
+                            76.8
+                        ],
+                        [
+                            70.8,
+                            79.1
+                        ],
+                        [
+                            69.8,
+                            82.4
+                        ],
+                        [
+                            69.4,
+                            82.1
+                        ],
+                        [
+                            69.5,
+                            79.7
+                        ],
+                        [
+                            69.8,
+                            78.5
+                        ],
+                        [
+                            68.5,
+                            82.8
+                        ],
+                        [
+                            70.5,
+                            81.6
+                        ],
+                        [
+                            70.2,
+                            76.7
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 184793,
+        "name": "粗糙的箱子",
+        "name_en": "Primitive Chest",
+        "type": -5,
+        "location": [
+            3433
+        ],
+        "skill": 20,
+        "tip": {
+            "name_zhcn": "粗糙的箱子",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">粗糙的箱子</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (20)</td></tr></table>",
+            "map": {
+                "zone": 3433,
+                "coords": {
+                    "0": [
+                        [
+                            79.1,
+                            39.5
+                        ],
+                        [
+                            80.5,
+                            39.6
+                        ],
+                        [
+                            82.1,
+                            37.1
+                        ],
+                        [
+                            81.5,
+                            36.6
+                        ],
+                        [
+                            81.8,
+                            39.2
+                        ],
+                        [
+                            81.3,
+                            38.6
+                        ],
+                        [
+                            78.9,
+                            37.9
+                        ],
+                        [
+                            77.4,
+                            41.5
+                        ],
+                        [
+                            77.4,
+                            40.1
+                        ],
+                        [
+                            77.2,
+                            42.2
+                        ],
+                        [
+                            77.2,
+                            45
+                        ],
+                        [
+                            75,
+                            44.5
+                        ],
+                        [
+                            75.6,
+                            43.7
+                        ],
+                        [
+                            75.6,
+                            45.5
+                        ],
+                        [
+                            74.7,
+                            47
+                        ],
+                        [
+                            76.2,
+                            47.3
+                        ],
+                        [
+                            67.3,
+                            61.2
+                        ],
+                        [
+                            66.7,
+                            60.2
+                        ],
+                        [
+                            64.7,
+                            64.1
+                        ],
+                        [
+                            65.4,
+                            66.4
+                        ],
+                        [
+                            65.1,
+                            58
+                        ],
+                        [
+                            68,
+                            50.1
+                        ],
+                        [
+                            66.3,
+                            55.2
+                        ],
+                        [
+                            68.3,
+                            55.1
+                        ],
+                        [
+                            69.2,
+                            52.6
+                        ],
+                        [
+                            62.3,
+                            66.4
+                        ],
+                        [
+                            64.7,
+                            67.7
+                        ],
+                        [
+                            61.6,
+                            67.6
+                        ],
+                        [
+                            61.5,
+                            68.8
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 184931,
+        "name": "加固魔铁宝箱",
+        "name_en": "Bound Fel Iron Chest",
+        "type": -5,
+        "location": [
+            3562
+        ],
+        "skill": 300,
+        "tip": {
+            "name_zhcn": "加固魔铁宝箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">加固魔铁宝箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (300)</td></tr></table>",
+            "map": {
+                "zone": 3562,
+                "coords": {
+                    "0": [
+                        [
+                            1582.3,
+                            0
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 184932,
+        "name": "加固魔铁宝箱",
+        "name_en": "Bound Fel Iron Chest",
+        "type": -5,
+        "location": [],
+        "skill": 300,
+        "tip": {
+            "name_zhcn": "加固魔铁宝箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">加固魔铁宝箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (300)</td></tr></table>",
+            "map": {}
+        }
+    },
+    {
+        "id": 184934,
+        "name": "加固魔铁宝箱",
+        "name_en": "Bound Fel Iron Chest",
+        "type": -5,
+        "location": [
+            3792
+        ],
+        "skill": 300,
+        "tip": {
+            "name_zhcn": "加固魔铁宝箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">加固魔铁宝箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (300)</td></tr></table>",
+            "map": {
+                "zone": 3792,
+                "coords": {
+                    "0": [
+                        [
+                            0,
+                            0
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 184936,
+        "name": "加固精金宝箱",
+        "name_en": "Bound Adamantite Chest",
+        "type": -5,
+        "location": [],
+        "skill": 325,
+        "tip": {
+            "name_zhcn": "加固精金宝箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">加固精金宝箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (325)</td></tr></table>",
+            "map": {}
+        }
+    },
+    {
+        "id": 184938,
+        "name": "加固精金宝箱",
+        "name_en": "Bound Adamantite Chest",
+        "type": -5,
+        "location": [],
+        "skill": 325,
+        "tip": {
+            "name_zhcn": "加固精金宝箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">加固精金宝箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (325)</td></tr></table>",
+            "map": {}
+        }
+    },
+    {
+        "id": 184940,
+        "name": "加固精金宝箱",
+        "name_en": "Bound Adamantite Chest",
+        "type": -5,
+        "location": [
+            3715,
+            3789
+        ],
+        "skill": 350,
+        "tip": {
+            "name_zhcn": "加固精金宝箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">加固精金宝箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (350)</td></tr></table>",
+            "map": {
+                "zone": 3715,
+                "coords": {
+                    "0": [
+                        [
+                            0,
+                            39.495
+                        ],
+                        [
+                            0,
+                            0
+                        ],
+                        [
+                            0,
+                            61.676
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 186648,
+        "name": "哈兹莱克的箱子",
+        "name_en": "Tanzar's Trunk",
+        "type": -5,
+        "location": [
+            3805
+        ],
+        "skill": 5000,
+        "tip": {
+            "name_zhcn": "哈兹莱克的箱子",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">哈兹莱克的箱子</b></td></tr><tr><td>Chest</td></tr><tr><td>需要锁上的物品 (5000)</td></tr></table>",
+            "map": {
+                "zone": 3805,
+                "coords": {
+                    "0": [
+                        [
+                            1333,
+                            0
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 191543,
+        "name": "血色先锋军宝箱",
+        "name_en": "Scarlet Onslaught Trunk",
+        "type": -5,
+        "location": [
+            210
+        ],
+        "skill": 385,
+        "tip": {
+            "name_zhcn": "血色先锋军宝箱",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">血色先锋军宝箱</b></td></tr><tr><td>Chest</td></tr><tr><td>需要血色先锋军宝箱钥匙</td></tr><tr><td>需要锁上的物品 (385)</td></tr></table>",
+            "map": {
+                "zone": 210,
+                "coords": {
+                    "0": [
+                        [
+                            8.4,
+                            44.2
+                        ],
+                        [
+                            6,
+                            44.6
+                        ],
+                        [
+                            5.2,
+                            43.3
+                        ],
+                        [
+                            5.7,
+                            43.7
+                        ],
+                        [
+                            9.4,
+                            39.5
+                        ],
+                        [
+                            8.9,
+                            45.8
+                        ],
+                        [
+                            5.7,
+                            42.1
+                        ],
+                        [
+                            12.5,
+                            44.1
+                        ],
+                        [
+                            7.4,
+                            43.8
+                        ],
+                        [
+                            9.6,
+                            40.6
+                        ],
+                        [
+                            8,
+                            43.2
+                        ],
+                        [
+                            7.1,
+                            40.9
+                        ],
+                        [
+                            5.7,
+                            41.5
+                        ],
+                        [
+                            5.6,
+                            41.8
+                        ],
+                        [
+                            7,
+                            41.2
+                        ],
+                        [
+                            6.9,
+                            36.4
+                        ],
+                        [
+                            7,
+                            40.8
+                        ],
+                        [
+                            7.1,
+                            41.9
+                        ],
+                        [
+                            5.6,
+                            41.8
+                        ],
+                        [
+                            6,
+                            37.8
+                        ],
+                        [
+                            9.3,
+                            41.5
+                        ],
+                        [
+                            5.8,
+                            38.2
+                        ],
+                        [
+                            11,
+                            40.6
+                        ],
+                        [
+                            10.6,
+                            42.9
+                        ],
+                        [
+                            9.2,
+                            43.4
+                        ],
+                        [
+                            8.2,
+                            43.3
+                        ],
+                        [
+                            8.8,
+                            44.9
+                        ],
+                        [
+                            10.1,
+                            46.3
+                        ],
+                        [
+                            5.6,
+                            40.9
+                        ],
+                        [
+                            5.7,
+                            38.6
+                        ],
+                        [
+                            10.8,
+                            45.6
+                        ],
+                        [
+                            9.1,
+                            36.3
+                        ],
+                        [
+                            6.1,
+                            39.1
+                        ],
+                        [
+                            10,
+                            36.3
+                        ],
+                        [
+                            5.1,
+                            39.2
+                        ],
+                        [
+                            7.1,
+                            41.9
+                        ],
+                        [
+                            10.4,
+                            37.8
+                        ],
+                        [
+                            5.7,
+                            41
+                        ]
+                    ]
+                }
+            }
+        }
+    }
+]

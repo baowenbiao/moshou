@@ -1,0 +1,253 @@
+[
+    {
+        "family": 0,
+        "minlevel": 60,
+        "maxlevel": 60,
+        "id": 17378,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            3521
+        ],
+        "name": "沼泽蒸汽",
+        "name_en": "Swamp Gas",
+        "type": 13,
+        "react": [
+            0,
+            0
+        ],
+        "tip": {
+            "name_zhcn": "沼泽蒸汽",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">沼泽蒸汽</b></td></tr><tr><td>等级 60 气体云雾 (普通)</td></tr></table>",
+            "map": {
+                "zone": 3521,
+                "coords": {
+                    "0": [
+                        [
+                            85.6,
+                            49.5
+                        ],
+                        [
+                            59.4,
+                            35.4
+                        ],
+                        [
+                            30.4,
+                            21.1
+                        ],
+                        [
+                            16,
+                            20.2
+                        ],
+                        [
+                            9.8,
+                            51.9
+                        ],
+                        [
+                            24.6,
+                            56.9
+                        ],
+                        [
+                            30,
+                            50.2
+                        ],
+                        [
+                            34.5,
+                            42.5
+                        ],
+                        [
+                            32.6,
+                            38.3
+                        ],
+                        [
+                            31.6,
+                            32.6
+                        ],
+                        [
+                            32.7,
+                            30.6
+                        ],
+                        [
+                            46.6,
+                            58.1
+                        ],
+                        [
+                            58.7,
+                            52.6
+                        ],
+                        [
+                            60.5,
+                            54.8
+                        ],
+                        [
+                            63.9,
+                            66.5
+                        ],
+                        [
+                            65.5,
+                            73.2
+                        ],
+                        [
+                            75.3,
+                            83.8
+                        ],
+                        [
+                            78.3,
+                            79.3
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 60,
+        "maxlevel": 60,
+        "id": 17407,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            3519,
+            3520
+        ],
+        "name": "魔雾",
+        "name_en": "Felmist",
+        "type": 13,
+        "react": [
+            0,
+            0
+        ],
+        "tip": {
+            "name_zhcn": "格拉库的自制肉饼",
+            "quality": 1,
+            "icon": "inv_misc_food_10",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">格拉库的自制肉饼</b><span class='cus-id-2-right'>ID: 17407</span><br /><!--e--><!--ps-->需要等级 25<br /></td></tr></table><table><tr><td><span class=\"q2\">使用： 在27 秒内恢复总计874.8点生命值，进食时必须保持坐姿。</span><br /><span class=\"q1\">1次</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">50</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?17407:1:1:25-->"
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 60,
+        "maxlevel": 60,
+        "id": 17408,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            3523
+        ],
+        "name": "奥术漩涡",
+        "name_en": "Arcane Vortex",
+        "type": 13,
+        "react": [
+            0,
+            0
+        ],
+        "tip": {
+            "name_zhcn": "香辣牛肉干",
+            "quality": 1,
+            "icon": "inv_misc_food_49",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">香辣牛肉干</b><span class='cus-id-2-right'>ID: 17408</span><br /><!--e--><!--ps-->需要等级 35<br /></td></tr></table><table><tr><td><span class=\"q2\">使用： 在30 秒内恢复总计1392点生命值，进食时必须保持坐姿。</span><br /><span class=\"q1\">1次</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">1</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?17408:1:1:35-->"
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 60,
+        "maxlevel": 60,
+        "id": 24222,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            3518
+        ],
+        "name": "气体云雾",
+        "name_en": "Windy Cloud",
+        "type": 13,
+        "react": [
+            0,
+            0
+        ],
+        "tip": {
+            "name_zhcn": "黑暗刺剑",
+            "quality": 3,
+            "icon": "inv_weapon_shortblade_18",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">黑暗刺剑</b><span class='cus-id-2-right'>ID: 24222</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>单手</td><th>匕首</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->47 - 88伤害</td><th>速度 <!--spd-->1.80</th></tr></table><!--dps-->（每秒伤害37.5）<br /><span><!--stat7-->+8 耐力</span><br /><!--e--><!--ps-->耐久度 65 / 65<br />需要等级 52<br />物品等级57<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 攻击强度提高18点。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">4</span> <span class=\"moneysilver\">42</span> <span class=\"moneycopper\">10</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?24222:1:1:52-->"
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 1,
+        "maxlevel": 1,
+        "id": 24879,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            65,
+            67,
+            210,
+            -1
+        ],
+        "name": "北极云雾",
+        "name_en": "Arctic Cloud",
+        "type": 13,
+        "react": [
+            0,
+            0
+        ],
+        "tip": {
+            "name_zhcn": "德伊苏胫甲",
+            "quality": 2,
+            "icon": "inv_boots_chain_11",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">德伊苏胫甲</b><span class='cus-id-2-right'>ID: 24879</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>脚</td><th><!--asc3-->锁甲</th></tr></table><span><!--amr-->384点护甲</span><br /><span class=\"q2\">&lt;随机附魔&gt</span><br /><!--e--><!--ps-->耐久度 50 / 50<br />需要等级 66<br />物品等级108<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">3</span> <span class=\"moneysilver\">15</span> <span class=\"moneycopper\">77</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?24879:1:1:66-->"
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 1,
+        "maxlevel": 1,
+        "id": 32522,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            65,
+            3711
+        ],
+        "name": "灰烬云雾",
+        "name_en": "Cinder Cloud",
+        "type": 13,
+        "react": [
+            0,
+            0
+        ],
+        "tip": {
+            "name_zhcn": "恶魔壁垒",
+            "quality": 3,
+            "icon": "inv_shield_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">恶魔壁垒</b><span class='cus-id-2-right'>ID: 32522</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>副手</td><th><!--asc6-->盾牌</th></tr></table><span><!--amr-->3806点护甲</span><br /><span>86格挡</span><br /><span class=\"q2\">&lt;随机附魔&gt</span><br /><!--e--><!--ps-->耐久度 100 / 100<br />需要等级 70<br />物品等级115<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">5</span> <span class=\"moneysilver\">39</span> <span class=\"moneycopper\">45</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?32522:1:1:70-->"
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 60,
+        "maxlevel": 60,
+        "id": 32544,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            3537,
+            3711
+        ],
+        "name": "蒸汽云雾",
+        "name_en": "Steam Cloud",
+        "type": 13,
+        "react": [
+            0,
+            0
+        ],
+        "tip": {
+            "name_zhcn": "Tier 5 Druid Test Gear Box 2",
+            "quality": 1,
+            "icon": "inv_box_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">Tier 5 Druid Test Gear Box 2</b><span class='cus-id-2-right'>ID: 32544</span><br /><!--bo-->拾取后绑定<br />唯一<br /><!--e--><!--ps--><span class=\"q2\">&lt;右键点击打开&gt</span><br /></td></tr></table><table><tr><td></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?32544:1:1:80-->"
+        }
+    }
+]

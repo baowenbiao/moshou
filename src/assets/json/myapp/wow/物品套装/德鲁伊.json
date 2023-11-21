@@ -1,0 +1,2700 @@
+[
+    {
+        "id": -256,
+        "idbak": 887,
+        "name": "3树纹套装",
+        "name_en": "Lasherweave Garb",
+        "minlevel": 277,
+        "maxlevel": 277,
+        "note": 29,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            51302,
+            51304,
+            51303,
+            51301,
+            51300
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "树纹套装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">树纹套装</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T10副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>你的野性成长法术的治疗递减效果降低30%。<br /><span class=\"q13\">4 件：</span>每当你的回春术治疗了一个目标，都有2%的几率以完整的持续周期作用于一个新的目标。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -258,
+        "idbak": 888,
+        "name": "3树纹法衣",
+        "name_en": "Lasherweave Regalia",
+        "minlevel": 277,
+        "maxlevel": 277,
+        "note": 29,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            51290,
+            51292,
+            51293,
+            51291,
+            51294
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "树纹法衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">树纹法衣</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T10副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>当你的清晰预兆天赋使你获得节能施法效果时，你可造成额外15%的自然和奥术伤害，持续6 秒。<br /><span class=\"q13\">4 件：</span>你的星火术和愤怒法术所造成的爆击使你法术对目标所造成的伤害提高额外的7%，持续4 秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -260,
+        "idbak": 889,
+        "name": "3树纹战甲",
+        "name_en": "Lasherweave Battlegear",
+        "minlevel": 277,
+        "maxlevel": 277,
+        "note": 29,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            51296,
+            51299,
+            51297,
+            51295,
+            51298
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "树纹战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">树纹战甲</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T10副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>你的横扫（熊形态）和割伤技能可造成20%的额外伤害，并使你割裂技能所消耗的能量值降低10点。<br /><span class=\"q13\">4 件：</span>你的激怒技能不再降低你的护甲值，并使你所受到的伤害降低12%，你斜掠技能所造成的周期性伤害现在可形成致命一击。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -96,
+        "idbak": 773,
+        "name": "3角斗士的庇护",
+        "name_en": "Gladiator's Refuge",
+        "minlevel": 270,
+        "maxlevel": 270,
+        "note": 30,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            51421,
+            51424,
+            51422,
+            51420,
+            51419
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的庇护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的庇护</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />竞技场第8季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">2 件：</span>法术强度提高29点。<br /><span class=\"q13\">4 件：</span>使你的迅捷治愈技能的冷却时间缩短2秒。<br /><span class=\"q13\">4 件：</span>法术强度提高88点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -101,
+        "idbak": 774,
+        "name": "3角斗士的野性之皮",
+        "name_en": "Gladiator's Wildhide",
+        "minlevel": 270,
+        "maxlevel": 270,
+        "note": 30,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            51435,
+            51438,
+            51436,
+            51434,
+            51433
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的野性之皮",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的野性之皮</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />竞技场第8季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">2 件：</span>法术强度提高29点。<br /><span class=\"q13\">4 件：</span>你的愤怒法术在施放后有一定几率使你的下一个星火术的施法时间减少1.5秒。<br /><span class=\"q13\">4 件：</span>法术强度提高88点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -106,
+        "idbak": 775,
+        "name": "3角斗士的圣装",
+        "name_en": "Gladiator's Sanctuary",
+        "minlevel": 270,
+        "maxlevel": 270,
+        "note": 30,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            51427,
+            51430,
+            51428,
+            51426,
+            51425
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的圣装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的圣装</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />竞技场第8季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">2 件：</span>攻击强度提高50点。<br /><span class=\"q13\">4 件：</span>使你在熊形态、猎豹形态或旅行形态下的移动速度提高15%，只能在户外使用。<br /><span class=\"q13\">4 件：</span>攻击强度提高150点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -255,
+        "idbak": 887,
+        "name": "3树纹套装",
+        "name_en": "Lasherweave Garb",
+        "minlevel": 264,
+        "maxlevel": 264,
+        "note": 29,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            51137,
+            51135,
+            51136,
+            51138,
+            51139
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "树纹套装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">树纹套装</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T10副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的野性成长法术的治疗递减效果降低30%。<br /><span class=\"q13\">4 件：</span>每当你的回春术治疗了一个目标，都有2%的几率以完整的持续周期作用于一个新的目标。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -257,
+        "idbak": 888,
+        "name": "3树纹法衣",
+        "name_en": "Lasherweave Regalia",
+        "minlevel": 264,
+        "maxlevel": 264,
+        "note": 29,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            51149,
+            51147,
+            51146,
+            51148,
+            51145
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "树纹法衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">树纹法衣</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T10副本套装<br /><span><br /><span class=\"q13\">2 件：</span>当你的清晰预兆天赋使你获得节能施法效果时，你可造成额外15%的自然和奥术伤害，持续6 秒。<br /><span class=\"q13\">4 件：</span>你的星火术和愤怒法术所造成的爆击使你法术对目标所造成的伤害提高额外的7%，持续4 秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -259,
+        "idbak": 889,
+        "name": "3树纹战甲",
+        "name_en": "Lasherweave Battlegear",
+        "minlevel": 264,
+        "maxlevel": 264,
+        "note": 29,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            51143,
+            51140,
+            51142,
+            51144,
+            51141
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "树纹战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">树纹战甲</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T10副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的横扫（熊形态）和割伤技能可造成20%的额外伤害，并使你割裂技能所消耗的能量值降低10点。<br /><span class=\"q13\">4 件：</span>你的激怒技能不再降低你的护甲值，并使你所受到的伤害降低12%，你斜掠技能所造成的周期性伤害现在可形成致命一击。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -188,
+        "idbak": 851,
+        "name": "3玛法里奥的圣装",
+        "name_en": "Malfurion's Garb",
+        "minlevel": 258,
+        "maxlevel": 258,
+        "note": 27,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            48141,
+            48138,
+            48140,
+            48142,
+            48139
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "玛法里奥的圣装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">玛法里奥的圣装</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T9副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>使你的滋养法术的爆击几率提高5%。<br /><span class=\"q13\">4 件：</span>你的回春术的治疗现在有一定几率爆击。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -190,
+        "idbak": 852,
+        "name": "3伊哈缪尔的圣装",
+        "name_en": "Runetotem's Garb",
+        "minlevel": 258,
+        "maxlevel": 258,
+        "note": 27,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            48144,
+            48147,
+            48145,
+            48143,
+            48146
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "伊哈缪尔的圣装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">伊哈缪尔的圣装</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T9副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>使你的滋养法术的爆击几率提高5%。<br /><span class=\"q13\">4 件：</span>你的回春术的治疗现在有一定几率爆击。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -192,
+        "idbak": 853,
+        "name": "3玛法里奥的法衣",
+        "name_en": "Malfurion's Regalia",
+        "minlevel": 258,
+        "maxlevel": 258,
+        "note": 27,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            48171,
+            48168,
+            48170,
+            48172,
+            48169
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "玛法里奥的法衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">玛法里奥的法衣</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T9副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>你的月火术造成的持续伤害现在有一定几率爆击。<br /><span class=\"q13\">4 件：</span>使你的星火术和愤怒法术造成的伤害提高4%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -194,
+        "idbak": 854,
+        "name": "3伊哈缪尔的法衣",
+        "name_en": "Runetotem's Regalia",
+        "minlevel": 258,
+        "maxlevel": 258,
+        "note": 27,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            48174,
+            48177,
+            48175,
+            48173,
+            48176
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "伊哈缪尔的法衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">伊哈缪尔的法衣</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T9副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>你的月火术造成的持续伤害现在有一定几率爆击。<br /><span class=\"q13\">4 件：</span>使你的星火术和愤怒法术造成的伤害提高4%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -196,
+        "idbak": 855,
+        "name": "3玛法里奥的战甲",
+        "name_en": "Malfurion's Battlegear",
+        "minlevel": 258,
+        "maxlevel": 258,
+        "note": 27,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            48204,
+            48207,
+            48205,
+            48203,
+            48206
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "玛法里奥的战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">玛法里奥的战甲</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T9副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>使你的低吼技能的冷却时间缩短2秒，割伤技能造成的持续伤害提高5%，斜掠技能的持续时间延长3秒。<br /><span class=\"q13\">4 件：</span>树皮术的冷却时间缩短12秒，割裂和凶猛撕咬的爆击几率提高5%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -198,
+        "idbak": 856,
+        "name": "3伊哈缪尔的战甲",
+        "name_en": "Runetotem's Battlegear",
+        "minlevel": 258,
+        "maxlevel": 258,
+        "note": 27,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            48201,
+            48198,
+            48200,
+            48202,
+            48199
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "伊哈缪尔的战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">伊哈缪尔的战甲</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T9副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>使你的低吼技能的冷却时间缩短2秒，割伤技能造成的持续伤害提高5%，斜掠技能的持续时间延长3秒。<br /><span class=\"q13\">4 件：</span>树皮术的冷却时间缩短12秒，割裂和凶猛撕咬的爆击几率提高5%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -95,
+        "idbak": 773,
+        "name": "3角斗士的庇护",
+        "name_en": "Gladiator's Refuge",
+        "minlevel": 251,
+        "maxlevel": 251,
+        "note": 28,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            41322,
+            41276,
+            41299,
+            41288,
+            41311
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的庇护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的庇护</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />竞技场第7季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">2 件：</span>法术强度提高29点。<br /><span class=\"q13\">4 件：</span>使你的迅捷治愈技能的冷却时间缩短2秒。<br /><span class=\"q13\">4 件：</span>法术强度提高88点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -100,
+        "idbak": 774,
+        "name": "3角斗士的野性之皮",
+        "name_en": "Gladiator's Wildhide",
+        "minlevel": 251,
+        "maxlevel": 251,
+        "note": 28,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            41328,
+            41282,
+            41305,
+            41294,
+            41317
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的野性之皮",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的野性之皮</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />竞技场第7季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">2 件：</span>法术强度提高29点。<br /><span class=\"q13\">4 件：</span>你的愤怒法术在施放后有一定几率使你的下一个星火术的施法时间减少1.5秒。<br /><span class=\"q13\">4 件：</span>法术强度提高88点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -105,
+        "idbak": 775,
+        "name": "3角斗士的圣装",
+        "name_en": "Gladiator's Sanctuary",
+        "minlevel": 251,
+        "maxlevel": 251,
+        "note": 28,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            41679,
+            41716,
+            41668,
+            41774,
+            41662
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的圣装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的圣装</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />竞技场第7季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">2 件：</span>攻击强度提高50点。<br /><span class=\"q13\">4 件：</span>使你在熊形态、猎豹形态或旅行形态下的移动速度提高15%，只能在户外使用。<br /><span class=\"q13\">4 件：</span>攻击强度提高150点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 887,
+        "idbak": 887,
+        "name": "3树纹套装",
+        "name_en": "Lasherweave Garb",
+        "minlevel": 251,
+        "maxlevel": 251,
+        "note": 29,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            50108,
+            50113,
+            50109,
+            50107,
+            50106
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "一磅肉",
+            "quality": 0,
+            "icon": "inv_misc_food_14",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q0\">一磅肉</b><span class='cus-id-2-right'>ID: 887</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">82</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?887:1:1:80-->"
+        }
+    },
+    {
+        "id": 888,
+        "idbak": 888,
+        "name": "3树纹法衣",
+        "name_en": "Lasherweave Regalia",
+        "minlevel": 251,
+        "maxlevel": 251,
+        "note": 29,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            50821,
+            50819,
+            50820,
+            50822,
+            50823
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "纳迦军用手套",
+            "quality": 3,
+            "icon": "inv_gauntlets_13",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">纳迦军用手套</b><span class='cus-id-2-right'>ID: 888</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>手</td><th><!--asc2-->皮甲</th></tr></table><span><!--amr-->61点护甲</span><br /><span><!--stat3-->+7 敏捷</span><br /><span><!--stat7-->+4 耐力</span><br /><span><!--stat4-->+4 力量</span><br /><!--e--><!--ps-->耐久度 35 / 35<br />需要等级 22<br />物品等级27<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">9</span> <span class=\"moneycopper\">80</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?888:1:1:22-->"
+        }
+    },
+    {
+        "id": 889,
+        "idbak": 889,
+        "name": "3树纹战甲",
+        "name_en": "Lasherweave Battlegear",
+        "minlevel": 251,
+        "maxlevel": 251,
+        "note": 29,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            50826,
+            50824,
+            50825,
+            50827,
+            50828
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "一封覆满灰尘的信",
+            "quality": 1,
+            "icon": "inv_letter_15",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">一封覆满灰尘的信</b><span class='cus-id-2-right'>ID: 889</span><br /><!--bo-->任务物品<br />唯一<br /><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q\">\"这封很久以前写好的信根本就没有发出去。\"</span><br /><span class=\"q2\">&lt;右键点击阅读&gt</span></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?889:1:1:80-->"
+        }
+    },
+    {
+        "id": -187,
+        "idbak": 851,
+        "name": "3玛法里奥的圣装",
+        "name_en": "Malfurion's Garb",
+        "minlevel": 245,
+        "maxlevel": 245,
+        "note": 27,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            48134,
+            48137,
+            48135,
+            48133,
+            48136
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "玛法里奥的圣装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">玛法里奥的圣装</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T9副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你的滋养法术的爆击几率提高5%。<br /><span class=\"q13\">4 件：</span>你的回春术的治疗现在有一定几率爆击。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -189,
+        "idbak": 852,
+        "name": "3伊哈缪尔的圣装",
+        "name_en": "Runetotem's Garb",
+        "minlevel": 245,
+        "maxlevel": 245,
+        "note": 27,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            48151,
+            48148,
+            48150,
+            48152,
+            48149
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "伊哈缪尔的圣装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">伊哈缪尔的圣装</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T9副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你的滋养法术的爆击几率提高5%。<br /><span class=\"q13\">4 件：</span>你的回春术的治疗现在有一定几率爆击。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -191,
+        "idbak": 853,
+        "name": "3玛法里奥的法衣",
+        "name_en": "Malfurion's Regalia",
+        "minlevel": 245,
+        "maxlevel": 245,
+        "note": 27,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            48164,
+            48167,
+            48165,
+            48163,
+            48166
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "玛法里奥的法衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">玛法里奥的法衣</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T9副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的月火术造成的持续伤害现在有一定几率爆击。<br /><span class=\"q13\">4 件：</span>使你的星火术和愤怒法术造成的伤害提高4%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -193,
+        "idbak": 854,
+        "name": "3伊哈缪尔的法衣",
+        "name_en": "Runetotem's Regalia",
+        "minlevel": 245,
+        "maxlevel": 245,
+        "note": 27,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            48181,
+            48178,
+            48180,
+            48182,
+            48179
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "伊哈缪尔的法衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">伊哈缪尔的法衣</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T9副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的月火术造成的持续伤害现在有一定几率爆击。<br /><span class=\"q13\">4 件：</span>使你的星火术和愤怒法术造成的伤害提高4%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -195,
+        "idbak": 855,
+        "name": "3玛法里奥的战甲",
+        "name_en": "Malfurion's Battlegear",
+        "minlevel": 245,
+        "maxlevel": 245,
+        "note": 27,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            48211,
+            48208,
+            48210,
+            48212,
+            48209
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "玛法里奥的战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">玛法里奥的战甲</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T9副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你的低吼技能的冷却时间缩短2秒，割伤技能造成的持续伤害提高5%，斜掠技能的持续时间延长3秒。<br /><span class=\"q13\">4 件：</span>树皮术的冷却时间缩短12秒，割裂和凶猛撕咬的爆击几率提高5%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -197,
+        "idbak": 856,
+        "name": "3伊哈缪尔的战甲",
+        "name_en": "Runetotem's Battlegear",
+        "minlevel": 245,
+        "maxlevel": 245,
+        "note": 27,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            48194,
+            48197,
+            48195,
+            48193,
+            48196
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "伊哈缪尔的战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">伊哈缪尔的战甲</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T9副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你的低吼技能的冷却时间缩短2秒，割伤技能造成的持续伤害提高5%，斜掠技能的持续时间延长3秒。<br /><span class=\"q13\">4 件：</span>树皮术的冷却时间缩短12秒，割裂和凶猛撕咬的爆击几率提高5%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -94,
+        "idbak": 773,
+        "name": "3角斗士的庇护",
+        "name_en": "Gladiator's Refuge",
+        "minlevel": 232,
+        "maxlevel": 232,
+        "note": 26,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            41321,
+            41275,
+            41298,
+            41287,
+            41310
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的庇护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的庇护</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />竞技场第6季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">2 件：</span>法术强度提高29点。<br /><span class=\"q13\">4 件：</span>使你的迅捷治愈技能的冷却时间缩短2秒。<br /><span class=\"q13\">4 件：</span>法术强度提高88点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -99,
+        "idbak": 774,
+        "name": "3角斗士的野性之皮",
+        "name_en": "Gladiator's Wildhide",
+        "minlevel": 232,
+        "maxlevel": 232,
+        "note": 26,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            41327,
+            41281,
+            41304,
+            41293,
+            41316
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的野性之皮",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的野性之皮</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />竞技场第6季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">2 件：</span>法术强度提高29点。<br /><span class=\"q13\">4 件：</span>你的愤怒法术在施放后有一定几率使你的下一个星火术的施法时间减少1.5秒。<br /><span class=\"q13\">4 件：</span>法术强度提高88点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -104,
+        "idbak": 775,
+        "name": "3角斗士的圣装",
+        "name_en": "Gladiator's Sanctuary",
+        "minlevel": 232,
+        "maxlevel": 232,
+        "note": 26,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            41678,
+            41715,
+            41667,
+            41773,
+            41661
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的圣装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的圣装</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />竞技场第6季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">2 件：</span>攻击强度提高50点。<br /><span class=\"q13\">4 件：</span>使你在熊形态、猎豹形态或旅行形态下的移动速度提高15%，只能在户外使用。<br /><span class=\"q13\">4 件：</span>攻击强度提高150点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 851,
+        "idbak": 851,
+        "name": "3玛法里奥的圣装",
+        "name_en": "Malfurion's Garb",
+        "minlevel": 232,
+        "maxlevel": 232,
+        "note": 27,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            48102,
+            48131,
+            48130,
+            48132,
+            48129
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "斗士短剑",
+            "quality": 1,
+            "icon": "inv_sword_36",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">斗士短剑</b><span class='cus-id-2-right'>ID: 851</span><table width=\"100%\"><tr><td>单手</td><th>剑</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->10 - 20伤害</td><th>速度 <!--spd-->2.20</th></tr></table><!--dps-->（每秒伤害6.8）<br /><!--e--><!--ps-->耐久度 50 / 50<br />需要等级 10<br />物品等级15<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">4</span> <span class=\"moneycopper\">4</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?851:1:1:10-->"
+        }
+    },
+    {
+        "id": 852,
+        "idbak": 852,
+        "name": "3伊哈缪尔的圣装",
+        "name_en": "Runetotem's Garb",
+        "minlevel": 232,
+        "maxlevel": 232,
+        "note": 27,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            48154,
+            48157,
+            48155,
+            48153,
+            48156
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "锤",
+            "quality": 1,
+            "icon": "inv_mace_15",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">锤</b><span class='cus-id-2-right'>ID: 852</span><table width=\"100%\"><tr><td>单手</td><th>锤</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->8 - 16伤害</td><th>速度 <!--spd-->1.90</th></tr></table><!--dps-->（每秒伤害6.3）<br /><!--e--><!--ps-->耐久度 45 / 45<br />需要等级 9<br />物品等级14<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">3</span> <span class=\"moneycopper\">47</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?852:1:1:9-->"
+        }
+    },
+    {
+        "id": 853,
+        "idbak": 853,
+        "name": "3玛法里奥的法衣",
+        "name_en": "Malfurion's Regalia",
+        "minlevel": 232,
+        "maxlevel": 232,
+        "note": 27,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            48158,
+            48161,
+            48160,
+            48162,
+            48159
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "短柄斧",
+            "quality": 1,
+            "icon": "inv_axe_11",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">短柄斧</b><span class='cus-id-2-right'>ID: 853</span><table width=\"100%\"><tr><td>单手</td><th>斧</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->12 - 24伤害</td><th>速度 <!--spd-->2.50</th></tr></table><!--dps-->（每秒伤害7.2）<br /><!--e--><!--ps-->耐久度 50 / 50<br />需要等级 11<br />物品等级16<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">4</span> <span class=\"moneycopper\">81</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?853:1:1:11-->"
+        }
+    },
+    {
+        "id": 854,
+        "idbak": 854,
+        "name": "3伊哈缪尔的法衣",
+        "name_en": "Runetotem's Regalia",
+        "minlevel": 232,
+        "maxlevel": 232,
+        "note": 27,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            48184,
+            48187,
+            48185,
+            48183,
+            48186
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "短杖",
+            "quality": 1,
+            "icon": "inv_staff_17",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">短杖</b><span class='cus-id-2-right'>ID: 854</span><table width=\"100%\"><tr><td>双手</td><th>法杖</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->20 - 31伤害</td><th>速度 <!--spd-->2.70</th></tr></table><!--dps-->（每秒伤害9.4）<br /><!--e--><!--ps-->耐久度 55 / 55<br />需要等级 11<br />物品等级16<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">6</span> <span class=\"moneycopper\">4</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?854:1:1:11-->"
+        }
+    },
+    {
+        "id": 855,
+        "idbak": 855,
+        "name": "3玛法里奥的战甲",
+        "name_en": "Malfurion's Battlegear",
+        "minlevel": 232,
+        "maxlevel": 232,
+        "note": 27,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            48214,
+            48217,
+            48215,
+            48213,
+            48216
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "玛法里奥的战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">玛法里奥的战甲</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T9副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你的低吼技能的冷却时间缩短2秒，割伤技能造成的持续伤害提高5%，斜掠技能的持续时间延长3秒。<br /><span class=\"q13\">4 件：</span>树皮术的冷却时间缩短12秒，割裂和凶猛撕咬的爆击几率提高5%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 856,
+        "idbak": 856,
+        "name": "3伊哈缪尔的战甲",
+        "name_en": "Runetotem's Battlegear",
+        "minlevel": 232,
+        "maxlevel": 232,
+        "note": 27,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            48188,
+            48191,
+            48190,
+            48192,
+            48189
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "蓝色皮包",
+            "quality": 1,
+            "icon": "inv_misc_bag_05",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">蓝色皮包</b><span class='cus-id-2-right'>ID: 856</span><br />8格容器<br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">8</span> <span class=\"moneycopper\">75</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?856:1:1:80-->"
+        }
+    },
+    {
+        "id": -159,
+        "idbak": 827,
+        "name": "3夜歌战甲",
+        "name_en": "Nightsong Battlegear",
+        "minlevel": 226,
+        "maxlevel": 226,
+        "note": 25,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            46161,
+            46157,
+            46160,
+            46158,
+            46159
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "夜歌战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">夜歌战甲</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T8副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的斜掠、割伤和割裂技能造成的持续伤害有一定几率使你进入节能施法状态。<br /><span class=\"q13\">4 件：</span>野蛮咆哮和生存本能的持续时间延长8秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -160,
+        "idbak": 828,
+        "name": "3夜歌魔装",
+        "name_en": "Nightsong Garb",
+        "minlevel": 226,
+        "maxlevel": 226,
+        "note": 25,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            46191,
+            46196,
+            46192,
+            46189,
+            46194
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "夜歌魔装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">夜歌魔装</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T8副本套装<br /><span><br /><span class=\"q13\">2 件：</span>月蚀对于星火术和愤怒的加成效果提高7%。<br /><span class=\"q13\">4 件：</span>你的虫群每次造成伤害，你就有一定几率获得在10 秒施放的下一次星火术变成瞬发法术的效果。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -161,
+        "idbak": 829,
+        "name": "3夜歌法衣",
+        "name_en": "Nightsong Regalia",
+        "minlevel": 226,
+        "maxlevel": 226,
+        "note": 25,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            46184,
+            46187,
+            46185,
+            46183,
+            46186
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "夜歌法衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">夜歌法衣</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T8副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你的迅捷治愈法术的治疗量提高10%。<br /><span class=\"q13\">4 件：</span>你的回春术在施放时会立刻为目标治疗一次。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 827,
+        "idbak": 827,
+        "name": "3夜歌战甲",
+        "name_en": "Nightsong Battlegear",
+        "minlevel": 219,
+        "maxlevel": 219,
+        "note": 25,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            45356,
+            45359,
+            45357,
+            45355,
+            45358
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "邪恶棍棒",
+            "quality": 2,
+            "icon": "inv_mace_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">邪恶棍棒</b><span class='cus-id-2-right'>ID: 827</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>单手</td><th>锤</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->14 - 26伤害</td><th>速度 <!--spd-->2.30</th></tr></table><!--dps-->（每秒伤害8.7）<br /><span><!--stat4-->+2 力量</span><br /><!--e--><!--ps-->耐久度 50 / 50<br />需要等级 12<br />物品等级17<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">9</span> <span class=\"moneycopper\">71</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?827:1:1:12-->"
+        }
+    },
+    {
+        "id": 828,
+        "idbak": 828,
+        "name": "3夜歌魔装",
+        "name_en": "Nightsong Garb",
+        "minlevel": 219,
+        "maxlevel": 219,
+        "note": 25,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            45350,
+            45352,
+            45353,
+            45351,
+            45354
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "蓝色小包",
+            "quality": 1,
+            "icon": "inv_misc_bag_09_blue",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">蓝色小包</b><span class='cus-id-2-right'>ID: 828</span><br />6格容器<br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">2</span> <span class=\"moneycopper\">50</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?828:1:1:80-->"
+        }
+    },
+    {
+        "id": 829,
+        "idbak": 829,
+        "name": "3夜歌法衣",
+        "name_en": "Nightsong Regalia",
+        "minlevel": 219,
+        "maxlevel": 219,
+        "note": 25,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            45346,
+            45349,
+            45347,
+            45345,
+            45348
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "红色皮质面罩",
+            "quality": 1,
+            "icon": "inv_misc_bandana_03",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">红色皮质面罩</b><span class='cus-id-2-right'>ID: 829</span><br /><!--bo-->任务物品<br /><!--e--><!--ps--></td></tr></table><table><tr><td></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?829:1:1:80-->"
+        }
+    },
+    {
+        "id": -93,
+        "idbak": 773,
+        "name": "3角斗士的庇护",
+        "name_en": "Gladiator's Refuge",
+        "minlevel": 213,
+        "maxlevel": 213,
+        "note": 24,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            41320,
+            41274,
+            41297,
+            41286,
+            41309
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的庇护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的庇护</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />竞技场第5季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">2 件：</span>法术强度提高29点。<br /><span class=\"q13\">4 件：</span>使你的迅捷治愈技能的冷却时间缩短2秒。<br /><span class=\"q13\">4 件：</span>法术强度提高88点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -98,
+        "idbak": 774,
+        "name": "3角斗士的野性之皮",
+        "name_en": "Gladiator's Wildhide",
+        "minlevel": 213,
+        "maxlevel": 213,
+        "note": 24,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            41326,
+            41280,
+            41303,
+            41292,
+            41315
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的野性之皮",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的野性之皮</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />竞技场第5季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">2 件：</span>法术强度提高29点。<br /><span class=\"q13\">4 件：</span>你的愤怒法术在施放后有一定几率使你的下一个星火术的施法时间减少1.5秒。<br /><span class=\"q13\">4 件：</span>法术强度提高88点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -103,
+        "idbak": 775,
+        "name": "3角斗士的圣装",
+        "name_en": "Gladiator's Sanctuary",
+        "minlevel": 213,
+        "maxlevel": 213,
+        "note": 24,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            41677,
+            41714,
+            41666,
+            41772,
+            41660
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的圣装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的圣装</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />竞技场第5季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">2 件：</span>攻击强度提高50点。<br /><span class=\"q13\">4 件：</span>使你在熊形态、猎豹形态或旅行形态下的移动速度提高15%，只能在户外使用。<br /><span class=\"q13\">4 件：</span>攻击强度提高150点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -144,
+        "idbak": 798,
+        "name": "3梦游者战甲",
+        "name_en": "Dreamwalker Battlegear",
+        "minlevel": 213,
+        "maxlevel": 213,
+        "note": 23,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            40473,
+            40494,
+            40493,
+            40472,
+            40471
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "梦游者战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">梦游者战甲</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T7副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的割裂技能的持续时间延长4秒，割伤技能造成的伤害提高5%。<br /><span class=\"q13\">4 件：</span>树皮术的持续时间延长3秒，猛虎之怒的冷却时间缩短3秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -145,
+        "idbak": 799,
+        "name": "3梦游者法衣",
+        "name_en": "Dreamwalker Regalia",
+        "minlevel": 213,
+        "maxlevel": 213,
+        "note": 23,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            40461,
+            40465,
+            40462,
+            40460,
+            40463
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "梦游者法衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">梦游者法衣</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T7副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的生命绽放消耗的法力值降低5%。<br /><span class=\"q13\">4 件：</span>你施加于目标身上的每一个持续治疗效果都可以使你的滋养法术对该目标的治疗效果提高5%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -146,
+        "idbak": 800,
+        "name": "3梦游者套装",
+        "name_en": "Dreamwalker Garb",
+        "minlevel": 213,
+        "maxlevel": 213,
+        "note": 23,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            40467,
+            40470,
+            40468,
+            40466,
+            40469
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "梦游者套装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">梦游者套装</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T7副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的虫群造成的伤害提高10%。<br /><span class=\"q13\">4 件：</span>你的愤怒和星火术的爆击几率提高5%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 773,
+        "idbak": 773,
+        "name": "4角斗士的庇护",
+        "name_en": "Gladiator's Refuge",
+        "minlevel": 200,
+        "maxlevel": 200,
+        "note": 24,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            41269,
+            41271,
+            41270,
+            41268,
+            41272
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "金砂",
+            "quality": 1,
+            "icon": "inv_misc_dust_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">金砂</b><span class='cus-id-2-right'>ID: 773</span><br /><!--bo-->任务物品<br /><!--e--><!--ps--></td></tr></table><table><tr><td></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?773:1:1:80-->"
+        }
+    },
+    {
+        "id": -92,
+        "idbak": 773,
+        "name": "3角斗士的庇护",
+        "name_en": "Gladiator's Refuge",
+        "minlevel": 200,
+        "maxlevel": 200,
+        "note": 24,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            41319,
+            41273,
+            41296,
+            41284,
+            41308
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的庇护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的庇护</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />竞技场第5季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">2 件：</span>法术强度提高29点。<br /><span class=\"q13\">4 件：</span>使你的迅捷治愈技能的冷却时间缩短2秒。<br /><span class=\"q13\">4 件：</span>法术强度提高88点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 774,
+        "idbak": 774,
+        "name": "4角斗士的野性之皮",
+        "name_en": "Gladiator's Wildhide",
+        "minlevel": 200,
+        "maxlevel": 200,
+        "note": 24,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            41324,
+            41278,
+            41301,
+            41290,
+            41313
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "孔雀石",
+            "quality": 2,
+            "icon": "inv_misc_gem_emerald_03",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">孔雀石</b><span class='cus-id-2-right'>ID: 774</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">15</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?774:1:1:80-->"
+        }
+    },
+    {
+        "id": -97,
+        "idbak": 774,
+        "name": "3角斗士的野性之皮",
+        "name_en": "Gladiator's Wildhide",
+        "minlevel": 200,
+        "maxlevel": 200,
+        "note": 24,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            41325,
+            41279,
+            41302,
+            41291,
+            41314
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的野性之皮",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的野性之皮</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />竞技场第5季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">2 件：</span>法术强度提高29点。<br /><span class=\"q13\">4 件：</span>你的愤怒法术在施放后有一定几率使你的下一个星火术的施法时间减少1.5秒。<br /><span class=\"q13\">4 件：</span>法术强度提高88点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 775,
+        "idbak": 775,
+        "name": "4角斗士的圣装",
+        "name_en": "Gladiator's Sanctuary",
+        "minlevel": 200,
+        "maxlevel": 200,
+        "note": 24,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            41675,
+            41712,
+            41664,
+            41770,
+            41658
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的圣装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">角斗士的圣装</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />竞技场第5季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">2 件：</span>攻击强度提高50点。<br /><span class=\"q13\">4 件：</span>使你在熊形态、猎豹形态或旅行形态下的移动速度提高15%，只能在户外使用。<br /><span class=\"q13\">4 件：</span>攻击强度提高150点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -102,
+        "idbak": 775,
+        "name": "3角斗士的圣装",
+        "name_en": "Gladiator's Sanctuary",
+        "minlevel": 200,
+        "maxlevel": 200,
+        "note": 24,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            41676,
+            41713,
+            41665,
+            41771,
+            41659
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的圣装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的圣装</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />竞技场第5季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">2 件：</span>攻击强度提高50点。<br /><span class=\"q13\">4 件：</span>使你在熊形态、猎豹形态或旅行形态下的移动速度提高15%，只能在户外使用。<br /><span class=\"q13\">4 件：</span>攻击强度提高150点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 798,
+        "idbak": 798,
+        "name": "3梦游者战甲",
+        "name_en": "Dreamwalker Battlegear",
+        "minlevel": 200,
+        "maxlevel": 200,
+        "note": 23,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            39553,
+            39556,
+            39555,
+            39557,
+            39554
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "劣质皮裤",
+            "quality": 1,
+            "icon": "inv_pants_09",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">劣质皮裤</b><span class='cus-id-2-right'>ID: 798</span><table width=\"100%\"><tr><td>腿部</td><th><!--asc2-->皮甲</th></tr></table><span><!--amr-->46点护甲</span><br /><!--e--><!--ps-->耐久度 40 / 40<br />需要等级 5<br />物品等级10<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">71</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?798:1:1:5-->"
+        }
+    },
+    {
+        "id": 799,
+        "idbak": 799,
+        "name": "3梦游者法衣",
+        "name_en": "Dreamwalker Regalia",
+        "minlevel": 200,
+        "maxlevel": 200,
+        "note": 23,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            39531,
+            39542,
+            39539,
+            39543,
+            39538
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "劣质皮外衣",
+            "quality": 1,
+            "icon": "inv_chest_wolf",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">劣质皮外衣</b><span class='cus-id-2-right'>ID: 799</span><table width=\"100%\"><tr><td>胸部</td><th><!--asc2-->皮甲</th></tr></table><span><!--amr-->52点护甲</span><br /><!--e--><!--ps-->耐久度 55 / 55<br />需要等级 5<br />物品等级10<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">71</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?799:1:1:5-->"
+        }
+    },
+    {
+        "id": 800,
+        "idbak": 800,
+        "name": "3梦游者套装",
+        "name_en": "Dreamwalker Garb",
+        "minlevel": 200,
+        "maxlevel": 200,
+        "note": 23,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            39545,
+            39548,
+            39546,
+            39544,
+            39547
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "梦游者套装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">梦游者套装</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T7副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的虫群造成的伤害提高10%。<br /><span class=\"q13\">4 件：</span>你的愤怒和星火术的爆击几率提高5%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -30,
+        "idbak": 584,
+        "name": "3角斗士的圣装",
+        "name_en": "Gladiator's Sanctuary",
+        "minlevel": 159,
+        "maxlevel": 159,
+        "note": 22,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            34999,
+            35001,
+            35000,
+            34998,
+            35002
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的圣装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的圣装</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />竞技场第4季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你在熊形态、猎豹形态或旅行形态下的移动速度提高15%，只能在户外使用。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -33,
+        "idbak": 585,
+        "name": "3角斗士的野性之皮",
+        "name_en": "Gladiator's Wildhide",
+        "minlevel": 159,
+        "maxlevel": 159,
+        "note": 22,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            35112,
+            35114,
+            35113,
+            35111,
+            35115
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的野性之皮",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的野性之皮</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />竞技场第4季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>你的愤怒法术在施放后有一定几率使你的下一个星火术的施法时间减少1.5秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -42,
+        "idbak": 685,
+        "name": "3角斗士的庇护",
+        "name_en": "Gladiator's Refuge",
+        "minlevel": 159,
+        "maxlevel": 159,
+        "note": 22,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            35023,
+            35025,
+            35024,
+            35022,
+            35026
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的庇护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的庇护</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />竞技场第4季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>你的愈合法术的施法时间缩短0.2秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 676,
+        "idbak": 676,
+        "name": "3雷霆之心甲胄",
+        "name_en": "Thunderheart Harness",
+        "minlevel": 146,
+        "maxlevel": 154,
+        "note": 18,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            31039,
+            31048,
+            31044,
+            31034,
+            31042,
+            34556,
+            34573,
+            34444
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "雷霆之心甲胄",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">雷霆之心甲胄</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T6副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你在猎豹形态下的裂伤技能所消耗的能量值减少5点，在熊形态下的裂伤技能所造成的威胁值提高15%。<br /><span class=\"q13\">4 件：</span>使你的割裂、横扫和凶猛撕咬技能所造成的伤害提高15%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 677,
+        "idbak": 677,
+        "name": "3雷霆之心法衣",
+        "name_en": "Thunderheart Regalia",
+        "minlevel": 146,
+        "maxlevel": 154,
+        "note": 18,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            31040,
+            31049,
+            31046,
+            31035,
+            31043,
+            34555,
+            34572,
+            34446
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "雷霆之心法衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">雷霆之心法衣</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T6副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你的月火术的持续时间延长3秒。<br /><span class=\"q13\">4 件：</span>使你的星火术的爆击几率提高5%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 678,
+        "idbak": 678,
+        "name": "3雷霆之心圣服",
+        "name_en": "Thunderheart Raiment",
+        "minlevel": 146,
+        "maxlevel": 154,
+        "note": 18,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            31037,
+            31047,
+            31045,
+            31032,
+            31041,
+            34554,
+            34571,
+            34445
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "雷霆之心圣服",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">雷霆之心圣服</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T6副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你的迅捷治愈技能的冷却时间缩短2秒。<br /><span class=\"q13\">4 件：</span>使你的治疗之触的治疗效果提高5%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -29,
+        "idbak": 584,
+        "name": "3角斗士的圣装",
+        "name_en": "Gladiator's Sanctuary",
+        "minlevel": 146,
+        "maxlevel": 146,
+        "note": 20,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            33672,
+            33674,
+            33673,
+            33671,
+            33675
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的圣装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的圣装</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />竞技场第3季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你在熊形态、猎豹形态或旅行形态下的移动速度提高15%，只能在户外使用。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -32,
+        "idbak": 585,
+        "name": "3角斗士的野性之皮",
+        "name_en": "Gladiator's Wildhide",
+        "minlevel": 146,
+        "maxlevel": 146,
+        "note": 20,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            33768,
+            33770,
+            33769,
+            33767,
+            33771
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的野性之皮",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的野性之皮</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />竞技场第3季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>你的愤怒法术在施放后有一定几率使你的下一个星火术的施法时间减少1.5秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -41,
+        "idbak": 685,
+        "name": "3角斗士的庇护",
+        "name_en": "Gladiator's Refuge",
+        "minlevel": 146,
+        "maxlevel": 146,
+        "note": 20,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            33691,
+            33693,
+            33692,
+            33690,
+            33694
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的庇护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的庇护</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />竞技场第3季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>你的愈合法术的施法时间缩短0.2秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -28,
+        "idbak": 584,
+        "name": "3角斗士的圣装",
+        "name_en": "Gladiator's Sanctuary",
+        "minlevel": 136,
+        "maxlevel": 136,
+        "note": 19,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            31968,
+            31971,
+            31969,
+            31967,
+            31972
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的圣装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的圣装</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />竞技场第2季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你在熊形态、猎豹形态或旅行形态下的移动速度提高15%，只能在户外使用。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -31,
+        "idbak": 585,
+        "name": "3角斗士的野性之皮",
+        "name_en": "Gladiator's Wildhide",
+        "minlevel": 136,
+        "maxlevel": 136,
+        "note": 19,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            32057,
+            32059,
+            32058,
+            32056,
+            32060
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的野性之皮",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的野性之皮</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />竞技场第2季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>你的愤怒法术在施放后有一定几率使你的下一个星火术的施法时间减少1.5秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -40,
+        "idbak": 685,
+        "name": "3角斗士的庇护",
+        "name_en": "Gladiator's Refuge",
+        "minlevel": 136,
+        "maxlevel": 136,
+        "note": 19,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            31988,
+            31990,
+            31989,
+            31987,
+            31991
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的庇护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的庇护</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />竞技场第2季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>你的愈合法术的施法时间缩短0.2秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 641,
+        "idbak": 641,
+        "name": "3诺达希尔甲胄",
+        "name_en": "Nordrassil Harness",
+        "minlevel": 133,
+        "maxlevel": 133,
+        "note": 13,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            30228,
+            30230,
+            30229,
+            30223,
+            30222
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "诺达希尔甲胄",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">诺达希尔甲胄</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T5副本套装<br /><span><br /><span class=\"q13\">2 件：</span>当你脱离熊形态、巨熊形态或猎豹形态时，你的下一次愈合法术的施法时间减少2秒。<br /><span class=\"q13\">4 件：</span>你的撕碎技能可以造成75点额外伤害，你的割伤技能每层可以造成15点额外伤害。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 642,
+        "idbak": 642,
+        "name": "3诺达希尔圣装",
+        "name_en": "Nordrassil Raiment",
+        "minlevel": 133,
+        "maxlevel": 133,
+        "note": 13,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            30219,
+            30221,
+            30220,
+            30217,
+            30216
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "诺达希尔圣装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">诺达希尔圣装</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T5副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你的愈合法术的持续时间延长6秒。<br /><span class=\"q13\">4 件：</span>使你的生命绽放法术的最终治疗量提高150点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 643,
+        "idbak": 643,
+        "name": "3诺达希尔法衣",
+        "name_en": "Nordrassil Regalia",
+        "minlevel": 133,
+        "maxlevel": 133,
+        "note": 13,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            30233,
+            30235,
+            30234,
+            30232,
+            30231
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "诺达希尔法衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">诺达希尔法衣</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T5副本套装<br /><span><br /><span class=\"q13\">2 件：</span>当你脱离枭兽形态时，你的下一次愈合法术所消耗的法力值减少450点。<br /><span class=\"q13\">4 件：</span>使你的星火术对已经受到月火术或虫群效果影响的目标所造成的伤害提高10%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 584,
+        "idbak": 584,
+        "name": "3角斗士的圣装",
+        "name_en": "Gladiator's Sanctuary",
+        "minlevel": 123,
+        "maxlevel": 123,
+        "note": 17,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            28127,
+            28129,
+            28128,
+            28126,
+            28130
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的圣装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的圣装</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />竞技场第1季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你在熊形态、猎豹形态或旅行形态下的移动速度提高15%，只能在户外使用。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 585,
+        "idbak": 585,
+        "name": "3角斗士的野性之皮",
+        "name_en": "Gladiator's Wildhide",
+        "minlevel": 123,
+        "maxlevel": 123,
+        "note": 17,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            28137,
+            28139,
+            28138,
+            28136,
+            28140
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的野性之皮",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的野性之皮</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />竞技场第1季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>你的愤怒法术在施放后有一定几率使你的下一个星火术的施法时间减少1.5秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 685,
+        "idbak": 685,
+        "name": "3角斗士的庇护",
+        "name_en": "Gladiator's Refuge",
+        "minlevel": 123,
+        "maxlevel": 123,
+        "note": 17,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            31376,
+            31378,
+            31377,
+            31375,
+            31379
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的庇护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的庇护</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />竞技场第1季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>你的愈合法术的施法时间缩短0.2秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 638,
+        "idbak": 638,
+        "name": "3玛洛恩圣装",
+        "name_en": "Malorne Raiment",
+        "minlevel": 120,
+        "maxlevel": 120,
+        "note": 12,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            29086,
+            29089,
+            29088,
+            29090,
+            29087
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "玛洛恩圣装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">玛洛恩圣装</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T4副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的有益法术有一定几率为你恢复最多120点法力值。<br /><span class=\"q13\">4 件：</span>使你的自然迅捷技能的冷却时间缩短24秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 639,
+        "idbak": 639,
+        "name": "3玛洛恩法衣",
+        "name_en": "Malorne Regalia",
+        "minlevel": 120,
+        "maxlevel": 120,
+        "note": 12,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            29093,
+            29095,
+            29094,
+            29092,
+            29091
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "玛洛恩法衣",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">玛洛恩法衣</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T4副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的伤害法术有一定几率为你恢复120点法力值。<br /><span class=\"q13\">4 件：</span>使你的激活技能的冷却时间缩短48秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 640,
+        "idbak": 640,
+        "name": "3玛洛恩甲胄",
+        "name_en": "Malorne Harness",
+        "minlevel": 120,
+        "maxlevel": 120,
+        "note": 12,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            29098,
+            29100,
+            29099,
+            29097,
+            29096
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "玛洛恩甲胄",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">玛洛恩甲胄</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T4副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你在熊形态和巨熊形态下所进行的近战攻击有一定几率为你恢复10点怒气值。<br /><span class=\"q13\">2 件：</span>你在猎豹形态下所进行的近战攻击有一定几率为你恢复20点能量值。<br /><span class=\"q13\">4 件：</span>使你在熊形态和巨熊形态下的护甲值提高1400点。<br /><span class=\"q13\">4 件：</span>使你在猎豹形态下的力量提高30点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 601,
+        "idbak": 601,
+        "name": "4大元帅的圣装",
+        "name_en": "Grand Marshal's Sanctuary",
+        "minlevel": 115,
+        "maxlevel": 115,
+        "note": 16,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            28619,
+            28622,
+            28620,
+            28618,
+            28623
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "大元帅的圣装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">大元帅的圣装</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />70级PVP稀有套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你在熊形态、猎豹形态或旅行形态下的移动速度提高15%，只能在户外使用。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 602,
+        "idbak": 602,
+        "name": "4高阶督军的圣装",
+        "name_en": "High Warlord's Sanctuary",
+        "minlevel": 115,
+        "maxlevel": 115,
+        "note": 16,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            28812,
+            28814,
+            28813,
+            28811,
+            28815
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "高阶督军的圣装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">高阶督军的圣装</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />70级PVP稀有套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你在熊形态、猎豹形态或旅行形态下的移动速度提高15%，只能在户外使用。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 609,
+        "idbak": 609,
+        "name": "4大元帅的野性之皮",
+        "name_en": "Grand Marshal's Wildhide",
+        "minlevel": 115,
+        "maxlevel": 115,
+        "note": 16,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            28720,
+            28722,
+            28721,
+            28719,
+            28723
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "大元帅的野性之皮",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">大元帅的野性之皮</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />70级PVP稀有套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的月火术所消耗的基础法力值减少10%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 610,
+        "idbak": 610,
+        "name": "4高阶督军的野性之皮",
+        "name_en": "High Warlord's Wildhide",
+        "minlevel": 115,
+        "maxlevel": 115,
+        "note": 16,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            28872,
+            28874,
+            28873,
+            28871,
+            28875
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "高阶督军的野性之皮",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">高阶督军的野性之皮</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />70级PVP稀有套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的月火术所消耗的基础法力值减少10%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 688,
+        "idbak": 688,
+        "name": "4大元帅的庇护",
+        "name_en": "Grand Marshal's Refuge",
+        "minlevel": 115,
+        "maxlevel": 115,
+        "note": 16,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            31590,
+            31592,
+            31591,
+            31589,
+            31593
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "大元帅的庇护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">大元帅的庇护</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />70级PVP稀有套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>你的愈合法术的施法时间缩短0.2秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 689,
+        "idbak": 689,
+        "name": "4高阶督军的庇护",
+        "name_en": "High Warlord's Refuge",
+        "minlevel": 115,
+        "maxlevel": 115,
+        "note": 16,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            31585,
+            31587,
+            31586,
+            31584,
+            31588
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "高阶督军的庇护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">高阶督军的庇护</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />70级PVP稀有套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>你的愈合法术的施法时间缩短0.2秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 742,
+        "idbak": 742,
+        "name": "4龙皮战甲",
+        "name_en": "Dragonhide Battlegear",
+        "minlevel": 115,
+        "maxlevel": 115,
+        "note": 21,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            35357,
+            35359,
+            35358,
+            35356,
+            35360
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "枫树枝",
+            "quality": 1,
+            "icon": "inv_misc_branch_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">枫树枝</b><span class='cus-id-2-right'>ID: 742</span><br /><!--bo-->任务物品<br />唯一<br /><!--e--><!--ps--></td></tr></table><table><tr><td></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?742:1:1:80-->"
+        }
+    },
+    {
+        "id": 743,
+        "idbak": 743,
+        "name": "4蟒皮战甲",
+        "name_en": "Wyrmhide Battlegear",
+        "minlevel": 115,
+        "maxlevel": 115,
+        "note": 21,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            35372,
+            35374,
+            35373,
+            35371,
+            35375
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "一捆烧焦的橡木",
+            "quality": 1,
+            "icon": "inv_tradeskillitem_03",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">一捆烧焦的橡木</b><span class='cus-id-2-right'>ID: 743</span><br /><!--bo-->任务物品<br />唯一<br /><!--e--><!--ps--></td></tr></table><table><tr><td></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?743:1:1:80-->"
+        }
+    },
+    {
+        "id": 744,
+        "idbak": 744,
+        "name": "4科多皮战甲",
+        "name_en": "Kodohide Battlegear",
+        "minlevel": 115,
+        "maxlevel": 115,
+        "note": 21,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            35362,
+            35364,
+            35363,
+            35361,
+            35365
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "雷酒靴中瓶",
+            "quality": 2,
+            "icon": "inv_drink_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">雷酒靴中瓶</b><span class='cus-id-2-right'>ID: 744</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>饰品</td></tr></table><!--e--><!--ps-->物品等级44<br /></td></tr></table><table><tr><td><span class=\"q2\">使用： 每1秒对你面前的所有敌人造成50点火焰伤害，持续5 秒。另外还会让你醉得一塌糊涂！ (30 分钟冷却时间)</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">1</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?744:1:1:80-->"
+        }
+    },
+    {
+        "id": 493,
+        "idbak": 493,
+        "name": "3起源套装",
+        "name_en": "Genesis Raiment",
+        "minlevel": 78,
+        "maxlevel": 88,
+        "note": 10,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            21354,
+            21355,
+            21353,
+            21356,
+            21357
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "起源套装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">起源套装</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />安其拉神庙团本套装<br /><span><br /><span class=\"q13\">3 件：</span>+150 护甲值。<br /><span class=\"q13\">3 件：</span>防御等级提高<!--rtg12-->22&nbsp;<small>(<!--rtg%12-->14.67&nbsp;@&nbsp;L<!--lvl-->60)</small>。<br /><span class=\"q13\">5 件：</span>复生的冷却时间缩短5分钟。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 214,
+        "idbak": 214,
+        "name": "3怒风",
+        "name_en": "Stormrage Raiment",
+        "minlevel": 76,
+        "maxlevel": 76,
+        "note": 4,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            16900,
+            16902,
+            16903,
+            16901,
+            16898,
+            16904,
+            16899,
+            16897
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "怒风",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">怒风</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T2副本套装<br /><span><br /><span class=\"q13\">3 件：</span>每5秒恢复25点法力值。<br /><span class=\"q13\">5 件：</span>使你的愈合法术的施法时间缩短0.2秒。<br /><span class=\"q13\">8 件：</span>使你的回春术的持续时间延长3秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 397,
+        "idbak": 397,
+        "name": "3元帅的圣装",
+        "name_en": "Field Marshal's Sanctuary",
+        "minlevel": 71,
+        "maxlevel": 74,
+        "note": 8,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            16450,
+            16459,
+            16448,
+            16451,
+            16449,
+            16452
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "元帅的圣装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">元帅的圣装</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />60级PVP史诗套装<br /><span><br /><span class=\"q13\">2 件：</span>+20 耐力。<br /><span class=\"q13\">3 件：</span>使你在熊形态、猎豹形态或旅行形态下的移动速度提高15%，只能在户外使用。<br /><span class=\"q13\">6 件：</span>攻击强度提高40点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 398,
+        "idbak": 398,
+        "name": "3督军的圣装",
+        "name_en": "Warlord's Sanctuary",
+        "minlevel": 71,
+        "maxlevel": 74,
+        "note": 8,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            16552,
+            16554,
+            16555,
+            16550,
+            16549
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "督军的圣装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">督军的圣装</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />60级PVP史诗套装<br /><span><br /><span class=\"q13\">2 件：</span>+20 耐力。<br /><span class=\"q13\">3 件：</span>使你在熊形态、猎豹形态或旅行形态下的移动速度提高15%，只能在户外使用。<br /><span class=\"q13\">6 件：</span>攻击强度提高40点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 539,
+        "idbak": 539,
+        "name": "4勇士的庇护",
+        "name_en": "Champion's Refuge",
+        "minlevel": 66,
+        "maxlevel": 71,
+        "note": 6,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            22852,
+            22863,
+            22878,
+            22877
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "勇士的庇护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">勇士的庇护</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />60级PVP稀有套装<br /><span><br /><span class=\"q13\">2 件：</span>攻击强度提高40点。<br /><span class=\"q13\">4 件：</span>使你在熊形态、猎豹形态或旅行形态下的移动速度提高15%，只能在户外使用。<br /><span class=\"q13\">6 件：</span>+20 耐力。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 551,
+        "idbak": 551,
+        "name": "4少校的庇护",
+        "name_en": "Lieutenant Commander's Refuge",
+        "minlevel": 66,
+        "maxlevel": 71,
+        "note": 6,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            23281,
+            23280,
+            23295,
+            23294
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "少校的庇护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">少校的庇护</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />60级PVP稀有套装<br /><span><br /><span class=\"q13\">2 件：</span>攻击强度提高40点。<br /><span class=\"q13\">4 件：</span>使你在熊形态、猎豹形态或旅行形态下的移动速度提高15%，只能在户外使用。<br /><span class=\"q13\">6 件：</span>+20 耐力。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 494,
+        "idbak": 494,
+        "name": "3不灭的生命",
+        "name_en": "Symbols of Unending Life",
+        "minlevel": 65,
+        "maxlevel": 70,
+        "note": 9,
+        "type": 6,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            21408,
+            21409,
+            21407
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "不灭的生命",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">不灭的生命</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />安其拉废墟套装<br /><span><br /><span class=\"q13\">3 件：</span>如果你的终结技未击中目标、被躲闪、被格挡或被招架，则你可以回复30点能量值。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 205,
+        "idbak": 205,
+        "name": "3塞纳里奥",
+        "name_en": "Cenarion Raiment",
+        "minlevel": 66,
+        "maxlevel": 66,
+        "note": 3,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            16834,
+            16836,
+            16828,
+            16835,
+            16829,
+            16830,
+            16831,
+            16833
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "塞纳里奥",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">塞纳里奥</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />T1副本套装<br /><span><br /><span class=\"q13\">3 件：</span>荆棘所造成的伤害提高4点，持续时间延长50%。<br /><span class=\"q13\">5 件：</span>使你的爆击等级提高<!--rtg32-->28&nbsp;<small>(<!--rtg%32-->2.00%&nbsp;@&nbsp;L<!--lvl-->60)</small>。<br /><span class=\"q13\">8 件：</span>使你的宁静的冷却时间缩短50%，飓风法术造成的伤害提高15%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 471,
+        "idbak": 471,
+        "name": "4高地人的毅力",
+        "name_en": "The Highlander's Purpose",
+        "minlevel": 63,
+        "maxlevel": 65,
+        "note": 15,
+        "type": 2,
+        "reqclass": 1032,
+        "classes": [
+            4,
+            11
+        ],
+        "pieces": [
+            20045,
+            20052,
+            20059
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "高地人的毅力",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">高地人的毅力</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a>, <a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />阿拉希盆地套装<br /><span><br /><span class=\"q13\">2 件：</span>+5 耐力。<br /><span class=\"q13\">3 件：</span>使你的爆击等级提高<!--rtg19-->14&nbsp;<small>(<!--rtg%19-->1.04%&nbsp;@&nbsp;L<!--lvl-->58)</small>。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 472,
+        "idbak": 472,
+        "name": "4高地人的意志",
+        "name_en": "The Highlander's Will",
+        "minlevel": 63,
+        "maxlevel": 65,
+        "note": 15,
+        "type": 2,
+        "reqclass": 1032,
+        "classes": [
+            4,
+            11
+        ],
+        "pieces": [
+            20046,
+            20053,
+            20060
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "高地人的意志",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">高地人的意志</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a>, <a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />阿拉希盆地套装<br /><span><br /><span class=\"q13\">2 件：</span>+5 耐力。<br /><span class=\"q13\">3 件：</span>爆击等级提高<!--rtg32-->14&nbsp;<small>(<!--rtg%32-->1.04%&nbsp;@&nbsp;L<!--lvl-->58)</small>。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 479,
+        "idbak": 479,
+        "name": "3占卜师套装",
+        "name_en": "Haruspex's Garb",
+        "minlevel": 61,
+        "maxlevel": 65,
+        "note": 11,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            19839,
+            19840,
+            19613,
+            19955,
+            19838
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "占卜师套装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">占卜师套装</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />祖尔格拉布套装<br /><span><br /><span class=\"q13\">2 件：</span>每5秒恢复5点法力值。<br /><span class=\"q13\">3 件：</span>使你的精灵之火的效果持续时间提高5秒。<br /><span class=\"q13\">5 件：</span>使你的星火术的爆击几率提高3%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 486,
+        "idbak": 486,
+        "name": "4污染者的毅力",
+        "name_en": "The Defiler's Purpose",
+        "minlevel": 63,
+        "maxlevel": 65,
+        "note": 15,
+        "type": 2,
+        "reqclass": 1032,
+        "classes": [
+            4,
+            11
+        ],
+        "pieces": [
+            20190,
+            20186,
+            20194
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "污染者的毅力",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">污染者的毅力</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a>, <a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />阿拉希盆地套装<br /><span><br /><span class=\"q13\">2 件：</span>+5 耐力。<br /><span class=\"q13\">3 件：</span>使你的爆击等级提高<!--rtg19-->14&nbsp;<small>(<!--rtg%19-->1.04%&nbsp;@&nbsp;L<!--lvl-->58)</small>。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 488,
+        "idbak": 488,
+        "name": "4污染者的意志",
+        "name_en": "The Defiler's Will",
+        "minlevel": 63,
+        "maxlevel": 65,
+        "note": 15,
+        "type": 2,
+        "reqclass": 1032,
+        "classes": [
+            4,
+            11
+        ],
+        "pieces": [
+            20171,
+            20167,
+            20175
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "污染者的意志",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">污染者的意志</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a>, <a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />阿拉希盆地套装<br /><span><br /><span class=\"q13\">2 件：</span>+5 耐力。<br /><span class=\"q13\">3 件：</span>爆击等级提高<!--rtg32-->14&nbsp;<small>(<!--rtg%32-->1.04%&nbsp;@&nbsp;L<!--lvl-->58)</small>。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 381,
+        "idbak": 381,
+        "name": "4少校的圣装",
+        "name_en": "Lieutenant Commander's Sanctuary",
+        "minlevel": 63,
+        "maxlevel": 63,
+        "note": 7,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            16424,
+            16423,
+            16422,
+            16393,
+            16397,
+            16421
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "少校的圣装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">少校的圣装</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />60级PVP稀有套装（旧）<br /><span><br /><span class=\"q13\">2 件：</span>攻击强度提高40点。<br /><span class=\"q13\">4 件：</span>使你在熊形态、猎豹形态或旅行形态下的移动速度提高15%，只能在户外使用。<br /><span class=\"q13\">6 件：</span>+15 耐力。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 382,
+        "idbak": 382,
+        "name": "4勇士的圣装",
+        "name_en": "Champion's Sanctuary",
+        "minlevel": 63,
+        "maxlevel": 63,
+        "note": 7,
+        "type": 2,
+        "reqclass": 1024,
+        "classes": [
+            11
+        ],
+        "pieces": [
+            16503,
+            16501,
+            16502,
+            16494,
+            16496,
+            16504
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "勇士的圣装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">勇士的圣装</span><br />职业：<a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />60级PVP稀有套装（旧）<br /><span><br /><span class=\"q13\">2 件：</span>攻击强度提高40点。<br /><span class=\"q13\">4 件：</span>使你在熊形态、猎豹形态或旅行形态下的移动速度提高15%，只能在户外使用。<br /><span class=\"q13\">6 件：</span>+15 耐力。</span></td></tr></table>"
+        }
+    }
+]

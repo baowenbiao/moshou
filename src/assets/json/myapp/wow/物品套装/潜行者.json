@@ -1,0 +1,1184 @@
+[
+    {
+        "id": -262,
+        "idbak": 890,
+        "name": "3影刃战甲",
+        "name_en": "Shadowblade's Battlegear",
+        "minlevel": 277,
+        "maxlevel": 277,
+        "note": 29,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            51252,
+            51254,
+            51253,
+            51251,
+            51250
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "影刃战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">影刃战甲</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />T10副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>你的嫁祸诀窍技能不再消耗能量值，并使你获得15点能量值。<br /><span class=\"q13\">4 件：</span>使你的近战终结技有13%的几率为目标增加3个连击点数。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -111,
+        "idbak": 776,
+        "name": "3角斗士的套装",
+        "name_en": "Gladiator's Vestments",
+        "minlevel": 270,
+        "maxlevel": 270,
+        "note": 30,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            51494,
+            51496,
+            51495,
+            51493,
+            51492
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的套装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的套装</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />竞技场第8季套装<br /><span><br /><span class=\"q13\">2 件：</span>攻击强度提高50点。<br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的能量值上限提高10点。<br /><span class=\"q13\">4 件：</span>攻击强度提高150点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -261,
+        "idbak": 890,
+        "name": "3影刃战甲",
+        "name_en": "Shadowblade's Battlegear",
+        "minlevel": 264,
+        "maxlevel": 264,
+        "note": 29,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            51187,
+            51185,
+            51186,
+            51188,
+            51189
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "影刃战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">影刃战甲</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />T10副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的嫁祸诀窍技能不再消耗能量值，并使你获得15点能量值。<br /><span class=\"q13\">4 件：</span>使你的近战终结技有13%的几率为目标增加3个连击点数。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -200,
+        "idbak": 857,
+        "name": "3范克里夫的战甲",
+        "name_en": "VanCleef's Battlegear",
+        "minlevel": 258,
+        "maxlevel": 258,
+        "note": 27,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            48230,
+            48228,
+            48229,
+            48231,
+            48232
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "范克里夫的战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">范克里夫的战甲</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />T9副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>你的割裂技能每次造成伤害时会有一定几率使你下一个技能所消耗的能量值减少40点。<br /><span class=\"q13\">4 件：</span>使你的出血、影袭、背刺和毁伤技能的爆击几率提高5%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -202,
+        "idbak": 858,
+        "name": "3迦罗娜的战甲",
+        "name_en": "Garona's Battlegear",
+        "minlevel": 258,
+        "maxlevel": 258,
+        "note": 27,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            48235,
+            48237,
+            48236,
+            48234,
+            48233
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "迦罗娜的战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">迦罗娜的战甲</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />T9副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>你的割裂技能每次造成伤害时会有一定几率使你下一个技能所消耗的能量值减少40点。<br /><span class=\"q13\">4 件：</span>使你的出血、影袭、背刺和毁伤技能的爆击几率提高5%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -110,
+        "idbak": 776,
+        "name": "3角斗士的套装",
+        "name_en": "Gladiator's Vestments",
+        "minlevel": 251,
+        "maxlevel": 251,
+        "note": 28,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            41673,
+            41684,
+            41656,
+            41768,
+            41651
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的套装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的套装</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />竞技场第7季套装<br /><span><br /><span class=\"q13\">2 件：</span>攻击强度提高50点。<br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的能量值上限提高10点。<br /><span class=\"q13\">4 件：</span>攻击强度提高150点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 890,
+        "idbak": 890,
+        "name": "3影刃战甲",
+        "name_en": "Shadowblade's Battlegear",
+        "minlevel": 251,
+        "maxlevel": 251,
+        "note": 29,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            50089,
+            50105,
+            50090,
+            50088,
+            50087
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "圣歌法杖",
+            "quality": 3,
+            "icon": "inv_staff_04",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">圣歌法杖</b><span class='cus-id-2-right'>ID: 890</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>双手</td><th>法杖</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->55 - 84伤害</td><th>速度 <!--spd-->3.40</th></tr></table><!--dps-->（每秒伤害20.4）<br /><span><!--stat5-->+10 智力</span><br /><span><!--stat7-->+6 耐力</span><br /><!--e--><!--ps-->耐久度 90 / 90<br />需要等级 19<br />物品等级24<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">35</span> <span class=\"moneycopper\">17</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?890:1:1:19-->"
+        }
+    },
+    {
+        "id": -199,
+        "idbak": 857,
+        "name": "3范克里夫的战甲",
+        "name_en": "VanCleef's Battlegear",
+        "minlevel": 245,
+        "maxlevel": 245,
+        "note": 27,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            48225,
+            48227,
+            48226,
+            48224,
+            48223
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "范克里夫的战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">范克里夫的战甲</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />T9副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的割裂技能每次造成伤害时会有一定几率使你下一个技能所消耗的能量值减少40点。<br /><span class=\"q13\">4 件：</span>使你的出血、影袭、背刺和毁伤技能的爆击几率提高5%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -201,
+        "idbak": 858,
+        "name": "3迦罗娜的战甲",
+        "name_en": "Garona's Battlegear",
+        "minlevel": 245,
+        "maxlevel": 245,
+        "note": 27,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            48240,
+            48238,
+            48239,
+            48241,
+            48242
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "迦罗娜的战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">迦罗娜的战甲</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />T9副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的割裂技能每次造成伤害时会有一定几率使你下一个技能所消耗的能量值减少40点。<br /><span class=\"q13\">4 件：</span>使你的出血、影袭、背刺和毁伤技能的爆击几率提高5%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -109,
+        "idbak": 776,
+        "name": "3角斗士的套装",
+        "name_en": "Gladiator's Vestments",
+        "minlevel": 232,
+        "maxlevel": 232,
+        "note": 26,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            41672,
+            41683,
+            41655,
+            41767,
+            41650
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的套装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的套装</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />竞技场第6季套装<br /><span><br /><span class=\"q13\">2 件：</span>攻击强度提高50点。<br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的能量值上限提高10点。<br /><span class=\"q13\">4 件：</span>攻击强度提高150点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 857,
+        "idbak": 857,
+        "name": "3范克里夫的战甲",
+        "name_en": "VanCleef's Battlegear",
+        "minlevel": 232,
+        "maxlevel": 232,
+        "note": 27,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            48218,
+            48221,
+            48220,
+            48222,
+            48219
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "红色布袋",
+            "quality": 1,
+            "icon": "inv_misc_bag_10_red",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">红色布袋</b><span class='cus-id-2-right'>ID: 857</span><br />10格容器<br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">25</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?857:1:1:80-->"
+        }
+    },
+    {
+        "id": 858,
+        "idbak": 858,
+        "name": "3迦罗娜的战甲",
+        "name_en": "Garona's Battlegear",
+        "minlevel": 232,
+        "maxlevel": 232,
+        "note": 27,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            48245,
+            48247,
+            48246,
+            48244,
+            48243
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "次级治疗药水",
+            "quality": 1,
+            "icon": "inv_potion_50",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">次级治疗药水</b><span class='cus-id-2-right'>ID: 858</span><br /><!--e--><!--ps-->需要等级 3<br /></td></tr></table><table><tr><td><span class=\"q2\">使用： 恢复140到180点生命值。 (1 分钟冷却时间)</span><br /><span class=\"q1\">1次</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">25</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?858:1:1:3-->"
+        }
+    },
+    {
+        "id": -158,
+        "idbak": 826,
+        "name": "3恐怖利刃战甲",
+        "name_en": "Terrorblade Battlegear",
+        "minlevel": 226,
+        "maxlevel": 226,
+        "note": 25,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            46125,
+            46127,
+            46126,
+            46124,
+            46123
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "恐怖利刃战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">恐怖利刃战甲</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />T8副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的致命药膏每次造成伤害都可以使你获得1点能量值。<br /><span class=\"q13\">4 件：</span>使你的割裂的伤害提高20%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 826,
+        "idbak": 826,
+        "name": "3恐怖利刃战甲",
+        "name_en": "Terrorblade Battlegear",
+        "minlevel": 219,
+        "maxlevel": 219,
+        "note": 25,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            45398,
+            45400,
+            45399,
+            45397,
+            45396
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "河爪之斧",
+            "quality": 2,
+            "icon": "inv_axe_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">河爪之斧</b><span class='cus-id-2-right'>ID: 826</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>单手</td><th>斧</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->15 - 29伤害</td><th>速度 <!--spd-->2.80</th></tr></table><!--dps-->（每秒伤害7.9）<br /><span><!--stat4-->+1 力量</span><br /><!--e--><!--ps-->耐久度 50 / 50<br />需要等级 10<br />物品等级15<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">7</span> <span class=\"moneycopper\">32</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?826:1:1:10-->"
+        }
+    },
+    {
+        "id": -108,
+        "idbak": 776,
+        "name": "3角斗士的套装",
+        "name_en": "Gladiator's Vestments",
+        "minlevel": 213,
+        "maxlevel": 213,
+        "note": 24,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            41671,
+            41682,
+            41654,
+            41766,
+            41649
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的套装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的套装</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />竞技场第5季套装<br /><span><br /><span class=\"q13\">2 件：</span>攻击强度提高50点。<br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的能量值上限提高10点。<br /><span class=\"q13\">4 件：</span>攻击强度提高150点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -147,
+        "idbak": 801,
+        "name": "3骨镰战甲",
+        "name_en": "Bonescythe Battlegear",
+        "minlevel": 213,
+        "maxlevel": 213,
+        "note": 23,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            40499,
+            40502,
+            40500,
+            40496,
+            40495
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "骨镰战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">骨镰战甲</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />T7副本套装<br /><span><br /><span class=\"q13\">2 件：</span>割裂造成的伤害提高10%。<br /><span class=\"q13\">4 件：</span>连击技能的能量值消耗降低5%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 776,
+        "idbak": 776,
+        "name": "4角斗士的套装",
+        "name_en": "Gladiator's Vestments",
+        "minlevel": 200,
+        "maxlevel": 200,
+        "note": 24,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            41644,
+            41646,
+            41645,
+            41643,
+            41647
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "仇杀",
+            "quality": 3,
+            "icon": "inv_weapon_shortblade_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">仇杀</b><span class='cus-id-2-right'>ID: 776</span><br /><!--bo-->装备后绑定<br />装备唯一<table width=\"100%\"><tr><td>单手</td><th>匕首</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->17 - 33伤害</td><th>速度 <!--spd-->1.30</th></tr></table><!--dps-->（每秒伤害19.2）<br /><span><!--stat3-->+6 敏捷</span><br /><!--e--><!--ps-->耐久度 65 / 65<br />需要等级 26<br />物品等级31<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">57</span> <span class=\"moneycopper\">65</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?776:1:1:26-->"
+        }
+    },
+    {
+        "id": -107,
+        "idbak": 776,
+        "name": "3角斗士的套装",
+        "name_en": "Gladiator's Vestments",
+        "minlevel": 200,
+        "maxlevel": 200,
+        "note": 24,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            41670,
+            41681,
+            41653,
+            41765,
+            41648
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的套装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的套装</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />竞技场第5季套装<br /><span><br /><span class=\"q13\">2 件：</span>攻击强度提高50点。<br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的能量值上限提高10点。<br /><span class=\"q13\">4 件：</span>攻击强度提高150点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 801,
+        "idbak": 801,
+        "name": "3骨镰战甲",
+        "name_en": "Bonescythe Battlegear",
+        "minlevel": 200,
+        "maxlevel": 200,
+        "note": 23,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            39561,
+            39565,
+            39564,
+            39560,
+            39558
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "骨镰战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">骨镰战甲</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />T7副本套装<br /><span><br /><span class=\"q13\">2 件：</span>割裂造成的伤害提高10%。<br /><span class=\"q13\">4 件：</span>连击技能的能量值消耗降低5%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -9,
+        "idbak": 577,
+        "name": "3角斗士的套装",
+        "name_en": "Gladiator's Vestments",
+        "minlevel": 159,
+        "maxlevel": 159,
+        "note": 22,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            35033,
+            35035,
+            35034,
+            35032,
+            35036
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的套装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的套装</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />竞技场第4季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的能量值上限提高10点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 699,
+        "idbak": 699,
+        "name": "2埃辛诺斯双刃",
+        "name_en": "The Twin Blades of Azzinoth",
+        "minlevel": 156,
+        "maxlevel": 156,
+        "note": 0,
+        "type": 10,
+        "reqclass": 9,
+        "classes": [
+            1,
+            4
+        ],
+        "pieces": [
+            32837,
+            32838
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "埃辛诺斯双刃",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q5\">埃辛诺斯双刃</span><br />职业：<a href=\"?class=1\" class=\"c1\">战士</a>, <a href=\"?class=4\" class=\"c4\">潜行者</a><br />单手剑<br /><span><br /><span class=\"q13\">2 件：</span>你的近战攻击有一定几率令你的急速等级提高<!--rtg28-->450&nbsp;<small>(<!--rtg%28-->28.54%&nbsp;@&nbsp;L<!--lvl-->70)</small>，持续10 秒。<br /><span class=\"q13\">2 件：</span>对恶魔的攻击强度提高200点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 668,
+        "idbak": 668,
+        "name": "3刺杀者",
+        "name_en": "Slayer's Armor",
+        "minlevel": 146,
+        "maxlevel": 154,
+        "note": 18,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            31027,
+            31030,
+            31029,
+            31026,
+            31028,
+            34558,
+            34575,
+            34448
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "刺杀者",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">刺杀者</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />T6副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你的切割技能所提供的急速效果提高5%。<br /><span class=\"q13\">4 件：</span>使你的背刺、影袭、毁伤和出血技能所造成的伤害提高6%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -8,
+        "idbak": 577,
+        "name": "3角斗士的套装",
+        "name_en": "Gladiator's Vestments",
+        "minlevel": 146,
+        "maxlevel": 146,
+        "note": 20,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            33701,
+            33703,
+            33702,
+            33700,
+            33704
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的套装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的套装</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />竞技场第3季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的能量值上限提高10点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -7,
+        "idbak": 577,
+        "name": "3角斗士的套装",
+        "name_en": "Gladiator's Vestments",
+        "minlevel": 136,
+        "maxlevel": 136,
+        "note": 19,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            31999,
+            32001,
+            32000,
+            31998,
+            32002
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的套装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的套装</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />竞技场第2季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的能量值上限提高10点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 622,
+        "idbak": 622,
+        "name": "3死亡阴影",
+        "name_en": "Deathmantle",
+        "minlevel": 133,
+        "maxlevel": 133,
+        "note": 13,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            30146,
+            30149,
+            30148,
+            30145,
+            30144
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "死亡阴影",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">死亡阴影</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />T5副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的刺骨和毒伤技能可以从每个连击点数获得40点额外伤害。<br /><span class=\"q13\">4 件：</span>你的攻击有一定几率令你的下一次终结技不消耗能量值。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 577,
+        "idbak": 577,
+        "name": "3角斗士的套装",
+        "name_en": "Gladiator's Vestments",
+        "minlevel": 123,
+        "maxlevel": 123,
+        "note": 17,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            25830,
+            25832,
+            25833,
+            25834,
+            25831
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的套装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的套装</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />竞技场第1季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的能量值上限提高10点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 621,
+        "idbak": 621,
+        "name": "3虚空刀锋",
+        "name_en": "Netherblade",
+        "minlevel": 120,
+        "maxlevel": 120,
+        "note": 12,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            29044,
+            29047,
+            29046,
+            29048,
+            29045
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "虚空刀锋",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">虚空刀锋</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />T4副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你的切割技能的效果持续时间延长3秒。<br /><span class=\"q13\">4 件：</span>你的终结技有15%的几率令你获得一个连击点数。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 605,
+        "idbak": 605,
+        "name": "4大元帅的制服",
+        "name_en": "Grand Marshal's Vestments",
+        "minlevel": 115,
+        "maxlevel": 115,
+        "note": 16,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            28685,
+            28687,
+            28686,
+            28684,
+            28688
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "大元帅的制服",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">大元帅的制服</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />70级PVP稀有套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的凿击技能的冷却时间缩短1秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 606,
+        "idbak": 606,
+        "name": "4高阶督军的制服",
+        "name_en": "High Warlord's Vestments",
+        "minlevel": 115,
+        "maxlevel": 115,
+        "note": 16,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            28837,
+            28839,
+            28838,
+            28836,
+            28840
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "高阶督军的制服",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">高阶督军的制服</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />70级PVP稀有套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的凿击技能的冷却时间缩短1秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 745,
+        "idbak": 745,
+        "name": "4投机者的战甲",
+        "name_en": "Opportunist's Battlegear",
+        "minlevel": 115,
+        "maxlevel": 115,
+        "note": 21,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            35367,
+            35369,
+            35368,
+            35366,
+            35370
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "治安官玛克布莱德的文件",
+            "quality": 1,
+            "icon": "inv_scroll_03",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">治安官玛克布莱德的文件</b><span class='cus-id-2-right'>ID: 745</span><br /><!--bo-->任务物品<br />唯一<br /><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">&lt;右键点击阅读&gt</span></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?745:1:1:80-->"
+        }
+    },
+    {
+        "id": 497,
+        "idbak": 497,
+        "name": "3死亡执行者的拥抱",
+        "name_en": "Deathdealer's Embrace",
+        "minlevel": 78,
+        "maxlevel": 88,
+        "note": 10,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            21361,
+            21359,
+            21362,
+            21364
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "死亡执行者的拥抱",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">死亡执行者的拥抱</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />安其拉神庙团本套装<br /><span><br /><span class=\"q13\">3 件：</span>使你的闪避技能的冷却时间缩短1分钟。<br /><span class=\"q13\">5 件：</span>刺骨技能的伤害提高15%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 213,
+        "idbak": 213,
+        "name": "3血牙",
+        "name_en": "Bloodfang Armor",
+        "minlevel": 76,
+        "maxlevel": 76,
+        "note": 4,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            16908,
+            16832,
+            16910,
+            16909,
+            16906,
+            16911,
+            16907,
+            16905
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "血牙",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">血牙</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />T2副本套装<br /><span><br /><span class=\"q13\">3 件：</span>使你对目标施放毒药的几率提高5%。<br /><span class=\"q13\">5 件：</span>使佯攻技能减少威胁值的效果提高25%。<br /><span class=\"q13\">8 件：</span>使盗贼有一定几率在使用近战武器击中目标后对其造成283到317点伤害，并每1秒回复50点生命值，持续6 秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 393,
+        "idbak": 393,
+        "name": "3督军的制服",
+        "name_en": "Warlord's Vestments",
+        "minlevel": 71,
+        "maxlevel": 74,
+        "note": 8,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            16564,
+            16558,
+            16560,
+            16562,
+            16563
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "督军的制服",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">督军的制服</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />60级PVP史诗套装<br /><span><br /><span class=\"q13\">2 件：</span>+20 耐力。<br /><span class=\"q13\">3 件：</span>使你的凿击技能的冷却时间缩短1秒。<br /><span class=\"q13\">6 件：</span>攻击强度提高40点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 394,
+        "idbak": 394,
+        "name": "3元帅的制服",
+        "name_en": "Field Marshal's Vestments",
+        "minlevel": 71,
+        "maxlevel": 74,
+        "note": 8,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            16456,
+            16446,
+            16454,
+            16457,
+            16453
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "元帅的制服",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">元帅的制服</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />60级PVP史诗套装<br /><span><br /><span class=\"q13\">2 件：</span>+20 耐力。<br /><span class=\"q13\">3 件：</span>使你的凿击技能的冷却时间缩短1秒。<br /><span class=\"q13\">6 件：</span>攻击强度提高40点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 522,
+        "idbak": 522,
+        "name": "4勇士的套装",
+        "name_en": "Champion's Guard",
+        "minlevel": 66,
+        "maxlevel": 71,
+        "note": 6,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            22856,
+            22864,
+            22880,
+            22879
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "勇士的套装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">勇士的套装</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />60级PVP稀有套装<br /><span><br /><span class=\"q13\">2 件：</span>攻击强度提高40点。<br /><span class=\"q13\">4 件：</span>使你的凿击技能的冷却时间缩短1秒。<br /><span class=\"q13\">6 件：</span>+20 耐力。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 548,
+        "idbak": 548,
+        "name": "4少校的护卫",
+        "name_en": "Lieutenant Commander's Guard",
+        "minlevel": 66,
+        "maxlevel": 71,
+        "note": 6,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            23285,
+            23284,
+            23299,
+            23298
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "少校的护卫",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">少校的护卫</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />60级PVP稀有套装<br /><span><br /><span class=\"q13\">2 件：</span>攻击强度提高40点。<br /><span class=\"q13\">4 件：</span>使你的凿击技能的冷却时间缩短1秒。<br /><span class=\"q13\">6 件：</span>+20 耐力。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 498,
+        "idbak": 498,
+        "name": "3笼罩之阴影",
+        "name_en": "Emblems of Veiled Shadows",
+        "minlevel": 65,
+        "maxlevel": 70,
+        "note": 9,
+        "type": 5,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            21405,
+            21406,
+            21404
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "笼罩之阴影",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">笼罩之阴影</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />安其拉废墟套装<br /><span><br /><span class=\"q13\">3 件：</span>切割技能的能量值消耗降低10点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 204,
+        "idbak": 204,
+        "name": "3夜幕杀手",
+        "name_en": "Nightslayer Armor",
+        "minlevel": 66,
+        "maxlevel": 66,
+        "note": 3,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            16821,
+            16823,
+            16827,
+            16822,
+            16824,
+            16825,
+            16826,
+            16820
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "夜幕杀手",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">夜幕杀手</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />T1副本套装<br /><span><br /><span class=\"q13\">3 件：</span>使你的消失技能的冷却时间缩短30秒。<br /><span class=\"q13\">5 件：</span>使你的能量值上限提高10点。<br /><span class=\"q13\">8 件：</span>在潜行者使用消失技能后为其回复500点生命值。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 471,
+        "idbak": 471,
+        "name": "4高地人的毅力",
+        "name_en": "The Highlander's Purpose",
+        "minlevel": 63,
+        "maxlevel": 65,
+        "note": 15,
+        "type": 2,
+        "reqclass": 1032,
+        "classes": [
+            4,
+            11
+        ],
+        "pieces": [
+            20045,
+            20052,
+            20059
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "高地人的毅力",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">高地人的毅力</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a>, <a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />阿拉希盆地套装<br /><span><br /><span class=\"q13\">2 件：</span>+5 耐力。<br /><span class=\"q13\">3 件：</span>使你的爆击等级提高<!--rtg19-->14&nbsp;<small>(<!--rtg%19-->1.04%&nbsp;@&nbsp;L<!--lvl-->58)</small>。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 472,
+        "idbak": 472,
+        "name": "4高地人的意志",
+        "name_en": "The Highlander's Will",
+        "minlevel": 63,
+        "maxlevel": 65,
+        "note": 15,
+        "type": 2,
+        "reqclass": 1032,
+        "classes": [
+            4,
+            11
+        ],
+        "pieces": [
+            20046,
+            20053,
+            20060
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "高地人的意志",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">高地人的意志</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a>, <a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />阿拉希盆地套装<br /><span><br /><span class=\"q13\">2 件：</span>+5 耐力。<br /><span class=\"q13\">3 件：</span>爆击等级提高<!--rtg32-->14&nbsp;<small>(<!--rtg%32-->1.04%&nbsp;@&nbsp;L<!--lvl-->58)</small>。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 478,
+        "idbak": 478,
+        "name": "3狂妄者套装",
+        "name_en": "Madcap's Outfit",
+        "minlevel": 61,
+        "maxlevel": 65,
+        "note": 11,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            19835,
+            19836,
+            19617,
+            19954,
+            19834
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "狂妄者套装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">狂妄者套装</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />祖尔格拉布套装<br /><span><br /><span class=\"q13\">2 件：</span>攻击强度提高20点。<br /><span class=\"q13\">3 件：</span>使你的致盲技能的冷却时间减少5秒。<br /><span class=\"q13\">5 件：</span>使你的刺骨和割裂的能量值消耗减少5点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 486,
+        "idbak": 486,
+        "name": "4污染者的毅力",
+        "name_en": "The Defiler's Purpose",
+        "minlevel": 63,
+        "maxlevel": 65,
+        "note": 15,
+        "type": 2,
+        "reqclass": 1032,
+        "classes": [
+            4,
+            11
+        ],
+        "pieces": [
+            20190,
+            20186,
+            20194
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "污染者的毅力",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">污染者的毅力</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a>, <a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />阿拉希盆地套装<br /><span><br /><span class=\"q13\">2 件：</span>+5 耐力。<br /><span class=\"q13\">3 件：</span>使你的爆击等级提高<!--rtg19-->14&nbsp;<small>(<!--rtg%19-->1.04%&nbsp;@&nbsp;L<!--lvl-->58)</small>。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 488,
+        "idbak": 488,
+        "name": "4污染者的意志",
+        "name_en": "The Defiler's Will",
+        "minlevel": 63,
+        "maxlevel": 65,
+        "note": 15,
+        "type": 2,
+        "reqclass": 1032,
+        "classes": [
+            4,
+            11
+        ],
+        "pieces": [
+            20171,
+            20167,
+            20175
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "污染者的意志",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">污染者的意志</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a>, <a href=\"?class=11\" class=\"c11\">德鲁伊</a><br />阿拉希盆地套装<br /><span><br /><span class=\"q13\">2 件：</span>+5 耐力。<br /><span class=\"q13\">3 件：</span>爆击等级提高<!--rtg32-->14&nbsp;<small>(<!--rtg%32-->1.04%&nbsp;@&nbsp;L<!--lvl-->58)</small>。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 347,
+        "idbak": 347,
+        "name": "4勇士的制服",
+        "name_en": "Champion's Vestments",
+        "minlevel": 63,
+        "maxlevel": 63,
+        "note": 7,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            16506,
+            16507,
+            16508,
+            16498,
+            16499,
+            16505
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "勇士的制服",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">勇士的制服</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />60级PVP稀有套装（旧）<br /><span><br /><span class=\"q13\">2 件：</span>招架等级提高<!--rtg14-->20&nbsp;<small>(<!--rtg%14-->1.51%&nbsp;@&nbsp;L<!--lvl-->58)</small>。<br /><span class=\"q13\">4 件：</span>使你的凿击技能的冷却时间缩短1秒。<br /><span class=\"q13\">6 件：</span>+15 耐力。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 348,
+        "idbak": 348,
+        "name": "4少校的制服",
+        "name_en": "Lieutenant Commander's Vestments",
+        "minlevel": 63,
+        "maxlevel": 63,
+        "note": 7,
+        "type": 2,
+        "reqclass": 8,
+        "classes": [
+            4
+        ],
+        "pieces": [
+            16418,
+            16420,
+            16419,
+            16392,
+            16396,
+            16417
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "少校的制服",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">少校的制服</span><br />职业：<a href=\"?class=4\" class=\"c4\">潜行者</a><br />60级PVP稀有套装（旧）<br /><span><br /><span class=\"q13\">2 件：</span>招架等级提高<!--rtg14-->20&nbsp;<small>(<!--rtg%14-->1.51%&nbsp;@&nbsp;L<!--lvl-->58)</small>。<br /><span class=\"q13\">4 件：</span>使你的凿击技能的冷却时间缩短1秒。<br /><span class=\"q13\">6 件：</span>+15 耐力。</span></td></tr></table>"
+        }
+    }
+]

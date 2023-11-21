@@ -1,0 +1,850 @@
+[
+    {
+        "id": -276,
+        "idbak": 897,
+        "name": "3天灾领主战甲",
+        "name_en": "Scourgelord's Battlegear",
+        "minlevel": 277,
+        "maxlevel": 277,
+        "note": 29,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            51312,
+            51314,
+            51313,
+            51311,
+            51310
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "天灾领主战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">天灾领主战甲</span><br />职业：<a href=\"?class=6\" class=\"c6\">死亡骑士</a><br />T10副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>你的湮没和天灾打击技能所造成的伤害提高10%，心脏打击技能所造成的伤害提高7%。<br /><span class=\"q13\">4 件：</span>每当你所有的符文都正在冷却时，你在接下来的15 秒内通过武器、法术和技能造成的伤害提高3%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -278,
+        "idbak": 898,
+        "name": "3天灾领主战铠",
+        "name_en": "Scourgelord's Plate",
+        "minlevel": 277,
+        "maxlevel": 277,
+        "note": 29,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            51306,
+            51309,
+            51308,
+            51307,
+            51305
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "天灾领主战铠",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">天灾领主战铠</span><br />职业：<a href=\"?class=6\" class=\"c6\">死亡骑士</a><br />T10副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>使你死亡凋零所造成的伤害提高20%。<br /><span class=\"q13\">4 件：</span>当你激活活力分流后，所有攻击对你造成的伤害都会降低12%，持续10 秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -71,
+        "idbak": 768,
+        "name": "3角斗士的亵渎",
+        "name_en": "Gladiator's Desecration",
+        "minlevel": 270,
+        "maxlevel": 270,
+        "note": 30,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            51415,
+            51418,
+            51416,
+            51414,
+            51413
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的亵渎",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的亵渎</span><br />职业：<a href=\"?class=6\" class=\"c6\">死亡骑士</a><br />竞技场第8季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">2 件：</span>攻击强度提高50点。<br /><span class=\"q13\">4 件：</span>当你受到移动限制效果影响时，你将在5 秒内获得15点符文能量值。<br /><span class=\"q13\">4 件：</span>攻击强度提高150点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -275,
+        "idbak": 897,
+        "name": "3天灾领主战甲",
+        "name_en": "Scourgelord's Battlegear",
+        "minlevel": 264,
+        "maxlevel": 264,
+        "note": 29,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            51127,
+            51125,
+            51126,
+            51128,
+            51129
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "天灾领主战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">天灾领主战甲</span><br />职业：<a href=\"?class=6\" class=\"c6\">死亡骑士</a><br />T10副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的湮没和天灾打击技能所造成的伤害提高10%，心脏打击技能所造成的伤害提高7%。<br /><span class=\"q13\">4 件：</span>每当你所有的符文都正在冷却时，你在接下来的15 秒内通过武器、法术和技能造成的伤害提高3%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -277,
+        "idbak": 898,
+        "name": "3天灾领主战铠",
+        "name_en": "Scourgelord's Plate",
+        "minlevel": 264,
+        "maxlevel": 264,
+        "note": 29,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            51133,
+            51130,
+            51131,
+            51132,
+            51134
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "天灾领主战铠",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">天灾领主战铠</span><br />职业：<a href=\"?class=6\" class=\"c6\">死亡骑士</a><br />T10副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你死亡凋零所造成的伤害提高20%。<br /><span class=\"q13\">4 件：</span>当你激活活力分流后，所有攻击对你造成的伤害都会降低12%，持续10 秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -228,
+        "idbak": 871,
+        "name": "3萨萨里安的战甲",
+        "name_en": "Thassarian's Battlegear",
+        "minlevel": 258,
+        "maxlevel": 258,
+        "note": 27,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            48488,
+            48486,
+            48487,
+            48489,
+            48490
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "萨萨里安的战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">萨萨里安的战甲</span><br />职业：<a href=\"?class=6\" class=\"c6\">死亡骑士</a><br />T9副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>你的鲜血打击和心脏打击技能有一定几率使你获得180点额外力量，持续15 秒。<br /><span class=\"q13\">4 件：</span>你的冰霜疫病和鲜血疫病技能现在有一定几率造成爆击。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -230,
+        "idbak": 872,
+        "name": "3库尔迪拉的战甲",
+        "name_en": "Koltira's Battlegear",
+        "minlevel": 258,
+        "maxlevel": 258,
+        "note": 27,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            48493,
+            48495,
+            48494,
+            48492,
+            48491
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "库尔迪拉的战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">库尔迪拉的战甲</span><br />职业：<a href=\"?class=6\" class=\"c6\">死亡骑士</a><br />T9副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>你的鲜血打击和心脏打击技能有一定几率使你获得180点额外力量，持续15 秒。<br /><span class=\"q13\">4 件：</span>你的冰霜疫病和鲜血疫病技能现在有一定几率造成爆击。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -232,
+        "idbak": 873,
+        "name": "3萨萨里安的铠甲",
+        "name_en": "Thassarian's Plate",
+        "minlevel": 258,
+        "maxlevel": 258,
+        "note": 27,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            48545,
+            48543,
+            48544,
+            48546,
+            48547
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "萨萨里安的铠甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">萨萨里安的铠甲</span><br />职业：<a href=\"?class=6\" class=\"c6\">死亡骑士</a><br />T9副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>使你的黑暗命令技能的冷却时间缩短2秒，鲜血打击和心脏打击技能的伤害提高5%。<br /><span class=\"q13\">4 件：</span>使你的铜墙铁壁、吸血鬼之血、骨盾技能的冷却时间缩短10秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -234,
+        "idbak": 874,
+        "name": "3库尔迪拉的铠甲",
+        "name_en": "Koltira's Plate",
+        "minlevel": 258,
+        "maxlevel": 258,
+        "note": 27,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            48550,
+            48552,
+            48551,
+            48549,
+            48548
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "库尔迪拉的铠甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">库尔迪拉的铠甲</span><br />职业：<a href=\"?class=6\" class=\"c6\">死亡骑士</a><br />T9副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>使你的黑暗命令技能的冷却时间缩短2秒，鲜血打击和心脏打击技能的伤害提高5%。<br /><span class=\"q13\">4 件：</span>使你的铜墙铁壁、吸血鬼之血、骨盾技能的冷却时间缩短10秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -70,
+        "idbak": 768,
+        "name": "3角斗士的亵渎",
+        "name_en": "Gladiator's Desecration",
+        "minlevel": 251,
+        "maxlevel": 251,
+        "note": 28,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            40830,
+            40871,
+            40851,
+            40811,
+            40791
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的亵渎",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的亵渎</span><br />职业：<a href=\"?class=6\" class=\"c6\">死亡骑士</a><br />竞技场第7季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">2 件：</span>攻击强度提高50点。<br /><span class=\"q13\">4 件：</span>当你受到移动限制效果影响时，你将在5 秒内获得15点符文能量值。<br /><span class=\"q13\">4 件：</span>攻击强度提高150点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 897,
+        "idbak": 897,
+        "name": "3天灾领主战甲",
+        "name_en": "Scourgelord's Battlegear",
+        "minlevel": 251,
+        "maxlevel": 251,
+        "note": 29,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            50096,
+            50098,
+            50097,
+            50095,
+            50094
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "疯狼护腕",
+            "quality": 2,
+            "icon": "inv_bracer_05",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">疯狼护腕</b><span class='cus-id-2-right'>ID: 897</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>手腕</td><th><!--asc2-->皮甲</th></tr></table><span><!--amr-->40点护甲</span><br /><span><!--stat7-->+2 耐力</span><br /><span><!--stat3-->+5 敏捷</span><br /><!--e--><!--ps-->耐久度 30 / 30<br />需要等级 24<br />物品等级29<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">10</span> <span class=\"moneycopper\">22</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?897:1:1:24-->"
+        }
+    },
+    {
+        "id": 898,
+        "idbak": 898,
+        "name": "3天灾领主战铠",
+        "name_en": "Scourgelord's Plate",
+        "minlevel": 251,
+        "maxlevel": 251,
+        "note": 29,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            50855,
+            50853,
+            50854,
+            50856,
+            50857
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "天灾领主战铠",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">天灾领主战铠</span><br />职业：<a href=\"?class=6\" class=\"c6\">死亡骑士</a><br />T10副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你死亡凋零所造成的伤害提高20%。<br /><span class=\"q13\">4 件：</span>当你激活活力分流后，所有攻击对你造成的伤害都会降低12%，持续10 秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -227,
+        "idbak": 871,
+        "name": "3萨萨里安的战甲",
+        "name_en": "Thassarian's Battlegear",
+        "minlevel": 245,
+        "maxlevel": 245,
+        "note": 27,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            48483,
+            48485,
+            48484,
+            48482,
+            48481
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "萨萨里安的战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">萨萨里安的战甲</span><br />职业：<a href=\"?class=6\" class=\"c6\">死亡骑士</a><br />T9副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的鲜血打击和心脏打击技能有一定几率使你获得180点额外力量，持续15 秒。<br /><span class=\"q13\">4 件：</span>你的冰霜疫病和鲜血疫病技能现在有一定几率造成爆击。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -229,
+        "idbak": 872,
+        "name": "3库尔迪拉的战甲",
+        "name_en": "Koltira's Battlegear",
+        "minlevel": 245,
+        "maxlevel": 245,
+        "note": 27,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            48498,
+            48496,
+            48497,
+            48499,
+            48500
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "库尔迪拉的战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">库尔迪拉的战甲</span><br />职业：<a href=\"?class=6\" class=\"c6\">死亡骑士</a><br />T9副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的鲜血打击和心脏打击技能有一定几率使你获得180点额外力量，持续15 秒。<br /><span class=\"q13\">4 件：</span>你的冰霜疫病和鲜血疫病技能现在有一定几率造成爆击。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -231,
+        "idbak": 873,
+        "name": "3萨萨里安的铠甲",
+        "name_en": "Thassarian's Plate",
+        "minlevel": 245,
+        "maxlevel": 245,
+        "note": 27,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            48540,
+            48542,
+            48541,
+            48539,
+            48538
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "萨萨里安的铠甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">萨萨里安的铠甲</span><br />职业：<a href=\"?class=6\" class=\"c6\">死亡骑士</a><br />T9副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你的黑暗命令技能的冷却时间缩短2秒，鲜血打击和心脏打击技能的伤害提高5%。<br /><span class=\"q13\">4 件：</span>使你的铜墙铁壁、吸血鬼之血、骨盾技能的冷却时间缩短10秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -233,
+        "idbak": 874,
+        "name": "3库尔迪拉的铠甲",
+        "name_en": "Koltira's Plate",
+        "minlevel": 245,
+        "maxlevel": 245,
+        "note": 27,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            48555,
+            48553,
+            48554,
+            48556,
+            48557
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "库尔迪拉的铠甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">库尔迪拉的铠甲</span><br />职业：<a href=\"?class=6\" class=\"c6\">死亡骑士</a><br />T9副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你的黑暗命令技能的冷却时间缩短2秒，鲜血打击和心脏打击技能的伤害提高5%。<br /><span class=\"q13\">4 件：</span>使你的铜墙铁壁、吸血鬼之血、骨盾技能的冷却时间缩短10秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -69,
+        "idbak": 768,
+        "name": "3角斗士的亵渎",
+        "name_en": "Gladiator's Desecration",
+        "minlevel": 232,
+        "maxlevel": 232,
+        "note": 26,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            40827,
+            40868,
+            40848,
+            40809,
+            40787
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的亵渎",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的亵渎</span><br />职业：<a href=\"?class=6\" class=\"c6\">死亡骑士</a><br />竞技场第6季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">2 件：</span>攻击强度提高50点。<br /><span class=\"q13\">4 件：</span>当你受到移动限制效果影响时，你将在5 秒内获得15点符文能量值。<br /><span class=\"q13\">4 件：</span>攻击强度提高150点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 871,
+        "idbak": 871,
+        "name": "3萨萨里安的战甲",
+        "name_en": "Thassarian's Battlegear",
+        "minlevel": 232,
+        "maxlevel": 232,
+        "note": 27,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            48472,
+            48478,
+            48476,
+            48480,
+            48474
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "风暴战斧",
+            "quality": 4,
+            "icon": "inv_axe_17",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">风暴战斧</b><span class='cus-id-2-right'>ID: 871</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>单手</td><th>斧</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->37 - 69伤害</td><th>速度 <!--spd-->1.50</th></tr></table><!--dps-->（每秒伤害35.3）<br /><!--e--><!--ps-->耐久度 105 / 105<br />需要等级 42<br />物品等级47<br /></td></tr></table><table><tr><td><span class=\"q2\">击中时可能： 使你的下次攻击获得1次额外的攻击机会。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">2</span> <span class=\"moneysilver\">96</span> <span class=\"moneycopper\">28</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?871:1:1:42-->"
+        }
+    },
+    {
+        "id": 872,
+        "idbak": 872,
+        "name": "3库尔迪拉的战甲",
+        "name_en": "Koltira's Battlegear",
+        "minlevel": 232,
+        "maxlevel": 232,
+        "note": 27,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            48503,
+            48505,
+            48504,
+            48502,
+            48501
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "切石者",
+            "quality": 3,
+            "icon": "inv_throwingaxe_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">切石者</b><span class='cus-id-2-right'>ID: 872</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>双手</td><th>斧</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->48 - 73伤害</td><th>速度 <!--spd-->3.30</th></tr></table><!--dps-->（每秒伤害18.3）<br /><span><!--stat4-->+11 力量</span><br /><!--e--><!--ps-->耐久度 75 / 75<br />需要等级 16<br />物品等级21<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">24</span> <span class=\"moneycopper\">14</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?872:1:1:16-->"
+        }
+    },
+    {
+        "id": 873,
+        "idbak": 873,
+        "name": "3萨萨里安的铠甲",
+        "name_en": "Thassarian's Plate",
+        "minlevel": 232,
+        "maxlevel": 232,
+        "note": 27,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            48529,
+            48535,
+            48533,
+            48537,
+            48531
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "乔丹法杖",
+            "quality": 4,
+            "icon": "inv_staff_13",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">乔丹法杖</b><span class='cus-id-2-right'>ID: 873</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>双手</td><th>法杖</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->119 - 180伤害</td><th>速度 <!--spd-->3.70</th></tr></table><!--dps-->（每秒伤害40.4）<br /><span><!--stat5-->+11 智力</span><br /><span><!--stat6-->+11 精神</span><br /><!--e--><!--ps-->耐久度 120 / 120<br />需要等级 35<br />物品等级40<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 法术强度提高26点。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">2</span> <span class=\"moneysilver\">17</span> <span class=\"moneycopper\">70</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?873:1:1:35-->"
+        }
+    },
+    {
+        "id": 874,
+        "idbak": 874,
+        "name": "3库尔迪拉的铠甲",
+        "name_en": "Koltira's Plate",
+        "minlevel": 232,
+        "maxlevel": 232,
+        "note": 27,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            48560,
+            48562,
+            48561,
+            48559,
+            48558
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "库尔迪拉的铠甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">库尔迪拉的铠甲</span><br />职业：<a href=\"?class=6\" class=\"c6\">死亡骑士</a><br />T9副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你的黑暗命令技能的冷却时间缩短2秒，鲜血打击和心脏打击技能的伤害提高5%。<br /><span class=\"q13\">4 件：</span>使你的铜墙铁壁、吸血鬼之血、骨盾技能的冷却时间缩短10秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -166,
+        "idbak": 834,
+        "name": "3黑暗符印战甲",
+        "name_en": "Darkruned Battlegear",
+        "minlevel": 226,
+        "maxlevel": 226,
+        "note": 25,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            46115,
+            46117,
+            46116,
+            46113,
+            46111
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "黑暗符印战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">黑暗符印战甲</span><br />职业：<a href=\"?class=6\" class=\"c6\">死亡骑士</a><br />T8副本套装<br /><span><br /><span class=\"q13\">2 件：</span>凋零缠绕和冰霜打击的爆击几率提高8%。<br /><span class=\"q13\">4 件：</span>鲜血打击、心脏打击、湮没和天灾打击由每层疾病效果获得的伤害加成提高20%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -167,
+        "idbak": 835,
+        "name": "3黑暗符印板甲",
+        "name_en": "Darkruned Plate",
+        "minlevel": 226,
+        "maxlevel": 226,
+        "note": 25,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            46120,
+            46122,
+            46121,
+            46119,
+            46118
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "黑暗符印板甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">黑暗符印板甲</span><br />职业：<a href=\"?class=6\" class=\"c6\">死亡骑士</a><br />T8副本套装<br /><span><br /><span class=\"q13\">2 件：</span>符文打击造成的伤害提高10%。<br /><span class=\"q13\">4 件：</span>反魔法护罩使你获得10%的物理伤害减免。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 834,
+        "idbak": 834,
+        "name": "3黑暗符印战甲",
+        "name_en": "Darkruned Battlegear",
+        "minlevel": 219,
+        "maxlevel": 219,
+        "note": 25,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            45342,
+            45344,
+            45343,
+            45341,
+            45340
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "黑暗符印战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">黑暗符印战甲</span><br />职业：<a href=\"?class=6\" class=\"c6\">死亡骑士</a><br />T8副本套装<br /><span><br /><span class=\"q13\">2 件：</span>凋零缠绕和冰霜打击的爆击几率提高8%。<br /><span class=\"q13\">4 件：</span>鲜血打击、心脏打击、湮没和天灾打击由每层疾病效果获得的伤害加成提高20%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 835,
+        "idbak": 835,
+        "name": "3黑暗符印板甲",
+        "name_en": "Darkruned Plate",
+        "minlevel": 219,
+        "maxlevel": 219,
+        "note": 25,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            45336,
+            45339,
+            45338,
+            45337,
+            45335
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "大绳网",
+            "quality": 1,
+            "icon": "inv_misc_net_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">大绳网</b><span class='cus-id-2-right'>ID: 835</span><br /><!--bo-->拾取后绑定<br /><!--e--><!--ps-->需要等级 2<br /></td></tr></table><table><tr><td><span class=\"q2\">使用： 使目标无法移动，持续10 秒。 (1 分钟冷却时间)</span><br /><span class=\"q1\">1次</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">23</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?835:1:1:2-->"
+        }
+    },
+    {
+        "id": -68,
+        "idbak": 768,
+        "name": "3角斗士的亵渎",
+        "name_en": "Gladiator's Desecration",
+        "minlevel": 213,
+        "maxlevel": 213,
+        "note": 24,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            40824,
+            40863,
+            40845,
+            40806,
+            40784
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的亵渎",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的亵渎</span><br />职业：<a href=\"?class=6\" class=\"c6\">死亡骑士</a><br />竞技场第5季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">2 件：</span>攻击强度提高50点。<br /><span class=\"q13\">4 件：</span>当你受到移动限制效果影响时，你将在5 秒内获得15点符文能量值。<br /><span class=\"q13\">4 件：</span>攻击强度提高150点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -138,
+        "idbak": 792,
+        "name": "3天灾苦痛战甲",
+        "name_en": "Scourgeborne Battlegear",
+        "minlevel": 213,
+        "maxlevel": 213,
+        "note": 23,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            40554,
+            40557,
+            40556,
+            40552,
+            40550
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "天灾苦痛战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">天灾苦痛战甲</span><br />职业：<a href=\"?class=6\" class=\"c6\">死亡骑士</a><br />T7副本套装<br /><span><br /><span class=\"q13\">2 件：</span>湮没、天灾打击和灵界打击的爆击几率提高5%。<br /><span class=\"q13\">4 件：</span>你的湮没、天灾打击和灵界打击产生的符文能量值提高5点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -139,
+        "idbak": 793,
+        "name": "3天灾苦痛铠甲",
+        "name_en": "Scourgeborne Plate",
+        "minlevel": 213,
+        "maxlevel": 213,
+        "note": 23,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            40565,
+            40568,
+            40567,
+            40563,
+            40559
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "天灾苦痛铠甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">天灾苦痛铠甲</span><br />职业：<a href=\"?class=6\" class=\"c6\">死亡骑士</a><br />T7副本套装<br /><span><br /><span class=\"q13\">2 件：</span>暗影打击的爆击几率提高10%。<br /><span class=\"q13\">4 件：</span>使你的冰封之韧的持续时间延长3秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 768,
+        "idbak": 768,
+        "name": "4角斗士的亵渎",
+        "name_en": "Gladiator's Desecration",
+        "minlevel": 200,
+        "maxlevel": 200,
+        "note": 24,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            40817,
+            40857,
+            40837,
+            40799,
+            40779
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "伐木斧",
+            "quality": 1,
+            "icon": "inv_axe_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">伐木斧</b><span class='cus-id-2-right'>ID: 768</span><table width=\"100%\"><tr><td>主手</td><th>斧</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->7 - 13伤害</td><th>速度 <!--spd-->2.60</th></tr></table><!--dps-->（每秒伤害3.8）<br /><!--e--><!--ps-->耐久度 35 / 35<br />需要等级 4<br />物品等级9<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">1</span> <span class=\"moneycopper\">13</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?768:1:1:4-->"
+        }
+    },
+    {
+        "id": -67,
+        "idbak": 768,
+        "name": "3角斗士的亵渎",
+        "name_en": "Gladiator's Desecration",
+        "minlevel": 200,
+        "maxlevel": 200,
+        "note": 24,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            40820,
+            40860,
+            40841,
+            40803,
+            40781
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的亵渎",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的亵渎</span><br />职业：<a href=\"?class=6\" class=\"c6\">死亡骑士</a><br />竞技场第5季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">2 件：</span>攻击强度提高50点。<br /><span class=\"q13\">4 件：</span>当你受到移动限制效果影响时，你将在5 秒内获得15点符文能量值。<br /><span class=\"q13\">4 件：</span>攻击强度提高150点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 792,
+        "idbak": 792,
+        "name": "3天灾苦痛战甲",
+        "name_en": "Scourgeborne Battlegear",
+        "minlevel": 200,
+        "maxlevel": 200,
+        "note": 23,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            39619,
+            39621,
+            39620,
+            39618,
+            39617
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "针织便鞋",
+            "quality": 1,
+            "icon": "inv_boots_fabric_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">针织便鞋</b><span class='cus-id-2-right'>ID: 792</span><table width=\"100%\"><tr><td>脚</td><th><!--asc1-->布甲</th></tr></table><span><!--amr-->13点护甲</span><br /><!--e--><!--ps-->耐久度 25 / 25<br />需要等级 5<br />物品等级10<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">41</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?792:1:1:5-->"
+        }
+    },
+    {
+        "id": 793,
+        "idbak": 793,
+        "name": "3天灾苦痛铠甲",
+        "name_en": "Scourgeborne Plate",
+        "minlevel": 200,
+        "maxlevel": 200,
+        "note": 23,
+        "type": 4,
+        "reqclass": 32,
+        "classes": [
+            6
+        ],
+        "pieces": [
+            39625,
+            39627,
+            39626,
+            39624,
+            39623
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "针织手套",
+            "quality": 1,
+            "icon": "inv_gauntlets_18",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">针织手套</b><span class='cus-id-2-right'>ID: 793</span><table width=\"100%\"><tr><td>手</td><th><!--asc1-->布甲</th></tr></table><span><!--amr-->11点护甲</span><br /><!--e--><!--ps-->耐久度 16 / 16<br />需要等级 5<br />物品等级10<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">27</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?793:1:1:5-->"
+        }
+    }
+]

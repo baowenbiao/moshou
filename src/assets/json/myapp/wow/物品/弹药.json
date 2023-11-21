@@ -1,0 +1,1959 @@
+[
+    {
+        "id": 2515,
+        "name": "6锋利的箭",
+        "icon": "inv_ammo_arrow_02",
+        "classs": 6,
+        "subclass": 2,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 15,
+        "reqlevel": 10,
+        "displayid": 5996,
+        "dmgmin1": 3,
+        "dmgmax1": 4,
+        "speed": 3,
+        "dps": 1.2,
+        "rgddmgmin": 3,
+        "rgddmgmax": 4,
+        "rgdspeed": 3,
+        "rgddps": 1.2,
+        "name_en": "Sharp Arrow",
+        "source": [
+            5
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ammo_arrow_02.jpg",
+        "tip": {
+            "name_zhcn": "锋利的箭",
+            "quality": 1,
+            "icon": "inv_ammo_arrow_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">锋利的箭</b><span class='cus-id-2-right'>ID: 2515</span><table width=\"100%\"><tr><td>弹药</td><th>箭</th></tr></table>每秒伤害提高3.5<br /><!--e--><!--ps-->需要等级 10<br /></td></tr></table><table><tr><td></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?2515:1:1:10-->"
+        }
+    },
+    {
+        "id": 2519,
+        "name": "6重弹丸",
+        "icon": "inv_ammo_bullet_02",
+        "classs": 6,
+        "subclass": 3,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 15,
+        "reqlevel": 10,
+        "displayid": 5998,
+        "dmgmin1": 3,
+        "dmgmax1": 4,
+        "speed": 3,
+        "dps": 1.2,
+        "rgddmgmin": 3,
+        "rgddmgmax": 4,
+        "rgdspeed": 3,
+        "rgddps": 1.2,
+        "name_en": "Heavy Shot",
+        "source": [
+            5
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ammo_bullet_02.jpg",
+        "tip": {
+            "name_zhcn": "重弹丸",
+            "quality": 1,
+            "icon": "inv_ammo_bullet_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">重弹丸</b><span class='cus-id-2-right'>ID: 2519</span><table width=\"100%\"><tr><td>弹药</td><th>子弹</th></tr></table>每秒伤害提高3.5<br /><!--e--><!--ps-->需要等级 10<br /></td></tr></table><table><tr><td></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?2519:1:1:10-->"
+        }
+    },
+    {
+        "id": 2512,
+        "name": "6劣质箭",
+        "icon": "inv_ammo_arrow_02",
+        "classs": 6,
+        "subclass": 2,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 5,
+        "reqlevel": 1,
+        "displayid": 5996,
+        "dmgmin1": 1,
+        "dmgmax1": 2,
+        "speed": 3,
+        "dps": 0.5,
+        "rgddmgmin": 1,
+        "rgddmgmax": 2,
+        "rgdspeed": 3,
+        "rgddps": 0.5,
+        "name_en": "Rough Arrow",
+        "source": [
+            5,
+            10
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ammo_arrow_02.jpg",
+        "tip": {
+            "name_zhcn": "劣质箭",
+            "quality": 1,
+            "icon": "inv_ammo_arrow_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">劣质箭</b><span class='cus-id-2-right'>ID: 2512</span><table width=\"100%\"><tr><td>弹药</td><th>箭</th></tr></table>每秒伤害提高1.5<br /><!--e--><!--ps--></td></tr></table><table><tr><td></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?2512:1:1:80-->"
+        }
+    },
+    {
+        "id": 2516,
+        "name": "6轻弹丸",
+        "icon": "inv_ammo_bullet_02",
+        "classs": 6,
+        "subclass": 3,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 5,
+        "reqlevel": 1,
+        "displayid": 5998,
+        "dmgmin1": 1,
+        "dmgmax1": 2,
+        "speed": 3,
+        "dps": 0.5,
+        "rgddmgmin": 1,
+        "rgddmgmax": 2,
+        "rgdspeed": 3,
+        "rgddps": 0.5,
+        "name_en": "Light Shot",
+        "source": [
+            5,
+            10
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ammo_bullet_02.jpg",
+        "tip": {
+            "name_zhcn": "轻弹丸",
+            "quality": 1,
+            "icon": "inv_ammo_bullet_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">轻弹丸</b><span class='cus-id-2-right'>ID: 2516</span><table width=\"100%\"><tr><td>弹药</td><th>子弹</th></tr></table>每秒伤害提高1.5<br /><!--e--><!--ps--></td></tr></table><table><tr><td></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?2516:1:1:80-->"
+        }
+    },
+    {
+        "id": 3031,
+        "name": "6Deprecated Razor Arrow",
+        "icon": "inv_ammo_arrow_02",
+        "classs": 6,
+        "subclass": 2,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 35,
+        "reqlevel": 30,
+        "displayid": 5996,
+        "speed": 3,
+        "rgdspeed": 3,
+        "name_en": "Depricated Razor Arrow",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ammo_arrow_02.jpg",
+        "tip": {
+            "name_zhcn": "Deprecated Razor Arrow",
+            "quality": 1,
+            "icon": "inv_ammo_arrow_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">Deprecated Razor Arrow</b><span class='cus-id-2-right'>ID: 3031</span><table width=\"100%\"><tr><td>弹药</td><th>箭</th></tr></table><!--e--><!--ps-->需要等级 30<br /></td></tr></table><table><tr><td></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?3031:1:1:30-->"
+        }
+    },
+    {
+        "id": 3034,
+        "name": "6Deprecated BKP \"Impact\" Shot",
+        "icon": "inv_ammo_bullet_02",
+        "classs": 6,
+        "subclass": 3,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 35,
+        "reqlevel": 30,
+        "displayid": 5998,
+        "dmgmin1": 9,
+        "dmgmax1": 9,
+        "speed": 3,
+        "dps": 3,
+        "rgddmgmin": 9,
+        "rgddmgmax": 9,
+        "rgdspeed": 3,
+        "rgddps": 3,
+        "name_en": "Deprecated BKP \"Impact\" Shot",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ammo_bullet_02.jpg",
+        "tip": {
+            "name_zhcn": "Deprecated BKP \"Impact\" Shot",
+            "quality": 1,
+            "icon": "inv_ammo_bullet_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">Deprecated BKP \"Impact\" Shot</b><span class='cus-id-2-right'>ID: 3034</span><table width=\"100%\"><tr><td>弹药</td><th>子弹</th></tr></table>每秒伤害提高9<br /><!--e--><!--ps-->需要等级 30<br /></td></tr></table><table><tr><td></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?3034:1:1:30-->"
+        }
+    },
+    {
+        "id": 3030,
+        "name": "6锐锋箭",
+        "icon": "inv_ammo_arrow_02",
+        "classs": 6,
+        "subclass": 2,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 30,
+        "reqlevel": 25,
+        "displayid": 26497,
+        "dmgmin1": 7,
+        "dmgmax1": 8,
+        "speed": 3,
+        "dps": 2.5,
+        "rgddmgmin": 7,
+        "rgddmgmax": 8,
+        "rgdspeed": 3,
+        "rgddps": 2.5,
+        "name_en": "Razor Arrow",
+        "source": [
+            5
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ammo_arrow_02.jpg",
+        "tip": {
+            "name_zhcn": "锐锋箭",
+            "quality": 1,
+            "icon": "inv_ammo_arrow_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">锐锋箭</b><span class='cus-id-2-right'>ID: 3030</span><table width=\"100%\"><tr><td>弹药</td><th>箭</th></tr></table>每秒伤害提高7.5<br /><!--e--><!--ps-->需要等级 25<br /></td></tr></table><table><tr><td></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?3030:1:1:25-->"
+        }
+    },
+    {
+        "id": 3033,
+        "name": "6实心子弹",
+        "icon": "inv_ammo_bullet_02",
+        "classs": 6,
+        "subclass": 3,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 30,
+        "reqlevel": 25,
+        "displayid": 5998,
+        "dmgmin1": 7,
+        "dmgmax1": 8,
+        "speed": 3,
+        "dps": 2.5,
+        "rgddmgmin": 7,
+        "rgddmgmax": 8,
+        "rgdspeed": 3,
+        "rgddps": 2.5,
+        "name_en": "Solid Shot",
+        "source": [
+            5
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ammo_bullet_02.jpg",
+        "tip": {
+            "name_zhcn": "实心子弹",
+            "quality": 1,
+            "icon": "inv_ammo_bullet_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">实心子弹</b><span class='cus-id-2-right'>ID: 3033</span><table width=\"100%\"><tr><td>弹药</td><th>子弹</th></tr></table>每秒伤害提高7.5<br /><!--e--><!--ps-->需要等级 25<br /></td></tr></table><table><tr><td></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?3033:1:1:25-->"
+        }
+    },
+    {
+        "id": 3465,
+        "name": "5爆破弹药",
+        "icon": "inv_ammo_bullet_02",
+        "classs": 6,
+        "subclass": 3,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 36,
+        "displayid": 5998,
+        "dmgmin1": 9,
+        "dmgmax1": 10,
+        "speed": 3,
+        "dps": 3.2,
+        "rgddmgmin": 9,
+        "rgddmgmax": 10,
+        "rgdspeed": 3,
+        "rgddps": 3.2,
+        "name_en": "Exploding Shot",
+        "source": [
+            4
+        ],
+        "sourcemore": [
+            {
+                "n": "偷取物资",
+                "t": 5,
+                "ti": 1370,
+                "c": 405,
+                "c2": 1
+            }
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ammo_bullet_02.jpg",
+        "tip": {
+            "name_zhcn": "爆破弹药",
+            "quality": 2,
+            "icon": "inv_ammo_bullet_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">爆破弹药</b><span class='cus-id-2-right'>ID: 3465</span><table width=\"100%\"><tr><td>弹药</td><th>子弹</th></tr></table>每秒伤害提高9.5<br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">9</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?3465:1:1:80-->"
+        }
+    },
+    {
+        "id": 3464,
+        "name": "5火焰之箭",
+        "icon": "inv_ammo_arrow_02",
+        "classs": 6,
+        "subclass": 2,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 35,
+        "displayid": 26497,
+        "dmgmin1": 9,
+        "dmgmax1": 10,
+        "speed": 3,
+        "dps": 3.2,
+        "rgddmgmin": 9,
+        "rgddmgmax": 10,
+        "rgdspeed": 3,
+        "rgddps": 3.2,
+        "name_en": "Feathered Arrow",
+        "source": [
+            4
+        ],
+        "sourcemore": [
+            {
+                "n": "偷取物资",
+                "t": 5,
+                "ti": 1370,
+                "c": 405,
+                "c2": 1
+            }
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ammo_arrow_02.jpg",
+        "tip": {
+            "name_zhcn": "火焰之箭",
+            "quality": 2,
+            "icon": "inv_ammo_arrow_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">火焰之箭</b><span class='cus-id-2-right'>ID: 3464</span><table width=\"100%\"><tr><td>弹药</td><th>箭</th></tr></table>每秒伤害提高9.5<br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">8</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?3464:1:1:80-->"
+        }
+    },
+    {
+        "id": 4960,
+        "name": "6闪光球",
+        "icon": "inv_ammo_bullet_02",
+        "classs": 6,
+        "subclass": 3,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 7,
+        "displayid": 5998,
+        "dmgmin1": 2,
+        "dmgmax1": 2,
+        "speed": 3,
+        "dps": 0.7,
+        "rgddmgmin": 2,
+        "rgddmgmax": 2,
+        "rgdspeed": 3,
+        "rgddps": 0.7,
+        "name_en": "Flash Pellet",
+        "source": [
+            4
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ammo_bullet_02.jpg",
+        "tip": {
+            "name_zhcn": "闪光球",
+            "quality": 1,
+            "icon": "inv_ammo_bullet_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">闪光球</b><span class='cus-id-2-right'>ID: 4960</span><table width=\"100%\"><tr><td>弹药</td><th>子弹</th></tr></table>每秒伤害提高2<br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">12</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?4960:1:1:80-->"
+        }
+    },
+    {
+        "id": 5568,
+        "name": "6光滑的鹅卵石",
+        "icon": "inv_ammo_bullet_02",
+        "classs": 6,
+        "subclass": 3,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 18,
+        "reqlevel": 13,
+        "displayid": 5998,
+        "dmgmin1": 4,
+        "dmgmax1": 4,
+        "speed": 3,
+        "dps": 1.3,
+        "rgddmgmin": 4,
+        "rgddmgmax": 4,
+        "rgdspeed": 3,
+        "rgddps": 1.3,
+        "name_en": "Smooth Pebble",
+        "source": [
+            2
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ammo_bullet_02.jpg",
+        "tip": {
+            "name_zhcn": "光滑的鹅卵石",
+            "quality": 1,
+            "icon": "inv_ammo_bullet_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">光滑的鹅卵石</b><span class='cus-id-2-right'>ID: 5568</span><table width=\"100%\"><tr><td>弹药</td><th>子弹</th></tr></table>每秒伤害提高4<br /><!--e--><!--ps-->需要等级 13<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">4</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?5568:1:1:13-->"
+        }
+    },
+    {
+        "id": 8069,
+        "name": "6精制实心弹丸",
+        "icon": "inv_ammo_bullet_02",
+        "classs": 6,
+        "subclass": 3,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 35,
+        "reqlevel": 30,
+        "displayid": 5998,
+        "dmgmin1": 8,
+        "dmgmax1": 9,
+        "speed": 3,
+        "dps": 2.8,
+        "rgddmgmin": 8,
+        "rgddmgmax": 9,
+        "rgdspeed": 3,
+        "rgddps": 2.8,
+        "name_en": "Crafted Solid Shot",
+        "source": [
+            1
+        ],
+        "sourcemore": [
+            {
+                "n": "精制实心弹丸",
+                "t": 6,
+                "ti": 3947,
+                "s": 202,
+                "c": 11,
+                "icon": "trade_engineering"
+            }
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ammo_bullet_02.jpg",
+        "tip": {
+            "name_zhcn": "精制实心弹丸",
+            "quality": 1,
+            "icon": "inv_ammo_bullet_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">精制实心弹丸</b><span class='cus-id-2-right'>ID: 8069</span><table width=\"100%\"><tr><td>弹药</td><th>子弹</th></tr></table>每秒伤害提高8.5<br /><!--e--><!--ps-->需要等级 30<br /></td></tr></table><table><tr><td></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?8069:1:1:30-->"
+        }
+    },
+    {
+        "id": 8068,
+        "name": "6精制重弹丸",
+        "icon": "inv_ammo_bullet_02",
+        "classs": 6,
+        "subclass": 3,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 20,
+        "reqlevel": 15,
+        "displayid": 5998,
+        "dmgmin1": 4,
+        "dmgmax1": 5,
+        "speed": 3,
+        "dps": 1.5,
+        "rgddmgmin": 4,
+        "rgddmgmax": 5,
+        "rgdspeed": 3,
+        "rgddps": 1.5,
+        "name_en": "Crafted Heavy Shot",
+        "source": [
+            1
+        ],
+        "sourcemore": [
+            {
+                "n": "精制重弹丸",
+                "t": 6,
+                "ti": 3930,
+                "s": 202,
+                "c": 11,
+                "icon": "trade_engineering"
+            }
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ammo_bullet_02.jpg",
+        "tip": {
+            "name_zhcn": "精制重弹丸",
+            "quality": 1,
+            "icon": "inv_ammo_bullet_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">精制重弹丸</b><span class='cus-id-2-right'>ID: 8068</span><table width=\"100%\"><tr><td>弹药</td><th>子弹</th></tr></table>每秒伤害提高4.5<br /><!--e--><!--ps-->需要等级 15<br /></td></tr></table><table><tr><td></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?8068:1:1:15-->"
+        }
+    },
+    {
+        "id": 8067,
+        "name": "6精制轻弹丸",
+        "icon": "inv_ammo_bullet_02",
+        "classs": 6,
+        "subclass": 3,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 10,
+        "reqlevel": 5,
+        "displayid": 5998,
+        "dmgmin1": 2,
+        "dmgmax1": 2,
+        "speed": 3,
+        "dps": 0.7,
+        "rgddmgmin": 2,
+        "rgddmgmax": 2,
+        "rgdspeed": 3,
+        "rgddps": 0.7,
+        "name_en": "Crafted Light Shot",
+        "source": [
+            1
+        ],
+        "sourcemore": [
+            {
+                "n": "精制轻弹丸",
+                "t": 6,
+                "ti": 3920,
+                "s": 202,
+                "c": 11,
+                "icon": "trade_engineering"
+            }
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ammo_bullet_02.jpg",
+        "tip": {
+            "name_zhcn": "精制轻弹丸",
+            "quality": 1,
+            "icon": "inv_ammo_bullet_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">精制轻弹丸</b><span class='cus-id-2-right'>ID: 8067</span><table width=\"100%\"><tr><td>弹药</td><th>子弹</th></tr></table>每秒伤害提高2<br /><!--e--><!--ps-->需要等级 5<br /></td></tr></table><table><tr><td></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?8067:1:1:5-->"
+        }
+    },
+    {
+        "id": 9399,
+        "name": "5精准之箭",
+        "icon": "inv_ammo_arrow_01",
+        "classs": 6,
+        "subclass": 2,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 40,
+        "reqlevel": 35,
+        "displayid": 26498,
+        "dmgmin1": 11,
+        "dmgmax1": 12,
+        "speed": 3,
+        "dps": 3.8,
+        "rgddmgmin": 11,
+        "rgddmgmax": 12,
+        "rgdspeed": 3,
+        "rgddps": 3.8,
+        "name_en": "Precision Arrow",
+        "source": [
+            2
+        ],
+        "sourcemore": [
+            {
+                "n": "巴尔洛戈",
+                "t": 1,
+                "ti": 6906
+            }
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ammo_arrow_01.jpg",
+        "tip": {
+            "name_zhcn": "精准之箭",
+            "quality": 2,
+            "icon": "inv_ammo_arrow_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">精准之箭</b><span class='cus-id-2-right'>ID: 9399</span><table width=\"100%\"><tr><td>弹药</td><th>箭</th></tr></table>每秒伤害提高11.5<br /><!--e--><!--ps-->需要等级 35<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">3</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?9399:1:1:35-->"
+        }
+    },
+    {
+        "id": 10579,
+        "name": "4爆炸箭",
+        "icon": "inv_ammo_arrow_02",
+        "classs": 6,
+        "subclass": 2,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 42,
+        "reqlevel": 37,
+        "displayid": 5996,
+        "dmgmin1": 14.5,
+        "dmgmax1": 14.5,
+        "speed": 3,
+        "dps": 4.8,
+        "rgddmgmin": 14.5,
+        "rgddmgmax": 14.5,
+        "rgdspeed": 3,
+        "rgddps": 4.8,
+        "name_en": "Explosive Arrow",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ammo_arrow_02.jpg",
+        "tip": {
+            "name_zhcn": "爆炸箭",
+            "quality": 3,
+            "icon": "inv_ammo_arrow_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">爆炸箭</b><span class='cus-id-2-right'>ID: 10579</span><table width=\"100%\"><tr><td>弹药</td><th>箭</th></tr></table>每秒伤害提高14.5<br /><!--e--><!--ps-->需要等级 37<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">6</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?10579:1:1:37-->"
+        }
+    },
+    {
+        "id": 10513,
+        "name": "5秘银螺旋弹",
+        "icon": "inv_ammo_bullet_01",
+        "classs": 6,
+        "subclass": 3,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 49,
+        "reqlevel": 44,
+        "displayid": 19422,
+        "dmgmin1": 15,
+        "dmgmax1": 15,
+        "speed": 3,
+        "dps": 5,
+        "rgddmgmin": 15,
+        "rgddmgmax": 15,
+        "rgdspeed": 3,
+        "rgddps": 5,
+        "name_en": "Mithril Gyro-Shot",
+        "source": [
+            1
+        ],
+        "sourcemore": [
+            {
+                "n": "秘银螺旋弹",
+                "t": 6,
+                "ti": 12621,
+                "s": 202,
+                "c": 11,
+                "icon": "trade_engineering"
+            }
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ammo_bullet_01.jpg",
+        "tip": {
+            "name_zhcn": "秘银螺旋弹",
+            "quality": 2,
+            "icon": "inv_ammo_bullet_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">秘银螺旋弹</b><span class='cus-id-2-right'>ID: 10513</span><table width=\"100%\"><tr><td>弹药</td><th>子弹</th></tr></table>每秒伤害提高15<br /><!--e--><!--ps-->需要等级 44<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">5</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?10513:1:1:44-->"
+        }
+    },
+    {
+        "id": 10512,
+        "name": "5高速秘银弹头",
+        "icon": "inv_ammo_bullet_01",
+        "classs": 6,
+        "subclass": 3,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 42,
+        "reqlevel": 37,
+        "displayid": 19422,
+        "dmgmin1": 12,
+        "dmgmax1": 13,
+        "speed": 3,
+        "dps": 4.2,
+        "rgddmgmin": 12,
+        "rgddmgmax": 13,
+        "rgdspeed": 3,
+        "rgddps": 4.2,
+        "name_en": "Hi-Impact Mithril Slugs",
+        "source": [
+            1
+        ],
+        "sourcemore": [
+            {
+                "n": "高速秘银弹头",
+                "t": 6,
+                "ti": 12596,
+                "s": 202,
+                "c": 11,
+                "icon": "trade_engineering"
+            }
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ammo_bullet_01.jpg",
+        "tip": {
+            "name_zhcn": "高速秘银弹头",
+            "quality": 2,
+            "icon": "inv_ammo_bullet_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">高速秘银弹头</b><span class='cus-id-2-right'>ID: 10512</span><table width=\"100%\"><tr><td>弹药</td><th>子弹</th></tr></table>每秒伤害提高12.5<br /><!--e--><!--ps-->需要等级 37<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">2</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?10512:1:1:37-->"
+        }
+    },
+    {
+        "id": 11284,
+        "name": "6精准弹丸",
+        "icon": "inv_ammo_bullet_01",
+        "classs": 6,
+        "subclass": 3,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 45,
+        "reqlevel": 40,
+        "displayid": 19422,
+        "dmgmin1": 13,
+        "dmgmax1": 13,
+        "speed": 3,
+        "dps": 4.3,
+        "rgddmgmin": 13,
+        "rgddmgmax": 13,
+        "rgdspeed": 3,
+        "rgddps": 4.3,
+        "name_en": "Accurate Slugs",
+        "source": [
+            5
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ammo_bullet_01.jpg",
+        "tip": {
+            "name_zhcn": "精准弹丸",
+            "quality": 1,
+            "icon": "inv_ammo_bullet_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">精准弹丸</b><span class='cus-id-2-right'>ID: 11284</span><table width=\"100%\"><tr><td>弹药</td><th>子弹</th></tr></table>每秒伤害提高13<br /><!--e--><!--ps-->需要等级 40<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">1</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?11284:1:1:40-->"
+        }
+    },
+    {
+        "id": 11285,
+        "name": "6锯齿箭",
+        "icon": "inv_weapon_shortblade_25",
+        "classs": 6,
+        "subclass": 2,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 45,
+        "reqlevel": 40,
+        "displayid": 21091,
+        "dmgmin1": 13,
+        "dmgmax1": 13,
+        "speed": 3,
+        "dps": 4.3,
+        "rgddmgmin": 13,
+        "rgddmgmax": 13,
+        "rgdspeed": 3,
+        "rgddps": 4.3,
+        "name_en": "Jagged Arrow",
+        "source": [
+            5
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_weapon_shortblade_25.jpg",
+        "tip": {
+            "name_zhcn": "锯齿箭",
+            "quality": 1,
+            "icon": "inv_weapon_shortblade_25",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">锯齿箭</b><span class='cus-id-2-right'>ID: 11285</span><table width=\"100%\"><tr><td>弹药</td><th>箭</th></tr></table>每秒伤害提高13<br /><!--e--><!--ps-->需要等级 40<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">2</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?11285:1:1:40-->"
+        }
+    },
+    {
+        "id": 11630,
+        "name": "4石片弹丸",
+        "icon": "inv_ammo_bullet_02",
+        "classs": 6,
+        "subclass": 3,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 52,
+        "reqlevel": 47,
+        "displayid": 2418,
+        "dmgmin1": 18,
+        "dmgmax1": 18,
+        "speed": 3,
+        "dps": 6,
+        "rgddmgmin": 18,
+        "rgddmgmax": 18,
+        "rgdspeed": 3,
+        "rgddps": 6,
+        "name_en": "Rockshard Pellets",
+        "source": [
+            2
+        ],
+        "sourcemore": [
+            {
+                "n": "洛考尔",
+                "t": 1,
+                "ti": 9025
+            }
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ammo_bullet_02.jpg",
+        "tip": {
+            "name_zhcn": "石片弹丸",
+            "quality": 3,
+            "icon": "inv_ammo_bullet_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">石片弹丸</b><span class='cus-id-2-right'>ID: 11630</span><table width=\"100%\"><tr><td>弹药</td><th>子弹</th></tr></table>每秒伤害提高18<br /><!--e--><!--ps-->需要等级 47<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">5</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?11630:1:1:47-->"
+        }
+    },
+    {
+        "id": 12654,
+        "name": "4末日之击",
+        "icon": "ability_hunter_criticalshot",
+        "classs": 6,
+        "subclass": 2,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 59,
+        "reqlevel": 54,
+        "displayid": 22931,
+        "dmgmin1": 20,
+        "dmgmax1": 20,
+        "speed": 3,
+        "dps": 6.7,
+        "rgddmgmin": 20,
+        "rgddmgmax": 20,
+        "rgdspeed": 3,
+        "rgddps": 6.7,
+        "name_en": "Doomshot",
+        "source": [
+            2
+        ],
+        "sourcemore": [
+            {
+                "n": "暗影猎手沃什加斯",
+                "t": 1,
+                "ti": 9236
+            }
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/ability_hunter_criticalshot.jpg",
+        "tip": {
+            "name_zhcn": "末日之击",
+            "quality": 3,
+            "icon": "ability_hunter_criticalshot",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">末日之击</b><span class='cus-id-2-right'>ID: 12654</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>弹药</td><th>箭</th></tr></table>每秒伤害提高20<br /><!--e--><!--ps-->需要等级 54<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">62</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?12654:1:1:54-->"
+        }
+    },
+    {
+        "id": 13377,
+        "name": "4迷你炮弹",
+        "icon": "inv_ammo_bullet_02",
+        "classs": 6,
+        "subclass": 3,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 61,
+        "reqlevel": 56,
+        "displayid": 2418,
+        "dmgmin1": 20,
+        "dmgmax1": 21,
+        "speed": 3,
+        "dps": 6.8,
+        "rgddmgmin": 20,
+        "rgddmgmax": 21,
+        "rgdspeed": 3,
+        "rgddps": 6.8,
+        "name_en": "Miniature Cannon Balls",
+        "source": [
+            2
+        ],
+        "sourcemore": [
+            {
+                "n": "希望破坏者威利",
+                "t": 1,
+                "ti": 10997
+            }
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ammo_bullet_02.jpg",
+        "tip": {
+            "name_zhcn": "迷你炮弹",
+            "quality": 3,
+            "icon": "inv_ammo_bullet_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">迷你炮弹</b><span class='cus-id-2-right'>ID: 13377</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>弹药</td><th>子弹</th></tr></table>每秒伤害提高20.5<br /><!--e--><!--ps-->需要等级 56<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">7</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?13377:1:1:56-->"
+        }
+    },
+    {
+        "id": 15997,
+        "name": "5瑟银弹",
+        "icon": "inv_ammo_bullet_03",
+        "classs": 6,
+        "subclass": 3,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 57,
+        "reqlevel": 52,
+        "displayid": 26613,
+        "dmgmin1": 17,
+        "dmgmax1": 18,
+        "speed": 3,
+        "dps": 5.8,
+        "rgddmgmin": 17,
+        "rgddmgmax": 18,
+        "rgdspeed": 3,
+        "rgddps": 5.8,
+        "name_en": "Thorium Shells",
+        "source": [
+            1
+        ],
+        "sourcemore": [
+            {
+                "n": "瑟银弹",
+                "t": 6,
+                "ti": 19800,
+                "s": 202,
+                "c": 11,
+                "icon": "trade_engineering"
+            }
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ammo_bullet_03.jpg",
+        "tip": {
+            "name_zhcn": "瑟银弹",
+            "quality": 2,
+            "icon": "inv_ammo_bullet_03",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">瑟银弹</b><span class='cus-id-2-right'>ID: 15997</span><table width=\"100%\"><tr><td>弹药</td><th>子弹</th></tr></table>每秒伤害提高17.5<br /><!--e--><!--ps-->需要等级 52<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">10</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?15997:1:1:52-->"
+        }
+    },
+    {
+        "id": 18042,
+        "name": "5瑟银之箭",
+        "icon": "inv_ammo_arrow_02",
+        "classs": 6,
+        "subclass": 2,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 57,
+        "reqlevel": 52,
+        "displayid": 62289,
+        "dmgmin1": 17,
+        "dmgmax1": 18,
+        "speed": 3,
+        "dps": 5.8,
+        "rgddmgmin": 17,
+        "rgddmgmax": 18,
+        "rgdspeed": 3,
+        "rgddps": 5.8,
+        "name_en": "Thorium Headed Arrow",
+        "source": [
+            4
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ammo_arrow_02.jpg",
+        "tip": {
+            "name_zhcn": "瑟银之箭",
+            "quality": 2,
+            "icon": "inv_ammo_arrow_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">瑟银之箭</b><span class='cus-id-2-right'>ID: 18042</span><table width=\"100%\"><tr><td>弹药</td><th>箭</th></tr></table>每秒伤害提高17.5<br /><!--e--><!--ps-->需要等级 52<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">10</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?18042:1:1:52-->"
+        }
+    },
+    {
+        "id": 19316,
+        "name": "5冰线箭矢",
+        "icon": "spell_frost_iceshard",
+        "classs": 6,
+        "subclass": 2,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 54,
+        "reqlevel": 51,
+        "displayid": 31814,
+        "dmgmin1": 16,
+        "dmgmax1": 17,
+        "speed": 3,
+        "dps": 5.5,
+        "rgddmgmin": 16,
+        "rgddmgmax": 17,
+        "rgdspeed": 3,
+        "rgddps": 5.5,
+        "name_en": "Ice Threaded Arrow",
+        "source": [
+            2,
+            3
+        ],
+        "sourcemore": [
+            {
+                "p": 2
+            }
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_frost_iceshard.jpg",
+        "tip": {
+            "name_zhcn": "冰线箭矢",
+            "quality": 2,
+            "icon": "spell_frost_iceshard",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">冰线箭矢</b><span class='cus-id-2-right'>ID: 19316</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>弹药</td><th>箭</th></tr></table>每秒伤害提高16.5<br /><!--e--><!--ps-->需要等级 51<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">7</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?19316:1:1:51-->"
+        }
+    },
+    {
+        "id": 19317,
+        "name": "5冰线枪弹",
+        "icon": "spell_frost_frostblast",
+        "classs": 6,
+        "subclass": 3,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 54,
+        "reqlevel": 51,
+        "displayid": 31813,
+        "dmgmin1": 16,
+        "dmgmax1": 17,
+        "speed": 3,
+        "dps": 5.5,
+        "rgddmgmin": 16,
+        "rgddmgmax": 17,
+        "rgdspeed": 3,
+        "rgddps": 5.5,
+        "name_en": "Ice Threaded Bullet",
+        "source": [
+            2,
+            3
+        ],
+        "sourcemore": [
+            {
+                "p": 2
+            }
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_frost_frostblast.jpg",
+        "tip": {
+            "name_zhcn": "冰线枪弹",
+            "quality": 2,
+            "icon": "spell_frost_frostblast",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">冰线枪弹</b><span class='cus-id-2-right'>ID: 19317</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>弹药</td><th>子弹</th></tr></table>每秒伤害提高16.5<br /><!--e--><!--ps-->需要等级 51<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">7</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?19317:1:1:51-->"
+        }
+    },
+    {
+        "id": 23773,
+        "name": "4精金弹丸",
+        "icon": "inv_misc_ammo_bullet_04",
+        "classs": 6,
+        "subclass": 3,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 118,
+        "reqlevel": 62,
+        "displayid": 40526,
+        "dmgmin1": 43,
+        "dmgmax1": 43,
+        "speed": 3,
+        "dps": 14.3,
+        "rgddmgmin": 43,
+        "rgddmgmax": 43,
+        "rgdspeed": 3,
+        "rgddps": 14.3,
+        "name_en": "Adamantite Shells",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_ammo_bullet_04.jpg",
+        "tip": {
+            "name_zhcn": "精金弹丸",
+            "quality": 3,
+            "icon": "inv_misc_ammo_bullet_04",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">精金弹丸</b><span class='cus-id-2-right'>ID: 23773</span><table width=\"100%\"><tr><td>弹药</td><th>子弹</th></tr></table>每秒伤害提高43<br /><!--e--><!--ps-->需要等级 62<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">2</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?23773:1:1:62-->"
+        }
+    },
+    {
+        "id": 23772,
+        "name": "5魔铁弹丸",
+        "icon": "inv_gizmo_felironshell",
+        "classs": 6,
+        "subclass": 3,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 97,
+        "reqlevel": 57,
+        "displayid": 40542,
+        "dmgmin1": 26,
+        "dmgmax1": 26,
+        "speed": 3,
+        "dps": 8.7,
+        "rgddmgmin": 26,
+        "rgddmgmax": 26,
+        "rgdspeed": 3,
+        "rgddps": 8.7,
+        "name_en": "Fel Iron Shells",
+        "source": [
+            1
+        ],
+        "sourcemore": [
+            {
+                "n": "魔铁弹丸",
+                "t": 6,
+                "ti": 30346,
+                "s": 202,
+                "c": 11,
+                "icon": "trade_engineering"
+            }
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_gizmo_felironshell.jpg",
+        "tip": {
+            "name_zhcn": "魔铁弹丸",
+            "quality": 2,
+            "icon": "inv_gizmo_felironshell",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">魔铁弹丸</b><span class='cus-id-2-right'>ID: 23772</span><table width=\"100%\"><tr><td>弹药</td><th>子弹</th></tr></table>每秒伤害提高26<br /><!--e--><!--ps-->需要等级 57<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">20</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?23772:1:1:57-->"
+        }
+    },
+    {
+        "id": 24412,
+        "name": "4监护者之箭",
+        "icon": "inv_misc_ammo_arrow_02",
+        "classs": 6,
+        "subclass": 2,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 115,
+        "reqlevel": 62,
+        "displayid": 40522,
+        "dmgmin1": 37,
+        "dmgmax1": 37,
+        "speed": 3,
+        "dps": 12.3,
+        "rgddmgmin": 37,
+        "rgddmgmax": 37,
+        "rgdspeed": 3,
+        "rgddps": 12.3,
+        "name_en": "Warden's Arrow",
+        "reqfaction": 942,
+        "reqrep": 6,
+        "standing": 6,
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_ammo_arrow_02.jpg",
+        "tip": {
+            "name_zhcn": "监护者之箭",
+            "quality": 3,
+            "icon": "inv_misc_ammo_arrow_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">监护者之箭</b><span class='cus-id-2-right'>ID: 24412</span><table width=\"100%\"><tr><td>弹药</td><th>箭</th></tr></table>每秒伤害提高37<br /><!--e--><!--ps-->需要等级 62<br />需要<a class=\"q1\" href=\"?faction=942\">塞纳里奥远征队</a> - 崇敬<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">6</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?24412:1:1:62-->"
+        }
+    },
+    {
+        "id": 24417,
+        "name": "5斥候之箭",
+        "icon": "inv_misc_ammo_arrow_05",
+        "classs": 6,
+        "subclass": 2,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 97,
+        "reqlevel": 61,
+        "displayid": 40521,
+        "dmgmin1": 26,
+        "dmgmax1": 26,
+        "speed": 3,
+        "dps": 8.7,
+        "rgddmgmin": 26,
+        "rgddmgmax": 26,
+        "rgdspeed": 3,
+        "rgddps": 8.7,
+        "name_en": "Scout's Arrow",
+        "reqfaction": 942,
+        "reqrep": 4,
+        "standing": 4,
+        "source": [
+            5
+        ],
+        "sourcemore": [
+            {
+                "n": "芬德雷·迅矛",
+                "t": 1,
+                "ti": 17904
+            }
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_ammo_arrow_05.jpg",
+        "tip": {
+            "name_zhcn": "斥候之箭",
+            "quality": 2,
+            "icon": "inv_misc_ammo_arrow_05",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">斥候之箭</b><span class='cus-id-2-right'>ID: 24417</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>弹药</td><th>箭</th></tr></table>每秒伤害提高26<br /><!--e--><!--ps-->需要等级 61<br />需要<a class=\"q1\" href=\"?faction=942\">塞纳里奥远征队</a> - 友善<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">2</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?24417:1:1:61-->"
+        }
+    },
+    {
+        "id": 28056,
+        "name": "6黑尾箭",
+        "icon": "inv_misc_ammo_arrow_01",
+        "classs": 6,
+        "subclass": 2,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 118,
+        "reqlevel": 65,
+        "displayid": 40200,
+        "dmgmin1": 32,
+        "dmgmax1": 32,
+        "speed": 3,
+        "dps": 10.7,
+        "rgddmgmin": 32,
+        "rgddmgmax": 32,
+        "rgdspeed": 3,
+        "rgddps": 10.7,
+        "name_en": "Blackflight Arrow",
+        "source": [
+            5
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_ammo_arrow_01.jpg",
+        "tip": {
+            "name_zhcn": "黑尾箭",
+            "quality": 1,
+            "icon": "inv_misc_ammo_arrow_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">黑尾箭</b><span class='cus-id-2-right'>ID: 28056</span><table width=\"100%\"><tr><td>弹药</td><th>箭</th></tr></table>每秒伤害提高32<br /><!--e--><!--ps-->需要等级 65<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">3</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?28056:1:1:65-->"
+        }
+    },
+    {
+        "id": 28061,
+        "name": "6铁壳弹",
+        "icon": "inv_misc_ammo_bullet_06",
+        "classs": 6,
+        "subclass": 3,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 118,
+        "reqlevel": 65,
+        "displayid": 40524,
+        "dmgmin1": 32,
+        "dmgmax1": 32,
+        "speed": 3,
+        "dps": 10.7,
+        "rgddmgmin": 32,
+        "rgddmgmax": 32,
+        "rgdspeed": 3,
+        "rgddps": 10.7,
+        "name_en": "Ironbite Shell",
+        "source": [
+            5
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_ammo_bullet_06.jpg",
+        "tip": {
+            "name_zhcn": "铁壳弹",
+            "quality": 1,
+            "icon": "inv_misc_ammo_bullet_06",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">铁壳弹</b><span class='cus-id-2-right'>ID: 28061</span><table width=\"100%\"><tr><td>弹药</td><th>子弹</th></tr></table>每秒伤害提高32<br /><!--e--><!--ps-->需要等级 65<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">3</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?28061:1:1:65-->"
+        }
+    },
+    {
+        "id": 28053,
+        "name": "6邪恶之箭",
+        "icon": "inv_misc_ammo_arrow_03",
+        "classs": 6,
+        "subclass": 2,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 80,
+        "reqlevel": 55,
+        "displayid": 40199,
+        "dmgmin1": 22,
+        "dmgmax1": 22,
+        "speed": 3,
+        "dps": 7.3,
+        "rgddmgmin": 22,
+        "rgddmgmax": 22,
+        "rgdspeed": 3,
+        "rgddps": 7.3,
+        "name_en": "Wicked Arrow",
+        "source": [
+            5
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_ammo_arrow_03.jpg",
+        "tip": {
+            "name_zhcn": "邪恶之箭",
+            "quality": 1,
+            "icon": "inv_misc_ammo_arrow_03",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">邪恶之箭</b><span class='cus-id-2-right'>ID: 28053</span><table width=\"100%\"><tr><td>弹药</td><th>箭</th></tr></table>每秒伤害提高22<br /><!--e--><!--ps-->需要等级 55<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">2</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?28053:1:1:55-->"
+        }
+    },
+    {
+        "id": 28060,
+        "name": "6冲击弹",
+        "icon": "inv_misc_ammo_bullet_02",
+        "classs": 6,
+        "subclass": 3,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 80,
+        "reqlevel": 55,
+        "displayid": 40525,
+        "dmgmin1": 22,
+        "dmgmax1": 22,
+        "speed": 3,
+        "dps": 7.3,
+        "rgddmgmin": 22,
+        "rgddmgmax": 22,
+        "rgdspeed": 3,
+        "rgddps": 7.3,
+        "name_en": "Impact Shot",
+        "source": [
+            5
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_ammo_bullet_02.jpg",
+        "tip": {
+            "name_zhcn": "冲击弹",
+            "quality": 1,
+            "icon": "inv_misc_ammo_bullet_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">冲击弹</b><span class='cus-id-2-right'>ID: 28060</span><table width=\"100%\"><tr><td>弹药</td><th>子弹</th></tr></table>每秒伤害提高22<br /><!--e--><!--ps-->需要等级 55<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">2</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?28060:1:1:55-->"
+        }
+    },
+    {
+        "id": 29885,
+        "name": "3Hunter 120 Epic Test Bullets",
+        "icon": "inv_misc_ammo_bullet_04",
+        "classs": 6,
+        "subclass": 3,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 120,
+        "reqlevel": 62,
+        "displayid": 40526,
+        "name_en": "Hunter 120 Epic Test Bullets",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_ammo_bullet_04.jpg",
+        "tip": {
+            "name_zhcn": "Hunter 120 Epic Test Bullets",
+            "quality": 4,
+            "icon": "inv_misc_ammo_bullet_04",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">Hunter 120 Epic Test Bullets</b><span class='cus-id-2-right'>ID: 29885</span><table width=\"100%\"><tr><td>弹药</td><th>子弹</th></tr></table><!--e--><!--ps-->需要等级 62<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">25</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?29885:1:1:62-->"
+        }
+    },
+    {
+        "id": 30319,
+        "name": "2虚空尖刺",
+        "icon": "spell_arcane_starfire",
+        "classs": 6,
+        "subclass": 2,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 175,
+        "reqlevel": 70,
+        "displayid": 42468,
+        "dmgmin1": 63,
+        "dmgmax1": 64,
+        "rgddmgmin": 63,
+        "rgddmgmax": 64,
+        "name_en": "Nether Spike",
+        "source": [
+            2
+        ],
+        "sourcemore": [
+            {
+                "n": "一捆虚空尖刺",
+                "t": 3,
+                "ti": 30320,
+                "q": 5,
+                "icon": "inv_misc_missilesmallcluster_purple"
+            }
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_arcane_starfire.jpg",
+        "tip": {
+            "name_zhcn": "虚空尖刺",
+            "quality": 5,
+            "icon": "spell_arcane_starfire",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q5\">虚空尖刺</b><span class='cus-id-2-right'>ID: 30319</span><br /><a href=\"?zone=550\" class=\"q1\">风暴要塞</a><br />持续时间：15 分钟<table width=\"100%\"><tr><td>弹药</td><th>箭</th></tr></table>每秒伤害提高63.5<br /><!--e--><!--ps-->需要等级 70<br /></td></tr></table><table><tr><td></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?30319:1:1:70-->"
+        }
+    },
+    {
+        "id": 30611,
+        "name": "4哈兰刺杆箭",
+        "icon": "inv_misc_ammo_arrow_03",
+        "classs": 6,
+        "subclass": 2,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 107,
+        "reqlevel": 66,
+        "displayid": 40199,
+        "dmgmin1": 34,
+        "dmgmax1": 34,
+        "speed": 3,
+        "dps": 11.3,
+        "rgddmgmin": 34,
+        "rgddmgmax": 34,
+        "rgdspeed": 3,
+        "rgddps": 11.3,
+        "name_en": "Halaani Razorshaft",
+        "source": [
+            5
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_ammo_arrow_03.jpg",
+        "tip": {
+            "name_zhcn": "哈兰刺杆箭",
+            "quality": 3,
+            "icon": "inv_misc_ammo_arrow_03",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">哈兰刺杆箭</b><span class='cus-id-2-right'>ID: 30611</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>弹药</td><th>箭</th></tr></table>每秒伤害提高34<br /><!--e--><!--ps-->需要等级 66<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">6</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?30611:1:1:66-->"
+        }
+    },
+    {
+        "id": 30612,
+        "name": "4哈兰弹丸",
+        "icon": "inv_misc_ammo_bullet_04",
+        "classs": 6,
+        "subclass": 3,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 107,
+        "reqlevel": 66,
+        "displayid": 42382,
+        "dmgmin1": 34,
+        "dmgmax1": 34,
+        "speed": 3,
+        "dps": 11.3,
+        "rgddmgmin": 34,
+        "rgddmgmax": 34,
+        "rgdspeed": 3,
+        "rgddps": 11.3,
+        "name_en": "Halaani Grimshot",
+        "source": [
+            5
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_ammo_bullet_04.jpg",
+        "tip": {
+            "name_zhcn": "哈兰弹丸",
+            "quality": 3,
+            "icon": "inv_misc_ammo_bullet_04",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">哈兰弹丸</b><span class='cus-id-2-right'>ID: 30612</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>弹药</td><th>子弹</th></tr></table>每秒伤害提高34<br /><!--e--><!--ps-->需要等级 66<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">6</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?30612:1:1:66-->"
+        }
+    },
+    {
+        "id": 31735,
+        "name": "3永恒弹丸",
+        "icon": "inv_misc_ammo_bullet_02",
+        "classs": 6,
+        "subclass": 3,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 145,
+        "reqlevel": 70,
+        "displayid": 44356,
+        "dmgmin1": 53,
+        "dmgmax1": 53,
+        "speed": 3,
+        "dps": 17.7,
+        "rgddmgmin": 53,
+        "rgddmgmax": 53,
+        "rgdspeed": 3,
+        "rgddps": 17.7,
+        "name_en": "Timeless Shell",
+        "reqfaction": 990,
+        "reqrep": 5,
+        "standing": 5,
+        "source": [
+            5
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_ammo_bullet_02.jpg",
+        "tip": {
+            "name_zhcn": "永恒弹丸",
+            "quality": 4,
+            "icon": "inv_misc_ammo_bullet_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">永恒弹丸</b><span class='cus-id-2-right'>ID: 31735</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>弹药</td><th>子弹</th></tr></table>每秒伤害提高53<br /><!--e--><!--ps-->需要等级 70<br />需要<a class=\"q1\" href=\"?faction=990\">流沙之鳞</a> - 尊敬<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">25</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?31735:1:1:70-->"
+        }
+    },
+    {
+        "id": 31737,
+        "name": "3永恒箭矢",
+        "icon": "inv_misc_ammo_arrow_04",
+        "classs": 6,
+        "subclass": 2,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 145,
+        "reqlevel": 70,
+        "displayid": 40523,
+        "dmgmin1": 53,
+        "dmgmax1": 53,
+        "speed": 3,
+        "dps": 17.7,
+        "rgddmgmin": 53,
+        "rgddmgmax": 53,
+        "rgdspeed": 3,
+        "rgddps": 17.7,
+        "name_en": "Timeless Arrow",
+        "reqfaction": 990,
+        "reqrep": 5,
+        "standing": 5,
+        "source": [
+            5
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_ammo_arrow_04.jpg",
+        "tip": {
+            "name_zhcn": "永恒箭矢",
+            "quality": 4,
+            "icon": "inv_misc_ammo_arrow_04",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">永恒箭矢</b><span class='cus-id-2-right'>ID: 31737</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>弹药</td><th>箭</th></tr></table>每秒伤害提高53<br /><!--e--><!--ps-->需要等级 70<br />需要<a class=\"q1\" href=\"?faction=990\">流沙之鳞</a> - 尊敬<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">25</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?31737:1:1:70-->"
+        }
+    },
+    {
+        "id": 31949,
+        "name": "4监护者之箭",
+        "icon": "inv_misc_ammo_arrow_02",
+        "classs": 6,
+        "subclass": 2,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 115,
+        "reqlevel": 68,
+        "displayid": 40522,
+        "dmgmin1": 37,
+        "dmgmax1": 37,
+        "speed": 3,
+        "dps": 12.3,
+        "rgddmgmin": 37,
+        "rgddmgmax": 37,
+        "rgdspeed": 3,
+        "rgddps": 12.3,
+        "name_en": "Warden's Arrow",
+        "reqfaction": 942,
+        "reqrep": 6,
+        "standing": 6,
+        "source": [
+            5
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_ammo_arrow_02.jpg",
+        "tip": {
+            "name_zhcn": "监护者之箭",
+            "quality": 3,
+            "icon": "inv_misc_ammo_arrow_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">监护者之箭</b><span class='cus-id-2-right'>ID: 31949</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>弹药</td><th>箭</th></tr></table>每秒伤害提高37<br /><!--e--><!--ps-->需要等级 68<br />需要<a class=\"q1\" href=\"?faction=942\">塞纳里奥远征队</a> - 崇敬<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">6</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?31949:1:1:68-->"
+        }
+    },
+    {
+        "id": 32760,
+        "name": "3The Macho Gnome's Arrow",
+        "icon": "inv_misc_ammo_arrow_04",
+        "classs": 6,
+        "subclass": 2,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 145,
+        "reqlevel": 70,
+        "displayid": 40523,
+        "dmgmin1": 53,
+        "dmgmax1": 53,
+        "speed": 3,
+        "dps": 17.7,
+        "rgddmgmin": 53,
+        "rgddmgmax": 53,
+        "rgdspeed": 3,
+        "rgddps": 17.7,
+        "name_en": "The Macho Gnome's Arrow",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_ammo_arrow_04.jpg",
+        "tip": {
+            "name_zhcn": "The Macho Gnome's Arrow",
+            "quality": 4,
+            "icon": "inv_misc_ammo_arrow_04",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">The Macho Gnome's Arrow</b><span class='cus-id-2-right'>ID: 32760</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>弹药</td><th>箭</th></tr></table>每秒伤害提高53<br /><!--e--><!--ps-->需要等级 70<br /></td></tr></table><table><tr><td><span class=\"q\">\"Fletched by Andy \"The Macho Gnome\" Savage.\"</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">20</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?32760:1:1:70-->"
+        }
+    },
+    {
+        "id": 32761,
+        "name": "3The Sarge's Bullet",
+        "icon": "inv_misc_ammo_bullet_04",
+        "classs": 6,
+        "subclass": 3,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 145,
+        "reqlevel": 70,
+        "displayid": 45435,
+        "dmgmin1": 50,
+        "dmgmax1": 50,
+        "speed": 3,
+        "dps": 16.7,
+        "rgddmgmin": 50,
+        "rgddmgmax": 50,
+        "rgdspeed": 3,
+        "rgddps": 16.7,
+        "name_en": "The Sarge's Bullet",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_ammo_bullet_04.jpg",
+        "tip": {
+            "name_zhcn": "The Sarge's Bullet",
+            "quality": 4,
+            "icon": "inv_misc_ammo_bullet_04",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">The Sarge's Bullet</b><span class='cus-id-2-right'>ID: 32761</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>弹药</td><th>子弹</th></tr></table>每秒伤害提高50<br /><!--e--><!--ps-->需要等级 70<br /></td></tr></table><table><tr><td><span class=\"q\">\"More Pew Pew, Less QQ\"</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">2</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?32761:1:1:70-->"
+        }
+    },
+    {
+        "id": 32882,
+        "name": "4地狱火子弹",
+        "icon": "inv_misc_ammo_bullet_02",
+        "classs": 6,
+        "subclass": 3,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 115,
+        "reqlevel": 68,
+        "displayid": 44356,
+        "dmgmin1": 37,
+        "dmgmax1": 37,
+        "speed": 3,
+        "dps": 12.3,
+        "rgddmgmin": 37,
+        "rgddmgmax": 37,
+        "rgdspeed": 3,
+        "rgddps": 12.3,
+        "name_en": "Hellfire Shot",
+        "reqfaction": 947,
+        "reqrep": 6,
+        "standing": 6,
+        "source": [
+            5
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_ammo_bullet_02.jpg",
+        "tip": {
+            "name_zhcn": "地狱火子弹",
+            "quality": 3,
+            "icon": "inv_misc_ammo_bullet_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">地狱火子弹</b><span class='cus-id-2-right'>ID: 32882</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>弹药</td><th>子弹</th></tr></table>每秒伤害提高37<br /><!--e--><!--ps-->需要等级 68<br />需要<a class=\"q1\" href=\"?faction=947\">萨尔玛</a> - 崇敬<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">6</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?32882:1:1:68-->"
+        }
+    },
+    {
+        "id": 32883,
+        "name": "4屠魔弹丸",
+        "icon": "inv_misc_ammo_bullet_02",
+        "classs": 6,
+        "subclass": 3,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 115,
+        "reqlevel": 68,
+        "displayid": 44356,
+        "dmgmin1": 37,
+        "dmgmax1": 37,
+        "speed": 3,
+        "dps": 12.3,
+        "rgddmgmin": 37,
+        "rgddmgmax": 37,
+        "rgdspeed": 3,
+        "rgddps": 12.3,
+        "name_en": "Felbane Slugs",
+        "reqfaction": 946,
+        "reqrep": 6,
+        "standing": 6,
+        "source": [
+            5
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_ammo_bullet_02.jpg",
+        "tip": {
+            "name_zhcn": "屠魔弹丸",
+            "quality": 3,
+            "icon": "inv_misc_ammo_bullet_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">屠魔弹丸</b><span class='cus-id-2-right'>ID: 32883</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>弹药</td><th>子弹</th></tr></table>每秒伤害提高37<br /><!--e--><!--ps-->需要等级 68<br />需要<a class=\"q1\" href=\"?faction=946\">荣耀堡</a> - 崇敬<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">6</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?32883:1:1:68-->"
+        }
+    },
+    {
+        "id": 33803,
+        "name": "4精金钉刺者",
+        "icon": "inv_ammo_arrow_02",
+        "classs": 6,
+        "subclass": 2,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 118,
+        "reqlevel": 62,
+        "displayid": 26497,
+        "dmgmin1": 43,
+        "dmgmax1": 43,
+        "speed": 3,
+        "dps": 14.3,
+        "rgddmgmin": 43,
+        "rgddmgmax": 43,
+        "rgdspeed": 3,
+        "rgddps": 14.3,
+        "name_en": "Adamantite Stinger",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ammo_arrow_02.jpg",
+        "tip": {
+            "name_zhcn": "精金钉刺者",
+            "quality": 3,
+            "icon": "inv_ammo_arrow_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">精金钉刺者</b><span class='cus-id-2-right'>ID: 33803</span><table width=\"100%\"><tr><td>弹药</td><th>箭</th></tr></table>每秒伤害提高43<br /><!--e--><!--ps-->需要等级 62<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">2</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?33803:1:1:62-->"
+        }
+    },
+    {
+        "id": 34581,
+        "name": "3神秘箭矢",
+        "icon": "inv_misc_ammo_arrow_02",
+        "classs": 6,
+        "subclass": 2,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 120,
+        "reqlevel": 70,
+        "displayid": 40522,
+        "dmgmin1": 46,
+        "dmgmax1": 47,
+        "speed": 3,
+        "dps": 15.5,
+        "rgddmgmin": 46,
+        "rgddmgmax": 47,
+        "rgdspeed": 3,
+        "rgddps": 15.5,
+        "name_en": "Mysterious Arrow",
+        "reqfaction": 967,
+        "reqrep": 6,
+        "standing": 6,
+        "source": [
+            5
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_ammo_arrow_02.jpg",
+        "tip": {
+            "name_zhcn": "神秘箭矢",
+            "quality": 4,
+            "icon": "inv_misc_ammo_arrow_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">神秘箭矢</b><span class='cus-id-2-right'>ID: 34581</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>弹药</td><th>箭</th></tr></table>每秒伤害提高46.5<br /><!--e--><!--ps-->需要等级 70<br />需要<a class=\"q1\" href=\"?faction=967\">紫罗兰之眼</a> - 崇敬<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">12</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?34581:1:1:70-->"
+        }
+    },
+    {
+        "id": 34582,
+        "name": "3神秘枪弹",
+        "icon": "inv_misc_ammo_bullet_02",
+        "classs": 6,
+        "subclass": 3,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 120,
+        "reqlevel": 70,
+        "displayid": 44356,
+        "dmgmin1": 46,
+        "dmgmax1": 47,
+        "speed": 3,
+        "dps": 15.5,
+        "rgddmgmin": 46,
+        "rgddmgmax": 47,
+        "rgdspeed": 3,
+        "rgddps": 15.5,
+        "name_en": "Mysterious Shell",
+        "reqfaction": 967,
+        "reqrep": 6,
+        "standing": 6,
+        "source": [
+            5
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_ammo_bullet_02.jpg",
+        "tip": {
+            "name_zhcn": "神秘枪弹",
+            "quality": 4,
+            "icon": "inv_misc_ammo_bullet_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">神秘枪弹</b><span class='cus-id-2-right'>ID: 34582</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>弹药</td><th>子弹</th></tr></table>每秒伤害提高46.5<br /><!--e--><!--ps-->需要等级 70<br />需要<a class=\"q1\" href=\"?faction=967\">紫罗兰之眼</a> - 崇敬<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">12</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?34582:1:1:70-->"
+        }
+    },
+    {
+        "id": 41164,
+        "name": "4猛犸狩猎枪弹",
+        "icon": "inv_ammo_bullet_05",
+        "classs": 6,
+        "subclass": 3,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 200,
+        "reqlevel": 72,
+        "displayid": 62931,
+        "dmgmin1": 67,
+        "dmgmax1": 68,
+        "speed": 3,
+        "dps": 22.5,
+        "rgddmgmin": 67,
+        "rgddmgmax": 68,
+        "rgdspeed": 3,
+        "rgddps": 22.5,
+        "name_en": "Mammoth Cutters",
+        "source": [
+            1
+        ],
+        "sourcemore": [
+            {
+                "n": "猛犸狩猎枪弹",
+                "t": 6,
+                "ti": 56474,
+                "s": 202,
+                "c": 11,
+                "icon": "trade_engineering"
+            }
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ammo_bullet_05.jpg",
+        "tip": {
+            "name_zhcn": "猛犸狩猎枪弹",
+            "quality": 3,
+            "icon": "inv_ammo_bullet_05",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">猛犸狩猎枪弹</b><span class='cus-id-2-right'>ID: 41164</span><table width=\"100%\"><tr><td>弹药</td><th>子弹</th></tr></table>每秒伤害提高67.5<br /><!--e--><!--ps-->需要等级 72<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">2</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?41164:1:1:72-->"
+        }
+    },
+    {
+        "id": 41165,
+        "name": "4萨隆邪铁箭头",
+        "icon": "inv_ammo_arrow_01",
+        "classs": 6,
+        "subclass": 2,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 200,
+        "reqlevel": 72,
+        "displayid": 18275,
+        "dmgmin1": 67,
+        "dmgmax1": 68,
+        "speed": 3,
+        "dps": 22.5,
+        "rgddmgmin": 67,
+        "rgddmgmax": 68,
+        "rgdspeed": 3,
+        "rgddps": 22.5,
+        "name_en": "Saronite Razorheads",
+        "source": [
+            1
+        ],
+        "sourcemore": [
+            {
+                "n": "萨隆邪铁箭头",
+                "t": 6,
+                "ti": 56475,
+                "s": 202,
+                "c": 11,
+                "icon": "trade_engineering"
+            }
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ammo_arrow_01.jpg",
+        "tip": {
+            "name_zhcn": "萨隆邪铁箭头",
+            "quality": 3,
+            "icon": "inv_ammo_arrow_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">萨隆邪铁箭头</b><span class='cus-id-2-right'>ID: 41165</span><table width=\"100%\"><tr><td>弹药</td><th>箭</th></tr></table>每秒伤害提高67.5<br /><!--e--><!--ps-->需要等级 72<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">2</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?41165:1:1:72-->"
+        }
+    },
+    {
+        "id": 41584,
+        "name": "6霜冻枪弹",
+        "icon": "inv_misc_ammo_bullet_06",
+        "classs": 6,
+        "subclass": 3,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 154,
+        "reqlevel": 75,
+        "displayid": 40524,
+        "dmgmin1": 46,
+        "dmgmax1": 47,
+        "speed": 3,
+        "dps": 15.5,
+        "rgddmgmin": 46,
+        "rgddmgmax": 47,
+        "rgdspeed": 3,
+        "rgddps": 15.5,
+        "name_en": "Frostbite Bullets",
+        "source": [
+            5
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_ammo_bullet_06.jpg",
+        "tip": {
+            "name_zhcn": "霜冻枪弹",
+            "quality": 1,
+            "icon": "inv_misc_ammo_bullet_06",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">霜冻枪弹</b><span class='cus-id-2-right'>ID: 41584</span><table width=\"100%\"><tr><td>弹药</td><th>子弹</th></tr></table>每秒伤害提高46.5<br /><!--e--><!--ps-->需要等级 75<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">3</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?41584:1:1:75-->"
+        }
+    },
+    {
+        "id": 41586,
+        "name": "6恐怖箭矢",
+        "icon": "inv_misc_ammo_arrow_01",
+        "classs": 6,
+        "subclass": 2,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 154,
+        "reqlevel": 75,
+        "displayid": 40200,
+        "dmgmin1": 46,
+        "dmgmax1": 47,
+        "speed": 3,
+        "dps": 15.5,
+        "rgddmgmin": 46,
+        "rgddmgmax": 47,
+        "rgdspeed": 3,
+        "rgddps": 15.5,
+        "name_en": "Terrorshaft Arrow",
+        "source": [
+            5
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_ammo_arrow_01.jpg",
+        "tip": {
+            "name_zhcn": "恐怖箭矢",
+            "quality": 1,
+            "icon": "inv_misc_ammo_arrow_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">恐怖箭矢</b><span class='cus-id-2-right'>ID: 41586</span><table width=\"100%\"><tr><td>弹药</td><th>箭</th></tr></table>每秒伤害提高46.5<br /><!--e--><!--ps-->需要等级 75<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">3</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?41586:1:1:75-->"
+        }
+    },
+    {
+        "id": 52020,
+        "name": "3破碎弹",
+        "icon": "inv_ammo_bullet_07",
+        "classs": 6,
+        "subclass": 3,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 230,
+        "reqlevel": 80,
+        "displayid": 64870,
+        "dmgmin1": 91,
+        "dmgmax1": 92,
+        "speed": 3,
+        "dps": 30.5,
+        "rgddmgmin": 91,
+        "rgddmgmax": 92,
+        "rgdspeed": 3,
+        "rgddps": 30.5,
+        "name_en": "Shatter Rounds",
+        "source": [
+            1
+        ],
+        "sourcemore": [
+            {
+                "n": "破碎弹",
+                "t": 6,
+                "ti": 72952,
+                "s": 202,
+                "c": 11,
+                "icon": "trade_engineering"
+            }
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ammo_bullet_07.jpg",
+        "tip": {
+            "name_zhcn": "破碎弹",
+            "quality": 4,
+            "icon": "inv_ammo_bullet_07",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">破碎弹</b><span class='cus-id-2-right'>ID: 52020</span><table width=\"100%\"><tr><td>弹药</td><th>子弹</th></tr></table>每秒伤害提高91.5<br /><!--e--><!--ps-->需要等级 80<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">3</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?52020:1:1:80-->"
+        }
+    },
+    {
+        "id": 52021,
+        "name": "3冰锋箭矢",
+        "icon": "inv_ammo_arrow_03",
+        "classs": 6,
+        "subclass": 2,
+        "side": 3,
+        "slot": 24,
+        "slotbak": 24,
+        "level": 230,
+        "reqlevel": 80,
+        "displayid": 64928,
+        "dmgmin1": 91,
+        "dmgmax1": 92,
+        "speed": 3,
+        "dps": 30.5,
+        "rgddmgmin": 91,
+        "rgddmgmax": 92,
+        "rgdspeed": 3,
+        "rgddps": 30.5,
+        "name_en": "Iceblade Arrow",
+        "source": [
+            1
+        ],
+        "sourcemore": [
+            {
+                "n": "冰锋箭矢",
+                "t": 6,
+                "ti": 72953,
+                "s": 202,
+                "c": 11,
+                "icon": "trade_engineering"
+            }
+        ],
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ammo_arrow_03.jpg",
+        "tip": {
+            "name_zhcn": "冰锋箭矢",
+            "quality": 4,
+            "icon": "inv_ammo_arrow_03",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">冰锋箭矢</b><span class='cus-id-2-right'>ID: 52021</span><table width=\"100%\"><tr><td>弹药</td><th>箭</th></tr></table>每秒伤害提高91.5<br /><!--e--><!--ps-->需要等级 80<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">3</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?52021:1:1:80-->"
+        }
+    }
+]

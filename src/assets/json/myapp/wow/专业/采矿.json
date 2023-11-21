@@ -1,0 +1,3577 @@
+[
+    {
+        "id": 2657,
+        "name": "6熔炼铜锭",
+        "name_en": "Smelt Copper",
+        "icon": "trade_engineering",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 0,
+        "skill": [
+            186
+        ],
+        "reagents": [
+            [
+                2770,
+                1,
+                {
+                    "name_zhcn": "铜矿石",
+                    "quality": 1,
+                    "icon": "inv_ore_copper_01",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q1\">铜矿石</b><span class='cus-id-2-right'>ID: 2770</span><br /><!--e--><!--ps-->需要<a class=\"q1\" href=\"?skill=755\">珠宝加工</a> (1)<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">5</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?2770:1:1:80-->"
+                }
+            ]
+        ],
+        "source": [
+            10
+        ],
+        "creates": [
+            2840,
+            1,
+            1
+        ],
+        "learnedat": 1,
+        "colors": [
+            1,
+            25,
+            47,
+            70
+        ],
+        "tab_name": "配方",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_engineering.jpg",
+        "tip": {
+            "name_zhcn": "红色皮包",
+            "quality": 1,
+            "icon": "inv_misc_bag_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">红色皮包</b><span class='cus-id-2-right'>ID: 2657</span><br />8格容器<br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">8</span> <span class=\"moneycopper\">75</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?2657:1:1:80-->"
+        }
+    },
+    {
+        "id": 2658,
+        "name": "5熔炼银锭",
+        "name_en": "Smelt Silver",
+        "icon": "trade_engineering",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 200,
+        "skill": [
+            186
+        ],
+        "reagents": [
+            [
+                2775,
+                1,
+                {
+                    "name_zhcn": "银矿石",
+                    "quality": 2,
+                    "icon": "inv_stone_16",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q2\">银矿石</b><span class='cus-id-2-right'>ID: 2775</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">75</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?2775:1:1:80-->"
+                }
+            ]
+        ],
+        "source": [
+            6
+        ],
+        "creates": [
+            2842,
+            1,
+            1
+        ],
+        "learnedat": 75,
+        "colors": [
+            75,
+            115,
+            122,
+            130
+        ],
+        "tab_name": "配方",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_engineering.jpg",
+        "tip": {
+            "name_zhcn": "阿度斯碎片",
+            "quality": 1,
+            "icon": "inv_stone_09",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">阿度斯碎片</b><span class='cus-id-2-right'>ID: 2658</span><br /><!--bo-->任务物品<br />唯一<br /><!--e--><!--ps--></td></tr></table><table><tr><td></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?2658:1:1:80-->"
+        }
+    },
+    {
+        "id": 2659,
+        "name": "6熔炼青铜",
+        "name_en": "Smelt Bronze",
+        "icon": "trade_engineering",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 200,
+        "skill": [
+            186
+        ],
+        "reagents": [
+            [
+                2840,
+                1,
+                {
+                    "name_zhcn": "铜锭",
+                    "quality": 1,
+                    "icon": "inv_ingot_02",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q1\">铜锭</b><span class='cus-id-2-right'>ID: 2840</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">10</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?2840:1:1:80-->"
+                }
+            ],
+            [
+                3576,
+                1,
+                {
+                    "name_zhcn": "锡锭",
+                    "quality": 1,
+                    "icon": "inv_ingot_05",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q1\">锡锭</b><span class='cus-id-2-right'>ID: 3576</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">35</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?3576:1:1:80-->"
+                }
+            ]
+        ],
+        "source": [
+            6
+        ],
+        "creates": [
+            2841,
+            2,
+            2
+        ],
+        "learnedat": 65,
+        "colors": [
+            65,
+            65,
+            90,
+            115
+        ],
+        "tab_name": "配方",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_engineering.jpg",
+        "tip": {
+            "name_zhcn": "莫德尔碎片",
+            "quality": 1,
+            "icon": "inv_stone_11",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">莫德尔碎片</b><span class='cus-id-2-right'>ID: 2659</span><br /><!--bo-->任务物品<br />唯一<br /><!--e--><!--ps--></td></tr></table><table><tr><td></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?2659:1:1:80-->"
+        }
+    },
+    {
+        "id": 3304,
+        "name": "6熔炼锡锭",
+        "name_en": "Smelt Tin",
+        "icon": "trade_engineering",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 50,
+        "skill": [
+            186
+        ],
+        "reagents": [
+            [
+                2771,
+                1,
+                {
+                    "name_zhcn": "锡矿石",
+                    "quality": 1,
+                    "icon": "inv_ore_tin_01",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q1\">锡矿石</b><span class='cus-id-2-right'>ID: 2771</span><br /><!--e--><!--ps-->需要<a class=\"q1\" href=\"?skill=755\">珠宝加工</a> (50)<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">25</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?2771:1:1:80-->"
+                }
+            ]
+        ],
+        "source": [
+            6
+        ],
+        "creates": [
+            3576,
+            1,
+            1
+        ],
+        "learnedat": 65,
+        "colors": [
+            65,
+            65,
+            70,
+            75
+        ],
+        "tab_name": "配方",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_engineering.jpg",
+        "tip": {
+            "name_zhcn": "水草护手",
+            "quality": 1,
+            "icon": "inv_gauntlets_25",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">水草护手</b><span class='cus-id-2-right'>ID: 3304</span><table width=\"100%\"><tr><td>手</td><th><!--asc3-->锁甲</th></tr></table><span><!--amr-->81点护甲</span><br /><!--e--><!--ps-->耐久度 20 / 20<br />需要等级 9<br />物品等级14<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">1</span> <span class=\"moneycopper\">6</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?3304:1:1:9-->"
+        }
+    },
+    {
+        "id": 3307,
+        "name": "6熔炼铁锭",
+        "name_en": "Smelt Iron",
+        "icon": "trade_engineering",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 500,
+        "skill": [
+            186
+        ],
+        "reagents": [
+            [
+                2772,
+                1,
+                {
+                    "name_zhcn": "铁矿石",
+                    "quality": 1,
+                    "icon": "inv_ore_iron_01",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q1\">铁矿石</b><span class='cus-id-2-right'>ID: 2772</span><br /><!--e--><!--ps-->需要<a class=\"q1\" href=\"?skill=755\">珠宝加工</a> (125)<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">1</span> <span class=\"moneycopper\">50</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?2772:1:1:80-->"
+                }
+            ]
+        ],
+        "source": [
+            6
+        ],
+        "creates": [
+            3575,
+            1,
+            1
+        ],
+        "learnedat": 125,
+        "colors": [
+            125,
+            130,
+            145,
+            160
+        ],
+        "tab_name": "配方",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_engineering.jpg",
+        "tip": {
+            "name_zhcn": "布质符文战靴",
+            "quality": 2,
+            "icon": "inv_boots_05",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">布质符文战靴</b><span class='cus-id-2-right'>ID: 3307</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>脚</td><th><!--asc1-->布甲</th></tr></table><span><!--amr-->19点护甲</span><br /><span><!--stat5-->+2 智力</span><br /><span><!--stat7-->+1 耐力</span><br /><!--e--><!--ps-->耐久度 25 / 25<br />需要等级 10<br />物品等级15<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">2</span> <span class=\"moneycopper\">15</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?3307:1:1:10-->"
+        }
+    },
+    {
+        "id": 3308,
+        "name": "5熔炼金锭",
+        "name_en": "Smelt Gold",
+        "icon": "trade_engineering",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 2500,
+        "skill": [
+            186
+        ],
+        "reagents": [
+            [
+                2776,
+                1,
+                {
+                    "name_zhcn": "金矿石",
+                    "quality": 2,
+                    "icon": "inv_ore_gold_01",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q2\">金矿石</b><span class='cus-id-2-right'>ID: 2776</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">5</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?2776:1:1:80-->"
+                }
+            ]
+        ],
+        "source": [
+            6
+        ],
+        "creates": [
+            3577,
+            1,
+            1
+        ],
+        "learnedat": 155,
+        "colors": [
+            155,
+            170,
+            177,
+            185
+        ],
+        "tab_name": "配方",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_engineering.jpg",
+        "tip": {
+            "name_zhcn": "蛮族布质手套",
+            "quality": 2,
+            "icon": "inv_gauntlets_18",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">蛮族布质手套</b><span class='cus-id-2-right'>ID: 3308</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>手</td><th><!--asc1-->布甲</th></tr></table><span><!--amr-->17点护甲</span><br /><span><!--stat6-->+2 精神</span><br /><span><!--stat7-->+1 耐力</span><br /><!--e--><!--ps-->耐久度 18 / 18<br />需要等级 10<br />物品等级15<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 法术强度提高1点。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">1</span> <span class=\"moneycopper\">44</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?3308:1:1:10-->"
+        }
+    },
+    {
+        "id": 3569,
+        "name": "6熔炼钢锭",
+        "name_en": "Smelt Steel",
+        "icon": "trade_engineering",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 2500,
+        "skill": [
+            186
+        ],
+        "reagents": [
+            [
+                3575,
+                1,
+                {
+                    "name_zhcn": "铁锭",
+                    "quality": 1,
+                    "icon": "inv_ingot_iron",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q1\">铁锭</b><span class='cus-id-2-right'>ID: 3575</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">2</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?3575:1:1:80-->"
+                }
+            ],
+            [
+                3857,
+                1,
+                {
+                    "name_zhcn": "煤块",
+                    "quality": 1,
+                    "icon": "inv_ore_tin_01",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q1\">煤块</b><span class='cus-id-2-right'>ID: 3857</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">1</span> <span class=\"moneycopper\">25</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?3857:1:1:80-->"
+                }
+            ]
+        ],
+        "source": [
+            6
+        ],
+        "creates": [
+            3859,
+            1,
+            1
+        ],
+        "learnedat": 165,
+        "colors": [
+            0,
+            0,
+            0,
+            165
+        ],
+        "tab_name": "配方",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_engineering.jpg",
+        "tip": {
+            "name_zhcn": "牧师之袍",
+            "quality": 2,
+            "icon": "inv_chest_cloth_42",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">牧师之袍</b><span class='cus-id-2-right'>ID: 3569</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>胸部</td><th><!--asc1-->布甲</th></tr></table><span><!--amr-->40点护甲</span><br /><span><!--stat7-->+4 耐力</span><br /><span><!--stat6-->+7 精神</span><br /><!--e--><!--ps-->耐久度 65 / 65<br />需要等级 21<br />物品等级26<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">12</span> <span class=\"moneycopper\">62</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?3569:1:1:21-->"
+        }
+    },
+    {
+        "id": 10097,
+        "name": "6熔炼秘银",
+        "name_en": "Smelt Mithril",
+        "icon": "trade_engineering",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 5000,
+        "skill": [
+            186
+        ],
+        "reagents": [
+            [
+                3858,
+                1,
+                {
+                    "name_zhcn": "秘银矿石",
+                    "quality": 1,
+                    "icon": "inv_ore_mithril_02",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q1\">秘银矿石</b><span class='cus-id-2-right'>ID: 3858</span><br /><!--e--><!--ps-->需要<a class=\"q1\" href=\"?skill=755\">珠宝加工</a> (175)<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">2</span> <span class=\"moneycopper\">50</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?3858:1:1:80-->"
+                }
+            ]
+        ],
+        "source": [
+            6
+        ],
+        "creates": [
+            3860,
+            1,
+            1
+        ],
+        "learnedat": 175,
+        "colors": [
+            175,
+            175,
+            202,
+            230
+        ],
+        "tab_name": "配方",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_engineering.jpg",
+        "tip": {
+            "name_zhcn": "议员头冠",
+            "quality": 2,
+            "icon": "inv_crown_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">议员头冠</b><span class='cus-id-2-right'>ID: 10097</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>头部</td><th><!--asc1-->布甲</th></tr></table><span><!--amr-->60点护甲</span><br /><span class=\"q2\">&lt;随机附魔&gt</span><br /><!--e--><!--ps-->耐久度 45 / 45<br />需要等级 52<br />物品等级57<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">1</span> <span class=\"moneysilver\">9</span> <span class=\"moneycopper\">92</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?10097:1:1:52-->"
+        }
+    },
+    {
+        "id": 10098,
+        "name": "5熔炼真银",
+        "name_en": "Smelt Truesilver",
+        "icon": "trade_engineering",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 10000,
+        "skill": [
+            186
+        ],
+        "reagents": [
+            [
+                7911,
+                1,
+                {
+                    "name_zhcn": "真银矿石",
+                    "quality": 2,
+                    "icon": "inv_ore_truesilver_01",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q2\">真银矿石</b><span class='cus-id-2-right'>ID: 7911</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">5</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?7911:1:1:80-->"
+                }
+            ]
+        ],
+        "source": [
+            6
+        ],
+        "creates": [
+            6037,
+            1,
+            1
+        ],
+        "learnedat": 230,
+        "colors": [
+            230,
+            250,
+            270,
+            290
+        ],
+        "tab_name": "配方",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_engineering.jpg",
+        "tip": {
+            "name_zhcn": "议员披风",
+            "quality": 2,
+            "icon": "inv_misc_cape_17",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">议员披风</b><span class='cus-id-2-right'>ID: 10098</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>背部</td></tr></table><span><!--amr-->34点护甲</span><br /><span class=\"q2\">&lt;随机附魔&gt</span><br /><!--e--><!--ps-->需要等级 48<br />物品等级53<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">87</span> <span class=\"moneycopper\">37</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?10098:1:1:48-->"
+        }
+    },
+    {
+        "id": 14891,
+        "name": "6熔炼黑铁",
+        "name_en": "Smelt Dark Iron",
+        "icon": "trade_engineering",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 0,
+        "skill": [
+            186
+        ],
+        "reagents": [
+            [
+                11370,
+                8,
+                {
+                    "name_zhcn": "黑铁矿石",
+                    "quality": 1,
+                    "icon": "inv_ore_mithril_01",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q1\">黑铁矿石</b><span class='cus-id-2-right'>ID: 11370</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">5</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?11370:1:1:80-->"
+                }
+            ]
+        ],
+        "source": [],
+        "creates": [
+            11371,
+            1,
+            1
+        ],
+        "colors": [
+            0,
+            300,
+            305,
+            310
+        ],
+        "tab_name": "配方",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_engineering.jpg",
+        "tip": {
+            "name_zhcn": "Test Glaive I",
+            "quality": 1,
+            "icon": "inv_weapon_shortblade_07",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">Test Glaive I</b><span class='cus-id-2-right'>ID: 14891</span><table width=\"100%\"><tr><td>单手</td><th>剑</th></tr></table><!--e--><!--ps-->物品等级5<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">25</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?14891:1:1:80-->"
+        }
+    },
+    {
+        "id": 16153,
+        "name": "6熔炼瑟银",
+        "name_en": "Smelt Thorium",
+        "icon": "trade_engineering",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 20000,
+        "skill": [
+            186
+        ],
+        "reagents": [
+            [
+                10620,
+                1,
+                {
+                    "name_zhcn": "瑟银矿石",
+                    "quality": 1,
+                    "icon": "inv_ore_thorium_02",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q1\">瑟银矿石</b><span class='cus-id-2-right'>ID: 10620</span><br /><!--e--><!--ps-->需要<a class=\"q1\" href=\"?skill=755\">珠宝加工</a> (250)<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">2</span> <span class=\"moneycopper\">50</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?10620:1:1:80-->"
+                }
+            ]
+        ],
+        "source": [
+            6
+        ],
+        "creates": [
+            12359,
+            1,
+            1
+        ],
+        "learnedat": 250,
+        "colors": [
+            250,
+            250,
+            270,
+            290
+        ],
+        "tab_name": "配方",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_engineering.jpg",
+        "tip": {
+            "name_zhcn": "伯特霍德",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">伯特霍德</b></td></tr><tr><td>门卫</td></tr><tr><td>等级 70 亡灵 (稀有)</td></tr></table>",
+            "map": {
+                "zone": 3457,
+                "coords": {
+                    "0": [
+                        [
+                            0,
+                            0
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 22967,
+        "name": "2熔炼源质",
+        "name_en": "Smelt Elementium",
+        "icon": "trade_engineering",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 1000,
+        "skill": [
+            186
+        ],
+        "reagents": [
+            [
+                18562,
+                1,
+                {
+                    "name_zhcn": "源质铸块",
+                    "quality": 4,
+                    "icon": "inv_stone_sharpeningstone_01",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q4\">源质铸块</b><span class='cus-id-2-right'>ID: 18562</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">10</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?18562:1:1:80-->"
+                }
+            ],
+            [
+                12360,
+                10,
+                {
+                    "name_zhcn": "奥金锭",
+                    "quality": 2,
+                    "icon": "inv_misc_stonetablet_05",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q2\">奥金锭</b><span class='cus-id-2-right'>ID: 12360</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">50</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?12360:1:1:80-->"
+                }
+            ],
+            [
+                17010,
+                1,
+                {
+                    "name_zhcn": "炽热之核",
+                    "quality": 3,
+                    "icon": "spell_fire_flamebolt",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q3\">炽热之核</b><span class='cus-id-2-right'>ID: 17010</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">20</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?17010:1:1:80-->"
+                }
+            ],
+            [
+                18567,
+                3,
+                {
+                    "name_zhcn": "元素助熔剂",
+                    "quality": 1,
+                    "icon": "spell_frost_fireresistancetotem",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q1\">元素助熔剂</b><span class='cus-id-2-right'>ID: 18567</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">3</span> <span class=\"moneysilver\">75</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?18567:1:1:80-->"
+                }
+            ]
+        ],
+        "source": [
+            2,
+            6
+        ],
+        "creates": [
+            17771,
+            1,
+            1
+        ],
+        "learnedat": 300,
+        "colors": [
+            300,
+            350,
+            362,
+            375
+        ],
+        "tab_name": "配方",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_engineering.jpg",
+        "tip": {
+            "name_zhcn": "寒鳞肩甲",
+            "quality": 4,
+            "icon": "inv_shoulder_14",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">寒鳞肩甲</b><span class='cus-id-2-right'>ID: 22967</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>肩部</td><th><!--asc3-->锁甲</th></tr></table><span><!--amr-->448点护甲</span><br /><span><!--stat7-->+25 耐力</span><br />+33 冰霜抗性<br /><!--e--><!--ps-->耐久度 85 / 85<br />物品等级83<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">4</span> <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">69</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?22967:1:1:80-->"
+        }
+    },
+    {
+        "id": 29356,
+        "name": "6熔炼魔铁",
+        "name_en": "Smelt Fel Iron",
+        "icon": "trade_engineering",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 40000,
+        "skill": [
+            186
+        ],
+        "reagents": [
+            [
+                23424,
+                2,
+                {
+                    "name_zhcn": "魔铁矿石",
+                    "quality": 1,
+                    "icon": "inv_ore_feliron",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q1\">魔铁矿石</b><span class='cus-id-2-right'>ID: 23424</span><br /><!--e--><!--ps-->需要<a class=\"q1\" href=\"?skill=755\">珠宝加工</a> (275)<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">10</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?23424:1:1:80-->"
+                }
+            ]
+        ],
+        "source": [
+            6
+        ],
+        "creates": [
+            23445,
+            1,
+            1
+        ],
+        "learnedat": 300,
+        "colors": [
+            0,
+            0,
+            300,
+            325
+        ],
+        "tab_name": "配方",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_engineering.jpg",
+        "tip": {
+            "name_zhcn": "量子之刃",
+            "quality": 4,
+            "icon": "inv_sword_81",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">量子之刃</b><span class='cus-id-2-right'>ID: 29356</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>双手</td><th>剑</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->304 - 456伤害</td><th>速度 <!--spd-->3.50</th></tr></table><!--dps-->（每秒伤害108.6）<br /><span><!--stat7-->+31 耐力</span><br /><!--e--><!--ps-->耐久度 120 / 120<br />需要等级 70<br />物品等级105<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 爆击等级提高<!--rtg32-->30&nbsp;<small>(<!--rtg%32-->1.36%&nbsp;@&nbsp;L<!--lvl-->70)</small>。</span><br /><span class=\"q2\">装备： 攻击强度提高102点。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">13</span> <span class=\"moneysilver\">83</span> <span class=\"moneycopper\">35</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?29356:1:80:70-->"
+        }
+    },
+    {
+        "id": 29358,
+        "name": "6熔炼精金",
+        "name_en": "Smelt Adamantite",
+        "icon": "trade_engineering",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 40000,
+        "skill": [
+            186
+        ],
+        "reagents": [
+            [
+                23425,
+                2,
+                {
+                    "name_zhcn": "精金矿石",
+                    "quality": 1,
+                    "icon": "inv_ore_adamantium",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q1\">精金矿石</b><span class='cus-id-2-right'>ID: 23425</span><br /><!--e--><!--ps-->需要<a class=\"q1\" href=\"?skill=755\">珠宝加工</a> (325)<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">15</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?23425:1:1:80-->"
+                }
+            ]
+        ],
+        "source": [
+            6
+        ],
+        "creates": [
+            23446,
+            1,
+            1
+        ],
+        "learnedat": 325,
+        "colors": [
+            325,
+            325,
+            332,
+            340
+        ],
+        "tab_name": "配方",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_engineering.jpg",
+        "tip": {
+            "name_zhcn": "冰霜座狼",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">冰霜座狼</b></td></tr><tr><td>等级 79 - 80 野兽 (普通)</td></tr><tr><td>狼</td></tr><tr><td>霍迪尔之子</td></tr></table>",
+            "map": {
+                "zone": 67,
+                "coords": {
+                    "0": [
+                        [
+                            63.2,
+                            62.5
+                        ],
+                        [
+                            61.5,
+                            61.4
+                        ],
+                        [
+                            62.9,
+                            60.5
+                        ],
+                        [
+                            64,
+                            58.1
+                        ],
+                        [
+                            62.8,
+                            62
+                        ],
+                        [
+                            64.3,
+                            62.1
+                        ],
+                        [
+                            59.8,
+                            60.5
+                        ],
+                        [
+                            61.3,
+                            59.3
+                        ],
+                        [
+                            57.8,
+                            62
+                        ],
+                        [
+                            59.2,
+                            59
+                        ],
+                        [
+                            58.6,
+                            60.8
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 29359,
+        "name": "5熔炼恒金",
+        "name_en": "Smelt Eternium",
+        "icon": "trade_engineering",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 40000,
+        "skill": [
+            186
+        ],
+        "reagents": [
+            [
+                23427,
+                2,
+                {
+                    "name_zhcn": "恒金矿石",
+                    "quality": 2,
+                    "icon": "inv_ore_eternium",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q2\">恒金矿石</b><span class='cus-id-2-right'>ID: 23427</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">12</span> <span class=\"moneycopper\">50</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?23427:1:1:80-->"
+                }
+            ]
+        ],
+        "source": [
+            6
+        ],
+        "creates": [
+            23447,
+            1,
+            1
+        ],
+        "learnedat": 350,
+        "colors": [
+            350,
+            350,
+            357,
+            365
+        ],
+        "tab_name": "配方",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_engineering.jpg",
+        "tip": {
+            "name_zhcn": "鞭笞之野性法杖",
+            "quality": 4,
+            "icon": "inv_staff_56",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">鞭笞之野性法杖</b><span class='cus-id-2-right'>ID: 29359</span><br /><!--bo-->拾取后绑定<br />唯一<table width=\"100%\"><tr><td>双手</td><th>法杖</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->260 - 391伤害</td><th>速度 <!--spd-->3.00</th></tr></table><!--dps-->（每秒伤害108.5）<br /><span class=\"c11\"><!--fap-->(752 在猎豹、熊、巨熊和枭兽形态下的攻击强度)</span><br /><span><!--amr-->300点护甲</span><br /><span><!--stat3-->+35 敏捷</span><br /><span><!--stat7-->+34 耐力</span><br /><!--e--><!--ps-->耐久度 120 / 120<br />需要等级 70<br />物品等级105<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 攻击强度提高<!--rtg38-->72点。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">13</span> <span class=\"moneysilver\">98</span> <span class=\"moneycopper\">21</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?29359:1:1:70-->"
+        }
+    },
+    {
+        "id": 29360,
+        "name": "5熔炼魔钢",
+        "name_en": "Smelt Felsteel",
+        "icon": "trade_engineering",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 40000,
+        "skill": [
+            186
+        ],
+        "reagents": [
+            [
+                23445,
+                3,
+                {
+                    "name_zhcn": "魔铁锭",
+                    "quality": 1,
+                    "icon": "inv_ingot_feliron",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q1\">魔铁锭</b><span class='cus-id-2-right'>ID: 23445</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">20</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?23445:1:1:80-->"
+                }
+            ],
+            [
+                23447,
+                2,
+                {
+                    "name_zhcn": "恒金锭",
+                    "quality": 2,
+                    "icon": "inv_ingot_11",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q2\">恒金锭</b><span class='cus-id-2-right'>ID: 23447</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">25</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?23447:1:1:80-->"
+                }
+            ]
+        ],
+        "source": [
+            6
+        ],
+        "creates": [
+            23448,
+            1,
+            1
+        ],
+        "learnedat": 350,
+        "colors": [
+            350,
+            0,
+            357,
+            375
+        ],
+        "tab_name": "配方",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_engineering.jpg",
+        "tip": {
+            "name_zhcn": "背叛者的邪恶匕首",
+            "quality": 4,
+            "icon": "inv_weapon_shortblade_33",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">背叛者的邪恶匕首</b><span class='cus-id-2-right'>ID: 29360</span><br /><!--bo-->拾取后绑定<br />唯一<table width=\"100%\"><tr><td>单手</td><th>匕首</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->120 - 181伤害</td><th>速度 <!--spd-->1.80</th></tr></table><!--dps-->（每秒伤害83.6）<br /><!--e--><!--ps-->耐久度 75 / 75<br />需要等级 70<br />物品等级105<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 攻击强度提高60点。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">11</span> <span class=\"moneysilver\">22</span> <span class=\"moneycopper\">56</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?29360:1:1:70-->"
+        }
+    },
+    {
+        "id": 29361,
+        "name": "5熔炼氪金",
+        "name_en": "Smelt Khorium",
+        "icon": "trade_engineering",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 100000,
+        "skill": [
+            186
+        ],
+        "reagents": [
+            [
+                23426,
+                2,
+                {
+                    "name_zhcn": "氪金矿石",
+                    "quality": 2,
+                    "icon": "inv_ore_khorium",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q2\">氪金矿石</b><span class='cus-id-2-right'>ID: 23426</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">25</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?23426:1:1:80-->"
+                }
+            ]
+        ],
+        "source": [
+            6
+        ],
+        "creates": [
+            23449,
+            1,
+            1
+        ],
+        "learnedat": 350,
+        "colors": [
+            350,
+            0,
+            0,
+            375
+        ],
+        "tab_name": "配方",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_engineering.jpg",
+        "tip": {
+            "name_zhcn": "纳比留斯的护符匣",
+            "quality": 1,
+            "icon": "inv_qirajidol_strife",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">纳比留斯的护符匣</b><span class='cus-id-2-right'>ID: 29361</span><br /><!--bo-->任务物品<br />唯一<br /><!--e--><!--ps--></td></tr></table><table><tr><td></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?29361:1:1:80-->"
+        }
+    },
+    {
+        "id": 29686,
+        "name": "6熔炼硬化精金",
+        "name_en": "Smelt Hardened Adamantite",
+        "icon": "trade_engineering",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 100000,
+        "skill": [
+            186
+        ],
+        "reagents": [
+            [
+                23446,
+                10,
+                {
+                    "name_zhcn": "精金锭",
+                    "quality": 1,
+                    "icon": "inv_ingot_10",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q1\">精金锭</b><span class='cus-id-2-right'>ID: 23446</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">30</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?23446:1:1:80-->"
+                }
+            ]
+        ],
+        "source": [
+            6
+        ],
+        "creates": [
+            23573,
+            1,
+            1
+        ],
+        "learnedat": 375,
+        "colors": [
+            0,
+            0,
+            0,
+            375
+        ],
+        "tab_name": "配方",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_engineering.jpg",
+        "tip": {
+            "name_zhcn": "被俘虏的怒爪狼獾人",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">被俘虏的怒爪狼獾人</b></td></tr><tr><td>等级 74 - 75 人型生物 (普通)</td></tr></table>",
+            "map": {
+                "zone": 66,
+                "coords": {
+                    "0": [
+                        [
+                            35.6,
+                            85.2
+                        ],
+                        [
+                            33.7,
+                            82.9
+                        ],
+                        [
+                            34,
+                            82.3
+                        ],
+                        [
+                            35.2,
+                            80.5
+                        ],
+                        [
+                            35.7,
+                            83.8
+                        ],
+                        [
+                            35.8,
+                            84.4
+                        ],
+                        [
+                            34,
+                            84.3
+                        ],
+                        [
+                            35.1,
+                            81
+                        ],
+                        [
+                            34.9,
+                            81
+                        ],
+                        [
+                            34.3,
+                            81.2
+                        ],
+                        [
+                            34,
+                            81.9
+                        ],
+                        [
+                            33.7,
+                            82.6
+                        ],
+                        [
+                            34.5,
+                            84
+                        ],
+                        [
+                            35.2,
+                            84.3
+                        ],
+                        [
+                            35.4,
+                            84
+                        ],
+                        [
+                            35.4,
+                            82.5
+                        ],
+                        [
+                            35.1,
+                            85.8
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 35750,
+        "name": "6敲碎源生之土",
+        "name_en": "Earth Shatter",
+        "icon": "inv_elemental_mote_earth01",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 10000,
+        "skill": [
+            186
+        ],
+        "reagents": [
+            [
+                22452,
+                1,
+                {
+                    "name_zhcn": "源生之土",
+                    "quality": 2,
+                    "icon": "inv_elemental_primal_earth",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q2\">源生之土</b><span class='cus-id-2-right'>ID: 22452</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">40</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?22452:1:1:80-->"
+                }
+            ]
+        ],
+        "source": [
+            6
+        ],
+        "creates": [
+            22573,
+            10,
+            10
+        ],
+        "learnedat": 300,
+        "colors": [
+            0,
+            0,
+            0,
+            300
+        ],
+        "tab_name": "配方",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_elemental_mote_earth01.jpg",
+        "tip": {
+            "name_zhcn": "救赎者的炼金石",
+            "quality": 4,
+            "icon": "spell_nature_healingway",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">救赎者的炼金石</b><span class='cus-id-2-right'>ID: 35750</span><br /><!--bo-->拾取后绑定<br />唯一<table width=\"100%\"><tr><td>饰品</td></tr></table><!--e--><!--ps-->物品等级125<br />需要<a class=\"q1\" href=\"?skill=171\">炼金术</a> (350)<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 使你在饮用治疗药水和法力药水时获得的效果提高40%。这个效果无法叠加。</span><br /><span class=\"q2\">装备： 法术强度提高63点。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">2</span> <span class=\"moneysilver\">50</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?35750:1:1:80-->"
+        }
+    },
+    {
+        "id": 35751,
+        "name": "6火焰碎裂",
+        "name_en": "Fire Sunder",
+        "icon": "inv_elemental_mote_fire01",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 10000,
+        "skill": [
+            186
+        ],
+        "reagents": [
+            [
+                21884,
+                1,
+                {
+                    "name_zhcn": "源生火焰",
+                    "quality": 2,
+                    "icon": "inv_elemental_primal_fire",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q2\">源生火焰</b><span class='cus-id-2-right'>ID: 21884</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">40</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?21884:1:1:80-->"
+                }
+            ]
+        ],
+        "source": [
+            6
+        ],
+        "creates": [
+            22574,
+            10,
+            10
+        ],
+        "learnedat": 300,
+        "colors": [
+            0,
+            0,
+            0,
+            300
+        ],
+        "tab_name": "配方",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_elemental_mote_fire01.jpg",
+        "tip": {
+            "name_zhcn": "刺客的炼金石",
+            "quality": 4,
+            "icon": "spell_nature_healingway",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">刺客的炼金石</b><span class='cus-id-2-right'>ID: 35751</span><br /><!--bo-->拾取后绑定<br />唯一<table width=\"100%\"><tr><td>饰品</td></tr></table><!--e--><!--ps-->物品等级125<br />需要<a class=\"q1\" href=\"?skill=171\">炼金术</a> (350)<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 使你在饮用治疗药水和法力药水时获得的效果提高40%。这个效果无法叠加。</span><br /><span class=\"q2\">装备： 攻击强度提高108点。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">2</span> <span class=\"moneysilver\">50</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?35751:1:1:80-->"
+        }
+    },
+    {
+        "id": 46353,
+        "name": "5熔炼硬化氪金",
+        "name_en": "Smelt Hardened Khorium",
+        "icon": "trade_blacksmithing",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 0,
+        "skill": [
+            186
+        ],
+        "reagents": [
+            [
+                23449,
+                3,
+                {
+                    "name_zhcn": "氪金锭",
+                    "quality": 2,
+                    "icon": "inv_ingot_09",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q2\">氪金锭</b><span class='cus-id-2-right'>ID: 23449</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">1</span> <span class=\"moneysilver\">25</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?23449:1:1:80-->"
+                }
+            ],
+            [
+                23573,
+                1,
+                {
+                    "name_zhcn": "硬化精金锭",
+                    "quality": 1,
+                    "icon": "inv_ingot_adamantite",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q1\">硬化精金锭</b><span class='cus-id-2-right'>ID: 23573</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">3</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?23573:1:1:80-->"
+                }
+            ]
+        ],
+        "source": [
+            2
+        ],
+        "creates": [
+            35128,
+            1,
+            1
+        ],
+        "learnedat": 375,
+        "colors": [
+            0,
+            0,
+            0,
+            375
+        ],
+        "tab_name": "配方",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_blacksmithing.jpg",
+        "tip": {
+            "name_zhcn": "熔炼硬化氪金",
+            "icon": "trade_blacksmithing",
+            "tooltip_zhcn": "<table><tr><td><b>熔炼硬化氪金</b><br />3秒施法时间</td></tr></table><table><tr><td>材料:<br/><div class=\"indent q1\"><a href=\"?item=23449\">氪金锭</a> (3), <a href=\"?item=23573\">硬化精金锭</a><br /></div><br /><span class=\"q\">使矿工可以将氪金锭和硬化精金锭熔炼成为硬化氪金锭。需要熔炉。</span><br /><span class=\"q2\"><a href=\"?item=35128\">硬化氪金</a></span><span class='cus-id-2-right'>ID: 35128</span><br /><!--e--><!--ps--><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">1</span> <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">50</span></div><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?46353:1:1:80--></td></tr></table><!--?46353:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 49252,
+        "name": "6熔炼钴锭",
+        "name_en": "Smelt Cobalt",
+        "icon": "spell_fire_flameblades",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 100000,
+        "skill": [
+            186
+        ],
+        "reagents": [
+            [
+                36909,
+                1,
+                {
+                    "name_zhcn": "钴矿石",
+                    "quality": 1,
+                    "icon": "inv_ore_cobalt",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q1\">钴矿石</b><span class='cus-id-2-right'>ID: 36909</span><br /><!--e--><!--ps-->需要<a class=\"q1\" href=\"?skill=755\">珠宝加工</a> (350)<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">10</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?36909:1:1:80-->"
+                }
+            ]
+        ],
+        "source": [
+            6
+        ],
+        "creates": [
+            36916,
+            1,
+            1
+        ],
+        "learnedat": 350,
+        "colors": [
+            350,
+            350,
+            362,
+            375
+        ],
+        "tab_name": "配方",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_fire_flameblades.jpg",
+        "tip": {
+            "name_zhcn": "熔炼钴锭",
+            "icon": "spell_fire_flameblades",
+            "tooltip_zhcn": "<table><tr><td><b>熔炼钴锭</b><br />1.5秒施法时间</td></tr></table><table><tr><td>材料:<br/><div class=\"indent q1\"><a href=\"?item=36909\">钴矿石</a><br /></div><br /><span class=\"q\">使矿工可以将一块钴矿石熔炼成为一块钴锭。需要熔炉。</span><br /><span class=\"q1\"><a href=\"?item=36916\">钴锭</a></span><span class='cus-id-2-right'>ID: 36916</span><br /><!--e--><!--ps--><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">37</span> <span class=\"moneycopper\">50</span></div><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?49252:1:1:80--></td></tr></table><!--?49252:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 49258,
+        "name": "6熔炼萨隆邪铁",
+        "name_en": "Smelt Saronite",
+        "icon": "spell_fire_flameblades",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 150000,
+        "skill": [
+            186
+        ],
+        "reagents": [
+            [
+                36912,
+                2,
+                {
+                    "name_zhcn": "萨隆邪铁矿石",
+                    "quality": 1,
+                    "icon": "inv_ore_saronite_01",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q1\">萨隆邪铁矿石</b><span class='cus-id-2-right'>ID: 36912</span><br /><!--e--><!--ps-->需要<a class=\"q1\" href=\"?skill=755\">珠宝加工</a> (400)<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">25</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?36912:1:1:80-->"
+                }
+            ]
+        ],
+        "source": [
+            6
+        ],
+        "creates": [
+            36913,
+            1,
+            1
+        ],
+        "learnedat": 400,
+        "colors": [
+            0,
+            0,
+            0,
+            400
+        ],
+        "tab_name": "配方",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_fire_flameblades.jpg",
+        "tip": {
+            "name_zhcn": "熔炼萨隆邪铁",
+            "icon": "spell_fire_flameblades",
+            "tooltip_zhcn": "<table><tr><td><b>熔炼萨隆邪铁</b><br />1.5秒施法时间</td></tr></table><table><tr><td>材料:<br/><div class=\"indent q1\"><a href=\"?item=36912\">萨隆邪铁矿石</a> (2)<br /></div><br /><span class=\"q\">使矿工可以将2块萨隆邪铁矿石熔炼成为一块萨隆邪铁锭。需要熔炉。</span><br /><span class=\"q1\"><a href=\"?item=36913\">萨隆邪铁锭</a></span><span class='cus-id-2-right'>ID: 36913</span><br /><!--e--><!--ps--><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">1</span> <span class=\"moneysilver\">25</span> </div><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?49258:1:1:80--></td></tr></table><!--?49258:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 55208,
+        "name": "5熔炼泰坦精钢",
+        "name_en": "Smelt Titansteel",
+        "icon": "spell_fire_flameblades",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 200000,
+        "skill": [
+            186
+        ],
+        "reagents": [
+            [
+                41163,
+                3,
+                {
+                    "name_zhcn": "泰坦神铁锭",
+                    "quality": 2,
+                    "icon": "inv_ingot_platinum",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q2\">泰坦神铁锭</b><span class='cus-id-2-right'>ID: 41163</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">1</span> <span class=\"moneysilver\">87</span> <span class=\"moneycopper\">50</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?41163:1:1:80-->"
+                }
+            ],
+            [
+                36860,
+                1,
+                {
+                    "name_zhcn": "永恒火焰",
+                    "quality": 2,
+                    "icon": "inv_elemental_eternal_fire",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q2\">永恒火焰</b><span class='cus-id-2-right'>ID: 36860</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">使用： 将一份永恒火焰转化为10份火焰结晶。</span><br /><span class=\"q1\">1次</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">60</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?36860:1:1:80-->"
+                }
+            ],
+            [
+                35624,
+                1,
+                {
+                    "name_zhcn": "永恒之土",
+                    "quality": 2,
+                    "icon": "inv_elemental_eternal_earth",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q2\">永恒之土</b><span class='cus-id-2-right'>ID: 35624</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">使用： 将一份永恒之土转化为10份土之结晶。</span><br /><span class=\"q1\">1次</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">60</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?35624:1:1:80-->"
+                }
+            ],
+            [
+                35627,
+                1,
+                {
+                    "name_zhcn": "永恒暗影",
+                    "quality": 2,
+                    "icon": "inv_elemental_eternal_shadow",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q2\">永恒暗影</b><span class='cus-id-2-right'>ID: 35627</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">使用： 将一份永恒暗影转化为10份暗影结晶。</span><br /><span class=\"q1\">1次</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">60</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?35627:1:1:80-->"
+                }
+            ]
+        ],
+        "source": [
+            6
+        ],
+        "creates": [
+            37663,
+            1,
+            1
+        ],
+        "learnedat": 450,
+        "colors": [
+            0,
+            0,
+            0,
+            450
+        ],
+        "tab_name": "配方",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_fire_flameblades.jpg",
+        "tip": {
+            "name_zhcn": "熔炼泰坦精钢",
+            "icon": "spell_fire_flameblades",
+            "tooltip_zhcn": "<table><tr><td><b>熔炼泰坦精钢</b><br />1.5秒施法时间</td></tr></table><table><tr><td>材料:<br/><div class=\"indent q1\"><a href=\"?item=41163\">泰坦神铁锭</a> (3), <a href=\"?item=36860\">永恒火焰</a>, <a href=\"?item=35624\">永恒之土</a>, <a href=\"?item=35627\">永恒暗影</a><br /></div><br /><span class=\"q\">使矿工可以将一块泰坦神铁锭和永恒元素熔炼成为一块泰坦精钢锭。需要熔炉。</span><br /><span class=\"q2\"><a href=\"?item=37663\">泰坦精钢锭</a></span><span class='cus-id-2-right'>ID: 37663</span><br /><!--e--><!--ps--><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">1</span> <span class=\"moneysilver\">25</span> </div><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?55208:1:1:80--></td></tr></table><!--?55208:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 55211,
+        "name": "5熔炼泰坦神铁",
+        "name_en": "Smelt Titanium",
+        "icon": "spell_fire_flameblades",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 200000,
+        "skill": [
+            186
+        ],
+        "reagents": [
+            [
+                36910,
+                2,
+                {
+                    "name_zhcn": "泰坦神铁矿石",
+                    "quality": 2,
+                    "icon": "inv_ore_platinum_01",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q2\">泰坦神铁矿石</b><span class='cus-id-2-right'>ID: 36910</span><br /><!--e--><!--ps-->需要<a class=\"q1\" href=\"?skill=755\">珠宝加工</a> (450)<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">12</span> <span class=\"moneycopper\">50</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?36910:1:1:80-->"
+                }
+            ]
+        ],
+        "source": [
+            6
+        ],
+        "creates": [
+            41163,
+            1,
+            1
+        ],
+        "learnedat": 450,
+        "colors": [
+            0,
+            0,
+            0,
+            450
+        ],
+        "tab_name": "配方",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_fire_flameblades.jpg",
+        "tip": {
+            "name_zhcn": "熔炼泰坦神铁",
+            "icon": "spell_fire_flameblades",
+            "tooltip_zhcn": "<table><tr><td><b>熔炼泰坦神铁</b><br />1.5秒施法时间</td></tr></table><table><tr><td>材料:<br/><div class=\"indent q1\"><a href=\"?item=36910\">泰坦神铁矿石</a> (2)<br /></div><br /><span class=\"q\">使矿工可以将2块泰坦神铁矿石熔炼成为一块泰坦神铁锭。需要熔炉。</span><br /><span class=\"q2\"><a href=\"?item=41163\">泰坦神铁锭</a></span><span class='cus-id-2-right'>ID: 41163</span><br /><!--e--><!--ps--><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">1</span> <span class=\"moneysilver\">87</span> <span class=\"moneycopper\">50</span></div><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?55211:1:1:80--></td></tr></table><!--?55211:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 70524,
+        "name": "6魔化瑟银",
+        "name_en": "Enchanted Thorium",
+        "icon": "inv_ingot_eternium",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 10000,
+        "skill": [
+            186
+        ],
+        "reagents": [
+            [
+                12359,
+                1,
+                {
+                    "name_zhcn": "瑟银锭",
+                    "quality": 1,
+                    "icon": "inv_ingot_07",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q1\">瑟银锭</b><span class='cus-id-2-right'>ID: 12359</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">6</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?12359:1:1:80-->"
+                }
+            ],
+            [
+                11176,
+                3,
+                {
+                    "name_zhcn": "梦境之尘",
+                    "quality": 1,
+                    "icon": "inv_enchant_dustdream",
+                    "tooltip_zhcn": "<table><tr><td><b class=\"q1\">梦境之尘</b><span class='cus-id-2-right'>ID: 11176</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?11176:1:1:80-->"
+                }
+            ]
+        ],
+        "source": [
+            6
+        ],
+        "creates": [
+            12655,
+            1,
+            1
+        ],
+        "learnedat": 250,
+        "colors": [
+            250,
+            250,
+            255,
+            260
+        ],
+        "tab_name": "配方",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ingot_eternium.jpg",
+        "tip": {
+            "name_zhcn": "Lamppost",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">Lamppost</b></td></tr></table>",
+            "map": {}
+        }
+    },
+    {
+        "id": 35273,
+        "name": "4高级熔炼教程",
+        "icon": "inv_misc_book_08",
+        "classs": 9,
+        "subclass": 12,
+        "side": 3,
+        "level": 70,
+        "displayid": 1155,
+        "name_en": "Study of Advanced Smelting",
+        "reqskill": 186,
+        "reqskillrank": 375,
+        "source": [
+            2
+        ],
+        "sourcemore": [
+            {
+                "n": "炎刃秘法师",
+                "t": 1,
+                "ti": 25363
+            }
+        ],
+        "tab_name": "配方物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_book_08.jpg",
+        "tip": {
+            "name_zhcn": "高级熔炼教程",
+            "quality": 3,
+            "icon": "inv_misc_book_08",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">高级熔炼教程</b><span class='cus-id-2-right'>ID: 35273</span><br /><!--bo-->拾取后绑定<br /><!--e--><!--ps-->需要<a class=\"q1\" href=\"?skill=186\">采矿</a> (375)<br /></td></tr></table><table><tr><td><span class=\"q2\">使用：  <a href=\"?spell=46353\">教你学会熔炼硬化氪金。</a></span><br /><span class=\"q1\">1次</span><br /><div><br /><span class=\"q2\"><a href=\"?item=35128\">硬化氪金</a></span><span class='cus-id-2-right'>ID: 35128</span><br /><!--e--><!--ps--><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">1</span> <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">50</span></div><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?35273:1:1:80--></div><div class=\"q1 whtt-reagents\"><br />需要 <a href=\"?item=23449\">氪金锭</a> (3), <a href=\"?item=23573\">硬化精金锭</a> (1)</div><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">2</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table>"
+        }
+    },
+    {
+        "id": 44956,
+        "name": "4地精的源质熔炼指南",
+        "icon": "inv_misc_book_11",
+        "classs": 9,
+        "subclass": 12,
+        "side": 3,
+        "level": 60,
+        "displayid": 1317,
+        "name_en": "Goblin's Guide to Elementium",
+        "reqskill": 186,
+        "reqskillrank": 300,
+        "source": [
+            2
+        ],
+        "sourcemore": [
+            {
+                "n": "大元素师克里希克",
+                "t": 1,
+                "ti": 14401
+            }
+        ],
+        "tab_name": "配方物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_misc_book_11.jpg",
+        "tip": {
+            "name_zhcn": "地精的源质熔炼指南",
+            "quality": 3,
+            "icon": "inv_misc_book_11",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">地精的源质熔炼指南</b><span class='cus-id-2-right'>ID: 44956</span><br /><!--bo-->拾取后绑定<br /><!--e--><!--ps-->需要<a class=\"q1\" href=\"?skill=186\">采矿</a> (300)<br /></td></tr></table><table><tr><td><span class=\"q2\">使用：  <a href=\"?spell=22967\">教你学会熔炼源质。</a></span><br /><span class=\"q1\">1次</span><br /><div><br /><span class=\"q5\"><a href=\"?item=17771\">魔化源质锭</a></span><span class='cus-id-2-right'>ID: 17771</span><br /><!--e--><!--ps--><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">10</span> </div><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?44956:1:1:80--></div><div class=\"q1 whtt-reagents\"><br />需要 <a href=\"?item=18562\">源质铸块</a> (1), <a href=\"?item=17010\">炽热之核</a> (1), <a href=\"?item=12360\">奥金锭</a> (10), <a href=\"?item=18567\">元素助熔剂</a> (3)</div><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">2</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table>"
+        }
+    },
+    {
+        "id": 17771,
+        "name": "2魔化源质锭",
+        "icon": "inv_ingot_thorium",
+        "classs": 7,
+        "subclass": 7,
+        "side": 3,
+        "level": 60,
+        "displayid": 29946,
+        "name_en": "Elementium Bar",
+        "source": [
+            1
+        ],
+        "sourcemore": [
+            {
+                "n": "熔炼源质",
+                "t": 6,
+                "ti": 22967,
+                "s": 186,
+                "c": 11,
+                "icon": "trade_engineering"
+            }
+        ],
+        "tab_name": "锻造物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ingot_thorium.jpg",
+        "tip": {
+            "name_zhcn": "魔化源质锭",
+            "quality": 5,
+            "icon": "inv_ingot_thorium",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q5\">魔化源质锭</b><span class='cus-id-2-right'>ID: 17771</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">10</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?17771:1:1:80-->"
+        }
+    },
+    {
+        "id": 37663,
+        "name": "5泰坦精钢锭",
+        "icon": "inv_ingot_titansteel_blue",
+        "classs": 7,
+        "subclass": 7,
+        "side": 3,
+        "level": 80,
+        "displayid": 57336,
+        "name_en": "Titansteel Bar",
+        "source": [
+            1
+        ],
+        "sourcemore": [
+            {
+                "n": "熔炼泰坦精钢",
+                "t": 6,
+                "ti": 55208,
+                "s": 186,
+                "c": 11,
+                "icon": "spell_fire_flameblades"
+            }
+        ],
+        "tab_name": "锻造物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ingot_titansteel_blue.jpg",
+        "tip": {
+            "name_zhcn": "泰坦精钢锭",
+            "quality": 2,
+            "icon": "inv_ingot_titansteel_blue",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">泰坦精钢锭</b><span class='cus-id-2-right'>ID: 37663</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">1</span> <span class=\"moneysilver\">25</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?37663:1:1:80-->"
+        }
+    },
+    {
+        "id": 41163,
+        "name": "5泰坦神铁锭",
+        "icon": "inv_ingot_platinum",
+        "classs": 7,
+        "subclass": 7,
+        "side": 3,
+        "level": 80,
+        "displayid": 52909,
+        "name_en": "Titanium Bar",
+        "source": [
+            1
+        ],
+        "sourcemore": [
+            {
+                "n": "转化：泰坦神铁",
+                "t": 6,
+                "ti": 60350,
+                "s": 171,
+                "c": 11,
+                "icon": "inv_ingot_platinum"
+            }
+        ],
+        "tab_name": "锻造物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ingot_platinum.jpg",
+        "tip": {
+            "name_zhcn": "泰坦神铁锭",
+            "quality": 2,
+            "icon": "inv_ingot_platinum",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">泰坦神铁锭</b><span class='cus-id-2-right'>ID: 41163</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">1</span> <span class=\"moneysilver\">87</span> <span class=\"moneycopper\">50</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?41163:1:1:80-->"
+        }
+    },
+    {
+        "id": 23447,
+        "name": "5恒金锭",
+        "icon": "inv_ingot_11",
+        "classs": 7,
+        "subclass": 7,
+        "side": 3,
+        "level": 70,
+        "displayid": 39490,
+        "name_en": "Eternium Bar",
+        "source": [
+            1,
+            2
+        ],
+        "tab_name": "锻造物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ingot_11.jpg",
+        "tip": {
+            "name_zhcn": "恒金锭",
+            "quality": 2,
+            "icon": "inv_ingot_11",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">恒金锭</b><span class='cus-id-2-right'>ID: 23447</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">25</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?23447:1:1:80-->"
+        }
+    },
+    {
+        "id": 23449,
+        "name": "5氪金锭",
+        "icon": "inv_ingot_09",
+        "classs": 7,
+        "subclass": 7,
+        "side": 3,
+        "level": 70,
+        "displayid": 43358,
+        "name_en": "Khorium Bar",
+        "source": [
+            1,
+            2
+        ],
+        "tab_name": "锻造物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ingot_09.jpg",
+        "tip": {
+            "name_zhcn": "氪金锭",
+            "quality": 2,
+            "icon": "inv_ingot_09",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">氪金锭</b><span class='cus-id-2-right'>ID: 23449</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">1</span> <span class=\"moneysilver\">25</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?23449:1:1:80-->"
+        }
+    },
+    {
+        "id": 35128,
+        "name": "5硬化氪金",
+        "icon": "inv_ingot_thorium",
+        "classs": 7,
+        "subclass": 7,
+        "side": 3,
+        "level": 70,
+        "displayid": 29946,
+        "name_en": "Hardened Khorium",
+        "source": [
+            1
+        ],
+        "sourcemore": [
+            {
+                "n": "熔炼硬化氪金",
+                "t": 6,
+                "ti": 46353,
+                "s": 186,
+                "c": 11,
+                "icon": "trade_blacksmithing"
+            }
+        ],
+        "tab_name": "锻造物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ingot_thorium.jpg",
+        "tip": {
+            "name_zhcn": "硬化氪金",
+            "quality": 2,
+            "icon": "inv_ingot_thorium",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">硬化氪金</b><span class='cus-id-2-right'>ID: 35128</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">1</span> <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">50</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?35128:1:1:80-->"
+        }
+    },
+    {
+        "id": 23448,
+        "name": "5魔钢锭",
+        "icon": "inv_ingot_felsteel",
+        "classs": 7,
+        "subclass": 7,
+        "side": 3,
+        "level": 60,
+        "displayid": 39487,
+        "name_en": "Felsteel Bar",
+        "source": [
+            1
+        ],
+        "sourcemore": [
+            {
+                "n": "熔炼魔钢",
+                "t": 6,
+                "ti": 29360,
+                "s": 186,
+                "c": 11,
+                "icon": "trade_engineering"
+            }
+        ],
+        "tab_name": "锻造物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ingot_felsteel.jpg",
+        "tip": {
+            "name_zhcn": "魔钢锭",
+            "quality": 2,
+            "icon": "inv_ingot_felsteel",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">魔钢锭</b><span class='cus-id-2-right'>ID: 23448</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">15</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?23448:1:1:80-->"
+        }
+    },
+    {
+        "id": 6037,
+        "name": "5真银锭",
+        "icon": "inv_ingot_08",
+        "classs": 7,
+        "subclass": 7,
+        "side": 3,
+        "level": 50,
+        "displayid": 20656,
+        "name_en": "Truesilver Bar",
+        "source": [
+            1,
+            2
+        ],
+        "tab_name": "锻造物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ingot_08.jpg",
+        "tip": {
+            "name_zhcn": "真银锭",
+            "quality": 2,
+            "icon": "inv_ingot_08",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">真银锭</b><span class='cus-id-2-right'>ID: 6037</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">12</span> <span class=\"moneycopper\">50</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?6037:1:1:80-->"
+        }
+    },
+    {
+        "id": 3577,
+        "name": "5金锭",
+        "icon": "inv_ingot_03",
+        "classs": 7,
+        "subclass": 7,
+        "side": 3,
+        "level": 30,
+        "displayid": 7352,
+        "name_en": "Gold Bar",
+        "source": [
+            1,
+            2
+        ],
+        "tab_name": "锻造物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ingot_03.jpg",
+        "tip": {
+            "name_zhcn": "金锭",
+            "quality": 2,
+            "icon": "inv_ingot_03",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">金锭</b><span class='cus-id-2-right'>ID: 3577</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">6</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?3577:1:1:80-->"
+        }
+    },
+    {
+        "id": 2842,
+        "name": "5银锭",
+        "icon": "inv_ingot_01",
+        "classs": 7,
+        "subclass": 7,
+        "side": 3,
+        "level": 10,
+        "displayid": 7355,
+        "name_en": "Silver Bar",
+        "source": [
+            1,
+            2,
+            4
+        ],
+        "tab_name": "锻造物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ingot_01.jpg",
+        "tip": {
+            "name_zhcn": "银锭",
+            "quality": 2,
+            "icon": "inv_ingot_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">银锭</b><span class='cus-id-2-right'>ID: 2842</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">1</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?2842:1:1:80-->"
+        }
+    },
+    {
+        "id": 36913,
+        "name": "6萨隆邪铁锭",
+        "icon": "inv_ingot_yoggthorite",
+        "classs": 7,
+        "subclass": 7,
+        "side": 3,
+        "level": 80,
+        "displayid": 52705,
+        "name_en": "Saronite Bar",
+        "source": [
+            1
+        ],
+        "sourcemore": [
+            {
+                "n": "熔炼萨隆邪铁",
+                "t": 6,
+                "ti": 49258,
+                "s": 186,
+                "c": 11,
+                "icon": "spell_fire_flameblades"
+            }
+        ],
+        "tab_name": "锻造物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ingot_yoggthorite.jpg",
+        "tip": {
+            "name_zhcn": "萨隆邪铁锭",
+            "quality": 1,
+            "icon": "inv_ingot_yoggthorite",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">萨隆邪铁锭</b><span class='cus-id-2-right'>ID: 36913</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">1</span> <span class=\"moneysilver\">25</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?36913:1:1:80-->"
+        }
+    },
+    {
+        "id": 36916,
+        "name": "6钴锭",
+        "icon": "inv_ingot_cobalt",
+        "classs": 7,
+        "subclass": 7,
+        "side": 3,
+        "level": 72,
+        "displayid": 50594,
+        "name_en": "Cobalt Bar",
+        "source": [
+            1
+        ],
+        "sourcemore": [
+            {
+                "n": "熔炼钴锭",
+                "t": 6,
+                "ti": 49252,
+                "s": 186,
+                "c": 11,
+                "icon": "spell_fire_flameblades"
+            }
+        ],
+        "tab_name": "锻造物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ingot_cobalt.jpg",
+        "tip": {
+            "name_zhcn": "钴锭",
+            "quality": 1,
+            "icon": "inv_ingot_cobalt",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">钴锭</b><span class='cus-id-2-right'>ID: 36916</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">37</span> <span class=\"moneycopper\">50</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?36916:1:1:80-->"
+        }
+    },
+    {
+        "id": 22573,
+        "name": "6土之微粒",
+        "icon": "inv_elemental_mote_earth01",
+        "classs": 7,
+        "subclass": 10,
+        "side": 3,
+        "level": 65,
+        "displayid": 38610,
+        "name_en": "Mote of Earth",
+        "source": [
+            1,
+            2,
+            5,
+            19
+        ],
+        "tab_name": "锻造物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_elemental_mote_earth01.jpg",
+        "tip": {
+            "name_zhcn": "土之微粒",
+            "quality": 1,
+            "icon": "inv_elemental_mote_earth01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">土之微粒</b><span class='cus-id-2-right'>ID: 22573</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">使用： 将十份土之微粒合成为一份源生之土。</span><br /><span class=\"q1\">1次</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">4</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?22573:1:1:80-->"
+        }
+    },
+    {
+        "id": 22574,
+        "name": "6火焰微粒",
+        "icon": "inv_elemental_mote_fire01",
+        "classs": 7,
+        "subclass": 10,
+        "side": 3,
+        "level": 65,
+        "displayid": 41682,
+        "name_en": "Mote of Fire",
+        "source": [
+            1,
+            2,
+            5,
+            19
+        ],
+        "tab_name": "锻造物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_elemental_mote_fire01.jpg",
+        "tip": {
+            "name_zhcn": "火焰微粒",
+            "quality": 1,
+            "icon": "inv_elemental_mote_fire01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">火焰微粒</b><span class='cus-id-2-right'>ID: 22574</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">使用： 将十份火焰微粒合成为一份源生火焰。</span><br /><span class=\"q1\">1次</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">4</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?22574:1:1:80-->"
+        }
+    },
+    {
+        "id": 23446,
+        "name": "6精金锭",
+        "icon": "inv_ingot_10",
+        "classs": 7,
+        "subclass": 7,
+        "side": 3,
+        "level": 65,
+        "displayid": 39489,
+        "name_en": "Adamantite Bar",
+        "source": [
+            1,
+            2
+        ],
+        "tab_name": "锻造物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ingot_10.jpg",
+        "tip": {
+            "name_zhcn": "精金锭",
+            "quality": 1,
+            "icon": "inv_ingot_10",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">精金锭</b><span class='cus-id-2-right'>ID: 23446</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">30</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?23446:1:1:80-->"
+        }
+    },
+    {
+        "id": 23573,
+        "name": "6硬化精金锭",
+        "icon": "inv_ingot_adamantite",
+        "classs": 7,
+        "subclass": 7,
+        "side": 3,
+        "level": 65,
+        "displayid": 39486,
+        "name_en": "Hardened Adamantite Bar",
+        "source": [
+            1
+        ],
+        "sourcemore": [
+            {
+                "n": "熔炼硬化精金",
+                "t": 6,
+                "ti": 29686,
+                "s": 186,
+                "c": 11,
+                "icon": "trade_engineering"
+            }
+        ],
+        "tab_name": "锻造物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ingot_adamantite.jpg",
+        "tip": {
+            "name_zhcn": "硬化精金锭",
+            "quality": 1,
+            "icon": "inv_ingot_adamantite",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">硬化精金锭</b><span class='cus-id-2-right'>ID: 23573</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">3</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?23573:1:1:80-->"
+        }
+    },
+    {
+        "id": 23445,
+        "name": "6魔铁锭",
+        "icon": "inv_ingot_feliron",
+        "classs": 7,
+        "subclass": 7,
+        "side": 3,
+        "level": 60,
+        "displayid": 44950,
+        "name_en": "Fel Iron Bar",
+        "source": [
+            1,
+            2
+        ],
+        "tab_name": "锻造物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ingot_feliron.jpg",
+        "tip": {
+            "name_zhcn": "魔铁锭",
+            "quality": 1,
+            "icon": "inv_ingot_feliron",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">魔铁锭</b><span class='cus-id-2-right'>ID: 23445</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">20</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?23445:1:1:80-->"
+        }
+    },
+    {
+        "id": 12655,
+        "name": "6魔化瑟银锭",
+        "icon": "inv_ingot_eternium",
+        "classs": 7,
+        "subclass": 7,
+        "side": 3,
+        "level": 55,
+        "displayid": 22445,
+        "name_en": "Enchanted Thorium Bar",
+        "source": [
+            1
+        ],
+        "sourcemore": [
+            {
+                "n": "魔化瑟银",
+                "t": 6,
+                "ti": 70524,
+                "s": 186,
+                "c": 11,
+                "icon": "inv_ingot_eternium"
+            }
+        ],
+        "tab_name": "锻造物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ingot_eternium.jpg",
+        "tip": {
+            "name_zhcn": "魔化瑟银锭",
+            "quality": 1,
+            "icon": "inv_ingot_eternium",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">魔化瑟银锭</b><span class='cus-id-2-right'>ID: 12655</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">5</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?12655:1:1:80-->"
+        }
+    },
+    {
+        "id": 11371,
+        "name": "6黑铁锭",
+        "icon": "inv_ingot_mithril",
+        "classs": 7,
+        "subclass": 7,
+        "side": 3,
+        "level": 50,
+        "displayid": 7389,
+        "name_en": "Dark Iron Bar",
+        "source": [
+            1
+        ],
+        "sourcemore": [
+            {
+                "n": "熔炼黑铁",
+                "t": 6,
+                "ti": 14891,
+                "s": 186,
+                "c": 11,
+                "icon": "trade_engineering"
+            }
+        ],
+        "tab_name": "锻造物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ingot_mithril.jpg",
+        "tip": {
+            "name_zhcn": "黑铁锭",
+            "quality": 1,
+            "icon": "inv_ingot_mithril",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">黑铁锭</b><span class='cus-id-2-right'>ID: 11371</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">6</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?11371:1:1:80-->"
+        }
+    },
+    {
+        "id": 12359,
+        "name": "6瑟银锭",
+        "icon": "inv_ingot_07",
+        "classs": 7,
+        "subclass": 7,
+        "side": 3,
+        "level": 50,
+        "displayid": 22444,
+        "name_en": "Thorium Bar",
+        "source": [
+            1
+        ],
+        "sourcemore": [
+            {
+                "n": "熔炼瑟银",
+                "t": 6,
+                "ti": 16153,
+                "s": 186,
+                "c": 11,
+                "icon": "trade_engineering"
+            }
+        ],
+        "tab_name": "锻造物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ingot_07.jpg",
+        "tip": {
+            "name_zhcn": "瑟银锭",
+            "quality": 1,
+            "icon": "inv_ingot_07",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">瑟银锭</b><span class='cus-id-2-right'>ID: 12359</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">6</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?12359:1:1:80-->"
+        }
+    },
+    {
+        "id": 3860,
+        "name": "6秘银锭",
+        "icon": "inv_ingot_06",
+        "classs": 7,
+        "subclass": 7,
+        "side": 3,
+        "level": 40,
+        "displayid": 20659,
+        "name_en": "Mithril Bar",
+        "source": [
+            1
+        ],
+        "sourcemore": [
+            {
+                "n": "熔炼秘银",
+                "t": 6,
+                "ti": 10097,
+                "s": 186,
+                "c": 11,
+                "icon": "trade_engineering"
+            }
+        ],
+        "tab_name": "锻造物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ingot_06.jpg",
+        "tip": {
+            "name_zhcn": "秘银锭",
+            "quality": 1,
+            "icon": "inv_ingot_06",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">秘银锭</b><span class='cus-id-2-right'>ID: 3860</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">4</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?3860:1:1:80-->"
+        }
+    },
+    {
+        "id": 3859,
+        "name": "6钢锭",
+        "icon": "inv_ingot_steel",
+        "classs": 7,
+        "subclass": 7,
+        "side": 3,
+        "level": 35,
+        "displayid": 7392,
+        "name_en": "Steel Bar",
+        "source": [
+            1
+        ],
+        "sourcemore": [
+            {
+                "n": "熔炼钢锭",
+                "t": 6,
+                "ti": 3569,
+                "s": 186,
+                "c": 11,
+                "icon": "trade_engineering"
+            }
+        ],
+        "tab_name": "锻造物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ingot_steel.jpg",
+        "tip": {
+            "name_zhcn": "钢锭",
+            "quality": 1,
+            "icon": "inv_ingot_steel",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">钢锭</b><span class='cus-id-2-right'>ID: 3859</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">60</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?3859:1:1:80-->"
+        }
+    },
+    {
+        "id": 3575,
+        "name": "6铁锭",
+        "icon": "inv_ingot_iron",
+        "classs": 7,
+        "subclass": 7,
+        "side": 3,
+        "level": 30,
+        "displayid": 7376,
+        "name_en": "Iron Bar",
+        "source": [
+            1
+        ],
+        "sourcemore": [
+            {
+                "n": "熔炼铁锭",
+                "t": 6,
+                "ti": 3307,
+                "s": 186,
+                "c": 11,
+                "icon": "trade_engineering"
+            }
+        ],
+        "tab_name": "锻造物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ingot_iron.jpg",
+        "tip": {
+            "name_zhcn": "铁锭",
+            "quality": 1,
+            "icon": "inv_ingot_iron",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">铁锭</b><span class='cus-id-2-right'>ID: 3575</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">2</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?3575:1:1:80-->"
+        }
+    },
+    {
+        "id": 2841,
+        "name": "6青铜锭",
+        "icon": "inv_ingot_bronze",
+        "classs": 7,
+        "subclass": 7,
+        "side": 3,
+        "level": 20,
+        "displayid": 7390,
+        "name_en": "Bronze Bar",
+        "source": [
+            1
+        ],
+        "sourcemore": [
+            {
+                "n": "熔炼青铜",
+                "t": 6,
+                "ti": 2659,
+                "s": 186,
+                "c": 11,
+                "icon": "trade_engineering"
+            }
+        ],
+        "tab_name": "锻造物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ingot_bronze.jpg",
+        "tip": {
+            "name_zhcn": "青铜锭",
+            "quality": 1,
+            "icon": "inv_ingot_bronze",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">青铜锭</b><span class='cus-id-2-right'>ID: 2841</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">50</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?2841:1:1:80-->"
+        }
+    },
+    {
+        "id": 3576,
+        "name": "6锡锭",
+        "icon": "inv_ingot_05",
+        "classs": 7,
+        "subclass": 7,
+        "side": 3,
+        "level": 20,
+        "displayid": 18086,
+        "name_en": "Tin Bar",
+        "source": [
+            1
+        ],
+        "sourcemore": [
+            {
+                "n": "熔炼锡锭",
+                "t": 6,
+                "ti": 3304,
+                "s": 186,
+                "c": 11,
+                "icon": "trade_engineering"
+            }
+        ],
+        "tab_name": "锻造物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ingot_05.jpg",
+        "tip": {
+            "name_zhcn": "锡锭",
+            "quality": 1,
+            "icon": "inv_ingot_05",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">锡锭</b><span class='cus-id-2-right'>ID: 3576</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">35</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?3576:1:1:80-->"
+        }
+    },
+    {
+        "id": 2840,
+        "name": "6铜锭",
+        "icon": "inv_ingot_02",
+        "classs": 7,
+        "subclass": 7,
+        "side": 3,
+        "level": 10,
+        "displayid": 7391,
+        "name_en": "Copper Bar",
+        "source": [
+            1,
+            2
+        ],
+        "tab_name": "锻造物品",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_ingot_02.jpg",
+        "tip": {
+            "name_zhcn": "铜锭",
+            "quality": 1,
+            "icon": "inv_ingot_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">铜锭</b><span class='cus-id-2-right'>ID: 2840</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">10</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?2840:1:1:80-->"
+        }
+    },
+    {
+        "id": 9465,
+        "name": "4挖掘大师5000型",
+        "icon": "inv_pick_01",
+        "classs": 2,
+        "subclass": 0,
+        "side": 3,
+        "slot": 13,
+        "slotbak": 13,
+        "level": 45,
+        "reqlevel": 40,
+        "displayid": 18377,
+        "dura": 90,
+        "dmgmin1": 38,
+        "dmgmax1": 71,
+        "speed": 1.8,
+        "dps": 30.3,
+        "mledmgmin": 38,
+        "mledmgmax": 71,
+        "mlespeed": 1.8,
+        "mledps": 30.3,
+        "gearscore": 10.547,
+        "name_en": "Digmaster 5000",
+        "reqskill": 186,
+        "reqskillrank": 175,
+        "source": [
+            2
+        ],
+        "tab_name": "需求者",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/inv_pick_01.jpg",
+        "tip": {
+            "name_zhcn": "挖掘大师5000型",
+            "quality": 3,
+            "icon": "inv_pick_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">挖掘大师5000型</b><span class='cus-id-2-right'>ID: 9465</span><br /><!--bo-->装备后绑定<br />装备唯一<table width=\"100%\"><tr><td>单手</td><th>斧</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->38 - 71伤害</td><th>速度 <!--spd-->1.80</th></tr></table><!--dps-->（每秒伤害30.3）<br /><span><!--stat3-->+4 敏捷</span><br /><!--e--><!--ps-->耐久度 90 / 90<br />需要等级 40<br />物品等级45<br />需要<a class=\"q1\" href=\"?skill=186\">采矿</a> (175)<br /></td></tr></table><table><tr><td><span class=\"q2\">击中时可能： 使目标的护甲降低100点。</span><br /><span class=\"q\">\"也可以当作矿工锄使用。\"</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">1</span> <span class=\"moneysilver\">85</span> <span class=\"moneycopper\">61</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?9465:1:1:40-->"
+        }
+    },
+    {
+        "id": 2575,
+        "name": "@采矿",
+        "name_en": "Mining",
+        "icon": "trade_mining",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 10,
+        "skill": [
+            186
+        ],
+        "reagents": [],
+        "source": [
+            6
+        ],
+        "colors": null,
+        "rank": "初级",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_mining.jpg",
+        "tip": {
+            "name_zhcn": "红色亚麻衬衣",
+            "quality": 1,
+            "icon": "inv_shirt_red_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">红色亚麻衬衣</b><span class='cus-id-2-right'>ID: 2575</span><table width=\"100%\"><tr><td>衬衣</td></tr></table><!--e--><!--ps-->物品等级10<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">25</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?2575:1:1:80-->"
+        }
+    },
+    {
+        "id": 2576,
+        "name": "@采矿",
+        "name_en": "Mining",
+        "icon": "trade_mining",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 500,
+        "skill": [
+            186
+        ],
+        "reagents": [],
+        "source": [
+            6
+        ],
+        "learnedat": 50,
+        "colors": null,
+        "rank": "中级",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_mining.jpg",
+        "tip": {
+            "name_zhcn": "白色亚麻衬衣",
+            "quality": 1,
+            "icon": "inv_shirt_white_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">白色亚麻衬衣</b><span class='cus-id-2-right'>ID: 2576</span><table width=\"100%\"><tr><td>衬衣</td></tr></table><!--e--><!--ps-->物品等级7<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">75</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?2576:1:1:80-->"
+        }
+    },
+    {
+        "id": 2580,
+        "name": "@寻找矿物",
+        "name_en": "Find Minerals",
+        "icon": "spell_nature_earthquake",
+        "level": 1,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 0,
+        "skill": [
+            186
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "learnedat": 1,
+        "colors": null,
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_nature_earthquake.jpg",
+        "tip": {
+            "name_zhcn": "强化亚麻斗篷",
+            "quality": 2,
+            "icon": "inv_misc_cape_07",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">强化亚麻斗篷</b><span class='cus-id-2-right'>ID: 2580</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>背部</td></tr></table><span><!--amr-->11点护甲</span><br /><span><!--stat5-->+1 智力</span><br /><!--e--><!--ps-->需要等级 7<br />物品等级12<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">1</span> <span class=\"moneycopper\">12</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?2580:1:1:7-->"
+        }
+    },
+    {
+        "id": 2656,
+        "name": "@熔炼",
+        "name_en": "Smelting",
+        "icon": "spell_fire_flameblades",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 0,
+        "skill": [
+            186
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "learnedat": 1,
+        "colors": null,
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_fire_flameblades.jpg",
+        "tip": {
+            "name_zhcn": "劣质链甲外衣",
+            "quality": 0,
+            "icon": "inv_chest_chain",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q0\">劣质链甲外衣</b><span class='cus-id-2-right'>ID: 2656</span><table width=\"100%\"><tr><td>胸部</td><th><!--asc3-->锁甲</th></tr></table><span><!--amr-->63点护甲</span><br /><!--e--><!--ps-->耐久度 55 / 55<br />物品等级5<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">9</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?2656:1:1:80-->"
+        }
+    },
+    {
+        "id": 3564,
+        "name": "@采矿",
+        "name_en": "Mining",
+        "icon": "trade_mining",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 5000,
+        "skill": [
+            186
+        ],
+        "reagents": [],
+        "source": [
+            6
+        ],
+        "learnedat": 125,
+        "colors": null,
+        "rank": "高级",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_mining.jpg",
+        "tip": {
+            "name_zhcn": "一箱铁材",
+            "quality": 1,
+            "icon": "inv_crate_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">一箱铁材</b><span class='cus-id-2-right'>ID: 3564</span><br /><!--bo-->任务物品<br />唯一<br /><!--e--><!--ps--></td></tr></table><table><tr><td></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?3564:1:1:80-->"
+        }
+    },
+    {
+        "id": 8388,
+        "name": "@寻找矿物",
+        "name_en": "Find Minerals",
+        "icon": "spell_nature_earthquake",
+        "level": 1,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 0,
+        "skill": [
+            186
+        ],
+        "reagents": [],
+        "source": [],
+        "colors": null,
+        "rank": "等级 2",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/spell_nature_earthquake.jpg",
+        "tip": {
+            "name_zhcn": "地平线轻帆号厨师",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">地平线轻帆号厨师</b></td></tr><tr><td>等级 42 人型生物 (普通)</td></tr></table>",
+            "map": {
+                "zone": 14,
+                "coords": {
+                    "0": [
+                        [
+                            73.8,
+                            1.7
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id": 10248,
+        "name": "@采矿",
+        "name_en": "Mining",
+        "icon": "trade_mining",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 50000,
+        "skill": [
+            186
+        ],
+        "reagents": [],
+        "source": [
+            6
+        ],
+        "learnedat": 200,
+        "colors": null,
+        "rank": "专家级",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_mining.jpg",
+        "tip": {
+            "name_zhcn": "大师护腕",
+            "quality": 2,
+            "icon": "inv_bracer_07",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">大师护腕</b><span class='cus-id-2-right'>ID: 10248</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>手腕</td><th><!--asc1-->布甲</th></tr></table><span><!--amr-->35点护甲</span><br /><span class=\"q2\">&lt;随机附魔&gt</span><br /><!--e--><!--ps-->耐久度 25 / 25<br />需要等级 57<br />物品等级62<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">87</span> <span class=\"moneycopper\">37</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?10248:1:1:57-->"
+        }
+    },
+    {
+        "id": 29354,
+        "name": "@采矿",
+        "name_en": "Mining",
+        "icon": "trade_mining",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 100000,
+        "skill": [
+            186
+        ],
+        "reagents": [],
+        "source": [
+            6
+        ],
+        "learnedat": 275,
+        "colors": null,
+        "rank": "大师级",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_mining.jpg",
+        "tip": {
+            "name_zhcn": "无私之圣光披风",
+            "quality": 4,
+            "icon": "inv_misc_cape_06",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">无私之圣光披风</b><span class='cus-id-2-right'>ID: 29354</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>背部</td></tr></table><span><!--amr-->93点护甲</span><br /><span><!--stat7-->+22 耐力</span><br /><span><!--stat5-->+21 智力</span><br /><!--e--><!--ps-->需要等级 70<br />物品等级110<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 法术强度提高29点。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">3</span> <span class=\"moneysilver\">43</span> <span class=\"moneycopper\">74</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?29354:1:1:70-->"
+        }
+    },
+    {
+        "id": 32606,
+        "name": "@采矿",
+        "name_en": "Mining",
+        "icon": "trade_mining",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 0,
+        "skill": [
+            186
+        ],
+        "reagents": [],
+        "source": [
+            10
+        ],
+        "learnedat": 1,
+        "colors": null,
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_mining.jpg",
+        "tip": {
+            "name_zhcn": "圣光使者腰带",
+            "quality": 4,
+            "icon": "inv_belt_28",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">圣光使者腰带</b><span class='cus-id-2-right'>ID: 32606</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>腰部</td><th><!--asc4-->板甲</th></tr></table><span><!--amr-->993点护甲</span><br /><span><!--stat4-->+49 力量</span><br /><span><!--stat7-->+33 耐力</span><br /><span><!--stat5-->+21 智力</span><br /><!--e--><!--ps-->耐久度 55 / 55<br />需要等级 70<br />物品等级141<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 急速等级提高<!--rtg36-->32&nbsp;<small>(<!--rtg%36-->2.03%&nbsp;@&nbsp;L<!--lvl-->70)</small>。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">4</span> <span class=\"moneysilver\">97</span> <span class=\"moneycopper\">13</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?32606:1:80:70-->"
+        }
+    },
+    {
+        "id": 50310,
+        "name": "@采矿",
+        "name_en": "Mining",
+        "icon": "trade_mining",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 350000,
+        "skill": [
+            186
+        ],
+        "reagents": [],
+        "source": [
+            6
+        ],
+        "learnedat": 350,
+        "colors": null,
+        "rank": "宗师级",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/trade_mining.jpg",
+        "tip": {
+            "name_zhcn": "硬化菊石颈饰",
+            "quality": 4,
+            "icon": "inv_misc_shell_04",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">硬化菊石颈饰</b><span class='cus-id-2-right'>ID: 50310</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>颈部</td></tr></table><span><!--stat4-->+67 力量</span><br /><span><!--stat7-->+100 耐力</span><br /><!--e--><!--ps-->需要等级 80<br />物品等级232<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 防御等级提高<!--rtg12-->35&nbsp;<small>(<!--rtg%12-->7.12&nbsp;@&nbsp;L<!--lvl-->80)</small>。</span><br /><span class=\"q2\">装备： 使你的躲闪等级提高<!--rtg13-->35&nbsp;<small>(<!--rtg%13-->0.77%&nbsp;@&nbsp;L<!--lvl-->80)</small>。</span><br /><span class=\"q2\">装备： 使你的招架等级提高<!--rtg14-->35&nbsp;<small>(<!--rtg%14-->0.77%&nbsp;@&nbsp;L<!--lvl-->80)</small>。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">7</span> <span class=\"moneysilver\">56</span> <span class=\"moneycopper\">23</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?50310:1:80:80-->"
+        }
+    },
+    {
+        "id": 53040,
+        "name": "@坚韧",
+        "name_en": "Toughness",
+        "icon": "ability_golemthunderclap",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 0,
+        "skill": [
+            186
+        ],
+        "reagents": [],
+        "source": [],
+        "learnedat": 450,
+        "colors": null,
+        "rank": "等级 6",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/ability_golemthunderclap.jpg",
+        "tip": {
+            "name_zhcn": "坚韧",
+            "icon": "ability_golemthunderclap",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>坚韧</b></td><th><b class=\"q0\">等级 6</b></th></tr></table>瞬发</td></tr></table><table><tr><td><span class=\"q\">由于长期从事采矿工作，你变得非常强壮，耐力值提高60点。</span></td></tr></table><!--?53040:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 53120,
+        "name": "@坚韧",
+        "name_en": "Toughness",
+        "icon": "ability_golemthunderclap",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 0,
+        "skill": [
+            186
+        ],
+        "reagents": [],
+        "source": [],
+        "learnedat": 75,
+        "colors": null,
+        "rank": "等级 1",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/ability_golemthunderclap.jpg",
+        "tip": {
+            "name_zhcn": "坚韧",
+            "icon": "ability_golemthunderclap",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>坚韧</b></td><th><b class=\"q0\">等级 1</b></th></tr></table>瞬发</td></tr></table><table><tr><td><span class=\"q\">由于长期从事采矿工作，你变得非常强壮，耐力值提高3点。</span></td></tr></table><!--?53120:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 53121,
+        "name": "@坚韧",
+        "name_en": "Toughness",
+        "icon": "ability_golemthunderclap",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 0,
+        "skill": [
+            186
+        ],
+        "reagents": [],
+        "source": [],
+        "learnedat": 150,
+        "colors": null,
+        "rank": "等级 2",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/ability_golemthunderclap.jpg",
+        "tip": {
+            "name_zhcn": "主教护带",
+            "quality": 4,
+            "icon": "inv_belt_70",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">主教护带</b><span class='cus-id-2-right'>ID: 53121</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>腰部</td><th><!--asc4-->板甲</th></tr></table><span><!--amr-->1455点护甲</span><br /><span><!--stat7-->+86 耐力</span><br /><span><!--stat5-->+86 智力</span><br /><!--e--><span class=\"socket-blue q0\" >蓝色插槽</span><br /><span class=\"socket-red q0\" >红色插槽</span><br /><!--ps--><span class=\"q0\">镶孔奖励：<a href=\"?enchantment=3602\">+7 法术强度</a></span><br />耐久度 55 / 55<br />需要等级 80<br />物品等级258<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 法术强度提高<!--rtg45-->114点。</span><br /><span class=\"q2\">装备： 急速等级提高<!--rtg36-->60&nbsp;<small>(<!--rtg%36-->1.83%&nbsp;@&nbsp;L<!--lvl-->80)</small>。</span><br /><span class=\"q2\">装备： 爆击等级提高<!--rtg32-->76&nbsp;<small>(<!--rtg%32-->1.66%&nbsp;@&nbsp;L<!--lvl-->80)</small>。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">8</span> <span class=\"moneysilver\">71</span> <span class=\"moneycopper\">36</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?53121:1:80:80-->"
+        }
+    },
+    {
+        "id": 53122,
+        "name": "@坚韧",
+        "name_en": "Toughness",
+        "icon": "ability_golemthunderclap",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 0,
+        "skill": [
+            186
+        ],
+        "reagents": [],
+        "source": [],
+        "learnedat": 225,
+        "colors": null,
+        "rank": "等级 3",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/ability_golemthunderclap.jpg",
+        "tip": {
+            "name_zhcn": "坚韧",
+            "icon": "ability_golemthunderclap",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>坚韧</b></td><th><b class=\"q0\">等级 3</b></th></tr></table>瞬发</td></tr></table><table><tr><td><span class=\"q\">由于长期从事采矿工作，你变得非常强壮，耐力值提高7点。</span></td></tr></table><!--?53122:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 53123,
+        "name": "@坚韧",
+        "name_en": "Toughness",
+        "icon": "ability_golemthunderclap",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 0,
+        "skill": [
+            186
+        ],
+        "reagents": [],
+        "source": [],
+        "learnedat": 300,
+        "colors": null,
+        "rank": "等级 4",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/ability_golemthunderclap.jpg",
+        "tip": {
+            "name_zhcn": "坚韧",
+            "icon": "ability_golemthunderclap",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>坚韧</b></td><th><b class=\"q0\">等级 4</b></th></tr></table>瞬发</td></tr></table><table><tr><td><span class=\"q\">由于长期从事采矿工作，你变得非常强壮，耐力值提高10点。</span></td></tr></table><!--?53123:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "id": 53124,
+        "name": "@坚韧",
+        "name_en": "Toughness",
+        "icon": "ability_golemthunderclap",
+        "level": 0,
+        "school": 1,
+        "cat": 11,
+        "trainingcost": 0,
+        "skill": [
+            186
+        ],
+        "reagents": [],
+        "source": [],
+        "learnedat": 375,
+        "colors": null,
+        "rank": "等级 5",
+        "tab_name": "技能",
+        "icon_url": "http://image.nfuwow.com/static/database/static/images/wow/icons/medium/ability_golemthunderclap.jpg",
+        "tip": {
+            "name_zhcn": "坚韧",
+            "icon": "ability_golemthunderclap",
+            "tooltip_zhcn": "<table><tr><td><table width=\"100%\"><tr><td><b>坚韧</b></td><th><b class=\"q0\">等级 5</b></th></tr></table>瞬发</td></tr></table><table><tr><td><span class=\"q\">由于长期从事采矿工作，你变得非常强壮，耐力值提高30点。</span></td></tr></table><!--?53124:1:1:80-->",
+            "spells_zhcn": [],
+            "buff_zhcn": "",
+            "buffspells_zhcn": []
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 15,
+        "maxlevel": 15,
+        "id": 1681,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            38
+        ],
+        "name": "布洛克·寻石者",
+        "name_en": "Brock Stoneseeker",
+        "type": 7,
+        "react": [
+            1,
+            -1
+        ],
+        "hasQuests": 1,
+        "tag": "采矿训练师",
+        "tab_name": "训练师",
+        "tip": {
+            "name_zhcn": "布洛克·寻石者",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">布洛克·寻石者</b></td></tr><tr><td>采矿训练师</td></tr><tr><td>等级 15 人型生物 (普通)</td></tr><tr><td>铁炉堡</td></tr></table>",
+            "map": {
+                "zone": 38,
+                "coords": {
+                    "0": [
+                        [
+                            37,
+                            47.8
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 10,
+        "maxlevel": 10,
+        "id": 1701,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            1
+        ],
+        "name": "丹克·利刃",
+        "name_en": "Dank Drizzlecut",
+        "type": 7,
+        "react": [
+            1,
+            -1
+        ],
+        "tag": "采矿训练师",
+        "tab_name": "训练师",
+        "tip": {
+            "name_zhcn": "尖锐的蜥蜴爪",
+            "quality": 0,
+            "icon": "inv_misc_monsterclaw_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q0\">尖锐的蜥蜴爪</b><span class='cus-id-2-right'>ID: 1701</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">3</span> <span class=\"moneycopper\">76</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?1701:1:1:80-->"
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 35,
+        "maxlevel": 35,
+        "id": 3001,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            1638
+        ],
+        "name": "布瑞克·石蹄",
+        "name_en": "Brek Stonehoof",
+        "type": 7,
+        "react": [
+            -1,
+            1
+        ],
+        "tag": "采矿训练师",
+        "tab_name": "训练师",
+        "tip": {
+            "name_zhcn": "布瑞克·石蹄",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">布瑞克·石蹄</b></td></tr><tr><td>采矿训练师</td></tr><tr><td>等级 35 人型生物 (普通)</td></tr><tr><td>雷霆崖</td></tr></table>",
+            "map": {
+                "zone": 1638,
+                "coords": {
+                    "0": [
+                        [
+                            34.4,
+                            57.9
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 20,
+        "maxlevel": 20,
+        "id": 3137,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            10
+        ],
+        "name": "玛特·约翰森",
+        "name_en": "Matt Johnson",
+        "type": 7,
+        "react": [
+            1,
+            -1
+        ],
+        "tag": "采矿训练师",
+        "tab_name": "训练师",
+        "tip": {
+            "name_zhcn": "破损的致命飞斧",
+            "quality": 1,
+            "icon": "inv_throwingaxe_05",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">破损的致命飞斧</b><span class='cus-id-2-right'>ID: 3137</span><br /><!--e--><!--ps-->需要等级 22<br /></td></tr></table><table><tr><td></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?3137:1:1:22-->"
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 16,
+        "maxlevel": 16,
+        "id": 3175,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            14
+        ],
+        "name": "克鲁恩",
+        "name_en": "Krunn",
+        "type": 7,
+        "react": [
+            -1,
+            1
+        ],
+        "tag": "采矿训练师",
+        "tab_name": "训练师",
+        "tip": {
+            "name_zhcn": "破损的龙鳞",
+            "quality": 0,
+            "icon": "inv_misc_pelt_wolf_ruin_03",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q0\">破损的龙鳞</b><span class='cus-id-2-right'>ID: 3175</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">1</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?3175:1:1:80-->"
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 35,
+        "maxlevel": 35,
+        "id": 3357,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            1637
+        ],
+        "name": "马卡鲁",
+        "name_en": "Makaru",
+        "type": 7,
+        "react": [
+            -1,
+            1
+        ],
+        "tag": "采矿训练师",
+        "tab_name": "训练师",
+        "tip": {
+            "name_zhcn": "活根草",
+            "quality": 1,
+            "icon": "inv_misc_root_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">活根草</b><span class='cus-id-2-right'>ID: 3357</span><br /><!--e--><!--ps-->需要<a class=\"q1\" href=\"?skill=773\">铭文</a> (75)<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">75</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?3357:1:1:80-->"
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 19,
+        "maxlevel": 19,
+        "id": 3555,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            130
+        ],
+        "name": "乔汉·弗彻",
+        "name_en": "Johan Focht",
+        "type": 7,
+        "react": [
+            -1,
+            1
+        ],
+        "tag": "采矿训练师",
+        "tab_name": "训练师",
+        "tip": {
+            "name_zhcn": "所罗门法袍",
+            "quality": 2,
+            "icon": "inv_chest_cloth_40",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">所罗门法袍</b><span class='cus-id-2-right'>ID: 3555</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>胸部</td><th><!--asc1-->布甲</th></tr></table><span><!--amr-->39点护甲</span><br /><span><!--stat7-->+7 耐力</span><br /><span><!--stat6-->+3 精神</span><br /><!--e--><!--ps-->耐久度 65 / 65<br />物品等级25<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">10</span> <span class=\"moneycopper\">32</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?3555:1:1:80-->"
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 35,
+        "maxlevel": 35,
+        "id": 4254,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            1537
+        ],
+        "name": "吉尔弗拉姆·石趾",
+        "name_en": "Geofram Bouldertoe",
+        "type": 7,
+        "react": [
+            1,
+            -1
+        ],
+        "tag": "采矿训练师",
+        "tab_name": "训练师",
+        "tip": {
+            "name_zhcn": "野人手套",
+            "quality": 2,
+            "icon": "inv_gauntlets_05",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">野人手套</b><span class='cus-id-2-right'>ID: 4254</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>手</td><th><!--asc2-->皮甲</th></tr></table><span><!--amr-->58点护甲</span><br /><span><!--stat7-->+6 耐力</span><br /><!--e--><!--ps-->耐久度 30 / 30<br />需要等级 25<br />物品等级30<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 攻击强度提高<!--rtg38-->10点。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">10</span> <span class=\"moneycopper\">71</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?4254:1:1:25-->"
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 35,
+        "maxlevel": 35,
+        "id": 4598,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            1497
+        ],
+        "name": "布罗姆·基里安",
+        "name_en": "Brom Killian",
+        "type": 7,
+        "react": [
+            -1,
+            1
+        ],
+        "tag": "采矿训练师",
+        "tab_name": "训练师",
+        "tip": {
+            "name_zhcn": "地精钓鱼竿",
+            "quality": 1,
+            "icon": "inv_misc_bomb_03",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">地精钓鱼竿</b><span class='cus-id-2-right'>ID: 4598</span><br /><!--bo-->拾取后绑定<br /><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">使用： 对半径5码范围内的所有敌人造成128到172点火焰伤害。 (1 分钟冷却时间)</span><br /><span class=\"q1\">1次</span><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">2</span> <span class=\"moneycopper\">12</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?4598:1:1:80-->"
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 10,
+        "maxlevel": 10,
+        "id": 5392,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            1
+        ],
+        "name": "亚尔·锤石",
+        "name_en": "Yarr Hammerstone",
+        "type": 7,
+        "react": [
+            1,
+            -1
+        ],
+        "tag": "采矿训练师",
+        "tab_name": "训练师",
+        "tip": {
+            "name_zhcn": "棘木匕首",
+            "quality": 1,
+            "icon": "inv_weapon_shortblade_05",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">棘木匕首</b><span class='cus-id-2-right'>ID: 5392</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>单手</td><th>匕首</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->2 - 5伤害</td><th>速度 <!--spd-->1.70</th></tr></table><!--dps-->（每秒伤害2.1）<br /><!--e--><!--ps-->耐久度 20 / 20<br />物品等级5<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">25</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?5392:1:1:80-->"
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 35,
+        "maxlevel": 35,
+        "id": 5513,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            1519
+        ],
+        "name": "吉尔曼·石手",
+        "name_en": "Gelman Stonehand",
+        "type": 7,
+        "react": [
+            1,
+            -1
+        ],
+        "tag": "采矿训练师",
+        "tab_name": "训练师",
+        "tip": {
+            "name_zhcn": "法力翡翠",
+            "quality": 1,
+            "icon": "inv_misc_gem_emerald_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">法力翡翠</b><span class='cus-id-2-right'>ID: 5513</span><br /><!--bo-->拾取后绑定<br />唯一：法力宝石（1）<br /><!--e--><!--ps-->需要等级 38<br /></td></tr></table><table><tr><td><span class=\"q2\">使用： 恢复585到615点法力值。 (2 分钟冷却时间)</span><br /></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?5513:1:1:38-->"
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 35,
+        "maxlevel": 35,
+        "id": 6297,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            148
+        ],
+        "name": "库德拉姆·石锤",
+        "name_en": "Kurdram Stonehammer",
+        "type": 7,
+        "react": [
+            1,
+            -1
+        ],
+        "tag": "采矿训练师",
+        "tab_name": "训练师",
+        "tip": {
+            "name_zhcn": "死者的徽记",
+            "quality": 0,
+            "icon": "inv_misc_bone_orcskull_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q0\">死者的徽记</b><span class='cus-id-2-right'>ID: 6297</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">7</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?6297:1:1:80-->"
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 40,
+        "maxlevel": 40,
+        "id": 8128,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            440
+        ],
+        "name": "皮库尔",
+        "name_en": "Pikkle",
+        "type": 7,
+        "react": [
+            0,
+            0
+        ],
+        "tag": "采矿训练师",
+        "tab_name": "训练师",
+        "tip": {
+            "name_zhcn": "雷鳞护手",
+            "quality": 2,
+            "icon": "inv_gauntlets_04",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">雷鳞护手</b><span class='cus-id-2-right'>ID: 8128</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>手</td><th><!--asc3-->锁甲</th></tr></table><span><!--amr-->168点护甲</span><br /><span><!--stat7-->+11 耐力</span><br /><span><!--stat5-->+10 智力</span><br /><!--e--><!--ps-->耐久度 35 / 35<br />需要等级 44<br />物品等级49<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">62</span> <span class=\"moneycopper\">29</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?8128:1:1:44-->"
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 30,
+        "maxlevel": 30,
+        "id": 16663,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            3487
+        ],
+        "name": "比利尔",
+        "name_en": "Belil",
+        "type": 7,
+        "react": [
+            -1,
+            1
+        ],
+        "tag": "采矿训练师",
+        "tab_name": "训练师",
+        "tip": {
+            "name_zhcn": "黑龙勇士之血",
+            "quality": 1,
+            "icon": "inv_potion_27",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">黑龙勇士之血</b><span class='cus-id-2-right'>ID: 16663</span><br /><!--bo-->任务物品<br />唯一<br /><!--e--><!--ps--></td></tr></table><table><tr><td></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?16663:1:1:80-->"
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 30,
+        "maxlevel": 30,
+        "id": 16752,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            3557
+        ],
+        "name": "穆亚特",
+        "name_en": "Muaat",
+        "type": 7,
+        "react": [
+            1,
+            -1
+        ],
+        "tag": "采矿训练师",
+        "tab_name": "训练师",
+        "tip": {
+            "name_zhcn": "穆亚特",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">穆亚特</b></td></tr><tr><td>采矿训练师</td></tr><tr><td>等级 30 人型生物 (普通)</td></tr><tr><td>埃索达</td></tr></table>",
+            "map": {
+                "zone": 3557,
+                "coords": {
+                    "0": [
+                        [
+                            59.7,
+                            87.8
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 13,
+        "maxlevel": 13,
+        "id": 17488,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            3524
+        ],
+        "name": "杜尔维",
+        "name_en": "Dulvi",
+        "type": 7,
+        "react": [
+            1,
+            -1
+        ],
+        "hasQuests": 1,
+        "tag": "采矿训练师",
+        "tab_name": "训练师",
+        "tip": {
+            "name_zhcn": "杜尔维",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">杜尔维</b></td></tr><tr><td>采矿训练师</td></tr><tr><td>等级 13 人型生物 (普通)</td></tr><tr><td>埃索达</td></tr></table>",
+            "map": {
+                "zone": 3524,
+                "coords": {
+                    "0": [
+                        [
+                            49,
+                            51.1
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 65,
+        "maxlevel": 65,
+        "id": 18747,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            3483
+        ],
+        "name": "克鲁格什",
+        "name_en": "Krugosh",
+        "type": 7,
+        "react": [
+            -1,
+            1
+        ],
+        "tag": "采矿训练师",
+        "tab_name": "训练师",
+        "tip": {
+            "name_zhcn": "克鲁格什",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">克鲁格什</b></td></tr><tr><td>采矿训练师</td></tr><tr><td>等级 65 人型生物 (普通)</td></tr><tr><td>萨尔玛</td></tr></table>",
+            "map": {
+                "zone": 3483,
+                "coords": {
+                    "0": [
+                        [
+                            55.4,
+                            37.6
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 60,
+        "maxlevel": 60,
+        "id": 18779,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            3483
+        ],
+        "name": "霍纳克·格里莫德",
+        "name_en": "Hurnak Grimmord",
+        "type": 7,
+        "react": [
+            1,
+            -1
+        ],
+        "tag": "采矿训练师",
+        "tab_name": "训练师",
+        "tip": {
+            "name_zhcn": "《高级铸甲技术：第一卷》的下半部",
+            "quality": 3,
+            "icon": "inv_misc_note_06",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">《高级铸甲技术：第一卷》的下半部</b><span class='cus-id-2-right'>ID: 18779</span><br />唯一<br /><!--e--><!--ps-->需要等级 50<br /></td></tr></table><table><tr><td><span class=\"q2\">使用： 将《高级铸甲技术：第一卷》的上下两半拼起来。</span><br /></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?18779:1:1:50-->"
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 45,
+        "maxlevel": 45,
+        "id": 18804,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            3525
+        ],
+        "name": "勘探者纳克兰",
+        "name_en": "Prospector Nachlan",
+        "type": 7,
+        "react": [
+            1,
+            -1
+        ],
+        "hasQuests": 1,
+        "tag": "探险者协会",
+        "tab_name": "训练师",
+        "tip": {
+            "name_zhcn": "格雷森公爵的背包",
+            "quality": 1,
+            "icon": "inv_misc_bag_08",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">格雷森公爵的背包</b><span class='cus-id-2-right'>ID: 18804</span><br /><!--bo-->任务物品<br />唯一<br /><!--e--><!--ps--><span class=\"q2\">&lt;右键点击打开&gt</span><br /></td></tr></table><table><tr><td><span class=\"q\">\"你的预言水晶球和被祝福的奥金马铠都在这只背包里。\"</span></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?18804:1:1:80-->"
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 71,
+        "maxlevel": 71,
+        "id": 26912,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            495
+        ],
+        "name": "格鲁伯尔·铁锄",
+        "name_en": "Grumbol Stoutpick",
+        "type": 7,
+        "react": [
+            1,
+            -1
+        ],
+        "tag": "采矿训练师",
+        "tab_name": "训练师",
+        "tip": {
+            "name_zhcn": "格鲁伯尔·铁锄",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">格鲁伯尔·铁锄</b></td></tr><tr><td>采矿训练师</td></tr><tr><td>等级 71 人型生物 (普通)</td></tr><tr><td>无畏远征军</td></tr></table>",
+            "map": {
+                "zone": 495,
+                "coords": {
+                    "0": [
+                        [
+                            59.9,
+                            64
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 71,
+        "maxlevel": 71,
+        "id": 26962,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            495
+        ],
+        "name": "乔纳森·刘易斯",
+        "name_en": "Jonathan Lewis",
+        "type": 7,
+        "react": [
+            -1,
+            0
+        ],
+        "tag": "采矿训练师",
+        "tab_name": "训练师",
+        "tip": {
+            "name_zhcn": "乔纳森·刘易斯",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">乔纳森·刘易斯</b></td></tr><tr><td>采矿训练师</td></tr><tr><td>等级 71 人型生物 (普通)</td></tr><tr><td>复仇之手</td></tr></table>",
+            "map": {
+                "zone": 495,
+                "coords": {
+                    "0": [
+                        [
+                            79.3,
+                            29
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 69,
+        "maxlevel": 69,
+        "id": 26976,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            3537
+        ],
+        "name": "布隆娜·铁斧",
+        "name_en": "Brunna Ironaxe",
+        "type": 7,
+        "react": [
+            -1,
+            0
+        ],
+        "tag": "采矿训练师",
+        "tab_name": "训练师",
+        "tip": {
+            "name_zhcn": "布隆娜·铁斧",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">布隆娜·铁斧</b></td></tr><tr><td>采矿训练师</td></tr><tr><td>等级 69 人型生物 (普通)</td></tr><tr><td>战歌远征军</td></tr></table>",
+            "map": {
+                "zone": 3537,
+                "coords": {
+                    "0": [
+                        [
+                            42.6,
+                            53.2
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 71,
+        "maxlevel": 71,
+        "id": 26999,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            3537
+        ],
+        "name": "芬德里格·红须",
+        "name_en": "Fendrig Redbeard",
+        "type": 7,
+        "react": [
+            1,
+            -1
+        ],
+        "tag": "采矿训练师",
+        "tab_name": "训练师",
+        "tip": {
+            "name_zhcn": "芬德里格·红须",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q\">芬德里格·红须</b></td></tr><tr><td>采矿训练师</td></tr><tr><td>等级 71 人型生物 (普通)</td></tr><tr><td>无畏远征军</td></tr></table>",
+            "map": {
+                "zone": 3537,
+                "coords": {
+                    "0": [
+                        [
+                            57.5,
+                            66.1
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 75,
+        "maxlevel": 75,
+        "id": 28698,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            4395
+        ],
+        "name": "杰迪安·汉德尔斯",
+        "name_en": "Jedidiah Handers",
+        "type": 7,
+        "react": [
+            0,
+            0
+        ],
+        "tag": "采矿训练师",
+        "tab_name": "训练师",
+        "tip": {
+            "name_zhcn": "大元帅的锁甲护肩",
+            "quality": 3,
+            "icon": "inv_shoulder_29",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">大元帅的锁甲护肩</b><span class='cus-id-2-right'>ID: 28698</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>肩部</td><th><!--asc3-->锁甲</th></tr></table><span><!--amr-->489点护甲</span><br /><span><!--stat7-->+33 耐力</span><br /><span><!--stat5-->+13 智力</span><br /><!--e--><span class=\"socket-red q0\" >红色插槽</span><br /><span class=\"socket-yellow q0\" >黄色插槽</span><br /><!--ps--><span class=\"q0\">镶孔奖励：<a href=\"?enchantment=2859\">+3 韧性等级</a></span><br />耐久度 70 / 70<br />职业：<a href=\"?class=7\" class=\"c7\">萨满祭司</a><br />需要等级 70<br />物品等级115<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 爆击等级提高<!--rtg32-->12&nbsp;<small>(<!--rtg%32-->0.54%&nbsp;@&nbsp;L<!--lvl-->70)</small>。</span><br /><span class=\"q2\">装备： 韧性等级提高<!--rtg35-->12&nbsp;<small>(<!--rtg%35-->0.26%&nbsp;@&nbsp;L<!--lvl-->70)</small>。</span><br /><span class=\"q2\">装备： 法术强度提高15点。</span><br /><span class=\"q2\">装备： 每5秒恢复5点法力值。</span><br /><br /><span class=\"q\"><a href=\"?itemset=603\" class=\"q\">大元帅的雷霆之拳</a>（0/5）</span><div class=\"q0 indent\"><span><!--si28694--><a href=\"?item=28694\">大元帅的锁甲护胸</a></span><br /><span><!--si28695--><a href=\"?item=28695\">大元帅的锁甲手套</a></span><br /><span><!--si28696--><a href=\"?item=28696\">大元帅的锁甲头盔</a></span><br /><span><!--si28697--><a href=\"?item=28697\">大元帅的锁甲护腿</a></span><br /><span><!--si28698--><a href=\"?item=28698\">大元帅的锁甲护肩</a></span></div><br /><span class=\"q0\"><span>(2) 套装：<a href=\"?spell=40047\">+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。</a></span><br /><span>(4) 套装：<a href=\"?spell=22804\">震击法术的爆击几率提高2%。</a></span></span></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?28698:1:80:70-->"
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 60,
+        "maxlevel": 60,
+        "id": 33617,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            3703
+        ],
+        "name": "采矿",
+        "name_en": "Mining",
+        "type": 10,
+        "react": [
+            0,
+            0
+        ],
+        "tab_name": "训练师",
+        "tip": {
+            "name_zhcn": "均衡的溶液",
+            "quality": 1,
+            "icon": "inv_potion_93",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">均衡的溶液</b><span class='cus-id-2-right'>ID: 33617</span><br /><!--bo-->任务物品<br /><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q\">\"成功啦！\"</span></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?33617:1:1:80-->"
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 62,
+        "maxlevel": 62,
+        "id": 33640,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            3703
+        ],
+        "name": "韩里尔",
+        "name_en": "Hanlir",
+        "type": 7,
+        "react": [
+            0,
+            0
+        ],
+        "tag": "采矿训练师",
+        "tab_name": "训练师",
+        "tip": {
+            "name_zhcn": "怒火",
+            "quality": 4,
+            "icon": "inv_weapon_hand_15",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">怒火</b><span class='cus-id-2-right'>ID: 33640</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>副手</td><th>拳套</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->174 - 323伤害</td><th>速度 <!--spd-->2.60</th></tr></table><!--dps-->（每秒伤害95.6）<br /><span><!--stat7-->+20 耐力</span><br /><!--e--><span class=\"socket-red q0\" >红色插槽</span><br /><!--ps--><span class=\"q0\">镶孔奖励：<a href=\"?enchantment=3114\">+4 攻击强度</a></span><br />耐久度 75 / 75<br />需要等级 70<br />物品等级132<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 命中等级提高<!--rtg31-->20&nbsp;<small>(<!--rtg%31-->1.27%&nbsp;@&nbsp;L<!--lvl-->70)</small>。</span><br /><span class=\"q2\">装备： 攻击强度提高26点。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneygold\">13</span> <span class=\"moneysilver\">14</span> <span class=\"moneycopper\">8</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?33640:1:80:70-->"
+        }
+    },
+    {
+        "family": 0,
+        "minlevel": 62,
+        "maxlevel": 62,
+        "id": 33682,
+        "boss": 0,
+        "classification": 0,
+        "location": [
+            3703
+        ],
+        "name": "弗诺",
+        "name_en": "Fono",
+        "type": 7,
+        "react": [
+            0,
+            0
+        ],
+        "tag": "采矿训练师",
+        "tab_name": "训练师",
+        "tip": {
+            "name_zhcn": "复仇角斗士的邪纹护肩",
+            "quality": 4,
+            "icon": "inv_shoulder_68",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q4\">复仇角斗士的邪纹护肩</b><span class='cus-id-2-right'>ID: 33682</span><br /><!--bo-->拾取后绑定<table width=\"100%\"><tr><td>肩部</td><th><!--asc1-->布甲</th></tr></table><span class=\"q2\"><!--addamr140--><span>323点护甲</span></span><br /><span><!--stat7-->+50 耐力</span><br /><span><!--stat5-->+13 智力</span><br /><!--e--><span class=\"socket-blue q0\" >蓝色插槽</span><br /><span class=\"socket-yellow q0\" >黄色插槽</span><br /><!--ps--><span class=\"q0\">镶孔奖励：<a href=\"?enchantment=2859\">+3 韧性等级</a></span><br />耐久度 60 / 60<br />职业：<a href=\"?class=9\" class=\"c9\">术士</a><br />需要等级 70<br />物品等级146<br /></td></tr></table><table><tr><td><span class=\"q2\">装备： 韧性等级提高<!--rtg35-->23&nbsp;<small>(<!--rtg%35-->0.51%&nbsp;@&nbsp;L<!--lvl-->70)</small>。</span><br /><span class=\"q2\">装备： 爆击等级提高<!--rtg32-->17&nbsp;<small>(<!--rtg%32-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small>。</span><br /><span class=\"q2\">装备： 法术强度提高40点。</span><br /><br /><span class=\"q\"><a href=\"?itemset=-38\" class=\"q\">角斗士的魔能套装</a>（0/5）</span><div class=\"q0 indent\"><span><!--si35009:42718:30186:31979:33682--><a href=\"?item=33682\">复仇角斗士的邪纹护肩</a></span><br /><span><!--si35010:42719:30187:31980:33683--><a href=\"?item=33683\">复仇角斗士的邪纹兜帽</a></span><br /><span><!--si35011:42720:30188:31981:33684--><a href=\"?item=33684\">复仇角斗士的邪纹护手</a></span><br /><span><!--si33685:35012:42721:30200:31982--><a href=\"?item=33685\">复仇角斗士的邪纹外衣</a></span><br /><span><!--si33686:35013:42722:30201:31983--><a href=\"?item=33686\">复仇角斗士的邪纹长裤</a></span></div><br /><span class=\"q0\"><span>(2) 套装：<a href=\"?spell=40053\">+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。</a></span><br /><span>(4) 套装：<a href=\"?spell=23047\">使你的恐惧法术的施法时间缩短0.2秒。</a></span></span></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?33682:1:80:70-->"
+        }
+    }
+]

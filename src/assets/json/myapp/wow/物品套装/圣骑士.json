@@ -1,0 +1,2454 @@
+[
+    {
+        "id": -280,
+        "idbak": 899,
+        "name": "3光誓套装",
+        "name_en": "Lightsworn Garb",
+        "minlevel": 277,
+        "maxlevel": 277,
+        "note": 29,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            51272,
+            51273,
+            51271,
+            51270,
+            51274
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "光誓套装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">光誓套装</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T10副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>当神启天赋处于激活状态时，你的治疗法术所造成的治疗效果提高35%。<br /><span class=\"q13\">4 件：</span>你的神圣震击使你在10 秒内施放的下一个圣光术的施法时间缩短0.3秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -282,
+        "idbak": 900,
+        "name": "3光誓战甲",
+        "name_en": "Lightsworn Battlegear",
+        "minlevel": 277,
+        "maxlevel": 277,
+        "note": 29,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            51277,
+            51279,
+            51278,
+            51276,
+            51275
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "光誓战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">光誓战甲</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T10副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>你的近战攻击有40%的几率重置神圣风暴的冷却时间。<br /><span class=\"q13\">4 件：</span>你的圣印和审判造成10%的额外伤害。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -284,
+        "idbak": 901,
+        "name": "3光誓战铠",
+        "name_en": "Lightsworn Plate",
+        "minlevel": 277,
+        "maxlevel": 277,
+        "note": 29,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            51266,
+            51269,
+            51268,
+            51267,
+            51265
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "光誓战铠",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">光誓战铠</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T10副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>你的正义之锤技能造成的伤害提高20%。<br /><span class=\"q13\">4 件：</span>当你激活神圣恳求后，你的躲闪几率提高12%，持续10 秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -61,
+        "idbak": 766,
+        "name": "3角斗士的辩护",
+        "name_en": "Gladiator's Vindication",
+        "minlevel": 270,
+        "maxlevel": 270,
+        "note": 30,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            51476,
+            51479,
+            51477,
+            51475,
+            51474
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的辩护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的辩护</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />竞技场第8季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">2 件：</span>攻击强度提高50点。<br /><span class=\"q13\">4 件：</span>你的审判的冷却时间缩短1秒。<br /><span class=\"q13\">4 件：</span>攻击强度提高150点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -66,
+        "idbak": 767,
+        "name": "3角斗士的救赎",
+        "name_en": "Gladiator's Redemption",
+        "minlevel": 270,
+        "maxlevel": 270,
+        "note": 30,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            51470,
+            51473,
+            51471,
+            51469,
+            51468
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的救赎",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的救赎</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />竞技场第8季套装<br /><span><br /><span class=\"q13\">2 件：</span>法术强度提高29点。<br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的神圣震击法术的治疗效果提高10%。<br /><span class=\"q13\">4 件：</span>法术强度提高88点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -279,
+        "idbak": 899,
+        "name": "3光誓套装",
+        "name_en": "Lightsworn Garb",
+        "minlevel": 264,
+        "maxlevel": 264,
+        "note": 29,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            51167,
+            51166,
+            51168,
+            51169,
+            51165
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "光誓套装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">光誓套装</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T10副本套装<br /><span><br /><span class=\"q13\">2 件：</span>当神启天赋处于激活状态时，你的治疗法术所造成的治疗效果提高35%。<br /><span class=\"q13\">4 件：</span>你的神圣震击使你在10 秒内施放的下一个圣光术的施法时间缩短0.3秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -281,
+        "idbak": 900,
+        "name": "3光誓战甲",
+        "name_en": "Lightsworn Battlegear",
+        "minlevel": 264,
+        "maxlevel": 264,
+        "note": 29,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            51162,
+            51160,
+            51161,
+            51163,
+            51164
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "光誓战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">光誓战甲</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T10副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的近战攻击有40%的几率重置神圣风暴的冷却时间。<br /><span class=\"q13\">4 件：</span>你的圣印和审判造成10%的额外伤害。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -283,
+        "idbak": 901,
+        "name": "3光誓战铠",
+        "name_en": "Lightsworn Plate",
+        "minlevel": 264,
+        "maxlevel": 264,
+        "note": 29,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            51173,
+            51170,
+            51171,
+            51172,
+            51174
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "光誓战铠",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">光誓战铠</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T10副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的正义之锤技能造成的伤害提高20%。<br /><span class=\"q13\">4 件：</span>当你激活神圣恳求后，你的躲闪几率提高12%，持续10 秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -236,
+        "idbak": 875,
+        "name": "3图拉扬的圣装",
+        "name_en": "Turalyon's Garb",
+        "minlevel": 258,
+        "maxlevel": 258,
+        "note": 27,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            48582,
+            48580,
+            48581,
+            48583,
+            48584
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "图拉扬的圣装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">图拉扬的圣装</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T9副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>使你的审判法术效果的持续时间延长10秒。<br /><span class=\"q13\">4 件：</span>圣光闪现配合圣洁护盾所产生的持续治疗效果提高100%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -238,
+        "idbak": 876,
+        "name": "3莉亚德琳的圣装",
+        "name_en": "Liadrin's Garb",
+        "minlevel": 258,
+        "maxlevel": 258,
+        "note": 27,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            48587,
+            48585,
+            48586,
+            48588,
+            48589
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "莉亚德琳的圣装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">莉亚德琳的圣装</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T9副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>使你的审判法术效果的持续时间延长10秒。<br /><span class=\"q13\">4 件：</span>圣光闪现配合圣洁护盾所产生的持续治疗效果提高100%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -240,
+        "idbak": 877,
+        "name": "3图拉扬的战甲",
+        "name_en": "Turalyon's Battlegear",
+        "minlevel": 258,
+        "maxlevel": 258,
+        "note": 27,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            48614,
+            48612,
+            48613,
+            48615,
+            48616
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "图拉扬的战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">图拉扬的战甲</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T9副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>你的正义复仇天赋造成的伤害现在有一定几率爆击。<br /><span class=\"q13\">4 件：</span>使你的审判法术的爆击几率提高5%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -242,
+        "idbak": 878,
+        "name": "3莉亚德琳的战甲",
+        "name_en": "Liadrin's Battlegear",
+        "minlevel": 258,
+        "maxlevel": 258,
+        "note": 27,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            48619,
+            48621,
+            48620,
+            48618,
+            48617
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "莉亚德琳的战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">莉亚德琳的战甲</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T9副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>你的正义复仇天赋造成的伤害现在有一定几率爆击。<br /><span class=\"q13\">4 件：</span>使你的审判法术的爆击几率提高5%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -244,
+        "idbak": 879,
+        "name": "3图拉扬的铠甲",
+        "name_en": "Turalyon's Plate",
+        "minlevel": 258,
+        "maxlevel": 258,
+        "note": 27,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            48644,
+            48646,
+            48645,
+            48643,
+            48642
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "图拉扬的铠甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">图拉扬的铠甲</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T9副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>使你的清算之手技能的冷却时间缩短2秒，正义之锤技能造成的伤害提高5%。<br /><span class=\"q13\">4 件：</span>使你的圣佑术技能的冷却时间缩短30秒，自律效果的持续时间缩短30秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -246,
+        "idbak": 880,
+        "name": "3莉亚德琳的铠甲",
+        "name_en": "Liadrin's Plate",
+        "minlevel": 258,
+        "maxlevel": 258,
+        "note": 27,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            48649,
+            48647,
+            48648,
+            48650,
+            48651
+        ],
+        "heroic": 1,
+        "tip": {
+            "name_zhcn": "莉亚德琳的铠甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">莉亚德琳的铠甲</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T9副本套装 <i class=\"q2\">(英雄级别)</i><br /><span><br /><span class=\"q13\">2 件：</span>使你的清算之手技能的冷却时间缩短2秒，正义之锤技能造成的伤害提高5%。<br /><span class=\"q13\">4 件：</span>使你的圣佑术技能的冷却时间缩短30秒，自律效果的持续时间缩短30秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -60,
+        "idbak": 766,
+        "name": "3角斗士的辩护",
+        "name_en": "Gladiator's Vindication",
+        "minlevel": 251,
+        "maxlevel": 251,
+        "note": 28,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            40831,
+            40872,
+            40852,
+            40812,
+            40792
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的辩护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的辩护</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />竞技场第7季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">2 件：</span>攻击强度提高50点。<br /><span class=\"q13\">4 件：</span>你的审判的冷却时间缩短1秒。<br /><span class=\"q13\">4 件：</span>攻击强度提高150点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -65,
+        "idbak": 767,
+        "name": "3角斗士的救赎",
+        "name_en": "Gladiator's Redemption",
+        "minlevel": 251,
+        "maxlevel": 251,
+        "note": 28,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            40934,
+            40964,
+            40940,
+            40928,
+            40910
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的救赎",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的救赎</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />竞技场第7季套装<br /><span><br /><span class=\"q13\">2 件：</span>法术强度提高29点。<br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的神圣震击法术的治疗效果提高10%。<br /><span class=\"q13\">4 件：</span>法术强度提高88点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 899,
+        "idbak": 899,
+        "name": "3光誓套装",
+        "name_en": "Lightsworn Garb",
+        "minlevel": 251,
+        "maxlevel": 251,
+        "note": 29,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            50867,
+            50865,
+            50866,
+            50868,
+            50869
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "毒蜘蛛的牙齿",
+            "quality": 2,
+            "icon": "inv_misc_monsterfang_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">毒蜘蛛的牙齿</b><span class='cus-id-2-right'>ID: 899</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>单手</td><th>匕首</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->10 - 19伤害</td><th>速度 <!--spd-->1.50</th></tr></table><!--dps-->（每秒伤害9.7）<br /><!--e--><!--ps-->耐久度 40 / 40<br />需要等级 14<br />物品等级19<br /></td></tr></table><table><tr><td><span class=\"q2\">击中时可能： 使目标每3秒毒发一次，对其造成3点自然伤害，持续15 秒。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">12</span> <span class=\"moneycopper\">48</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?899:1:1:14-->"
+        }
+    },
+    {
+        "id": 900,
+        "idbak": 900,
+        "name": "3光誓战甲",
+        "name_en": "Lightsworn Battlegear",
+        "minlevel": 251,
+        "maxlevel": 251,
+        "note": 29,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            50326,
+            50324,
+            50325,
+            50327,
+            50328
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "Deprecated Nightmare Summoning (Mount)",
+            "quality": 1,
+            "icon": "inv_scroll_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">Deprecated Nightmare Summoning (Mount)</b><span class='cus-id-2-right'>ID: 900</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">1</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?900:1:1:80-->"
+        }
+    },
+    {
+        "id": 901,
+        "idbak": 901,
+        "name": "3光誓战铠",
+        "name_en": "Lightsworn Plate",
+        "minlevel": 251,
+        "maxlevel": 251,
+        "note": 29,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            50862,
+            50860,
+            50861,
+            50863,
+            50864
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "光誓战铠",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">光誓战铠</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T10副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的正义之锤技能造成的伤害提高20%。<br /><span class=\"q13\">4 件：</span>当你激活神圣恳求后，你的躲闪几率提高12%，持续10 秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -235,
+        "idbak": 875,
+        "name": "3图拉扬的圣装",
+        "name_en": "Turalyon's Garb",
+        "minlevel": 245,
+        "maxlevel": 245,
+        "note": 27,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            48577,
+            48579,
+            48578,
+            48576,
+            48575
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "图拉扬的圣装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">图拉扬的圣装</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T9副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你的审判法术效果的持续时间延长10秒。<br /><span class=\"q13\">4 件：</span>圣光闪现配合圣洁护盾所产生的持续治疗效果提高100%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -237,
+        "idbak": 876,
+        "name": "3莉亚德琳的圣装",
+        "name_en": "Liadrin's Garb",
+        "minlevel": 245,
+        "maxlevel": 245,
+        "note": 27,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            48592,
+            48590,
+            48591,
+            48593,
+            48594
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "莉亚德琳的圣装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">莉亚德琳的圣装</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T9副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你的审判法术效果的持续时间延长10秒。<br /><span class=\"q13\">4 件：</span>圣光闪现配合圣洁护盾所产生的持续治疗效果提高100%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -239,
+        "idbak": 877,
+        "name": "3图拉扬的战甲",
+        "name_en": "Turalyon's Battlegear",
+        "minlevel": 245,
+        "maxlevel": 245,
+        "note": 27,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            48609,
+            48611,
+            48610,
+            48608,
+            48607
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "图拉扬的战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">图拉扬的战甲</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T9副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的正义复仇天赋造成的伤害现在有一定几率爆击。<br /><span class=\"q13\">4 件：</span>使你的审判法术的爆击几率提高5%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -241,
+        "idbak": 878,
+        "name": "3莉亚德琳的战甲",
+        "name_en": "Liadrin's Battlegear",
+        "minlevel": 245,
+        "maxlevel": 245,
+        "note": 27,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            48624,
+            48622,
+            48623,
+            48625,
+            48626
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "莉亚德琳的战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">莉亚德琳的战甲</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T9副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的正义复仇天赋造成的伤害现在有一定几率爆击。<br /><span class=\"q13\">4 件：</span>使你的审判法术的爆击几率提高5%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -243,
+        "idbak": 879,
+        "name": "3图拉扬的铠甲",
+        "name_en": "Turalyon's Plate",
+        "minlevel": 245,
+        "maxlevel": 245,
+        "note": 27,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            48639,
+            48637,
+            48638,
+            48640,
+            48641
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "图拉扬的铠甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">图拉扬的铠甲</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T9副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你的清算之手技能的冷却时间缩短2秒，正义之锤技能造成的伤害提高5%。<br /><span class=\"q13\">4 件：</span>使你的圣佑术技能的冷却时间缩短30秒，自律效果的持续时间缩短30秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -245,
+        "idbak": 880,
+        "name": "3莉亚德琳的铠甲",
+        "name_en": "Liadrin's Plate",
+        "minlevel": 245,
+        "maxlevel": 245,
+        "note": 27,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            48659,
+            48661,
+            48660,
+            48658,
+            48657
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "莉亚德琳的铠甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">莉亚德琳的铠甲</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T9副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你的清算之手技能的冷却时间缩短2秒，正义之锤技能造成的伤害提高5%。<br /><span class=\"q13\">4 件：</span>使你的圣佑术技能的冷却时间缩短30秒，自律效果的持续时间缩短30秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -59,
+        "idbak": 766,
+        "name": "3角斗士的辩护",
+        "name_en": "Gladiator's Vindication",
+        "minlevel": 232,
+        "maxlevel": 232,
+        "note": 26,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            40828,
+            40869,
+            40849,
+            40808,
+            40788
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的辩护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的辩护</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />竞技场第6季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">2 件：</span>攻击强度提高50点。<br /><span class=\"q13\">4 件：</span>你的审判的冷却时间缩短1秒。<br /><span class=\"q13\">4 件：</span>攻击强度提高150点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -64,
+        "idbak": 767,
+        "name": "3角斗士的救赎",
+        "name_en": "Gladiator's Redemption",
+        "minlevel": 232,
+        "maxlevel": 232,
+        "note": 26,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            40933,
+            40963,
+            40939,
+            40927,
+            40907
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的救赎",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的救赎</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />竞技场第6季套装<br /><span><br /><span class=\"q13\">2 件：</span>法术强度提高29点。<br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的神圣震击法术的治疗效果提高10%。<br /><span class=\"q13\">4 件：</span>法术强度提高88点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 875,
+        "idbak": 875,
+        "name": "3图拉扬的圣装",
+        "name_en": "Turalyon's Garb",
+        "minlevel": 232,
+        "maxlevel": 232,
+        "note": 27,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            48564,
+            48572,
+            48568,
+            48574,
+            48566
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "图拉扬的圣装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">图拉扬的圣装</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T9副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你的审判法术效果的持续时间延长10秒。<br /><span class=\"q13\">4 件：</span>圣光闪现配合圣洁护盾所产生的持续治疗效果提高100%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 876,
+        "idbak": 876,
+        "name": "3莉亚德琳的圣装",
+        "name_en": "Liadrin's Garb",
+        "minlevel": 232,
+        "maxlevel": 232,
+        "note": 27,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            48597,
+            48595,
+            48596,
+            48598,
+            48599
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "用旧的木制圆盾",
+            "quality": 1,
+            "icon": "inv_shield_09",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">用旧的木制圆盾</b><span class='cus-id-2-right'>ID: 876</span><table width=\"100%\"><tr><td>副手</td><th><!--asc6-->盾牌</th></tr></table><!--e--><!--ps-->物品等级1<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">2</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?876:1:1:80-->"
+        }
+    },
+    {
+        "id": 877,
+        "idbak": 877,
+        "name": "3图拉扬的战甲",
+        "name_en": "Turalyon's Battlegear",
+        "minlevel": 232,
+        "maxlevel": 232,
+        "note": 27,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            48604,
+            48606,
+            48605,
+            48603,
+            48602
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "图拉扬的战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">图拉扬的战甲</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T9副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的正义复仇天赋造成的伤害现在有一定几率爆击。<br /><span class=\"q13\">4 件：</span>使你的审判法术的爆击几率提高5%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 878,
+        "idbak": 878,
+        "name": "3莉亚德琳的战甲",
+        "name_en": "Liadrin's Battlegear",
+        "minlevel": 232,
+        "maxlevel": 232,
+        "note": 27,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            48629,
+            48627,
+            48628,
+            48630,
+            48631
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "拳头大小的丝囊",
+            "quality": 0,
+            "icon": "inv_misc_monsterspidercarapace_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q0\">拳头大小的丝囊</b><span class='cus-id-2-right'>ID: 878</span><br /><!--e--><!--ps--></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">56</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?878:1:1:80-->"
+        }
+    },
+    {
+        "id": 879,
+        "idbak": 879,
+        "name": "3图拉扬的铠甲",
+        "name_en": "Turalyon's Plate",
+        "minlevel": 232,
+        "maxlevel": 232,
+        "note": 27,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            48634,
+            48636,
+            48635,
+            48633,
+            48632
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "图拉扬的铠甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">图拉扬的铠甲</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T9副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你的清算之手技能的冷却时间缩短2秒，正义之锤技能造成的伤害提高5%。<br /><span class=\"q13\">4 件：</span>使你的圣佑术技能的冷却时间缩短30秒，自律效果的持续时间缩短30秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 880,
+        "idbak": 880,
+        "name": "3莉亚德琳的铠甲",
+        "name_en": "Liadrin's Plate",
+        "minlevel": 232,
+        "maxlevel": 232,
+        "note": 27,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            48654,
+            48656,
+            48655,
+            48653,
+            48652
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "恐惧法杖",
+            "quality": 2,
+            "icon": "inv_staff_25",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">恐惧法杖</b><span class='cus-id-2-right'>ID: 880</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>双手</td><th>法杖</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->41 - 62伤害</td><th>速度 <!--spd-->3.40</th></tr></table><!--dps-->（每秒伤害15.1）<br /><!--e--><!--ps-->耐久度 70 / 70<br />需要等级 18<br />物品等级23<br /></td></tr></table><table><tr><td><span class=\"q2\">击中时可能： 目标所能造成的伤害降低5点，持续2 分钟。</span><br /><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">26</span> <span class=\"moneycopper\">92</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?880:1:1:18-->"
+        }
+    },
+    {
+        "id": -152,
+        "idbak": 820,
+        "name": "3庇护战甲",
+        "name_en": "Aegis Battlegear",
+        "minlevel": 226,
+        "maxlevel": 226,
+        "note": 25,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            46156,
+            46152,
+            46153,
+            46155,
+            46154
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "庇护战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">庇护战甲</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T8副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的驱邪术和愤怒之锤造成的伤害提高10%。<br /><span class=\"q13\">4 件：</span>使你的神圣风暴和十字军打击的爆击几率提高10%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -153,
+        "idbak": 821,
+        "name": "3庇护板甲",
+        "name_en": "Aegis Plate",
+        "minlevel": 226,
+        "maxlevel": 226,
+        "note": 25,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            46175,
+            46177,
+            46176,
+            46174,
+            46173
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "庇护板甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">庇护板甲</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T8副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你的复仇圣印、腐蚀圣印和正义圣印造成的伤害提高10%。<br /><span class=\"q13\">4 件：</span>当你施放正义盾击时及这之后的6 秒内，你的盾牌格挡值提高225点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -154,
+        "idbak": 822,
+        "name": "3庇护魔装",
+        "name_en": "Aegis Regalia",
+        "minlevel": 226,
+        "maxlevel": 226,
+        "note": 25,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            46180,
+            46182,
+            46181,
+            46179,
+            46178
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "庇护魔装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">庇护魔装</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T8副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的神圣震击的治疗爆击可以使目标获得一个持续性的治疗效果，在9 秒内恢复相当于该次神圣震击治疗量15%的生命值。<br /><span class=\"q13\">4 件：</span>你的圣洁护盾每4秒触发一次效果，而非6。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 820,
+        "idbak": 820,
+        "name": "3庇护战甲",
+        "name_en": "Aegis Battlegear",
+        "minlevel": 219,
+        "maxlevel": 219,
+        "note": 25,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            45377,
+            45380,
+            45379,
+            45376,
+            45375
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "切片刀",
+            "quality": 2,
+            "icon": "inv_weapon_shortblade_01",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">切片刀</b><span class='cus-id-2-right'>ID: 820</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>单手</td><th>匕首</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->9 - 17伤害</td><th>速度 <!--spd-->1.50</th></tr></table><!--dps-->（每秒伤害8.7）<br /><span><!--stat3-->+2 敏捷</span><br /><!--e--><!--ps-->耐久度 35 / 35<br />需要等级 12<br />物品等级17<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">9</span> <span class=\"moneycopper\">47</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?820:1:1:12-->"
+        }
+    },
+    {
+        "id": 821,
+        "idbak": 821,
+        "name": "3庇护板甲",
+        "name_en": "Aegis Plate",
+        "minlevel": 219,
+        "maxlevel": 219,
+        "note": 25,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            45382,
+            45385,
+            45384,
+            45383,
+            45381
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "河爪皮外套",
+            "quality": 2,
+            "icon": "inv_shirt_07",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">河爪皮外套</b><span class='cus-id-2-right'>ID: 821</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>胸部</td><th><!--asc2-->皮甲</th></tr></table><span><!--amr-->65点护甲</span><br /><span><!--stat7-->+2 耐力</span><br /><span><!--stat3-->+1 敏捷</span><br /><!--e--><!--ps-->耐久度 60 / 60<br />需要等级 8<br />物品等级13<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">2</span> <span class=\"moneycopper\">49</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?821:1:1:8-->"
+        }
+    },
+    {
+        "id": 822,
+        "idbak": 822,
+        "name": "3庇护魔装",
+        "name_en": "Aegis Regalia",
+        "minlevel": 219,
+        "maxlevel": 219,
+        "note": 25,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            45372,
+            45373,
+            45371,
+            45370,
+            45374
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "庇护魔装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">庇护魔装</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T8副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的神圣震击的治疗爆击可以使目标获得一个持续性的治疗效果，在9 秒内恢复相当于该次神圣震击治疗量15%的生命值。<br /><span class=\"q13\">4 件：</span>你的圣洁护盾每4秒触发一次效果，而非6。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -58,
+        "idbak": 766,
+        "name": "3角斗士的辩护",
+        "name_en": "Gladiator's Vindication",
+        "minlevel": 213,
+        "maxlevel": 213,
+        "note": 24,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            40825,
+            40864,
+            40846,
+            40805,
+            40785
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的辩护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的辩护</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />竞技场第5季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">2 件：</span>攻击强度提高50点。<br /><span class=\"q13\">4 件：</span>你的审判的冷却时间缩短1秒。<br /><span class=\"q13\">4 件：</span>攻击强度提高150点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -63,
+        "idbak": 767,
+        "name": "3角斗士的救赎",
+        "name_en": "Gladiator's Redemption",
+        "minlevel": 213,
+        "maxlevel": 213,
+        "note": 24,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            40932,
+            40962,
+            40938,
+            40926,
+            40905
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的救赎",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的救赎</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />竞技场第5季套装<br /><span><br /><span class=\"q13\">2 件：</span>法术强度提高29点。<br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的神圣震击法术的治疗效果提高10%。<br /><span class=\"q13\">4 件：</span>法术强度提高88点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -135,
+        "idbak": 789,
+        "name": "3救赎战甲",
+        "name_en": "Redemption Battlegear",
+        "minlevel": 213,
+        "maxlevel": 213,
+        "note": 23,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            40576,
+            40578,
+            40577,
+            40575,
+            40574
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "救赎战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">救赎战甲</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T7副本套装<br /><span><br /><span class=\"q13\">2 件：</span>神圣风暴造成的伤害提高10%。<br /><span class=\"q13\">4 件：</span>光明审判、智慧审判和公正审判的冷却时间缩短1秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -136,
+        "idbak": 790,
+        "name": "3救赎圣甲",
+        "name_en": "Redemption Regalia",
+        "minlevel": 213,
+        "maxlevel": 213,
+        "note": 23,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            40571,
+            40573,
+            40572,
+            40570,
+            40569
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "救赎圣甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">救赎圣甲</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T7副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的神圣震击的爆击几率提高10%。<br /><span class=\"q13\">4 件：</span>你的圣光术消耗的法力值降低5%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -137,
+        "idbak": 791,
+        "name": "3救赎铠甲",
+        "name_en": "Redemption Plate",
+        "minlevel": 213,
+        "maxlevel": 213,
+        "note": 23,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            40581,
+            40584,
+            40583,
+            40580,
+            40579
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "救赎铠甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">救赎铠甲</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T7副本套装<br /><span><br /><span class=\"q13\">2 件：</span>正义之锤造成的伤害提高10%。<br /><span class=\"q13\">4 件：</span>使你的圣盾术和圣佑术的持续时间延长3秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 766,
+        "idbak": 766,
+        "name": "4角斗士的辩护",
+        "name_en": "Gladiator's Vindication",
+        "minlevel": 200,
+        "maxlevel": 200,
+        "note": 24,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            40818,
+            40858,
+            40838,
+            40798,
+            40780
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "凸缘钉锤",
+            "quality": 1,
+            "icon": "inv_mace_07",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">凸缘钉锤</b><span class='cus-id-2-right'>ID: 766</span><table width=\"100%\"><tr><td>主手</td><th>锤</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->4 - 8伤害</td><th>速度 <!--spd-->2.00</th></tr></table><!--dps-->（每秒伤害3.0）<br /><!--e--><!--ps-->耐久度 30 / 30<br />需要等级 2<br />物品等级7<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneycopper\">57</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?766:1:1:2-->"
+        }
+    },
+    {
+        "id": -57,
+        "idbak": 766,
+        "name": "3角斗士的辩护",
+        "name_en": "Gladiator's Vindication",
+        "minlevel": 200,
+        "maxlevel": 200,
+        "note": 24,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            40821,
+            40861,
+            40842,
+            40802,
+            40782
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的辩护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的辩护</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />竞技场第5季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">2 件：</span>攻击强度提高50点。<br /><span class=\"q13\">4 件：</span>你的审判的冷却时间缩短1秒。<br /><span class=\"q13\">4 件：</span>攻击强度提高150点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 767,
+        "idbak": 767,
+        "name": "4角斗士的救赎",
+        "name_en": "Gladiator's Redemption",
+        "minlevel": 200,
+        "maxlevel": 200,
+        "note": 24,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            40930,
+            40960,
+            40936,
+            40918,
+            40898
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "长杆法杖",
+            "quality": 1,
+            "icon": "inv_staff_08",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">长杆法杖</b><span class='cus-id-2-right'>ID: 767</span><table width=\"100%\"><tr><td>双手</td><th>法杖</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->8 - 13伤害</td><th>速度 <!--spd-->2.50</th></tr></table><!--dps-->（每秒伤害4.2）<br /><!--e--><!--ps-->耐久度 40 / 40<br />需要等级 3<br />物品等级8<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">1</span> </div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?767:1:1:3-->"
+        }
+    },
+    {
+        "id": -62,
+        "idbak": 767,
+        "name": "3角斗士的救赎",
+        "name_en": "Gladiator's Redemption",
+        "minlevel": 200,
+        "maxlevel": 200,
+        "note": 24,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            40931,
+            40961,
+            40937,
+            40925,
+            40904
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的救赎",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的救赎</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />竞技场第5季套装<br /><span><br /><span class=\"q13\">2 件：</span>法术强度提高29点。<br /><span class=\"q13\">2 件：</span>+<!--rtg35-->100&nbsp;<small>(<!--rtg%35-->1.06%&nbsp;@&nbsp;L<!--lvl-->80)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的神圣震击法术的治疗效果提高10%。<br /><span class=\"q13\">4 件：</span>法术强度提高88点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 789,
+        "idbak": 789,
+        "name": "3救赎战甲",
+        "name_en": "Redemption Battlegear",
+        "minlevel": 200,
+        "maxlevel": 200,
+        "note": 23,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            39635,
+            39637,
+            39636,
+            39634,
+            39633
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "牢固的战锤",
+            "quality": 2,
+            "icon": "inv_hammer_08",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">牢固的战锤</b><span class='cus-id-2-right'>ID: 789</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>主手</td><th>锤</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->17 - 33伤害</td><th>速度 <!--spd-->2.30</th></tr></table><!--dps-->（每秒伤害10.9）<br /><span class=\"q2\">&lt;随机附魔&gt</span><br /><!--e--><!--ps-->耐久度 60 / 60<br />需要等级 17<br />物品等级22<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">19</span> <span class=\"moneycopper\">69</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?789:1:1:17-->"
+        }
+    },
+    {
+        "id": 790,
+        "idbak": 790,
+        "name": "3救赎圣甲",
+        "name_en": "Redemption Regalia",
+        "minlevel": 200,
+        "maxlevel": 200,
+        "note": 23,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            39628,
+            39631,
+            39630,
+            39632,
+            39629
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "森林战斧",
+            "quality": 2,
+            "icon": "inv_axe_14",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q2\">森林战斧</b><span class='cus-id-2-right'>ID: 790</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>主手</td><th>斧</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->20 - 38伤害</td><th>速度 <!--spd-->2.50</th></tr></table><!--dps-->（每秒伤害11.6）<br /><span class=\"q2\">&lt;随机附魔&gt</span><br /><!--e--><!--ps-->耐久度 65 / 65<br />需要等级 18<br />物品等级23<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">20</span> <span class=\"moneycopper\">20</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?790:1:1:18-->"
+        }
+    },
+    {
+        "id": 791,
+        "idbak": 791,
+        "name": "3救赎铠甲",
+        "name_en": "Redemption Plate",
+        "minlevel": 200,
+        "maxlevel": 200,
+        "note": 23,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            39640,
+            39642,
+            39641,
+            39639,
+            39638
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "灰烬法杖",
+            "quality": 3,
+            "icon": "inv_staff_02",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q3\">灰烬法杖</b><span class='cus-id-2-right'>ID: 791</span><br /><!--bo-->装备后绑定<table width=\"100%\"><tr><td>双手</td><th>法杖</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->65 - 99伤害</td><th>速度 <!--spd-->3.20</th></tr></table><!--dps-->（每秒伤害25.6）<br /><span><!--stat6-->+15 精神</span><br /><span><!--stat7-->+6 耐力</span><br /><!--e--><!--ps-->耐久度 100 / 100<br />需要等级 26<br />物品等级31<br /></td></tr></table><table><tr><td><div class=\"q1 whtt-sellprice\">卖价：<span class=\"moneysilver\">70</span> <span class=\"moneycopper\">69</span></div></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?791:1:1:26-->"
+        }
+    },
+    {
+        "id": -24,
+        "idbak": 582,
+        "name": "3角斗士的保护",
+        "name_en": "Gladiator's Aegis",
+        "minlevel": 159,
+        "maxlevel": 159,
+        "note": 22,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            35029,
+            35031,
+            35030,
+            35028,
+            35027
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的保护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的保护</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />竞技场第4季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>你的审判的冷却时间缩短1秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -27,
+        "idbak": 583,
+        "name": "3角斗士的辩护",
+        "name_en": "Gladiator's Vindication",
+        "minlevel": 159,
+        "maxlevel": 159,
+        "note": 22,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            35090,
+            35092,
+            35091,
+            35089,
+            35088
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的辩护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的辩护</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />竞技场第4季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>你的审判的冷却时间缩短1秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -51,
+        "idbak": 690,
+        "name": "3角斗士的救赎",
+        "name_en": "Gladiator's Redemption",
+        "minlevel": 159,
+        "maxlevel": 159,
+        "note": 22,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            35061,
+            35063,
+            35062,
+            35060,
+            35059
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的救赎",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的救赎</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />竞技场第4季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的神圣震击法术在作为治疗法术时的法术强度提高10%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 679,
+        "idbak": 679,
+        "name": "3光明使者护甲",
+        "name_en": "Lightbringer Armor",
+        "minlevel": 146,
+        "maxlevel": 154,
+        "note": 18,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            30987,
+            30998,
+            30995,
+            30985,
+            30991,
+            34488,
+            34560,
+            34433
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "光明使者护甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">光明使者护甲</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T6副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你从灵魂协调技能获得的法力值提高10%。<br /><span class=\"q13\">4 件：</span>使你的奉献技能所造成的伤害提高10%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 680,
+        "idbak": 680,
+        "name": "3光明使者战甲",
+        "name_en": "Lightbringer Battlegear",
+        "minlevel": 146,
+        "maxlevel": 154,
+        "note": 18,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            30989,
+            30997,
+            30993,
+            30982,
+            30990,
+            34485,
+            34561,
+            34431
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "光明使者战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">光明使者战甲</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T6副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你的近战攻击有一定几率使你获得50点法力值。<br /><span class=\"q13\">4 件：</span>使你的愤怒之锤所造成的伤害提高10%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 681,
+        "idbak": 681,
+        "name": "3光明使者圣服",
+        "name_en": "Lightbringer Raiment",
+        "minlevel": 146,
+        "maxlevel": 154,
+        "note": 18,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            30988,
+            30996,
+            30994,
+            30983,
+            30992,
+            34487,
+            34559,
+            34432
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "光明使者圣服",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">光明使者圣服</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T6副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你的圣光闪现的法术强度提高5%。<br /><span class=\"q13\">4 件：</span>使你的圣光术的爆击几率提高5%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -23,
+        "idbak": 582,
+        "name": "3角斗士的保护",
+        "name_en": "Gladiator's Aegis",
+        "minlevel": 146,
+        "maxlevel": 146,
+        "note": 20,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            33697,
+            33699,
+            33698,
+            33696,
+            33695
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的保护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的保护</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />竞技场第3季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>你的审判的冷却时间缩短1秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -26,
+        "idbak": 583,
+        "name": "3角斗士的辩护",
+        "name_en": "Gladiator's Vindication",
+        "minlevel": 146,
+        "maxlevel": 146,
+        "note": 20,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            33751,
+            33753,
+            33752,
+            33750,
+            33749
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的辩护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的辩护</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />竞技场第3季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>你的审判的冷却时间缩短1秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -50,
+        "idbak": 690,
+        "name": "3角斗士的救赎",
+        "name_en": "Gladiator's Redemption",
+        "minlevel": 146,
+        "maxlevel": 146,
+        "note": 20,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            33724,
+            33726,
+            33725,
+            33723,
+            33722
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的救赎",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的救赎</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />竞技场第3季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的神圣震击法术在作为治疗法术时的法术强度提高10%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -22,
+        "idbak": 582,
+        "name": "3角斗士的保护",
+        "name_en": "Gladiator's Aegis",
+        "minlevel": 136,
+        "maxlevel": 136,
+        "note": 19,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            31997,
+            31996,
+            31995,
+            31993,
+            31992
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的保护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的保护</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />竞技场第2季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>你的审判的冷却时间缩短1秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -25,
+        "idbak": 583,
+        "name": "3角斗士的辩护",
+        "name_en": "Gladiator's Vindication",
+        "minlevel": 136,
+        "maxlevel": 136,
+        "note": 19,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            32041,
+            32043,
+            32042,
+            32040,
+            32039
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的辩护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的辩护</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />竞技场第2季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>你的审判的冷却时间缩短1秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": -49,
+        "idbak": 690,
+        "name": "3角斗士的救赎",
+        "name_en": "Gladiator's Redemption",
+        "minlevel": 136,
+        "maxlevel": 136,
+        "note": 19,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            32022,
+            32024,
+            32023,
+            32021,
+            32020
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的救赎",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的救赎</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />竞技场第2季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的神圣震击法术在作为治疗法术时的法术强度提高10%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 627,
+        "idbak": 627,
+        "name": "3晶铸圣装",
+        "name_en": "Crystalforge Raiment",
+        "minlevel": 133,
+        "maxlevel": 133,
+        "note": 13,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            30136,
+            30138,
+            30137,
+            30135,
+            30134
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "晶铸圣装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">晶铸圣装</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T5副本套装<br /><span><br /><span class=\"q13\">2 件：</span>你每次施放审判法术，你的小队成员都获得50点法力值。<br /><span class=\"q13\">4 件：</span>你的圣光闪现和圣光术的爆击效果可以使你的下一次圣光术的施法时间减少0.5秒，持续10 秒。这个效果每1分钟只能触发一次。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 628,
+        "idbak": 628,
+        "name": "3晶铸护甲",
+        "name_en": "Crystalforge Armor",
+        "minlevel": 133,
+        "maxlevel": 133,
+        "note": 13,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            30125,
+            30127,
+            30126,
+            30124,
+            30123
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "晶铸护甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">晶铸护甲</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T5副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你的惩罚光环所造成的伤害提高15点。<br /><span class=\"q13\">4 件：</span>你每次使用神圣之盾技能，都可以对12 秒内受到的下一次攻击获得100点格挡值加成。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 629,
+        "idbak": 629,
+        "name": "3晶铸战甲",
+        "name_en": "Crystalforge Battlegear",
+        "minlevel": 133,
+        "maxlevel": 133,
+        "note": 13,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            30131,
+            30133,
+            30132,
+            30130,
+            30129
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "晶铸战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">晶铸战甲</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T5副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你的审判法术所消耗的法力值减少35点。<br /><span class=\"q13\">4 件：</span>你施放的每个审判法术都有一定几率为你身边的所有小队成员恢复244到256点生命值。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 582,
+        "idbak": 582,
+        "name": "3角斗士的保护",
+        "name_en": "Gladiator's Aegis",
+        "minlevel": 123,
+        "maxlevel": 123,
+        "note": 17,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            27704,
+            27706,
+            27705,
+            27703,
+            27702
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的保护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的保护</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />竞技场第1季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>你的审判的冷却时间缩短1秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 583,
+        "idbak": 583,
+        "name": "3角斗士的辩护",
+        "name_en": "Gladiator's Vindication",
+        "minlevel": 123,
+        "maxlevel": 123,
+        "note": 17,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            27881,
+            27883,
+            27882,
+            27880,
+            27879
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的辩护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的辩护</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />竞技场第1季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>你的审判的冷却时间缩短1秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 690,
+        "idbak": 690,
+        "name": "3角斗士的救赎",
+        "name_en": "Gladiator's Redemption",
+        "minlevel": 123,
+        "maxlevel": 123,
+        "note": 17,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            31616,
+            31619,
+            31618,
+            31614,
+            31613
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "角斗士的救赎",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">角斗士的救赎</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />竞技场第1季套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的神圣震击法术在作为治疗法术时的法术强度提高10%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 624,
+        "idbak": 624,
+        "name": "3公正圣装",
+        "name_en": "Justicar Raiment",
+        "minlevel": 120,
+        "maxlevel": 120,
+        "note": 12,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            29061,
+            29064,
+            29063,
+            29065,
+            29062
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "公正圣装",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">公正圣装</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T4副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你的圣光审判所恢复的生命值提高20点。<br /><span class=\"q13\">4 件：</span>使你的神恩术的冷却时间缩短15秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 625,
+        "idbak": 625,
+        "name": "3公正护甲",
+        "name_en": "Justicar Armor",
+        "minlevel": 120,
+        "maxlevel": 120,
+        "note": 12,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            29068,
+            29070,
+            29069,
+            29067,
+            29066
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "公正护甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">公正护甲</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T4副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你的正义圣印、复仇圣印或腐蚀圣印所造成的伤害提高10%。<br /><span class=\"q13\">4 件：</span>使你的神圣之盾所造成的伤害提高15%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 626,
+        "idbak": 626,
+        "name": "3公正战甲",
+        "name_en": "Justicar Battlegear",
+        "minlevel": 120,
+        "maxlevel": 120,
+        "note": 12,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            29073,
+            29075,
+            29074,
+            29072,
+            29071
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "公正战甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">公正战甲</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T4副本套装<br /><span><br /><span class=\"q13\">2 件：</span>使你的审判伤害提高33点。<br /><span class=\"q13\">4 件：</span>使你的命令审判所造成的伤害提高10%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 587,
+        "idbak": 587,
+        "name": "4高阶督军的保护",
+        "name_en": "High Warlord's Aegis",
+        "minlevel": 115,
+        "maxlevel": 115,
+        "note": 16,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            28833,
+            28835,
+            28834,
+            28832,
+            28831
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "高阶督军的保护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">高阶督军的保护</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />70级PVP稀有套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的制裁之锤的冷却时间缩短10秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 589,
+        "idbak": 589,
+        "name": "4大元帅的保护",
+        "name_en": "Grand Marshal's Aegis",
+        "minlevel": 115,
+        "maxlevel": 115,
+        "note": 16,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            28681,
+            28683,
+            28724,
+            28680,
+            28679
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "大元帅的保护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">大元帅的保护</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />70级PVP稀有套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的制裁之锤的冷却时间缩短10秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 607,
+        "idbak": 607,
+        "name": "4大元帅的辩护",
+        "name_en": "Grand Marshal's Vindication",
+        "minlevel": 115,
+        "maxlevel": 115,
+        "note": 16,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            28711,
+            28713,
+            28712,
+            28710,
+            28709
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "大元帅的辩护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">大元帅的辩护</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />70级PVP稀有套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的制裁之锤的冷却时间缩短10秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 608,
+        "idbak": 608,
+        "name": "4高阶督军的辩护",
+        "name_en": "High Warlord's Vindication",
+        "minlevel": 115,
+        "maxlevel": 115,
+        "note": 16,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            28863,
+            28865,
+            28864,
+            28862,
+            28861
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "高阶督军的辩护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">高阶督军的辩护</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />70级PVP稀有套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的制裁之锤的冷却时间缩短10秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 693,
+        "idbak": 693,
+        "name": "4大元帅的救赎",
+        "name_en": "Grand Marshal's Redemption",
+        "minlevel": 115,
+        "maxlevel": 115,
+        "note": 16,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            31632,
+            31634,
+            31633,
+            31631,
+            31630
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "大元帅的救赎",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">大元帅的救赎</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />70级PVP稀有套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的神圣震击法术在作为治疗法术时的法术强度提高10%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 694,
+        "idbak": 694,
+        "name": "4高阶督军的救赎",
+        "name_en": "High Warlord's Redemption",
+        "minlevel": 115,
+        "maxlevel": 115,
+        "note": 16,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            31637,
+            31639,
+            31638,
+            31636,
+            31635
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "高阶督军的救赎",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">高阶督军的救赎</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />70级PVP稀有套装<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的神圣震击法术在作为治疗法术时的法术强度提高10%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 751,
+        "idbak": 751,
+        "name": "4十字军的雕饰板甲",
+        "name_en": "Crusader's Ornamented Battlegear",
+        "minlevel": 115,
+        "maxlevel": 115,
+        "note": 21,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            35404,
+            35406,
+            35405,
+            35403,
+            35402
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "十字军的雕饰板甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">十字军的雕饰板甲</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />70级PVP稀有套装 2<br /><span><br /><span class=\"q13\">2 件：</span>+<!--rtg35-->35&nbsp;<small>(<!--rtg%35-->0.77%&nbsp;@&nbsp;L<!--lvl-->70)</small> 韧性等级。<br /><span class=\"q13\">4 件：</span>使你的制裁之锤的冷却时间缩短10秒。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 752,
+        "idbak": 752,
+        "name": "4十字军的板鳞甲",
+        "name_en": "Crusader's Scaled Battlegear",
+        "minlevel": 115,
+        "maxlevel": 115,
+        "note": 21,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            35414,
+            35416,
+            35415,
+            35413,
+            35412
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "红色粗麻面罩",
+            "quality": 1,
+            "icon": "inv_misc_bandana_03",
+            "tooltip_zhcn": "<table><tr><td><b class=\"q1\">红色粗麻面罩</b><span class='cus-id-2-right'>ID: 752</span><br /><!--bo-->任务物品<br /><!--e--><!--ps--></td></tr></table><table><tr><td></td></tr></table><table><tr><td style='background: none;'><div class='newsjktit'><a href='http://db.nfuwow.com/80/' title='NFU魔兽世界3.35数据库' alt='NFU魔兽世界3.35数据库'>NFU数据库 db.nfuwow.com</a></div></td><td style='background: none;top:4px;left:4px;'><img class='newsjkpic' src='http://db.nfuwow.com/60/templates/wowhead/images/nfulogo.png'></td></tr></table><!--?752:1:1:80-->"
+        }
+    },
+    {
+        "id": 505,
+        "idbak": 505,
+        "name": "3复仇者",
+        "name_en": "Avenger's Battlegear",
+        "minlevel": 78,
+        "maxlevel": 88,
+        "note": 10,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            21391,
+            21388,
+            21387,
+            21390,
+            21389
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "复仇者",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">复仇者</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />安其拉神庙团本套装<br /><span><br /><span class=\"q13\">3 件：</span>使你的审判法术的持续时间延长20%。<br /><span class=\"q13\">5 件：</span>法术强度提高71点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 217,
+        "idbak": 217,
+        "name": "3审判",
+        "name_en": "Judgement Armor",
+        "minlevel": 76,
+        "maxlevel": 76,
+        "note": 4,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            16955,
+            16953,
+            16952,
+            16954,
+            16957,
+            16951,
+            16956,
+            16958
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "审判",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">审判</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T2副本套装<br /><span><br /><span class=\"q13\">3 件：</span>使圣骑士的光环影响范围的半径延长到40码。<br /><span class=\"q13\">5 件：</span>法术强度提高47点。<br /><span class=\"q13\">8 件：</span>对圣骑士的审判目标造成60到66点额外的神圣伤害。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 402,
+        "idbak": 402,
+        "name": "3元帅的庇护",
+        "name_en": "Field Marshal's Aegis",
+        "minlevel": 71,
+        "maxlevel": 74,
+        "note": 8,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            16475,
+            16472,
+            16471,
+            16476,
+            16473
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "元帅的庇护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">元帅的庇护</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />60级PVP史诗套装<br /><span><br /><span class=\"q13\">2 件：</span>+20 耐力。<br /><span class=\"q13\">3 件：</span>使你的制裁之锤的冷却时间缩短10秒。<br /><span class=\"q13\">6 件：</span>法术强度提高23点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 698,
+        "idbak": 698,
+        "name": "3督军的保护",
+        "name_en": "Warlord's Aegis",
+        "minlevel": 71,
+        "maxlevel": 74,
+        "note": 8,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            29614,
+            29612,
+            29613,
+            29617,
+            29615
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "督军的保护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">督军的保护</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />60级PVP史诗套装<br /><span><br /><span class=\"q13\">2 件：</span>+20 耐力。<br /><span class=\"q13\">3 件：</span>使你的制裁之锤的冷却时间缩短10秒。<br /><span class=\"q13\">6 件：</span>法术强度提高23点。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 544,
+        "idbak": 544,
+        "name": "4少校的壁垒",
+        "name_en": "Lieutenant Commander's Redoubt",
+        "minlevel": 66,
+        "maxlevel": 71,
+        "note": 6,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            23275,
+            23274,
+            23273,
+            23272
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "少校的壁垒",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">少校的壁垒</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />60级PVP稀有套装<br /><span><br /><span class=\"q13\">2 件：</span>法术强度提高23点。<br /><span class=\"q13\">4 件：</span>使你的制裁之锤的冷却时间缩短10秒。<br /><span class=\"q13\">6 件：</span>+20 耐力。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 697,
+        "idbak": 697,
+        "name": "4勇士的壁垒",
+        "name_en": "Champion's Redoubt",
+        "minlevel": 66,
+        "maxlevel": 71,
+        "note": 6,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            29601,
+            29600,
+            29603,
+            29602
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "勇士的壁垒",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">勇士的壁垒</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />60级PVP稀有套装<br /><span><br /><span class=\"q13\">2 件：</span>法术强度提高23点。<br /><span class=\"q13\">3 件：</span>使你的制裁之锤的冷却时间缩短10秒。<br /><span class=\"q13\">6 件：</span>+20 耐力。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 506,
+        "idbak": 506,
+        "name": "3永恒的公正",
+        "name_en": "Battlegear of Eternal Justice",
+        "minlevel": 65,
+        "maxlevel": 70,
+        "note": 9,
+        "type": 10,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            21396,
+            21397,
+            21395
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "永恒的公正",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">永恒的公正</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />安其拉废墟套装<br /><span><br /><span class=\"q13\">3 件：</span>有20%的几率在施放审判之后回复100点法力值。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 208,
+        "idbak": 208,
+        "name": "3秩序之源",
+        "name_en": "Lawbringer Armor",
+        "minlevel": 66,
+        "maxlevel": 66,
+        "note": 3,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            16854,
+            16856,
+            16858,
+            16855,
+            16859,
+            16857,
+            16860,
+            16853
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "秩序之源",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">秩序之源</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />T1副本套装<br /><span><br /><span class=\"q13\">3 件：</span>使光明审判造成治疗效果的几率提高10%。<br /><span class=\"q13\">5 件：</span>爆击等级提高<!--rtg32-->14&nbsp;<small>(<!--rtg%32-->1.00%&nbsp;@&nbsp;L<!--lvl-->60)</small>。<br /><span class=\"q13\">8 件：</span>圣骑士对敌人造成近战伤害的时候有一定几率为整个小队回复189到211点生命值。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 467,
+        "idbak": 467,
+        "name": "4高地人的决心",
+        "name_en": "The Highlander's Resolution",
+        "minlevel": 63,
+        "maxlevel": 65,
+        "note": 15,
+        "type": 4,
+        "reqclass": 3,
+        "classes": [
+            1,
+            2
+        ],
+        "pieces": [
+            20041,
+            20048,
+            20057
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "高地人的决心",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">高地人的决心</span><br />职业：<a href=\"?class=1\" class=\"c1\">战士</a>, <a href=\"?class=2\" class=\"c2\">圣骑士</a><br />阿拉希盆地套装<br /><span><br /><span class=\"q13\">2 件：</span>+5 耐力。<br /><span class=\"q13\">3 件：</span>使你的爆击等级提高<!--rtg19-->14&nbsp;<small>(<!--rtg%19-->1.04%&nbsp;@&nbsp;L<!--lvl-->58)</small>。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 468,
+        "idbak": 468,
+        "name": "4高地人的执著",
+        "name_en": "The Highlander's Resolve",
+        "minlevel": 63,
+        "maxlevel": 65,
+        "note": 15,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            20042,
+            20049,
+            20058
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "高地人的执著",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">高地人的执著</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />阿拉希盆地套装<br /><span><br /><span class=\"q13\">2 件：</span>+5 耐力。<br /><span class=\"q13\">3 件：</span>使你的爆击等级提高<!--rtg19-->14&nbsp;<small>(<!--rtg%19-->1.04%&nbsp;@&nbsp;L<!--lvl-->58)</small>。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 475,
+        "idbak": 475,
+        "name": "3思考者护甲",
+        "name_en": "Freethinker's Armor",
+        "minlevel": 61,
+        "maxlevel": 65,
+        "note": 11,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            19826,
+            19827,
+            19588,
+            19952,
+            19825
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "思考者护甲",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q4\">思考者护甲</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />祖尔格拉布套装<br /><span><br /><span class=\"q13\">2 件：</span>每5秒恢复5点法力值。<br /><span class=\"q13\">3 件：</span>使你的圣光术的施法时间缩短0.1秒。<br /><span class=\"q13\">5 件：</span>使你的所有祝福的效果持续时间提高10%。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 487,
+        "idbak": 487,
+        "name": "4污染者的决心",
+        "name_en": "The Defiler's Resolution",
+        "minlevel": 63,
+        "maxlevel": 65,
+        "note": 15,
+        "type": 4,
+        "reqclass": 3,
+        "classes": [
+            1,
+            2
+        ],
+        "pieces": [
+            20204,
+            20208,
+            20212
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "污染者的决心",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">污染者的决心</span><br />职业：<a href=\"?class=1\" class=\"c1\">战士</a>, <a href=\"?class=2\" class=\"c2\">圣骑士</a><br />阿拉希盆地套装<br /><span><br /><span class=\"q13\">2 件：</span>+5 耐力。<br /><span class=\"q13\">3 件：</span>使你的爆击等级提高<!--rtg19-->14&nbsp;<small>(<!--rtg%19-->1.04%&nbsp;@&nbsp;L<!--lvl-->58)</small>。</span></td></tr></table>"
+        }
+    },
+    {
+        "id": 401,
+        "idbak": 401,
+        "name": "4少校的庇护",
+        "name_en": "Lieutenant Commander's Aegis",
+        "minlevel": 63,
+        "maxlevel": 63,
+        "note": 7,
+        "type": 4,
+        "reqclass": 2,
+        "classes": [
+            2
+        ],
+        "pieces": [
+            16434,
+            16436,
+            16435,
+            16409,
+            16410,
+            16433
+        ],
+        "heroic": 0,
+        "tip": {
+            "name_zhcn": "少校的庇护",
+            "tooltip_zhcn": "<table><tr><td><span class=\"q3\">少校的庇护</span><br />职业：<a href=\"?class=2\" class=\"c2\">圣骑士</a><br />60级PVP稀有套装（旧）<br /><span><br /><span class=\"q13\">2 件：</span>爆击等级提高<!--rtg19-->14&nbsp;<small>(<!--rtg%19-->1.04%&nbsp;@&nbsp;L<!--lvl-->58)</small>。<br /><span class=\"q13\">2 件：</span>+6 智力。<br /><span class=\"q13\">4 件：</span>使你的制裁之锤的冷却时间缩短10秒。<br /><span class=\"q13\">6 件：</span>+15 耐力。</span></td></tr></table>"
+        }
+    }
+]
